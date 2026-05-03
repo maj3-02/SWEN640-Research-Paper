@@ -1,0 +1,34 @@
+{
+  "summary_type": "pre_sampling_eligibility",
+  "intended_use": "final_sample_only",
+  "thresholds": {
+    "language_threshold": 0.7,
+    "min_commits_in_window": 50,
+    "min_closed_issues_in_window": 5
+  },
+  "rows_seen": 849,
+  "language_threshold_pass_count": 641,
+  "commit_threshold_pass_count": 600,
+  "closed_issue_threshold_pass_count": 724,
+  "quality_screen_pass_count": 849,
+  "pre_sampling_eligible_count": 438,
+  "pre_sampling_eligible_by_language": {
+    "JavaScript": 129,
+    "TypeScript": 309
+  },
+  "exclusion_reason_counts": {
+    "language_threshold_failed": 208,
+    "commit_threshold_failed": 249,
+    "closed_issue_threshold_failed": 125
+  },
+  "generated_at_utc": "2026-04-28T21:53:03.465661+00:00",
+  "input_files": [
+    "data\\interim\\enriched_candidates\\candidate_enrichment_results.csv"
+  ],
+  "output_files": {
+    "eligibility_csv": "data\\interim\\final_candidate_screen\\candidate_pre_sampling_eligibility.csv",
+    "exclusion_log_csv": "data\\interim\\final_candidate_screen\\candidate_pre_sampling_exclusion_log.csv",
+    "eligible_pool_csv": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+    "summary_json": "data\\interim\\final_candidate_screen\\candidate_pre_sampling_eligibility_summary.json"
+  }
+}

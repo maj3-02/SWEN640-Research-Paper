@@ -1,0 +1,72 @@
+# Study configuration for the final-study workflow.
+study_window_start: "2024-01-01"
+study_window_end: "2025-12-31"
+random_seed: 640
+
+# Core final-study eligibility thresholds.
+language_threshold: 0.70
+min_commits_in_window: 50
+min_closed_issues_in_window: 5
+activity_strata_count: 3
+
+languages:
+  - JavaScript
+  - TypeScript
+
+# Discovery-only settings for the initial candidate search stage.
+candidate_discovery:
+  per_language_target_pages: 5
+  per_page: 100
+  sort: stars
+  order: desc
+
+# Filtering-stage paths and behavior.
+# Basic filtering uses only discovery-payload-supported checks. The true 70% language threshold is enforced later
+# during final-study enrichment and pre-sampling eligibility screening.
+candidate_filtering:
+  raw_input_dir: "data/raw/candidate_repos"
+  output_dir: "data/interim/filtered_candidates"
+  defer_language_threshold_validation: true
+
+# Final-study quality screen settings.
+# This screen is intentionally lightweight and transparent.
+candidate_quality_screen:
+  input_dir: "data/interim/filtered_candidates"
+  output_dir: "data/interim/quality_screened_candidates"
+  repo_metadata_dir: "data/raw/repo_metadata"
+  final_sample_only: true
+  recent_push_lookback_days: 365
+  min_open_issues_count: 5
+  minimum_score: 3
+
+# Final-study candidate enrichment settings.
+# Enrichment provides the objective pre-sampling signals used by the final-study eligibility screen:
+# language share, default-branch study-window commit count, and exact closed issue count in the study window.
+candidate_enrichment:
+  input_dir: "data/interim/quality_screened_candidates"
+  output_dir: "data/interim/enriched_candidates"
+  language_threshold: 0.70
+  activity_field: "default_branch_commit_count_in_window"
+  activity_field_is_proxy: false
+  # Historical key name retained for compatibility; final-study enrichment now collects the exact closed issue count.
+  optional_closed_issue_signal: true
+
+# Final-study pre-sampling eligibility screen.
+# This creates the active final-study eligibility gate and final eligible candidate pool used by sampling.
+final_candidate_screen:
+  input_dir: "data/interim/enriched_candidates"
+  output_dir: "data/interim/final_candidate_screen"
+
+# Final-study sampling settings.
+# The final workflow samples only from the pre-sampling eligible candidate pool.
+final_sampling:
+  input_dir: "data/interim/final_candidate_screen"
+  output_dir: "data/interim/final_sample"
+  final_sample_per_language: 30
+  fallback_final_sample_per_language: 20
+  reserve_per_language_stratum: 3
+  activity_field: "default_branch_commit_count_in_window"
+  activity_field_is_proxy: false
+  stratification_method: "terciles"
+
+analysis_mode: descriptive_only

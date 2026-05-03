@@ -1,0 +1,167 @@
+{
+  "sampling_type": "final_study_sample",
+  "generated_at_utc": "2026-04-28T21:53:41.988477+00:00",
+  "intended_use": "final_sample_only",
+  "input_files": [
+    "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv"
+  ],
+  "input_source": "pre_sampling_eligible_candidate_pool",
+  "output_files": {
+    "candidate_pool_with_strata_csv": "data\\interim\\final_sample\\final_candidate_pool_with_strata.csv",
+    "final_sample_csv": "data\\interim\\final_sample\\final_sample.csv",
+    "final_reserves_csv": "data\\interim\\final_sample\\final_reserves.csv",
+    "metadata_json": "data\\interim\\final_sample\\final_sample_metadata.json",
+    "pool_sufficiency_report_json": "data\\interim\\final_sample\\pool_sufficiency_report.json"
+  },
+  "activity_field_used": "default_branch_commit_count_in_window",
+  "activity_field_is_proxy": false,
+  "stratification_method": "numeric terciles within each language group",
+  "language_balance_rule": "exact where possible",
+  "strata_balance_rule": "as balanced as possible",
+  "random_seed": 640,
+  "target_final_sample_per_language": 30,
+  "fallback_final_sample_per_language": 20,
+  "selected_sample_per_language": 30,
+  "fallback_used": false,
+  "reserve_per_language_stratum": 3,
+  "candidate_pool_count": 438,
+  "actual_sample_size": 60,
+  "actual_reserve_size": 18,
+  "sample_counts_by_language": {
+    "JavaScript": 30,
+    "TypeScript": 30
+  },
+  "sample_counts_by_stratum": {
+    "high": 20,
+    "medium": 20,
+    "low": 20
+  },
+  "sample_counts_by_language_and_stratum": {
+    "JavaScript": {
+      "high": 10,
+      "medium": 10,
+      "low": 10
+    },
+    "TypeScript": {
+      "high": 10,
+      "medium": 10,
+      "low": 10
+    }
+  },
+  "reserve_counts_by_language": {
+    "JavaScript": 9,
+    "TypeScript": 9
+  },
+  "reserve_counts_by_stratum": {
+    "high": 6,
+    "medium": 6,
+    "low": 6
+  },
+  "reserve_counts_by_language_and_stratum": {
+    "JavaScript": {
+      "high": 3,
+      "medium": 3,
+      "low": 3
+    },
+    "TypeScript": {
+      "high": 3,
+      "medium": 3,
+      "low": 3
+    }
+  },
+  "reserve_shortfalls_by_language_and_stratum": {
+    "JavaScript": {
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    },
+    "TypeScript": {
+      "high": 0,
+      "medium": 0,
+      "low": 0
+    }
+  },
+  "selected_full_names": [
+    "SillyTavern/SillyTavern",
+    "fanmingming/live",
+    "automatisch/automatisch",
+    "openlayers/openlayers",
+    "playcanvas/engine",
+    "eslint/eslint",
+    "phaserjs/phaser",
+    "gethomepage/homepage",
+    "drawdb-io/drawdb",
+    "wanglin2/mind-map",
+    "philc/vimium",
+    "parcel-bundler/parcel",
+    "spicetify/cli",
+    "sweetalert2/sweetalert2",
+    "lovell/sharp",
+    "sudheerj/javascript-interview-questions",
+    "expressjs/express",
+    "codesandbox/codesandbox-client",
+    "novnc/noVNC",
+    "riot/riot",
+    "be5invis/Sarasa-Gothic",
+    "browserslist/browserslist",
+    "leonardomso/33-js-concepts",
+    "JedWatson/classnames",
+    "mjmlio/mjml",
+    "iamkun/dayjs",
+    "chartjs/Chart.js",
+    "mayswind/AriaNg",
+    "h5bp/html5-boilerplate",
+    "mishoo/UglifyJS",
+    "microsoft/vscode",
+    "remotion-dev/remotion",
+    "cline/cline",
+    "ant-design/ant-design",
+    "streetwriters/notesnook",
+    "QwenLM/qwen-code",
+    "voideditor/void",
+    "teambit/bit",
+    "xyflow/xyflow",
+    "motiondivision/motion",
+    "puppeteer/puppeteer",
+    "xtermjs/xterm.js",
+    "thedotmack/claude-mem",
+    "lucide-icons/lucide",
+    "tinymce/tinymce",
+    "czlonkowski/n8n-mcp",
+    "visgl/deck.gl",
+    "DayuanJiang/next-ai-draw-io",
+    "radix-ui/primitives",
+    "coze-dev/coze-studio",
+    "pmndrs/react-three-fiber",
+    "Eugeny/tabby",
+    "mckaywrigley/chatbot-ui",
+    "GLips/Figma-Context-MCP",
+    "aidenybai/million",
+    "bvaughn/react-window",
+    "virattt/dexter",
+    "KeygraphHQ/shannon",
+    "graphql/graphql-js",
+    "redis/ioredis"
+  ],
+  "reserve_full_names": [
+    "usebruno/bruno",
+    "bigskysoftware/htmx",
+    "fastify/fastify",
+    "axios/axios",
+    "nextapps-de/flexsearch",
+    "pinojs/pino",
+    "xcanwin/KeepChatGPT",
+    "mdx-js/mdx",
+    "hubotio/hubot",
+    "elastic/kibana",
+    "udecode/plate",
+    "DIYgod/RSSHub",
+    "refinedev/refine",
+    "colinhacks/zod",
+    "linshenkx/prompt-optimizer",
+    "vercel/chatbot",
+    "reduxjs/reselect",
+    "vadimdemedes/ink"
+  ],
+  "pool_sufficiency_selected_plan": "target"
+}

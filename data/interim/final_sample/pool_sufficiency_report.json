@@ -1,0 +1,159 @@
+{
+  "checkpoint_type": "final_sample_pool_sufficiency",
+  "generated_at_utc": "2026-04-28T21:53:41.954849+00:00",
+  "intended_use": "final_sample_only",
+  "input_files": [
+    "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv"
+  ],
+  "activity_field": "default_branch_commit_count_in_window",
+  "activity_strata": [
+    "high",
+    "medium",
+    "low"
+  ],
+  "threshold_passing_candidates_by_language": {
+    "JavaScript": 129,
+    "TypeScript": 309
+  },
+  "threshold_passing_candidates_by_language_and_stratum": {
+    "JavaScript": {
+      "high": 43,
+      "medium": 43,
+      "low": 43
+    },
+    "TypeScript": {
+      "high": 103,
+      "medium": 103,
+      "low": 103
+    }
+  },
+  "invalid_activity_candidate_count": 0,
+  "invalid_activity_candidates": [],
+  "target": {
+    "sample_per_language": 30,
+    "sample_possible": true,
+    "sample_plus_reserves_possible": true,
+    "by_language": {
+      "JavaScript": {
+        "candidate_count": 129,
+        "stratum_counts": {
+          "high": 43,
+          "medium": 43,
+          "low": 43
+        },
+        "sample_per_language": 30,
+        "sample_possible": true,
+        "sample_allocation_by_stratum": {
+          "high": 10,
+          "medium": 10,
+          "low": 10
+        },
+        "reserve_per_language_stratum": 3,
+        "reserve_capacity_after_sample_by_stratum": {
+          "high": 33,
+          "medium": 33,
+          "low": 33
+        },
+        "reserve_shortfalls_by_stratum": {
+          "high": 0,
+          "medium": 0,
+          "low": 0
+        },
+        "sample_plus_reserves_possible": true,
+        "allocation_error": ""
+      },
+      "TypeScript": {
+        "candidate_count": 309,
+        "stratum_counts": {
+          "high": 103,
+          "medium": 103,
+          "low": 103
+        },
+        "sample_per_language": 30,
+        "sample_possible": true,
+        "sample_allocation_by_stratum": {
+          "high": 10,
+          "medium": 10,
+          "low": 10
+        },
+        "reserve_per_language_stratum": 3,
+        "reserve_capacity_after_sample_by_stratum": {
+          "high": 93,
+          "medium": 93,
+          "low": 93
+        },
+        "reserve_shortfalls_by_stratum": {
+          "high": 0,
+          "medium": 0,
+          "low": 0
+        },
+        "sample_plus_reserves_possible": true,
+        "allocation_error": ""
+      }
+    }
+  },
+  "fallback": {
+    "sample_per_language": 20,
+    "sample_possible": true,
+    "sample_plus_reserves_possible": true,
+    "by_language": {
+      "JavaScript": {
+        "candidate_count": 129,
+        "stratum_counts": {
+          "high": 43,
+          "medium": 43,
+          "low": 43
+        },
+        "sample_per_language": 20,
+        "sample_possible": true,
+        "sample_allocation_by_stratum": {
+          "high": 7,
+          "medium": 7,
+          "low": 6
+        },
+        "reserve_per_language_stratum": 3,
+        "reserve_capacity_after_sample_by_stratum": {
+          "high": 36,
+          "medium": 36,
+          "low": 37
+        },
+        "reserve_shortfalls_by_stratum": {
+          "high": 0,
+          "medium": 0,
+          "low": 0
+        },
+        "sample_plus_reserves_possible": true,
+        "allocation_error": ""
+      },
+      "TypeScript": {
+        "candidate_count": 309,
+        "stratum_counts": {
+          "high": 103,
+          "medium": 103,
+          "low": 103
+        },
+        "sample_per_language": 20,
+        "sample_possible": true,
+        "sample_allocation_by_stratum": {
+          "high": 7,
+          "medium": 7,
+          "low": 6
+        },
+        "reserve_per_language_stratum": 3,
+        "reserve_capacity_after_sample_by_stratum": {
+          "high": 96,
+          "medium": 96,
+          "low": 97
+        },
+        "reserve_shortfalls_by_stratum": {
+          "high": 0,
+          "medium": 0,
+          "low": 0
+        },
+        "sample_plus_reserves_possible": true,
+        "allocation_error": ""
+      }
+    }
+  },
+  "selected_plan": "target"
+}

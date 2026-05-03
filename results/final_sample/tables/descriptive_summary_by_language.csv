@@ -1,0 +1,13 @@
+rq_section,language_group,metric_name,metric_label,metric_field,eligible_repository_count,contributing_repository_count,count,mean,median,min,max,stddev,iqr
+RQ1,JavaScript,bug_fix_commit_ratio,Bug-fix commit ratio,bug_fix_commit_ratio,30,30,30,0.019358163189721573,0.01255178129742985,0.0,0.0805084745762711,0.019200806096431683,0.019183105246101874
+RQ1,JavaScript,bug_fix_commit_count,Bug-fix commit count,bug_fix_commit_count,30,30,30,13.7,3.5,0.0,101.0,21.998667671255568,19.25
+RQ1,JavaScript,total_commits_in_window,Total commits in window,total_commits_in_window,30,30,30,945.6333333333333,276.5,74.0,8047.0,1681.3089417091865,753.75
+RQ1,TypeScript,bug_fix_commit_ratio,Bug-fix commit ratio,bug_fix_commit_ratio,30,30,30,0.0462252083535393,0.028880266075387948,0.0047568710359408,0.247457627118644,0.048394263208579216,0.03331635044143595
+RQ1,TypeScript,bug_fix_commit_count,Bug-fix commit count,bug_fix_commit_count,30,30,30,72.83333333333333,21.0,2.0,603.0,121.49927865071331,71.75
+RQ1,TypeScript,total_commits_in_window,Total commits in window,total_commits_in_window,30,30,30,2471.6666666666665,890.5,50.0,27743.0,5316.512405790053,2252.75
+RQ2,JavaScript,median_bug_issue_resolution_time_days,Median bug issue resolution time (days),median_bug_issue_resolution_time_days,30,30,30,26.52999170524691,3.0117447916666666,0.0073148148148148,292.07375,66.08108356129459,6.248402777777779
+RQ2,JavaScript,bug_related_issue_count,Bug-related issue count,bug_related_issue_count,30,30,30,139.2,71.5,1.0,662.0,183.19019699717032,113.75
+RQ2,JavaScript,total_closed_issues_in_window_considered,Total closed issues in window considered,total_closed_issues_in_window_considered,30,30,30,257.1666666666667,124.0,9.0,1302.0,304.21499694757995,319.75
+RQ2,TypeScript,median_bug_issue_resolution_time_days,Median bug issue resolution time (days),median_bug_issue_resolution_time_days,30,30,30,99.5405775462963,7.980847800925926,0.5739699074074074,913.8895023148148,229.5732289712257,33.727410300925925
+RQ2,TypeScript,bug_related_issue_count,Bug-related issue count,bug_related_issue_count,30,30,30,1279.2,178.0,1.0,30044.0,5443.030199413203,308.75
+RQ2,TypeScript,total_closed_issues_in_window_considered,Total closed issues in window considered,total_closed_issues_in_window_considered,30,30,30,2286.4333333333334,350.0,8.0,49192.0,8905.964981630177,591.75

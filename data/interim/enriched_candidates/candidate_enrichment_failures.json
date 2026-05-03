@@ -1,0 +1,10 @@
+{
+  "enrichment_type": "final_candidate_enrichment",
+  "generated_at_utc": "2026-04-28T21:51:37.981427+00:00",
+  "intended_use": "final_sample_only",
+  "resume_mode": true,
+  "rate_limit_stop": false,
+  "rate_limit_stop_repository": "",
+  "failure_count": 0,
+  "failures": []
+}

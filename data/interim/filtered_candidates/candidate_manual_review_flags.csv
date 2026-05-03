@@ -1,0 +1,42 @@
+timestamp,language_group,repository_id,repository_full_name,matched_cues,matched_fields,current_inclusion_status,review_note,source_file,source_record_index
+2026-04-28T19:09:21.238203+00:00,JavaScript,112507086,Chalarangelo/30-seconds-of-code,awesome,topics,retained_for_manual_review,,data\raw\candidate_repos\javascript_candidates_raw.json,5
+2026-04-28T19:09:21.238203+00:00,JavaScript,74293321,sveltejs/svelte,template,topics,retained_for_manual_review,,data\raw\candidate_repos\javascript_candidates_raw.json,13
+2026-04-28T19:09:21.238203+00:00,JavaScript,3470471,FortAwesome/Font-Awesome,awesome,full_name; name,retained_for_manual_review,,data\raw\candidate_repos\javascript_candidates_raw.json,16
+2026-04-28T19:09:21.238203+00:00,JavaScript,486550,h5bp/html5-boilerplate,boilerplate; template,description; full_name; name; topics,retained_for_manual_review,,data\raw\candidate_repos\javascript_candidates_raw.json,34
+2026-04-28T19:09:21.238203+00:00,JavaScript,110058856,LeCoupa/awesome-cheatsheets,awesome,description; full_name; name,retained_for_manual_review,,data\raw\candidate_repos\javascript_candidates_raw.json,56
+2026-04-28T19:09:21.238203+00:00,JavaScript,170326929,goabstract/Awesome-Design-Tools,awesome,full_name; name; topics,retained_for_manual_review,,data\raw\candidate_repos\javascript_candidates_raw.json,72
+2026-04-28T19:09:21.238203+00:00,JavaScript,32948863,jondot/awesome-react-native,awesome,description; full_name; name; topics,retained_for_manual_review,,data\raw\candidate_repos\javascript_candidates_raw.json,87
+2026-04-28T19:09:21.238203+00:00,JavaScript,14370955,sahat/hackathon-starter,boilerplate; starter,description; full_name; name; topics,retained_for_manual_review,,data\raw\candidate_repos\javascript_candidates_raw.json,89
+2026-04-28T19:09:21.238203+00:00,JavaScript,5405654,pcottle/learnGitBranching,tutorial,description,retained_for_manual_review,,data\raw\candidate_repos\javascript_candidates_raw.json,97
+2026-04-28T19:09:21.238203+00:00,JavaScript,85541218,ascoders/weekly,awesome,topics,retained_for_manual_review,,data\raw\candidate_repos\javascript_candidates_raw.json,107
+2026-04-28T19:09:21.238203+00:00,JavaScript,30969188,react-boilerplate/react-boilerplate,boilerplate,full_name; name; topics,retained_for_manual_review,,data\raw\candidate_repos\javascript_candidates_raw.json,117
+2026-04-28T19:09:21.238203+00:00,JavaScript,51270739,viatsko/awesome-vscode,awesome,full_name; name; topics,retained_for_manual_review,,data\raw\candidate_repos\javascript_candidates_raw.json,123
+2026-04-28T19:09:21.238203+00:00,JavaScript,35133520,MostlyAdequate/mostly-adequate-guide,tutorial,topics,retained_for_manual_review,,data\raw\candidate_repos\javascript_candidates_raw.json,180
+2026-04-28T19:09:21.238203+00:00,JavaScript,69798748,verekia/js-stack-from-scratch,tutorial,description; topics,retained_for_manual_review,,data\raw\candidate_repos\javascript_candidates_raw.json,201
+2026-04-28T19:09:21.238203+00:00,JavaScript,722534765,bgstaal/multipleWindow3dScene,example,description,retained_for_manual_review,,data\raw\candidate_repos\javascript_candidates_raw.json,219
+2026-04-28T19:09:21.238203+00:00,JavaScript,84703916,chaozh/awesome-blockchain-cn,awesome,full_name; name,retained_for_manual_review,,data\raw\candidate_repos\javascript_candidates_raw.json,220
+2026-04-28T19:09:21.238203+00:00,JavaScript,50586840,mjmlio/mjml,boilerplate,topics,retained_for_manual_review,,data\raw\candidate_repos\javascript_candidates_raw.json,232
+2026-04-28T19:09:21.238203+00:00,JavaScript,137389229,jonasschmedtmann/complete-javascript-course,starter,description; topics,retained_for_manual_review,,data\raw\candidate_repos\javascript_candidates_raw.json,251
+2026-04-28T19:09:21.238203+00:00,JavaScript,289191277,vitejs/awesome-vite,awesome,description; full_name; name; topics,retained_for_manual_review,,data\raw\candidate_repos\javascript_candidates_raw.json,252
+2026-04-28T19:09:21.238203+00:00,JavaScript,10309334,nswbmw/N-blog,tutorial,topics,retained_for_manual_review,,data\raw\candidate_repos\javascript_candidates_raw.json,288
+2026-04-28T19:09:21.238203+00:00,JavaScript,36554250,hackerkid/Mind-Expanding-Books,awesome,topics,retained_for_manual_review,,data\raw\candidate_repos\javascript_candidates_raw.json,362
+2026-04-28T19:09:21.238203+00:00,JavaScript,6561551,mdbootstrap/TW-Elements,template,topics,retained_for_manual_review,,data\raw\candidate_repos\javascript_candidates_raw.json,389
+2026-04-28T19:09:21.238203+00:00,JavaScript,89577951,answershuto/learnVue,template,topics,retained_for_manual_review,,data\raw\candidate_repos\javascript_candidates_raw.json,404
+2026-04-28T19:09:21.238203+00:00,JavaScript,82208127,arkenfox/user.js,template,description,retained_for_manual_review,,data\raw\candidate_repos\javascript_candidates_raw.json,418
+2026-04-28T19:09:21.238203+00:00,JavaScript,37931301,erikras/react-redux-universal-hot-example,boilerplate; example; starter,description; full_name; name,retained_for_manual_review,,data\raw\candidate_repos\javascript_candidates_raw.json,436
+2026-04-28T19:09:37.304576+00:00,TypeScript,214587193,supabase/supabase,example,topics,retained_for_manual_review,,data\raw\candidate_repos\typescript_candidates_raw.json,16
+2026-04-28T19:09:37.304576+00:00,TypeScript,1010681419,shareAI-lab/learn-claude-code,tutorial,topics,retained_for_manual_review,,data\raw\candidate_repos\typescript_candidates_raw.json,53
+2026-04-28T19:09:37.304576+00:00,TypeScript,172227885,fastapi/full-stack-fastapi-template,template,description; full_name; name,retained_for_manual_review,,data\raw\candidate_repos\typescript_candidates_raw.json,92
+2026-04-28T19:09:37.304576+00:00,TypeScript,101394335,ant-design/ant-design-pro,boilerplate,topics,retained_for_manual_review,,data\raw\candidate_repos\typescript_candidates_raw.json,112
+2026-04-28T19:09:37.304576+00:00,TypeScript,59652928,akveo/ngx-admin,template,description; topics,retained_for_manual_review,,data\raw\candidate_repos\typescript_candidates_raw.json,221
+2026-04-28T19:09:37.304576+00:00,TypeScript,50146229,GrapesJS/grapesjs,template,topics,retained_for_manual_review,,data\raw\candidate_repos\typescript_candidates_raw.json,222
+2026-04-28T19:09:37.304576+00:00,TypeScript,35810174,electron-react-boilerplate/electron-react-boilerplate,boilerplate,full_name; name; topics,retained_for_manual_review,,data\raw\candidate_repos\typescript_candidates_raw.json,244
+2026-04-28T19:09:37.304576+00:00,TypeScript,18840003,kriasoft/react-starter-kit,boilerplate; starter; template,description; full_name; name; topics,retained_for_manual_review,,data\raw\candidate_repos\typescript_candidates_raw.json,255
+2026-04-28T19:09:37.304576+00:00,TypeScript,123631418,Lissy93/personal-security-checklist,awesome,topics,retained_for_manual_review,,data\raw\candidate_repos\typescript_candidates_raw.json,301
+2026-04-28T19:09:37.304576+00:00,TypeScript,286047827,pavlobu/deskreen,boilerplate,topics,retained_for_manual_review,,data\raw\candidate_repos\typescript_candidates_raw.json,310
+2026-04-28T19:09:37.304576+00:00,TypeScript,51452356,infinitered/ignite,boilerplate,description; topics,retained_for_manual_review,,data\raw\candidate_repos\typescript_candidates_raw.json,330
+2026-04-28T19:09:37.304576+00:00,TypeScript,753271457,birobirobiro/awesome-shadcn-ui,awesome,description; full_name; name; topics,retained_for_manual_review,,data\raw\candidate_repos\typescript_candidates_raw.json,337
+2026-04-28T19:09:37.304576+00:00,TypeScript,854894542,nextjs/saas-starter,starter,full_name; name,retained_for_manual_review,,data\raw\candidate_repos\typescript_candidates_raw.json,435
+2026-04-28T19:09:37.304576+00:00,TypeScript,726082384,wasp-lang/open-saas,boilerplate; starter; template,description; topics,retained_for_manual_review,,data\raw\candidate_repos\typescript_candidates_raw.json,487
+2026-04-28T19:09:37.304576+00:00,TypeScript,404414397,soybeanjs/soybean-admin,template,description; topics,retained_for_manual_review,,data\raw\candidate_repos\typescript_candidates_raw.json,488
+2026-04-28T19:09:37.304576+00:00,TypeScript,56363563,plouc/nivo,awesome,description,retained_for_manual_review,,data\raw\candidate_repos\typescript_candidates_raw.json,496

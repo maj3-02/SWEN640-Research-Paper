@@ -1,0 +1,10 @@
+{
+  "collection_type": "issues",
+  "sample_file": "data\\interim\\final_sample\\final_sample.csv",
+  "sample_run_type": "final_study",
+  "output_dir": "data\\interim\\final_sample\\raw_issues",
+  "generated_at_utc": "2026-04-28T23:17:10.056065+00:00",
+  "pagination_mode": "graphql_cursor",
+  "failure_count": 0,
+  "failures": []
+}

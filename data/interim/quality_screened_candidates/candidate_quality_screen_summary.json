@@ -1,0 +1,38 @@
+{
+  "screen_type": "candidate_quality_screen",
+  "generated_at_utc": "2026-04-28T19:20:02.899906+00:00",
+  "intended_use": "final_sample_only",
+  "input_files": [
+    "data\\interim\\filtered_candidates\\javascript_candidates_filtered.csv",
+    "data\\interim\\filtered_candidates\\typescript_candidates_filtered.csv"
+  ],
+  "output_dir": "data\\interim\\quality_screened_candidates",
+  "repo_metadata_dir": "data\\raw\\repo_metadata",
+  "screened_pool_files": {
+    "JavaScript": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+    "TypeScript": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv"
+  },
+  "result_file": "data\\interim\\quality_screened_candidates\\candidate_quality_screen_results.csv",
+  "exclusion_log_file": "data\\interim\\quality_screened_candidates\\candidate_quality_screen_exclusion_log.csv",
+  "configuration": {
+    "minimum_score": 3,
+    "min_open_issues_count": 5,
+    "recent_push_lookback_days": 365
+  },
+  "repositories_screened": 893,
+  "repositories_passed": 849,
+  "repositories_failed": 44,
+  "metadata_fetch_failures": 0,
+  "screened_by_language": {
+    "JavaScript": 409,
+    "TypeScript": 484
+  },
+  "passed_by_language": {
+    "JavaScript": 368,
+    "TypeScript": 481
+  },
+  "failed_by_language": {
+    "JavaScript": 41,
+    "TypeScript": 3
+  }
+}

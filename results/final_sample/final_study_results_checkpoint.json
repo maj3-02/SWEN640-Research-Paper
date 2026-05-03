@@ -1,0 +1,524 @@
+{
+  "checkpoint_metadata": {
+    "repository_name": "research-study",
+    "checkpoint_timestamp": "2026-04-28T19:24:56.9836408-04:00",
+    "workflow_scope": "revised_final_study_path",
+    "basis": "already_generated_artifacts_only",
+    "pipeline_logic_modified": false,
+    "pipeline_rerun": false
+  },
+  "attrition": {
+    "discovery": {
+      "raw_candidates_by_language": {
+        "JavaScript": 444,
+        "TypeScript": 500
+      },
+      "raw_candidates_total": 944,
+      "artifacts": [
+        "data/raw/candidate_repos/javascript_candidates_raw.csv",
+        "data/raw/candidate_repos/typescript_candidates_raw.csv"
+      ]
+    },
+    "basic_filtering": {
+      "filtered_candidates_by_language": {
+        "JavaScript": 409,
+        "TypeScript": 484
+      },
+      "filtered_candidates_total": 893,
+      "exclusion_log_count": 51,
+      "exclusion_reason_field_used": "exclusion_reason_code",
+      "exclusion_reason_counts": {
+        "archived": 39,
+        "issues_disabled": 12
+      },
+      "artifacts": [
+        "data/interim/filtered_candidates/javascript_candidates_filtered.csv",
+        "data/interim/filtered_candidates/typescript_candidates_filtered.csv",
+        "data/interim/filtered_candidates/candidate_exclusion_log.csv"
+      ]
+    },
+    "quality_screen": {
+      "repositories_screened": 893,
+      "repositories_passed": 849,
+      "repositories_failed": 44,
+      "metadata_fetch_failures": 0,
+      "screened_by_language": {
+        "JavaScript": 409,
+        "TypeScript": 484
+      },
+      "passed_by_language": {
+        "JavaScript": 368,
+        "TypeScript": 481
+      },
+      "failed_by_language": {
+        "JavaScript": 41,
+        "TypeScript": 3
+      },
+      "failure_reason_counts": {
+        "quality_check_failed:not_manual_review_flagged": 18,
+        "quality_check_failed:issue_usage": 7,
+        "quality_check_failed:recent_maintenance": 36,
+        "quality_check_failed:engineering_workflow": 33
+      },
+      "artifacts": [
+        "data/interim/quality_screened_candidates/candidate_quality_screen_summary.json",
+        "data/interim/quality_screened_candidates/candidate_quality_screen_results.csv",
+        "data/interim/quality_screened_candidates/candidate_quality_screen_exclusion_log.csv"
+      ]
+    },
+    "enrichment": {
+      "repositories_seen": 849,
+      "repositories_enriched": 849,
+      "repositories_failed": 0,
+      "language_threshold_pass_count": 641,
+      "language_threshold_failed_count": 208,
+      "closed_issue_count_available_count": 849,
+      "closed_issue_count_missing_count": 0,
+      "closed_issue_count_failure_count": 0,
+      "counts_by_language": {
+        "JavaScript": 368,
+        "TypeScript": 481
+      },
+      "language_threshold_pass_by_language": {
+        "JavaScript": 280,
+        "TypeScript": 361
+      },
+      "resume_mode": true,
+      "rate_limit_stop": false,
+      "resume_ready_for_downstream": true,
+      "duplicate_repository_count_in_output": 0,
+      "successful_rows_missing_contract_count": 0,
+      "artifacts": [
+        "data/interim/enriched_candidates/candidate_enrichment_summary.json",
+        "data/interim/enriched_candidates/candidate_enrichment_results.csv",
+        "data/interim/enriched_candidates/candidate_enrichment_failures.json",
+        "data/interim/enriched_candidates/closed_issue_count_failures.json"
+      ]
+    },
+    "pre_sampling_eligibility": {
+      "rows_seen": 849,
+      "thresholds": {
+        "language_threshold": 0.7,
+        "min_commits_in_window": 50,
+        "min_closed_issues_in_window": 5
+      },
+      "language_threshold_pass_count": 641,
+      "commit_threshold_pass_count": 600,
+      "closed_issue_threshold_pass_count": 724,
+      "quality_screen_pass_count": 849,
+      "pre_sampling_eligible_count": 438,
+      "pre_sampling_eligible_by_language": {
+        "JavaScript": 129,
+        "TypeScript": 309
+      },
+      "exclusion_reason_counts": {
+        "language_threshold_failed": 208,
+        "commit_threshold_failed": 249,
+        "closed_issue_threshold_failed": 125
+      },
+      "exclusion_log_rows": 582,
+      "artifacts": [
+        "data/interim/final_candidate_screen/candidate_pre_sampling_eligibility_summary.json",
+        "data/interim/final_candidate_screen/final_eligible_candidate_pool.csv",
+        "data/interim/final_candidate_screen/candidate_pre_sampling_exclusion_log.csv"
+      ]
+    }
+  },
+  "final_sample": {
+    "eligible_pool_size": 438,
+    "sample_size": 60,
+    "reserve_size": 18,
+    "drawn_from": "data/interim/final_candidate_screen/final_eligible_candidate_pool.csv",
+    "input_source": "pre_sampling_eligible_candidate_pool",
+    "activity_field_used": "default_branch_commit_count_in_window",
+    "stratification_method": "numeric terciles within each language group",
+    "language_balance_rule": "exact where possible",
+    "strata_balance_rule": "as balanced as possible",
+    "fallback_used": false,
+    "pool_sufficiency_selected_plan": "target",
+    "sample_counts_by_language": {
+      "JavaScript": 30,
+      "TypeScript": 30
+    },
+    "sample_counts_by_stratum": {
+      "high": 20,
+      "medium": 20,
+      "low": 20
+    },
+    "sample_counts_by_language_and_stratum": {
+      "JavaScript": {
+        "high": 10,
+        "medium": 10,
+        "low": 10
+      },
+      "TypeScript": {
+        "high": 10,
+        "medium": 10,
+        "low": 10
+      }
+    },
+    "reserve_counts_by_language": {
+      "JavaScript": 9,
+      "TypeScript": 9
+    },
+    "reserve_counts_by_stratum": {
+      "high": 6,
+      "medium": 6,
+      "low": 6
+    },
+    "reserve_counts_by_language_and_stratum": {
+      "JavaScript": {
+        "high": 3,
+        "medium": 3,
+        "low": 3
+      },
+      "TypeScript": {
+        "high": 3,
+        "medium": 3,
+        "low": 3
+      }
+    },
+    "artifacts": [
+      "data/interim/final_sample/final_sample.csv",
+      "data/interim/final_sample/final_reserves.csv",
+      "data/interim/final_sample/final_sample_metadata.json",
+      "data/interim/final_sample/pool_sufficiency_report.json",
+      "data/interim/final_sample/final_candidate_pool_with_strata.csv"
+    ]
+  },
+  "collection": {
+    "commits": {
+      "sample_run_type": "final_study",
+      "repositories_requested": 60,
+      "repositories_succeeded": 60,
+      "repositories_failed": 0,
+      "total_commits_collected": 102519
+    },
+    "issues": {
+      "sample_run_type": "final_study",
+      "pagination_mode": "graphql_cursor",
+      "repositories_requested": 60,
+      "repositories_succeeded": 60,
+      "repositories_failed": 0,
+      "total_issues_collected": 76308,
+      "total_pull_requests_excluded": 0
+    },
+    "collection_completeness_audit": {
+      "sampled_repository_count": 60,
+      "complete_repository_count": 60,
+      "incomplete_repository_count": 0,
+      "missing_commit_file_count": 0,
+      "missing_issue_file_count": 0,
+      "commit_failure_count": 0,
+      "issue_failure_count": 0,
+      "missing_commit_summary_result_count": 0,
+      "missing_issue_summary_result_count": 0,
+      "commit_count_mismatch_count": 0,
+      "issue_count_mismatch_count": 0
+    },
+    "artifacts": [
+      "data/interim/final_sample/raw_commits/commit_collection_summary.json",
+      "data/interim/final_sample/raw_commits/commit_collection_failures.json",
+      "data/interim/final_sample/raw_issues/issue_collection_summary.json",
+      "data/interim/final_sample/raw_issues/issue_collection_failures.json",
+      "data/interim/final_sample/collection_completeness_audit.csv",
+      "data/interim/final_sample/collection_completeness_audit.json"
+    ]
+  },
+  "classification": {
+    "commits": {
+      "classification_run_type": "final_study",
+      "classification_input_kind": "sample_manifest",
+      "repositories_requested": 60,
+      "repositories_classified": 60,
+      "repositories_failed": 0,
+      "records_classified": 102519,
+      "positive_classifications": 2596,
+      "provisional_issue_term_matches": 938
+    },
+    "issues": {
+      "classification_run_type": "final_study",
+      "classification_input_kind": "sample_manifest",
+      "repositories_requested": 60,
+      "repositories_classified": 60,
+      "repositories_failed": 0,
+      "records_classified": 76308,
+      "positive_classifications": 42552,
+      "positive_label_only_count": 6988,
+      "positive_text_only_count": 30002,
+      "positive_label_and_text_count": 5562
+    },
+    "artifacts": [
+      "data/interim/final_sample/classified_commits/classified_commits_summary.json",
+      "data/interim/final_sample/classified_commits/classified_commits.csv",
+      "data/interim/final_sample/classified_issues/classified_issues_summary.json",
+      "data/interim/final_sample/classified_issues/classified_issues.csv"
+    ]
+  },
+  "aggregation": {
+    "aggregation_run_type": "final_study",
+    "aggregation_input_kind": "sample_manifest",
+    "repositories_seen_in_manifest": 60,
+    "repositories_seen_in_sample_manifest": 60,
+    "repositories_eligible_for_rq1": 60,
+    "repositories_eligible_for_rq2": 60,
+    "repositories_aggregated_for_rq1_count": 60,
+    "repositories_aggregated_for_rq2_count": 60,
+    "classified_commit_rows_used": 102519,
+    "classified_issue_rows_used": 76308,
+    "repository_metric_row_count": 60,
+    "repositories_missing_commit_rows": [],
+    "repositories_missing_issue_rows": [],
+    "commit_rows_excluded_by_sample_manifest": 0,
+    "issue_rows_excluded_by_sample_manifest": 0,
+    "invalid_bug_related_issue_duration_rows_total": 0,
+    "artifacts": [
+      "data/processed/repo_metrics/final_sample/repository_metrics_summary.json",
+      "data/processed/repo_metrics/final_sample/repository_metrics.csv"
+    ]
+  },
+  "reporting": {
+    "reporting_run_type": "final_study",
+    "repository_rows_loaded": 60,
+    "rq1_contributing_repository_rows": 60,
+    "rq2_contributing_repository_rows": 60,
+    "output_files": {
+      "tables_csv": "results/final_sample/tables/descriptive_summary_by_language.csv",
+      "tables_md": "results/final_sample/tables/descriptive_summary_by_language.md",
+      "bug_fix_figure": "results/final_sample/figures/bug_fix_commit_ratio_by_language.png",
+      "issue_resolution_figure": "results/final_sample/figures/median_bug_issue_resolution_time_days_by_language.png",
+      "summary_json": "results/final_sample/reporting_summary.json"
+    },
+    "descriptive_summary_by_language": [
+      {
+        "rq": "RQ1",
+        "language_group": "JavaScript",
+        "metric_name": "bug_fix_commit_ratio",
+        "count": 30,
+        "mean": 0.019358163189721573,
+        "median": 0.01255178129742985,
+        "min": 0.0,
+        "max": 0.0805084745762711,
+        "stddev": 0.019200806096431683,
+        "iqr": 0.019183105246101874
+      },
+      {
+        "rq": "RQ1",
+        "language_group": "JavaScript",
+        "metric_name": "bug_fix_commit_count",
+        "count": 30,
+        "mean": 13.7,
+        "median": 3.5,
+        "min": 0.0,
+        "max": 101.0,
+        "stddev": 21.998667671255568,
+        "iqr": 19.25
+      },
+      {
+        "rq": "RQ1",
+        "language_group": "JavaScript",
+        "metric_name": "total_commits_in_window",
+        "count": 30,
+        "mean": 945.6333333333333,
+        "median": 276.5,
+        "min": 74.0,
+        "max": 8047.0,
+        "stddev": 1681.3089417091865,
+        "iqr": 753.75
+      },
+      {
+        "rq": "RQ1",
+        "language_group": "TypeScript",
+        "metric_name": "bug_fix_commit_ratio",
+        "count": 30,
+        "mean": 0.0462252083535393,
+        "median": 0.028880266075387948,
+        "min": 0.0047568710359408,
+        "max": 0.247457627118644,
+        "stddev": 0.048394263208579216,
+        "iqr": 0.03331635044143595
+      },
+      {
+        "rq": "RQ1",
+        "language_group": "TypeScript",
+        "metric_name": "bug_fix_commit_count",
+        "count": 30,
+        "mean": 72.83333333333333,
+        "median": 21.0,
+        "min": 2.0,
+        "max": 603.0,
+        "stddev": 121.49927865071331,
+        "iqr": 71.75
+      },
+      {
+        "rq": "RQ1",
+        "language_group": "TypeScript",
+        "metric_name": "total_commits_in_window",
+        "count": 30,
+        "mean": 2471.6666666666665,
+        "median": 890.5,
+        "min": 50.0,
+        "max": 27743.0,
+        "stddev": 5316.512405790053,
+        "iqr": 2252.75
+      },
+      {
+        "rq": "RQ2",
+        "language_group": "JavaScript",
+        "metric_name": "median_bug_issue_resolution_time_days",
+        "count": 30,
+        "mean": 26.52999170524691,
+        "median": 3.0117447916666666,
+        "min": 0.0073148148148148,
+        "max": 292.07375,
+        "stddev": 66.08108356129459,
+        "iqr": 6.248402777777779
+      },
+      {
+        "rq": "RQ2",
+        "language_group": "JavaScript",
+        "metric_name": "bug_related_issue_count",
+        "count": 30,
+        "mean": 139.2,
+        "median": 71.5,
+        "min": 1.0,
+        "max": 662.0,
+        "stddev": 183.19019699717032,
+        "iqr": 113.75
+      },
+      {
+        "rq": "RQ2",
+        "language_group": "JavaScript",
+        "metric_name": "total_closed_issues_in_window_considered",
+        "count": 30,
+        "mean": 257.1666666666667,
+        "median": 124.0,
+        "min": 9.0,
+        "max": 1302.0,
+        "stddev": 304.21499694757995,
+        "iqr": 319.75
+      },
+      {
+        "rq": "RQ2",
+        "language_group": "TypeScript",
+        "metric_name": "median_bug_issue_resolution_time_days",
+        "count": 30,
+        "mean": 99.5405775462963,
+        "median": 7.980847800925926,
+        "min": 0.5739699074074074,
+        "max": 913.8895023148148,
+        "stddev": 229.5732289712257,
+        "iqr": 33.727410300925925
+      },
+      {
+        "rq": "RQ2",
+        "language_group": "TypeScript",
+        "metric_name": "bug_related_issue_count",
+        "count": 30,
+        "mean": 1279.2,
+        "median": 178.0,
+        "min": 1.0,
+        "max": 30044.0,
+        "stddev": 5443.030199413203,
+        "iqr": 308.75
+      },
+      {
+        "rq": "RQ2",
+        "language_group": "TypeScript",
+        "metric_name": "total_closed_issues_in_window_considered",
+        "count": 30,
+        "mean": 2286.4333333333334,
+        "median": 350.0,
+        "min": 8.0,
+        "max": 49192.0,
+        "stddev": 8905.964981630177,
+        "iqr": 591.75
+      }
+    ]
+  },
+  "paper_ready_key_numbers": {
+    "final_eligible_pool_size": 438,
+    "final_sample_size": 60,
+    "sample_counts_by_language": {
+      "JavaScript": 30,
+      "TypeScript": 30
+    },
+    "sample_counts_by_language_and_stratum": {
+      "JavaScript": {
+        "high": 10,
+        "medium": 10,
+        "low": 10
+      },
+      "TypeScript": {
+        "high": 10,
+        "medium": 10,
+        "low": 10
+      }
+    },
+    "total_commits_classified": 102519,
+    "total_issues_classified": 76308,
+    "total_positive_bug_fix_commits": 2596,
+    "total_positive_bug_related_issues": 42552,
+    "repository_metric_row_count": 60,
+    "rq1_contributing_row_count": 60,
+    "rq2_contributing_row_count": 60
+  },
+  "artifact_map": {
+    "methodology": [
+      "data/raw/candidate_repos/javascript_candidates_raw.csv",
+      "data/raw/candidate_repos/typescript_candidates_raw.csv",
+      "data/interim/filtered_candidates/javascript_candidates_filtered.csv",
+      "data/interim/filtered_candidates/typescript_candidates_filtered.csv",
+      "data/interim/filtered_candidates/candidate_exclusion_log.csv",
+      "data/interim/quality_screened_candidates/candidate_quality_screen_summary.json",
+      "data/interim/enriched_candidates/candidate_enrichment_summary.json",
+      "data/interim/final_candidate_screen/candidate_pre_sampling_eligibility_summary.json",
+      "data/interim/final_candidate_screen/final_eligible_candidate_pool.csv",
+      "data/interim/final_sample/final_sample_metadata.json",
+      "data/interim/final_sample/pool_sufficiency_report.json"
+    ],
+    "evaluation": [
+      "data/interim/final_sample/final_sample.csv",
+      "data/interim/final_sample/raw_commits/commit_collection_summary.json",
+      "data/interim/final_sample/raw_issues/issue_collection_summary.json",
+      "data/interim/final_sample/classified_commits/classified_commits_summary.json",
+      "data/interim/final_sample/classified_issues/classified_issues_summary.json",
+      "data/processed/repo_metrics/final_sample/repository_metrics_summary.json",
+      "data/processed/repo_metrics/final_sample/repository_metrics.csv",
+      "results/final_sample/reporting_summary.json",
+      "results/final_sample/tables/descriptive_summary_by_language.csv",
+      "results/final_sample/tables/descriptive_summary_by_language.md",
+      "results/final_sample/figures/bug_fix_commit_ratio_by_language.png",
+      "results/final_sample/figures/median_bug_issue_resolution_time_days_by_language.png"
+    ],
+    "threats_to_validity": [
+      "data/interim/filtered_candidates/candidate_exclusion_log.csv",
+      "data/interim/quality_screened_candidates/candidate_quality_screen_exclusion_log.csv",
+      "data/interim/enriched_candidates/candidate_enrichment_failures.json",
+      "data/interim/enriched_candidates/closed_issue_count_failures.json",
+      "data/interim/final_candidate_screen/candidate_pre_sampling_exclusion_log.csv",
+      "data/interim/final_sample/collection_completeness_audit.json",
+      "data/interim/final_sample/raw_commits/commit_collection_failures.json",
+      "data/interim/final_sample/raw_issues/issue_collection_failures.json"
+    ],
+    "data_and_code_reproducibility": [
+      "config/study_config.yaml",
+      "config/keywords.yaml",
+      "docs/final-study-runbook.md",
+      "docs/final-study-workflow-audit.md",
+      "data/interim/final_sample/final_sample.csv",
+      "data/interim/final_sample/final_reserves.csv",
+      "data/interim/final_sample/final_candidate_pool_with_strata.csv",
+      "data/processed/repo_metrics/final_sample/repository_metrics.csv",
+      "results/final_sample/reporting_summary.json"
+    ]
+  },
+  "notes": [
+    "Basic filtering uses exclusion_reason_code and exclusion_reason_detail; it does not use the field name exclusion_reason.",
+    "The pre-sampling exclusion log uses one row per exclusion reason, so its 582 rows are not the same as the number of excluded repositories.",
+    "repository_metrics.csv still includes fields named eligible_for_rq1 and eligible_for_rq2. In the revised workflow these are aggregation/RQ contribution flags, not the active final-study eligibility gate.",
+    "Aggregation summary contains both repositories_seen_in_manifest and repositories_seen_in_sample_manifest; both are 60.",
+    "The issue collection summary reports total_pull_requests_excluded: 0. Current issue collection used GraphQL issue pagination, so pull requests were excluded by construction rather than filtered from collected issue rows.",
+    "The final-study enrichment summary records resume_mode: true because the final enrichment run used resumable recovery after a rate-limit interruption; the final state is complete and downstream-ready."
+  ]
+}

@@ -1,0 +1,1235 @@
+{
+  "classification_type": "issues",
+  "classification_run_type": "final_study",
+  "classification_input_kind": "sample_manifest",
+  "sample_manifest_file": "data\\interim\\final_sample\\final_sample.csv",
+  "raw_issues_dir": "data\\interim\\final_sample\\raw_issues",
+  "output_dir": "data\\interim\\final_sample\\classified_issues",
+  "validation_output_dir": "data\\processed\\validation\\final_sample",
+  "validation_output_file": "data\\processed\\validation\\final_sample\\issue_validation_sample.csv",
+  "keywords_file": "config\\keywords.yaml",
+  "random_seed": 640,
+  "label_terms": [
+    "bug"
+  ],
+  "text_terms": [
+    "bug",
+    "error",
+    "crash",
+    "defect",
+    "failure"
+  ],
+  "repositories_requested": 60,
+  "repositories_classified": 60,
+  "repositories_failed": 0,
+  "records_classified": 76308,
+  "positive_classifications": 42552,
+  "positive_label_only_count": 6988,
+  "positive_text_only_count": 30002,
+  "positive_label_and_text_count": 5562,
+  "validation_sample_size_requested": 20,
+  "validation_sample_size_written": 20,
+  "results": [
+    {
+      "repository_full_name": "SillyTavern/SillyTavern",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\sillytavern_sillytavern_issues_raw.json",
+      "raw_issue_count": 1302,
+      "classified_issue_count": 1302,
+      "bug_related_issue_count": 662,
+      "bug_related_label_only_count": 16,
+      "bug_related_text_only_count": 54,
+      "bug_related_label_and_text_count": 592,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "60",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "high",
+        "sample_activity_value": "8047"
+      }
+    },
+    {
+      "repository_full_name": "fanmingming/live",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\fanmingming_live_issues_raw.json",
+      "raw_issue_count": 123,
+      "classified_issue_count": 123,
+      "bug_related_issue_count": 84,
+      "bug_related_label_only_count": 82,
+      "bug_related_text_only_count": 0,
+      "bug_related_label_and_text_count": 2,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "52",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "high",
+        "sample_activity_value": "4836"
+      }
+    },
+    {
+      "repository_full_name": "automatisch/automatisch",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\automatisch_automatisch_issues_raw.json",
+      "raw_issue_count": 70,
+      "classified_issue_count": 70,
+      "bug_related_issue_count": 15,
+      "bug_related_label_only_count": 5,
+      "bug_related_text_only_count": 9,
+      "bug_related_label_and_text_count": 1,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "111",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "high",
+        "sample_activity_value": "2566"
+      }
+    },
+    {
+      "repository_full_name": "openlayers/openlayers",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\openlayers_openlayers_issues_raw.json",
+      "raw_issue_count": 374,
+      "classified_issue_count": 374,
+      "bug_related_issue_count": 312,
+      "bug_related_label_only_count": 76,
+      "bug_related_text_only_count": 4,
+      "bug_related_label_and_text_count": 232,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "124",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "high",
+        "sample_activity_value": "2286"
+      }
+    },
+    {
+      "repository_full_name": "playcanvas/engine",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\playcanvas_engine_issues_raw.json",
+      "raw_issue_count": 448,
+      "classified_issue_count": 448,
+      "bug_related_issue_count": 86,
+      "bug_related_label_only_count": 0,
+      "bug_related_text_only_count": 86,
+      "bug_related_label_and_text_count": 0,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "102",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "high",
+        "sample_activity_value": "1619"
+      }
+    },
+    {
+      "repository_full_name": "eslint/eslint",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\eslint_eslint_issues_raw.json",
+      "raw_issue_count": 946,
+      "classified_issue_count": 946,
+      "bug_related_issue_count": 572,
+      "bug_related_label_only_count": 14,
+      "bug_related_text_only_count": 268,
+      "bug_related_label_and_text_count": 290,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "55",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "high",
+        "sample_activity_value": "1269"
+      }
+    },
+    {
+      "repository_full_name": "phaserjs/phaser",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\phaserjs_phaser_issues_raw.json",
+      "raw_issue_count": 391,
+      "classified_issue_count": 391,
+      "bug_related_issue_count": 224,
+      "bug_related_label_only_count": 9,
+      "bug_related_text_only_count": 200,
+      "bug_related_label_and_text_count": 15,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "29",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "high",
+        "sample_activity_value": "1262"
+      }
+    },
+    {
+      "repository_full_name": "gethomepage/homepage",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\gethomepage_homepage_issues_raw.json",
+      "raw_issue_count": 72,
+      "classified_issue_count": 72,
+      "bug_related_issue_count": 69,
+      "bug_related_label_only_count": 10,
+      "bug_related_text_only_count": 9,
+      "bug_related_label_and_text_count": 50,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "47",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "high",
+        "sample_activity_value": "903"
+      }
+    },
+    {
+      "repository_full_name": "drawdb-io/drawdb",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\drawdb_io_drawdb_issues_raw.json",
+      "raw_issue_count": 208,
+      "classified_issue_count": 208,
+      "bug_related_issue_count": 94,
+      "bug_related_label_only_count": 2,
+      "bug_related_text_only_count": 90,
+      "bug_related_label_and_text_count": 2,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "32",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "high",
+        "sample_activity_value": "839"
+      }
+    },
+    {
+      "repository_full_name": "wanglin2/mind-map",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\wanglin2_mind_map_issues_raw.json",
+      "raw_issue_count": 689,
+      "classified_issue_count": 689,
+      "bug_related_issue_count": 47,
+      "bug_related_label_only_count": 0,
+      "bug_related_text_only_count": 47,
+      "bug_related_label_and_text_count": 0,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "129",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "high",
+        "sample_activity_value": "770"
+      }
+    },
+    {
+      "repository_full_name": "philc/vimium",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\philc_vimium_issues_raw.json",
+      "raw_issue_count": 205,
+      "classified_issue_count": 205,
+      "bug_related_issue_count": 84,
+      "bug_related_label_only_count": 0,
+      "bug_related_text_only_count": 84,
+      "bug_related_label_and_text_count": 0,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "62",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "medium",
+        "sample_activity_value": "447"
+      }
+    },
+    {
+      "repository_full_name": "parcel-bundler/parcel",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\parcel_bundler_parcel_issues_raw.json",
+      "raw_issue_count": 481,
+      "classified_issue_count": 481,
+      "bug_related_issue_count": 388,
+      "bug_related_label_only_count": 3,
+      "bug_related_text_only_count": 306,
+      "bug_related_label_and_text_count": 79,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "23",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "medium",
+        "sample_activity_value": "402"
+      }
+    },
+    {
+      "repository_full_name": "spicetify/cli",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\spicetify_cli_issues_raw.json",
+      "raw_issue_count": 606,
+      "classified_issue_count": 606,
+      "bug_related_issue_count": 541,
+      "bug_related_label_only_count": 366,
+      "bug_related_text_only_count": 8,
+      "bug_related_label_and_text_count": 167,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "71",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "medium",
+        "sample_activity_value": "363"
+      }
+    },
+    {
+      "repository_full_name": "sweetalert2/sweetalert2",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\sweetalert2_sweetalert2_issues_raw.json",
+      "raw_issue_count": 90,
+      "classified_issue_count": 90,
+      "bug_related_issue_count": 19,
+      "bug_related_label_only_count": 0,
+      "bug_related_text_only_count": 19,
+      "bug_related_label_and_text_count": 0,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "77",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "medium",
+        "sample_activity_value": "307"
+      }
+    },
+    {
+      "repository_full_name": "lovell/sharp",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\lovell_sharp_issues_raw.json",
+      "raw_issue_count": 481,
+      "classified_issue_count": 481,
+      "bug_related_issue_count": 321,
+      "bug_related_label_only_count": 7,
+      "bug_related_text_only_count": 288,
+      "bug_related_label_and_text_count": 26,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "43",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "medium",
+        "sample_activity_value": "288"
+      }
+    },
+    {
+      "repository_full_name": "sudheerj/javascript-interview-questions",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\sudheerj_javascript_interview_questions_issues_raw.json",
+      "raw_issue_count": 17,
+      "classified_issue_count": 17,
+      "bug_related_issue_count": 3,
+      "bug_related_label_only_count": 0,
+      "bug_related_text_only_count": 3,
+      "bug_related_label_and_text_count": 0,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "54",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "medium",
+        "sample_activity_value": "265"
+      }
+    },
+    {
+      "repository_full_name": "expressjs/express",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\expressjs_express_issues_raw.json",
+      "raw_issue_count": 258,
+      "classified_issue_count": 258,
+      "bug_related_issue_count": 129,
+      "bug_related_label_only_count": 11,
+      "bug_related_text_only_count": 74,
+      "bug_related_label_and_text_count": 44,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "5",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "medium",
+        "sample_activity_value": "246"
+      }
+    },
+    {
+      "repository_full_name": "codesandbox/codesandbox-client",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\codesandbox_codesandbox_client_issues_raw.json",
+      "raw_issue_count": 146,
+      "classified_issue_count": 146,
+      "bug_related_issue_count": 130,
+      "bug_related_label_only_count": 0,
+      "bug_related_text_only_count": 130,
+      "bug_related_label_and_text_count": 0,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "114",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "medium",
+        "sample_activity_value": "236"
+      }
+    },
+    {
+      "repository_full_name": "novnc/noVNC",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\novnc_novnc_issues_raw.json",
+      "raw_issue_count": 103,
+      "classified_issue_count": 103,
+      "bug_related_issue_count": 61,
+      "bug_related_label_only_count": 1,
+      "bug_related_text_only_count": 50,
+      "bug_related_label_and_text_count": 10,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "113",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "medium",
+        "sample_activity_value": "185"
+      }
+    },
+    {
+      "repository_full_name": "riot/riot",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\riot_riot_issues_raw.json",
+      "raw_issue_count": 42,
+      "classified_issue_count": 42,
+      "bug_related_issue_count": 35,
+      "bug_related_label_only_count": 1,
+      "bug_related_text_only_count": 24,
+      "bug_related_label_and_text_count": 10,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "99",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "medium",
+        "sample_activity_value": "167"
+      }
+    },
+    {
+      "repository_full_name": "be5invis/Sarasa-Gothic",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\be5invis_sarasa_gothic_issues_raw.json",
+      "raw_issue_count": 90,
+      "classified_issue_count": 90,
+      "bug_related_issue_count": 4,
+      "bug_related_label_only_count": 0,
+      "bug_related_text_only_count": 4,
+      "bug_related_label_and_text_count": 0,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "128",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "low",
+        "sample_activity_value": "150"
+      }
+    },
+    {
+      "repository_full_name": "browserslist/browserslist",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\browserslist_browserslist_issues_raw.json",
+      "raw_issue_count": 36,
+      "classified_issue_count": 36,
+      "bug_related_issue_count": 14,
+      "bug_related_label_only_count": 0,
+      "bug_related_text_only_count": 14,
+      "bug_related_label_and_text_count": 0,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "115",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "low",
+        "sample_activity_value": "140"
+      }
+    },
+    {
+      "repository_full_name": "leonardomso/33-js-concepts",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\leonardomso_33_js_concepts_issues_raw.json",
+      "raw_issue_count": 20,
+      "classified_issue_count": 20,
+      "bug_related_issue_count": 1,
+      "bug_related_label_only_count": 0,
+      "bug_related_text_only_count": 1,
+      "bug_related_label_and_text_count": 0,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "8",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "low",
+        "sample_activity_value": "131"
+      }
+    },
+    {
+      "repository_full_name": "JedWatson/classnames",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\jedwatson_classnames_issues_raw.json",
+      "raw_issue_count": 9,
+      "classified_issue_count": 9,
+      "bug_related_issue_count": 1,
+      "bug_related_label_only_count": 1,
+      "bug_related_text_only_count": 0,
+      "bug_related_label_and_text_count": 0,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "79",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "low",
+        "sample_activity_value": "128"
+      }
+    },
+    {
+      "repository_full_name": "mjmlio/mjml",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\mjmlio_mjml_issues_raw.json",
+      "raw_issue_count": 125,
+      "classified_issue_count": 125,
+      "bug_related_issue_count": 73,
+      "bug_related_label_only_count": 0,
+      "bug_related_text_only_count": 73,
+      "bug_related_label_and_text_count": 0,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "78",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "low",
+        "sample_activity_value": "120"
+      }
+    },
+    {
+      "repository_full_name": "iamkun/dayjs",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\iamkun_dayjs_issues_raw.json",
+      "raw_issue_count": 66,
+      "classified_issue_count": 66,
+      "bug_related_issue_count": 46,
+      "bug_related_label_only_count": 0,
+      "bug_related_text_only_count": 46,
+      "bug_related_label_and_text_count": 0,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "16",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "low",
+        "sample_activity_value": "110"
+      }
+    },
+    {
+      "repository_full_name": "chartjs/Chart.js",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\chartjs_chart_js_issues_raw.json",
+      "raw_issue_count": 135,
+      "classified_issue_count": 135,
+      "bug_related_issue_count": 79,
+      "bug_related_label_only_count": 54,
+      "bug_related_text_only_count": 5,
+      "bug_related_label_and_text_count": 20,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "7",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "low",
+        "sample_activity_value": "95"
+      }
+    },
+    {
+      "repository_full_name": "mayswind/AriaNg",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\mayswind_ariang_issues_raw.json",
+      "raw_issue_count": 64,
+      "classified_issue_count": 64,
+      "bug_related_issue_count": 9,
+      "bug_related_label_only_count": 2,
+      "bug_related_text_only_count": 7,
+      "bug_related_label_and_text_count": 0,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "119",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "low",
+        "sample_activity_value": "83"
+      }
+    },
+    {
+      "repository_full_name": "h5bp/html5-boilerplate",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\h5bp_html5_boilerplate_issues_raw.json",
+      "raw_issue_count": 33,
+      "classified_issue_count": 33,
+      "bug_related_issue_count": 3,
+      "bug_related_label_only_count": 2,
+      "bug_related_text_only_count": 1,
+      "bug_related_label_and_text_count": 0,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "13",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "low",
+        "sample_activity_value": "75"
+      }
+    },
+    {
+      "repository_full_name": "mishoo/UglifyJS",
+      "language_group": "JavaScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\mishoo_uglifyjs_issues_raw.json",
+      "raw_issue_count": 85,
+      "classified_issue_count": 85,
+      "bug_related_issue_count": 70,
+      "bug_related_label_only_count": 0,
+      "bug_related_text_only_count": 17,
+      "bug_related_label_and_text_count": 53,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "116",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "low",
+        "sample_activity_value": "74"
+      }
+    },
+    {
+      "repository_full_name": "microsoft/vscode",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\microsoft_vscode_issues_raw.json",
+      "raw_issue_count": 49192,
+      "classified_issue_count": 49192,
+      "bug_related_issue_count": 30044,
+      "bug_related_label_only_count": 4776,
+      "bug_related_text_only_count": 22803,
+      "bug_related_label_and_text_count": 2465,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "134",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "high",
+        "sample_activity_value": "27744"
+      }
+    },
+    {
+      "repository_full_name": "remotion-dev/remotion",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\remotion_dev_remotion_issues_raw.json",
+      "raw_issue_count": 777,
+      "classified_issue_count": 777,
+      "bug_related_issue_count": 371,
+      "bug_related_label_only_count": 51,
+      "bug_related_text_only_count": 106,
+      "bug_related_label_and_text_count": 214,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "177",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "high",
+        "sample_activity_value": "11923"
+      }
+    },
+    {
+      "repository_full_name": "cline/cline",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\cline_cline_issues_raw.json",
+      "raw_issue_count": 2447,
+      "classified_issue_count": 2447,
+      "bug_related_issue_count": 834,
+      "bug_related_label_only_count": 0,
+      "bug_related_text_only_count": 834,
+      "bug_related_label_and_text_count": 0,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "157",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "high",
+        "sample_activity_value": "4403"
+      }
+    },
+    {
+      "repository_full_name": "ant-design/ant-design",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\ant_design_ant_design_issues_raw.json",
+      "raw_issue_count": 3582,
+      "classified_issue_count": 3582,
+      "bug_related_issue_count": 702,
+      "bug_related_label_only_count": 336,
+      "bug_related_text_only_count": 325,
+      "bug_related_label_and_text_count": 41,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "140",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "high",
+        "sample_activity_value": "4269"
+      }
+    },
+    {
+      "repository_full_name": "streetwriters/notesnook",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\streetwriters_notesnook_issues_raw.json",
+      "raw_issue_count": 3472,
+      "classified_issue_count": 3472,
+      "bug_related_issue_count": 1603,
+      "bug_related_label_only_count": 554,
+      "bug_related_text_only_count": 846,
+      "bug_related_label_and_text_count": 203,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "438",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "high",
+        "sample_activity_value": "3810"
+      }
+    },
+    {
+      "repository_full_name": "QwenLM/qwen-code",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\qwenlm_qwen_code_issues_raw.json",
+      "raw_issue_count": 465,
+      "classified_issue_count": 465,
+      "bug_related_issue_count": 244,
+      "bug_related_label_only_count": 110,
+      "bug_related_text_only_count": 70,
+      "bug_related_label_and_text_count": 64,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "288",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "high",
+        "sample_activity_value": "3141"
+      }
+    },
+    {
+      "repository_full_name": "voideditor/void",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\voideditor_void_issues_raw.json",
+      "raw_issue_count": 252,
+      "classified_issue_count": 252,
+      "bug_related_issue_count": 78,
+      "bug_related_label_only_count": 0,
+      "bug_related_text_only_count": 78,
+      "bug_related_label_and_text_count": 0,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "251",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "high",
+        "sample_activity_value": "2769"
+      }
+    },
+    {
+      "repository_full_name": "teambit/bit",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\teambit_bit_issues_raw.json",
+      "raw_issue_count": 116,
+      "classified_issue_count": 116,
+      "bug_related_issue_count": 75,
+      "bug_related_label_only_count": 5,
+      "bug_related_text_only_count": 25,
+      "bug_related_label_and_text_count": 45,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "363",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "high",
+        "sample_activity_value": "2641"
+      }
+    },
+    {
+      "repository_full_name": "xyflow/xyflow",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\xyflow_xyflow_issues_raw.json",
+      "raw_issue_count": 849,
+      "classified_issue_count": 849,
+      "bug_related_issue_count": 578,
+      "bug_related_label_only_count": 0,
+      "bug_related_text_only_count": 578,
+      "bug_related_label_and_text_count": 0,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "213",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "high",
+        "sample_activity_value": "1990"
+      }
+    },
+    {
+      "repository_full_name": "motiondivision/motion",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\motiondivision_motion_issues_raw.json",
+      "raw_issue_count": 491,
+      "classified_issue_count": 491,
+      "bug_related_issue_count": 389,
+      "bug_related_label_only_count": 16,
+      "bug_related_text_only_count": 15,
+      "bug_related_label_and_text_count": 358,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "233",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "high",
+        "sample_activity_value": "1902"
+      }
+    },
+    {
+      "repository_full_name": "puppeteer/puppeteer",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\puppeteer_puppeteer_issues_raw.json",
+      "raw_issue_count": 891,
+      "classified_issue_count": 891,
+      "bug_related_issue_count": 651,
+      "bug_related_label_only_count": 0,
+      "bug_related_text_only_count": 651,
+      "bug_related_label_and_text_count": 0,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "142",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "medium",
+        "sample_activity_value": "1700"
+      }
+    },
+    {
+      "repository_full_name": "xtermjs/xterm.js",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\xtermjs_xterm_js_issues_raw.json",
+      "raw_issue_count": 308,
+      "classified_issue_count": 308,
+      "bug_related_issue_count": 181,
+      "bug_related_label_only_count": 72,
+      "bug_related_text_only_count": 76,
+      "bug_related_label_and_text_count": 33,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "326",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "medium",
+        "sample_activity_value": "963"
+      }
+    },
+    {
+      "repository_full_name": "thedotmack/claude-mem",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\thedotmack_claude_mem_issues_raw.json",
+      "raw_issue_count": 235,
+      "classified_issue_count": 235,
+      "bug_related_issue_count": 150,
+      "bug_related_label_only_count": 2,
+      "bug_related_text_only_count": 123,
+      "bug_related_label_and_text_count": 25,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "152",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "medium",
+        "sample_activity_value": "955"
+      }
+    },
+    {
+      "repository_full_name": "lucide-icons/lucide",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\lucide_icons_lucide_issues_raw.json",
+      "raw_issue_count": 527,
+      "classified_issue_count": 527,
+      "bug_related_issue_count": 264,
+      "bug_related_label_only_count": 127,
+      "bug_related_text_only_count": 55,
+      "bug_related_label_and_text_count": 82,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "301",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "medium",
+        "sample_activity_value": "935"
+      }
+    },
+    {
+      "repository_full_name": "tinymce/tinymce",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\tinymce_tinymce_issues_raw.json",
+      "raw_issue_count": 1334,
+      "classified_issue_count": 1334,
+      "bug_related_issue_count": 605,
+      "bug_related_label_only_count": 63,
+      "bug_related_text_only_count": 454,
+      "bug_related_label_and_text_count": 88,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "394",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "medium",
+        "sample_activity_value": "896"
+      }
+    },
+    {
+      "repository_full_name": "czlonkowski/n8n-mcp",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\czlonkowski_n8n_mcp_issues_raw.json",
+      "raw_issue_count": 181,
+      "classified_issue_count": 181,
+      "bug_related_issue_count": 108,
+      "bug_related_label_only_count": 0,
+      "bug_related_text_only_count": 105,
+      "bug_related_label_and_text_count": 3,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "353",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "medium",
+        "sample_activity_value": "885"
+      }
+    },
+    {
+      "repository_full_name": "visgl/deck.gl",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\visgl_deck_gl_issues_raw.json",
+      "raw_issue_count": 254,
+      "classified_issue_count": 254,
+      "bug_related_issue_count": 190,
+      "bug_related_label_only_count": 7,
+      "bug_related_text_only_count": 33,
+      "bug_related_label_and_text_count": 150,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "435",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "medium",
+        "sample_activity_value": "673"
+      }
+    },
+    {
+      "repository_full_name": "DayuanJiang/next-ai-draw-io",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\dayuanjiang_next_ai_draw_io_issues_raw.json",
+      "raw_issue_count": 106,
+      "classified_issue_count": 106,
+      "bug_related_issue_count": 53,
+      "bug_related_label_only_count": 9,
+      "bug_related_text_only_count": 10,
+      "bug_related_label_and_text_count": 34,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "256",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "medium",
+        "sample_activity_value": "434"
+      }
+    },
+    {
+      "repository_full_name": "radix-ui/primitives",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\radix_ui_primitives_issues_raw.json",
+      "raw_issue_count": 371,
+      "classified_issue_count": 371,
+      "bug_related_issue_count": 217,
+      "bug_related_label_only_count": 3,
+      "bug_related_text_only_count": 203,
+      "bug_related_label_and_text_count": 11,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "355",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "medium",
+        "sample_activity_value": "430"
+      }
+    },
+    {
+      "repository_full_name": "coze-dev/coze-studio",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\coze_dev_coze_studio_issues_raw.json",
+      "raw_issue_count": 539,
+      "classified_issue_count": 539,
+      "bug_related_issue_count": 175,
+      "bug_related_label_only_count": 12,
+      "bug_related_text_only_count": 153,
+      "bug_related_label_and_text_count": 10,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "322",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "medium",
+        "sample_activity_value": "375"
+      }
+    },
+    {
+      "repository_full_name": "pmndrs/react-three-fiber",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\pmndrs_react_three_fiber_issues_raw.json",
+      "raw_issue_count": 233,
+      "classified_issue_count": 233,
+      "bug_related_issue_count": 127,
+      "bug_related_label_only_count": 30,
+      "bug_related_text_only_count": 67,
+      "bug_related_label_and_text_count": 30,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "242",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "low",
+        "sample_activity_value": "283"
+      }
+    },
+    {
+      "repository_full_name": "Eugeny/tabby",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\eugeny_tabby_issues_raw.json",
+      "raw_issue_count": 472,
+      "classified_issue_count": 472,
+      "bug_related_issue_count": 236,
+      "bug_related_label_only_count": 139,
+      "bug_related_text_only_count": 21,
+      "bug_related_label_and_text_count": 76,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "151",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "low",
+        "sample_activity_value": "275"
+      }
+    },
+    {
+      "repository_full_name": "mckaywrigley/chatbot-ui",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\mckaywrigley_chatbot_ui_issues_raw.json",
+      "raw_issue_count": 658,
+      "classified_issue_count": 658,
+      "bug_related_issue_count": 174,
+      "bug_related_label_only_count": 0,
+      "bug_related_text_only_count": 174,
+      "bug_related_label_and_text_count": 0,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "227",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "low",
+        "sample_activity_value": "209"
+      }
+    },
+    {
+      "repository_full_name": "GLips/Figma-Context-MCP",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\glips_figma_context_mcp_issues_raw.json",
+      "raw_issue_count": 121,
+      "classified_issue_count": 121,
+      "bug_related_issue_count": 61,
+      "bug_related_label_only_count": 4,
+      "bug_related_text_only_count": 29,
+      "bug_related_label_and_text_count": 28,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "425",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "low",
+        "sample_activity_value": "164"
+      }
+    },
+    {
+      "repository_full_name": "aidenybai/million",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\aidenybai_million_issues_raw.json",
+      "raw_issue_count": 129,
+      "classified_issue_count": 129,
+      "bug_related_issue_count": 94,
+      "bug_related_label_only_count": 0,
+      "bug_related_text_only_count": 94,
+      "bug_related_label_and_text_count": 0,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "374",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "low",
+        "sample_activity_value": "132"
+      }
+    },
+    {
+      "repository_full_name": "bvaughn/react-window",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\bvaughn_react_window_issues_raw.json",
+      "raw_issue_count": 329,
+      "classified_issue_count": 329,
+      "bug_related_issue_count": 56,
+      "bug_related_label_only_count": 7,
+      "bug_related_text_only_count": 49,
+      "bug_related_label_and_text_count": 0,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "379",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "low",
+        "sample_activity_value": "116"
+      }
+    },
+    {
+      "repository_full_name": "virattt/dexter",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\virattt_dexter_issues_raw.json",
+      "raw_issue_count": 11,
+      "classified_issue_count": 11,
+      "bug_related_issue_count": 7,
+      "bug_related_label_only_count": 0,
+      "bug_related_text_only_count": 7,
+      "bug_related_label_and_text_count": 0,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "310",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "low",
+        "sample_activity_value": "110"
+      }
+    },
+    {
+      "repository_full_name": "KeygraphHQ/shannon",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\keygraphhq_shannon_issues_raw.json",
+      "raw_issue_count": 8,
+      "classified_issue_count": 8,
+      "bug_related_issue_count": 1,
+      "bug_related_label_only_count": 0,
+      "bug_related_text_only_count": 1,
+      "bug_related_label_and_text_count": 0,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "196",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "low",
+        "sample_activity_value": "92"
+      }
+    },
+    {
+      "repository_full_name": "graphql/graphql-js",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\graphql_graphql_js_issues_raw.json",
+      "raw_issue_count": 147,
+      "classified_issue_count": 147,
+      "bug_related_issue_count": 68,
+      "bug_related_label_only_count": 3,
+      "bug_related_text_only_count": 59,
+      "bug_related_label_and_text_count": 6,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "327",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "low",
+        "sample_activity_value": "92"
+      }
+    },
+    {
+      "repository_full_name": "redis/ioredis",
+      "language_group": "TypeScript",
+      "source_file": "data\\interim\\final_sample\\raw_issues\\redis_ioredis_issues_raw.json",
+      "raw_issue_count": 96,
+      "classified_issue_count": 96,
+      "bug_related_issue_count": 40,
+      "bug_related_label_only_count": 0,
+      "bug_related_text_only_count": 37,
+      "bug_related_label_and_text_count": 3,
+      "output_file": "data\\interim\\final_sample\\classified_issues\\classified_issues.csv",
+      "classification_run_type": "final_study",
+      "sample_trace": {
+        "sample_source_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "sample_source_record_index": "407",
+        "sample_role": "final_sample",
+        "sample_activity_stratum": "low",
+        "sample_activity_value": "50"
+      }
+    }
+  ],
+  "failures": []
+}

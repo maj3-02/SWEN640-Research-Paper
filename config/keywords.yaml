@@ -1,0 +1,35 @@
+# Keyword stubs for later implementation.
+# Matching will eventually use case-insensitive regex with word boundaries.
+
+bug_fix_commit:
+  required:
+    - fix
+  additional_any_of:
+    # "issue" is provisional and is tracked separately in validation-oriented summaries.
+    - bug
+    - error
+    - defect
+    - crash
+    - issue
+
+bug_issue:
+  label_terms:
+    - bug
+  text_terms:
+    - bug
+    - error
+    - crash
+    - defect
+    - failure
+
+bot_detection_cues:
+  - bot
+  - dependabot
+
+manual_exclusion_cues:
+  - template
+  - boilerplate
+  - starter
+  - tutorial
+  - example
+  - awesome

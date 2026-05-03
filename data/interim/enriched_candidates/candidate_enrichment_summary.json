@@ -1,0 +1,62 @@
+{
+  "enrichment_type": "final_candidate_enrichment",
+  "generated_at_utc": "2026-04-28T21:51:37.983328+00:00",
+  "intended_use": "final_sample_only",
+  "input_files": [
+    "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+    "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv"
+  ],
+  "output_files": {
+    "results_csv": "data\\interim\\enriched_candidates\\candidate_enrichment_results.csv",
+    "failures_json": "data\\interim\\enriched_candidates\\candidate_enrichment_failures.json",
+    "closed_issue_count_failures_json": "data\\interim\\enriched_candidates\\closed_issue_count_failures.json",
+    "summary_json": "data\\interim\\enriched_candidates\\candidate_enrichment_summary.json",
+    "per_language_enriched_candidates": {
+      "JavaScript": "data\\interim\\enriched_candidates\\javascript_candidates_enriched.csv",
+      "TypeScript": "data\\interim\\enriched_candidates\\typescript_candidates_enriched.csv"
+    }
+  },
+  "language_threshold": 0.7,
+  "repositories_seen": 849,
+  "repositories_enriched": 849,
+  "repositories_failed": 0,
+  "language_threshold_pass_count": 641,
+  "closed_issue_count_available_count": 849,
+  "counts_by_language": {
+    "JavaScript": 368,
+    "TypeScript": 481
+  },
+  "language_threshold_pass_by_language": {
+    "JavaScript": 280,
+    "TypeScript": 361
+  },
+  "failure_count": 0,
+  "activity_field": "default_branch_commit_count_in_window",
+  "activity_field_is_proxy": false,
+  "language_threshold_failed_count": 208,
+  "closed_issue_count_field": "closed_issue_count_in_window",
+  "closed_issue_count_status": "available",
+  "closed_issue_count_missing_count": 0,
+  "closed_issue_count_failure_count": 0,
+  "closed_issue_count_method": "graphql_repository_issues_cursor_pagination_closedAt_window",
+  "resume_mode": true,
+  "input_candidate_count": 849,
+  "existing_complete_count": 446,
+  "repositories_skipped_as_complete": 446,
+  "repositories_attempted_this_run": 403,
+  "new_success_count": 403,
+  "remaining_failure_count": 0,
+  "output_result_count": 849,
+  "full_contract_success_count": 849,
+  "successful_rows_missing_contract_count": 0,
+  "duplicate_result_rows_removed": 0,
+  "duplicate_existing_result_rows_removed": 0,
+  "duplicate_new_result_rows_removed": 0,
+  "duplicate_repository_count_in_output": 0,
+  "rate_limit_stop": false,
+  "rate_limit_stop_repository": "",
+  "skipped_unattempted_due_to_rate_limit": 0,
+  "resume_accounting_total": 849,
+  "resume_accounting_matches_input": true,
+  "resume_ready_for_downstream": true
+}

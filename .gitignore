@@ -1,0 +1,43 @@
+﻿# Python bytecode and caches
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local secrets and tokens
+.env
+.env.*
+*.token
+*.secret
+*.secrets
+secrets.*
+GITHUB_PAT.txt
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+~$*.docx
+
+# Large regenerated GitHub payloads excluded from the public repository
+data/raw/**/*.json
+data/raw/commits/**
+data/raw/issues/**
+data/raw/repo_metadata/**
+data/interim/final_sample/raw_commits/*_commits_raw.json
+data/interim/final_sample/raw_issues/*_issues_raw.json
+data/interim/final_sample/classified_commits/classified_commits.csv
+data/interim/final_sample/classified_issues/classified_issues.csv
+
+# Draft manuscript files are not part of the public reproducibility repo
+paper/*.docx
