@@ -1,0 +1,46 @@
+{
+  "repository_full_name": "NVIDIA/NemoClaw",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:23.120453+00:00",
+  "tree_sha": "5aa9e5d04d9e49fa61c916ffd7897c5eee42b3bd",
+  "tree_truncated": false,
+  "tree_path_count": 691,
+  "has_tests": true,
+  "matched_test_paths": [
+    "nemoclaw/src/blueprint/private-networks.test.ts",
+    "nemoclaw/src/blueprint/runner.test.ts",
+    "nemoclaw/src/blueprint/snapshot.test.ts",
+    "nemoclaw/src/blueprint/ssrf.test.ts",
+    "nemoclaw/src/blueprint/state.test.ts",
+    "nemoclaw/src/commands/config-show.test.ts",
+    "nemoclaw/src/commands/migration-state.test.ts",
+    "nemoclaw/src/commands/shields-status.test.ts",
+    "nemoclaw/src/commands/slash.test.ts",
+    "nemoclaw/src/lib/ports.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/base-image.yaml",
+    ".github/workflows/commit-lint.yaml",
+    ".github/workflows/dco-check.yaml",
+    ".github/workflows/docker-pin-check.yaml",
+    ".github/workflows/docs-links-pr.yaml",
+    ".github/workflows/docs-preview-deploy.yaml",
+    ".github/workflows/docs-preview-pr.yaml",
+    ".github/workflows/e2e-brev.yaml",
+    ".github/workflows/installer-hash-check.yaml",
+    ".github/workflows/legacy-path-guard.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/doc_issue.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "docs/CONTRIBUTING.md"
+  ]
+}

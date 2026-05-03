@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "JimLiu/baoyu-skills",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:40.828812+00:00",
+  "tree_sha": "505a7e10cea80f5da291114db19a4be0e40b9d7e",
+  "tree_truncated": false,
+  "tree_path_count": 1071,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/baoyu-chrome-cdp/src/index.test.ts",
+    "packages/baoyu-fetch/src/__tests__",
+    "packages/baoyu-fetch/src/__tests__/adapters.test.ts",
+    "packages/baoyu-fetch/src/__tests__/cli.test.ts",
+    "packages/baoyu-fetch/src/__tests__/convert-output.test.ts",
+    "packages/baoyu-fetch/src/__tests__/hn-adapter.test.ts",
+    "packages/baoyu-fetch/src/__tests__/html-to-markdown.test.ts",
+    "packages/baoyu-fetch/src/__tests__/interaction-gates.test.ts",
+    "packages/baoyu-fetch/src/__tests__/markdown-media.test.ts",
+    "packages/baoyu-fetch/src/__tests__/markdown-renderer.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

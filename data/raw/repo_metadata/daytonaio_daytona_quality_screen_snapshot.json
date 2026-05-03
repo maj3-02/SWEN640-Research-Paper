@@ -1,0 +1,45 @@
+{
+  "repository_full_name": "daytonaio/daytona",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:01.397193+00:00",
+  "tree_sha": "41e8803294e2fc107733a46e0ee8a66c8ab821d4",
+  "tree_truncated": false,
+  "tree_path_count": 6099,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/api/src/admin/controllers/audit.controller.auth.spec.ts",
+    "apps/api/src/admin/controllers/docker-registry.controller.auth.spec.ts",
+    "apps/api/src/admin/controllers/runner.controller.auth.spec.ts",
+    "apps/api/src/admin/controllers/sandbox.controller.auth.spec.ts",
+    "apps/api/src/admin/controllers/snapshot.controller.auth.spec.ts",
+    "apps/api/src/admin/controllers/user.controller.auth.spec.ts",
+    "apps/api/src/admin/controllers/webhook.controller.auth.spec.ts",
+    "apps/api/src/api-key/api-key.controller.auth.spec.ts",
+    "apps/api/src/audit/controllers/audit.controller.auth.spec.ts",
+    "apps/api/src/auth/global-auth.guard.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build_devcontainer.yaml",
+    ".github/workflows/default_image_publish.yaml",
+    ".github/workflows/e2e_pr_tests.yaml",
+    ".github/workflows/pr_checks.yaml",
+    ".github/workflows/prepare-release.yaml",
+    ".github/workflows/release.yaml",
+    ".github/workflows/sdk_publish.yaml",
+    ".github/workflows/translate.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "apps/docs/CODE_OF_CONDUCT.md",
+    "apps/docs/CONTRIBUTING.md",
+    "apps/docs/SECURITY.md",
+    "libs/sdk-ruby/CODE_OF_CONDUCT.md"
+  ]
+}

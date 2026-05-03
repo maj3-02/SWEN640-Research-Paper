@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "alam00000/bentopdf",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:37.479683+00:00",
+  "tree_sha": "eff1548ebeea3d7d00a67d9c9a3c6074b1cc5eea",
+  "tree_truncated": false,
+  "tree_path_count": 1929,
+  "has_tests": true,
+  "matched_test_paths": [
+    "chart/templates/tests",
+    "chart/templates/tests/test-connection.yaml",
+    "src/tests",
+    "src/tests/comic-info.test.ts",
+    "src/tests/compare",
+    "src/tests/compare/diff-text-runs.test.ts",
+    "src/tests/compare/ocr-page.test.ts",
+    "src/tests/compare/pair-pages.test.ts",
+    "src/tests/compare/text-normalization.test.ts",
+    "src/tests/deduplicate-filename.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-and-publish.yml",
+    ".github/workflows/cla.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/sponsors.yml",
+    ".github/workflows/static.yml",
+    ".github/workflows/trivy-scan.yml",
+    ".github/workflows/update-embedpdf-snippet.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/ISSUE_TEMPLATE/question.yml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "docs/contributing.md"
+  ]
+}

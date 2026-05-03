@@ -1,0 +1,41 @@
+{
+  "repository_full_name": "ajaxorg/ace",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:44.661218+00:00",
+  "tree_sha": "c89c0d56d862a9db39161eb870945b29a3ea6c95",
+  "tree_truncated": false,
+  "tree_path_count": 1636,
+  "has_tests": true,
+  "matched_test_paths": [
+    "lib/ace/mode/coffee/parser_test.js",
+    "lib/ace/mode/css_worker_test.js",
+    "lib/ace/mode/javascript_worker_test.js",
+    "lib/ace/mode/json_worker_test.js",
+    "lib/ace/mode/yaml_worker_test.js",
+    "lib/ace/worker/worker_test.js",
+    "src/ace_test.js",
+    "src/anchor_test.js",
+    "src/autocomplete/inline_test.js",
+    "src/autocomplete/popup_test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/backwards-compatibility-commenter.yml",
+    ".github/workflows/close-stale-issues.yml",
+    ".github/workflows/issue-reprioritization.yml",
+    ".github/workflows/link-comment.yml",
+    ".github/workflows/nodejs.yml",
+    ".github/workflows/publish.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/add-to-website.yml",
+    ".github/ISSUE_TEMPLATE/bug-report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/documentation.yml",
+    ".github/ISSUE_TEMPLATE/feature-request.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

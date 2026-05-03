@@ -1,0 +1,40 @@
+{
+  "repository_full_name": "jquery/jquery",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:20.551794+00:00",
+  "tree_sha": "5da206da1701fbf896f247d78249270850aff56d",
+  "tree_truncated": false,
+  "tree_path_count": 419,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/bundler_smoke_tests",
+    "test/bundler_smoke_tests/lib",
+    "test/bundler_smoke_tests/lib/run-rollup.js",
+    "test/bundler_smoke_tests/lib/run-webpack.js",
+    "test/bundler_smoke_tests/lib/utils.js",
+    "test/bundler_smoke_tests/rollup-commonjs.config.js",
+    "test/bundler_smoke_tests/rollup-pure-esm.config.js",
+    "test/bundler_smoke_tests/run-jsdom-tests.js",
+    "test/bundler_smoke_tests/src-esm-commonjs"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/browser-tests-beta.yml",
+    ".github/workflows/browser-tests.yml",
+    ".github/workflows/browserstack-dispatch.yml",
+    ".github/workflows/browserstack.yml",
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/filestash.yml",
+    ".github/workflows/lock-threads.yml",
+    ".github/workflows/node.js.yml",
+    ".github/workflows/verify-release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

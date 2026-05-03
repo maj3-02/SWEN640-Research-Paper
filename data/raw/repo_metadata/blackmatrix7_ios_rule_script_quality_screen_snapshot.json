@@ -1,0 +1,17 @@
+{
+  "repository_full_name": "blackmatrix7/ios_rule_script",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:48.937883+00:00",
+  "tree_sha": "a283e2e0598d42bd0651f225710915cb79a1656e",
+  "tree_truncated": false,
+  "tree_path_count": 14862,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/ISSUE_TEMPLATE_1.md",
+    ".github/ISSUE_TEMPLATE/ISSUE_TEMPLATE_2.md"
+  ]
+}

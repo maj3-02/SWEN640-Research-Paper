@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "realworld-apps/realworld",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:58.080527+00:00",
+  "tree_sha": "e75fef393e23c6499ce3660716c0a8cb332f1f51",
+  "tree_truncated": false,
+  "tree_path_count": 373,
+  "has_tests": true,
+  "matched_test_paths": [
+    "specs",
+    "specs/api",
+    "specs/api/README.md",
+    "specs/api/bruno",
+    "specs/api/bruno/articles",
+    "specs/api/bruno/articles/01-setup-register.bru",
+    "specs/api/bruno/articles/02-create-article-with-tags.bru",
+    "specs/api/bruno/articles/03-list-all-articles.bru",
+    "specs/api/bruno/articles/04-list-by-author.bru",
+    "specs/api/bruno/articles/05-list-all-articles-with-auth.bru"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/bruno-check.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/deploy-docs.yml",
+    ".github/workflows/spammy-guardian.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/BUG_REPORT.yml",
+    ".github/ISSUE_TEMPLATE/FEATURE_REQUEST.yml",
+    "CONTRIBUTING.md"
+  ]
+}

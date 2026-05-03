@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "rwaldron/johnny-five",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:33.219355+00:00",
+  "tree_sha": "094bf6cceb8b9ec424306da8e98308ebd6fa2252",
+  "tree_truncated": false,
+  "tree_path_count": 1421,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/.jshintrc",
+    "test/accelerometer.js",
+    "test/altimeter.js",
+    "test/animation.js",
+    "test/barometer.js",
+    "test/board-connection.js",
+    "test/board.collection.js",
+    "test/board.component.js",
+    "test/board.controller.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/npm-grunt.yml",
+    "appveyor.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

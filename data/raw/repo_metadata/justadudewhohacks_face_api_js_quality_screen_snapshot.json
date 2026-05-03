@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "justadudewhohacks/face-api.js",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:34.907539+00:00",
+  "tree_sha": "a86f011d72124e5fb93e59d5c4ab98f699dd5c9c",
+  "tree_truncated": false,
+  "tree_path_count": 448,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/Environment.ts",
+    "test/NeuralNetwork.test.ts",
+    "test/data",
+    "test/data/boxes.json",
+    "test/data/dummy.weights",
+    "test/data/faceDescriptor1.json",
+    "test/data/faceDescriptor2.json",
+    "test/data/faceDescriptorRect.json",
+    "test/data/faceLandmarkPositions1.json"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

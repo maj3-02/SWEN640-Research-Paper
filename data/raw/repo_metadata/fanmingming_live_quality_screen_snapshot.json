@@ -1,0 +1,19 @@
+{
+  "repository_full_name": "fanmingming/live",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:42.898163+00:00",
+  "tree_sha": "fd381b1efc352798b2a25b69e9e4687ab3c0ccf8",
+  "tree_truncated": false,
+  "tree_path_count": 1461,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/epg.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/wish.md"
+  ]
+}

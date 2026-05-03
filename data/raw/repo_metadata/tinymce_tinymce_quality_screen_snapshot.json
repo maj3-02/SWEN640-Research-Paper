@@ -1,0 +1,37 @@
+{
+  "repository_full_name": "tinymce/tinymce",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:44.773764+00:00",
+  "tree_sha": "75d8a4defecce7359ce5f32ce10ec50b1673636f",
+  "tree_truncated": false,
+  "tree_path_count": 6600,
+  "has_tests": true,
+  "matched_test_paths": [
+    "modules/acid/src/test",
+    "modules/acid/src/test/ts",
+    "modules/acid/src/test/ts/atomic",
+    "modules/acid/src/test/ts/atomic/ConversionsTest.ts",
+    "modules/acid/src/test/ts/atomic/HexColourTest.ts",
+    "modules/acid/src/test/ts/atomic/TransformationsTest.ts",
+    "modules/acid/src/test/ts/browser",
+    "modules/acid/src/test/ts/browser/RgbaColourTest.ts",
+    "modules/acid/src/test/ts/browser/TransformationsTest.ts",
+    "modules/agar/src/test"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/codeql.yml",
+    "Jenkinsfile"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "modules/oxide-components/CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "repository_full_name": "chakra-ui/chakra-ui",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:24.193801+00:00",
+  "tree_sha": "ff3f083e9261796102e9db5b3fa267f89fd4e9a5",
+  "tree_truncated": false,
+  "tree_path_count": 4015,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/cli/__tests__",
+    "packages/cli/__tests__/convert-tsx-to-jsx.test.ts",
+    "packages/cli/__tests__/resolve-tsconfig.test.ts",
+    "packages/codemod/__tests__",
+    "packages/codemod/__tests__/accordion.test.ts",
+    "packages/codemod/__tests__/alert.test.ts",
+    "packages/codemod/__tests__/alertdialog.test.ts",
+    "packages/codemod/__tests__/as-props.test.ts",
+    "packages/codemod/__tests__/avatar.test.ts",
+    "packages/codemod/__tests__/breadcrumb.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/issue-stale.yml",
+    ".github/workflows/quality.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

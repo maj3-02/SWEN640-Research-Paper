@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "yjs/yjs",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-26T23:03:23.612132+00:00",
+  "tree_sha": "da7366c0852548b7d7055f3173f72e700a9d4510",
+  "tree_truncated": false,
+  "tree_path_count": 81,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/IdMap.tests.js",
+    "tests/IdSet.tests.js",
+    "tests/attribution.tests.js",
+    "tests/compatibility.tests.js",
+    "tests/delta.tests.js",
+    "tests/doc.tests.js",
+    "tests/encoding.tests.js",
+    "tests/index.js",
+    "tests/relativePositions.tests.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/node.js.yml",
+    ".github/workflows/publish.yml",
+    ".github/workflows/scorecard.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

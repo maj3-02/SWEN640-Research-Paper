@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "langchain-ai/langchainjs",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:36.253023+00:00",
+  "tree_sha": "0e3f256ed22620ea931a842a58c42162b223fd8d",
+  "tree_truncated": false,
+  "tree_path_count": 3129,
+  "has_tests": true,
+  "matched_test_paths": [
+    "environment_tests/test-exports-cf/src/index.int.test.ts",
+    "environment_tests/test-exports-cf/src/index.unit.test.ts",
+    "internal/model-profiles/src/tests",
+    "internal/model-profiles/src/tests/config.test.ts",
+    "internal/model-profiles/src/tests/generator.test.ts",
+    "libs/create-langchain-integration/template/src/tests",
+    "libs/create-langchain-integration/template/src/tests/chat_models.test.ts",
+    "libs/create-langchain-integration/template/src/tests/integration.int.test.ts",
+    "libs/create-langchain-integration/template/src/tests/llms.test.ts",
+    "libs/create-langchain-integration/template/src/tests/vectorstores.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/benchmark-tests.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/compatibility.yml",
+    ".github/workflows/dev-release.yml",
+    ".github/workflows/examples.yml",
+    ".github/workflows/format.yml",
+    ".github/workflows/integration.yml",
+    ".github/workflows/labeler.yml",
+    ".github/workflows/no-response.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug-report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/documentation.yml",
+    ".github/ISSUE_TEMPLATE/privileged.yml",
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md"
+  ]
+}

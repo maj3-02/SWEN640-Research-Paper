@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "vercel/next.js",
+  "default_branch": "canary",
+  "fetched_at_utc": "2026-04-28T19:16:12.315962+00:00",
+  "tree_sha": "0ea2845cf943f75440d2f787470fffbcbcabc877",
+  "tree_truncated": false,
+  "tree_path_count": 42547,
+  "has_tests": true,
+  "matched_test_paths": [
+    "crates/next-custom-transforms/tests",
+    "crates/next-custom-transforms/tests/errors.rs",
+    "crates/next-custom-transforms/tests/errors",
+    "crates/next-custom-transforms/tests/errors/next-dynamic",
+    "crates/next-custom-transforms/tests/errors/next-dynamic/no-arguments",
+    "crates/next-custom-transforms/tests/errors/next-dynamic/no-arguments/input.js",
+    "crates/next-custom-transforms/tests/errors/next-dynamic/no-arguments/output.js",
+    "crates/next-custom-transforms/tests/errors/next-dynamic/no-arguments/output.stderr",
+    "crates/next-custom-transforms/tests/errors/next-dynamic/options-as-variable",
+    "crates/next-custom-transforms/tests/errors/next-dynamic/options-as-variable/input.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build_and_deploy.yml",
+    ".github/workflows/build_and_test.yml",
+    ".github/workflows/build_reusable.yml",
+    ".github/workflows/code_freeze.yml",
+    ".github/workflows/create_release_branch.yml",
+    ".github/workflows/graphite_ci_optimizer.yml",
+    ".github/workflows/integration_tests_reusable.yml",
+    ".github/workflows/issue_lock.yml",
+    ".github/workflows/issue_stale.yml",
+    ".github/workflows/issue_wrong_template.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1.bug_report.yml",
+    ".github/ISSUE_TEMPLATE/4.docs_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "contributing.md"
+  ]
+}

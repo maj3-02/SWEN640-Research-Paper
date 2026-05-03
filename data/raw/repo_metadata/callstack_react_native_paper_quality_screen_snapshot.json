@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "callstack/react-native-paper",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:59.378229+00:00",
+  "tree_sha": "8b6b5e52b241776cf3f7abe99da850e019abd6aa",
+  "tree_truncated": false,
+  "tree_path_count": 1610,
+  "has_tests": true,
+  "matched_test_paths": [
+    "docs/src/utils/__tests__",
+    "docs/src/utils/__tests__/themeColors.test.tsx",
+    "src/babel/__tests__",
+    "src/babel/__tests__/index.js",
+    "src/components/__tests__",
+    "src/components/__tests__/ActivityIndicator.test.tsx",
+    "src/components/__tests__/AnimatedFAB.test.tsx",
+    "src/components/__tests__/Appbar",
+    "src/components/__tests__/Appbar/Appbar.test.tsx",
+    "src/components/__tests__/Appbar/__snapshots__"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/comment-artifacts.sh",
+    ".circleci/config.yml",
+    ".circleci/deploy-docs.sh",
+    ".github/workflows/publish-each-pr.yml",
+    ".github/workflows/semantic-pr.yml",
+    ".github/workflows/stale.yml",
+    ".github/workflows/triage.yaml",
+    ".github/workflows/updates.yml",
+    ".github/workflows/versions.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/ISSUE_TEMPLATE/question.md",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

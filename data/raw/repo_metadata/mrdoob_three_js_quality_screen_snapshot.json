@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "mrdoob/three.js",
+  "default_branch": "dev",
+  "fetched_at_utc": "2026-04-28T19:16:14.208554+00:00",
+  "tree_sha": "db337c036ccfce3d94829c628f9738a8e7de3323",
+  "tree_truncated": false,
+  "tree_path_count": 6300,
+  "has_tests": true,
+  "matched_test_paths": [
+    "examples/models/collada/test",
+    "examples/models/collada/test/polygons.dae",
+    "examples/models/collada/test/polygons_concave.dae",
+    "examples/models/svg/tests",
+    "examples/models/svg/tests/1.png",
+    "examples/models/svg/tests/1.svg",
+    "examples/models/svg/tests/2.png",
+    "examples/models/svg/tests/2.svg",
+    "examples/models/svg/tests/3.png",
+    "examples/models/svg/tests/3.svg"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/codeql-code-scanning.yml",
+    ".github/workflows/protected-folders.yml",
+    ".github/workflows/read-size.yml",
+    ".github/workflows/report-size.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/pull_request_template.md",
+    "SECURITY.md"
+  ]
+}

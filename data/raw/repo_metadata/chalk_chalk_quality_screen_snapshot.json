@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "chalk/chalk",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:55.883482+00:00",
+  "tree_sha": "aa06bb5ac3f14df9fda8cfb54274dfc165ddfdef",
+  "tree_truncated": false,
+  "tree_path_count": 43,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/_fixture.js",
+    "test/chalk.js",
+    "test/instance.js",
+    "test/level.js",
+    "test/no-color-support.js",
+    "test/visible.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/main.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/security.md",
+    "contributing.md"
+  ]
+}

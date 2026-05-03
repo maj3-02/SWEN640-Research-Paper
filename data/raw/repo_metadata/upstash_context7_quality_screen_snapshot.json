@@ -1,0 +1,37 @@
+{
+  "repository_full_name": "upstash/context7",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:06.653818+00:00",
+  "tree_sha": "8274bd05eafb8b3aded6eef1a46b70e65e5b12e3",
+  "tree_truncated": false,
+  "tree_path_count": 345,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/cli/src/__tests__",
+    "packages/cli/src/__tests__/auth-commands.test.ts",
+    "packages/cli/src/__tests__/auth-utils.test.ts",
+    "packages/cli/src/__tests__/remove.test.ts",
+    "packages/cli/src/__tests__/setup.test.ts",
+    "packages/cli/src/__tests__/update-check.test.ts",
+    "packages/cli/src/__tests__/upgrade-command.test.ts",
+    "packages/mcp/test",
+    "packages/mcp/test/certificate.test.ts",
+    "packages/mcp/tsconfig.test.json"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/canary-release.yml",
+    ".github/workflows/changeset-check.yml",
+    ".github/workflows/ecr-deploy.yml",
+    ".github/workflows/mcp-registry.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/documentation.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    "SECURITY.md"
+  ]
+}

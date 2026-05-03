@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "nukeop/nuclear",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:38.165973+00:00",
+  "tree_sha": "0a0cb183a959d1018ce84bb576e1161e71d3a00a",
+  "tree_truncated": false,
+  "tree_path_count": 1263,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/hifi/src/fmp4/BinaryReader.test.ts",
+    "packages/hifi/src/fmp4/MseController.test.ts",
+    "packages/hifi/src/fmp4/parser.test.ts",
+    "packages/hifi/src/test",
+    "packages/hifi/src/test/BiQuadFilter.test.tsx",
+    "packages/hifi/src/test/CrossfadeSound.test.tsx",
+    "packages/hifi/src/test/Equalizer.test.tsx",
+    "packages/hifi/src/test/Oscilloscope.test.tsx",
+    "packages/hifi/src/test/Sound.test.tsx",
+    "packages/hifi/src/test/Stereo.test.tsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/close-external-issues.yml",
+    ".github/workflows/close-external-prs.yml",
+    ".github/workflows/coverage.yml",
+    ".github/workflows/deploy-website.yml",
+    ".github/workflows/release-player.yml",
+    ".github/workflows/release-plugin-sdk.yml",
+    ".github/workflows/release-snap.yml",
+    ".github/workflows/update-aur.yml",
+    ".github/workflows/update-winget.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE",
+    ".github/PULL_REQUEST_TEMPLATE/default.md",
+    "CONTRIBUTING.md",
+    "packages/docs/development/contributing.md"
+  ]
+}

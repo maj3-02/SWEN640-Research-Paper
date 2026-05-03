@@ -1,0 +1,29 @@
+{
+  "repository_full_name": "basecamp/trix",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:58.732093+00:00",
+  "tree_sha": "da8869922e19bc3f852091468d34029af80813e7",
+  "tree_truncated": false,
+  "tree_path_count": 382,
+  "has_tests": true,
+  "matched_test_paths": [
+    "action_text-trix/test",
+    "action_text-trix/test/application_system_test_case.rb",
+    "action_text-trix/test/dummy",
+    "action_text-trix/test/dummy/Rakefile",
+    "action_text-trix/test/dummy/app",
+    "action_text-trix/test/dummy/app/assets",
+    "action_text-trix/test/dummy/app/assets/images",
+    "action_text-trix/test/dummy/app/assets/images/.keep",
+    "action_text-trix/test/dummy/app/assets/stylesheets",
+    "action_text-trix/test/dummy/app/assets/stylesheets/actiontext.css"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CODE_OF_CONDUCT.md"
+  ]
+}

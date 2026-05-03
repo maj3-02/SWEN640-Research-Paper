@@ -1,0 +1,26 @@
+{
+  "repository_full_name": "zhaoolee/ChineseBQB",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:19.082177+00:00",
+  "tree_sha": "8744cccc3e17c03ba724f29b405331fb01ad2e68",
+  "tree_truncated": false,
+  "tree_path_count": 7571,
+  "has_tests": true,
+  "matched_test_paths": [
+    "themes/next/test",
+    "themes/next/test/.jshintrc",
+    "themes/next/test/helpers.js",
+    "themes/next/test/intern.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    "themes/next/.travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "themes/next/.github/CODE_OF_CONDUCT.md",
+    "themes/next/.github/CONTRIBUTING.md",
+    "themes/next/docs/zh-CN/CODE_OF_CONDUCT.md",
+    "themes/next/docs/zh-CN/CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "repository_full_name": "liabru/matter-js",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:03.634683+00:00",
+  "tree_sha": "acb99b6f8784c809b940f1d2cf745427e088e088",
+  "tree_truncated": false,
+  "tree_path_count": 146,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/Browser.spec.js",
+    "test/ExampleWorker.js",
+    "test/Examples.spec.js",
+    "test/TestTools.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md"
+  ]
+}

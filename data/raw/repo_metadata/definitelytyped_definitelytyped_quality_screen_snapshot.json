@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "DefinitelyTyped/DefinitelyTyped",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:11.927925+00:00",
+  "tree_sha": "366ba8451fd37ac011c83c8f4dce1036c99cd53a",
+  "tree_truncated": false,
+  "tree_path_count": 74434,
+  "has_tests": true,
+  "matched_test_paths": [
+    "types/ace/test",
+    "types/ace/test/anchor.ts",
+    "types/ace/test/background_tokenizer.ts",
+    "types/ace/test/default.ts",
+    "types/ace/test/document.ts",
+    "types/ace/test/edit_session.ts",
+    "types/ace/test/editor1.ts",
+    "types/ace/test/editor_highlight_active_line.ts",
+    "types/ace/test/editor_highlight_selected_word.ts",
+    "types/ace/test/editor_navigation.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/CI.yml",
+    ".github/workflows/UpdateCodeowners.yml",
+    ".github/workflows/format-and-commit.yml",
+    ".github/workflows/ghostbuster.yml",
+    ".github/workflows/lint-md.yml",
+    ".github/workflows/pnpm-cache.yml",
+    ".github/workflows/support-window.yml",
+    "azure-pipelines.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/infrastructure_issue.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "SECURITY.md"
+  ]
+}

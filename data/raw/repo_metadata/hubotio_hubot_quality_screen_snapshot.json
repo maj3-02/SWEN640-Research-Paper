@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "hubotio/hubot",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:09.487844+00:00",
+  "tree_sha": "9da62640fd7caff86a6238bba122f2794332efc1",
+  "tree_truncated": false,
+  "tree_path_count": 186,
+  "has_tests": true,
+  "matched_test_paths": [
+    "script/test",
+    "test",
+    "test/AdapterName_test.mjs",
+    "test/Adapter_test.mjs",
+    "test/Brain_test.mjs",
+    "test/CommandBus_test.mjs",
+    "test/Configuration_test.mjs",
+    "test/DataStore_test.mjs",
+    "test/Hubot_test.mjs",
+    "test/Listener_test.mjs"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/nodejs-macos.yml",
+    ".github/workflows/nodejs-ubuntu.yml",
+    ".github/workflows/nodejs-windows.yml",
+    ".github/workflows/pipeline.yml",
+    ".github/workflows/sfab-gh-pages.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "repository_full_name": "modood/Administrative-divisions-of-China",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-26T23:03:26.800933+00:00",
+  "tree_sha": "c49d495b40ac73eb1a66f6eeae5f8fd10696f035",
+  "tree_truncated": false,
+  "tree_path_count": 36,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/json.js"
+  ],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

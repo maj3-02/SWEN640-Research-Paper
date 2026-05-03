@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "withastro/astro",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:04.867090+00:00",
+  "tree_sha": "f99f32a94786e1086cbc083c2d9b4182d1f5f52a",
+  "tree_truncated": false,
+  "tree_path_count": 9277,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".devcontainer/integration",
+    ".devcontainer/integration/devcontainer.json",
+    "examples/container-with-vitest/test",
+    "examples/container-with-vitest/test/Card.test.ts",
+    "examples/container-with-vitest/test/ReactWrapper.test.ts",
+    "examples/container-with-vitest/test/[locale].test.ts",
+    "examples/integration",
+    "examples/integration/.gitignore",
+    "examples/integration/README.md",
+    "examples/integration/index.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-sandbox-image.yml",
+    ".github/workflows/check-merge.yml",
+    ".github/workflows/check.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/cleanup-cache.yml",
+    ".github/workflows/congrats.yml",
+    ".github/workflows/continuous_benchmark.yml",
+    ".github/workflows/diff-dependencies.yml",
+    ".github/workflows/examples-deploy.yml",
+    ".github/workflows/format.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/---01-bug-report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "packages/language-tools/CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "dubinc/dub",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:03.915815+00:00",
+  "tree_sha": "7eb7b0075947cfe97866d4f440c23756eda458f2",
+  "tree_truncated": false,
+  "tree_path_count": 5273,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/web/app/(ee)/api/e2e",
+    "apps/web/app/(ee)/api/e2e/bounties",
+    "apps/web/app/(ee)/api/e2e/bounties/[bountyId]",
+    "apps/web/app/(ee)/api/e2e/bounties/[bountyId]/route.ts",
+    "apps/web/app/(ee)/api/e2e/enrollments",
+    "apps/web/app/(ee)/api/e2e/enrollments/route.ts",
+    "apps/web/app/(ee)/api/e2e/guard.ts",
+    "apps/web/app/(ee)/api/e2e/notification-emails",
+    "apps/web/app/(ee)/api/e2e/notification-emails/route.ts",
+    "apps/web/app/(ee)/api/e2e/partners"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/apply-issue-labels-to-pr.yml",
+    ".github/workflows/deploy-embed-script.yml",
+    ".github/workflows/e2e.yaml",
+    ".github/workflows/playwright.yaml",
+    ".github/workflows/prettier.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "SECURITY.md"
+  ]
+}

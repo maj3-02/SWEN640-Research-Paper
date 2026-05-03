@@ -1,0 +1,37 @@
+{
+  "repository_full_name": "onlook-dev/onlook",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:55.947622+00:00",
+  "tree_sha": "a242be584fa9c71ca5be9e5e7a2640595c4200be",
+  "tree_truncated": false,
+  "tree_path_count": 2220,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/web/client/src/app/project/[id]/_components/left-panel/design-panel/image-tab/utils/image-references.test.ts",
+    "apps/web/client/src/utils/git/index.test.ts",
+    "apps/web/client/test",
+    "apps/web/client/test/cache",
+    "apps/web/client/test/cache/file-cache.test.ts",
+    "apps/web/client/test/cache/unified-cache.test.ts",
+    "apps/web/client/test/frame",
+    "apps/web/client/test/frame/navigation.test.ts",
+    "apps/web/client/test/messages.test.ts",
+    "apps/web/client/test/pages"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/chromatic.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/supabase-push-staging.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/ISSUE_TEMPLATE/help_wanted.md",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

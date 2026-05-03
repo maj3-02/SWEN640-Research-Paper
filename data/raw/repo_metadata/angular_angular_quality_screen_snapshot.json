@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "angular/angular",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:55.466097+00:00",
+  "tree_sha": "5dfe37df8e9bbc944a31c4ae79569700b43a4ebb",
+  "tree_truncated": false,
+  "tree_path_count": 12272,
+  "has_tests": true,
+  "matched_test_paths": [
+    "adev/shared-docs/components/breadcrumb/breadcrumb.component.spec.ts",
+    "adev/shared-docs/components/cookie-popup/cookie-popup.component.spec.ts",
+    "adev/shared-docs/components/copy-source-code-button/copy-source-code-button.component.spec.ts",
+    "adev/shared-docs/components/navigation-list/navigation-list.component.spec.ts",
+    "adev/shared-docs/components/search-dialog/search-dialog.component.spec.ts",
+    "adev/shared-docs/components/search-history/search-history.component.spec.ts",
+    "adev/shared-docs/components/select/select.component.spec.ts",
+    "adev/shared-docs/components/slide-toggle/slide-toggle.component.spec.ts",
+    "adev/shared-docs/components/tab-group/tab-group.component.spec.ts",
+    "adev/shared-docs/components/table-of-contents/table-of-contents.component.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/adev-preview-build.yml",
+    ".github/workflows/adev-preview-deploy.yml",
+    ".github/workflows/assistant-to-the-branch-manager.yml",
+    ".github/workflows/benchmark-compare.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/cross-repo-adev-docs.yml",
+    ".github/workflows/dev-infra.yml",
+    ".github/workflows/google-internal-tests.yml",
+    ".github/workflows/merge-ready-status.yml",
+    ".github/workflows/perf.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1-bug-report.yaml",
+    ".github/ISSUE_TEMPLATE/2-feature-request.yaml",
+    ".github/ISSUE_TEMPLATE/3-docs-bug.yaml",
+    ".github/ISSUE_TEMPLATE/4-devtools.yaml",
+    ".github/ISSUE_TEMPLATE/5-vscode.yaml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

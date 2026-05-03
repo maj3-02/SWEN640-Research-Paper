@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "JedWatson/classnames",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:05.621399+00:00",
+  "tree_sha": "18ad13016d138a15512a45df93a8a667dc6b052d",
+  "tree_truncated": false,
+  "tree_path_count": 32,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/bind.js",
+    "tests/bind.test-d.ts",
+    "tests/dedupe.js",
+    "tests/dedupe.test-d.ts",
+    "tests/index.js",
+    "tests/index.test-d.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/node.js.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md"
+  ]
+}

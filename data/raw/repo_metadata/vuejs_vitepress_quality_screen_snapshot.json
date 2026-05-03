@@ -1,0 +1,37 @@
+{
+  "repository_full_name": "vuejs/vitepress",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:35.682815+00:00",
+  "tree_sha": "4967e9bab4c1fdd1a1ea40b7225651eabaaf6b71",
+  "tree_truncated": false,
+  "tree_path_count": 721,
+  "has_tests": true,
+  "matched_test_paths": [
+    "__tests__",
+    "__tests__/e2e",
+    "__tests__/e2e/.vitepress",
+    "__tests__/e2e/.vitepress/config.ts",
+    "__tests__/e2e/.vitepress/theme",
+    "__tests__/e2e/.vitepress/theme/components",
+    "__tests__/e2e/.vitepress/theme/components/ApiPreference.vue",
+    "__tests__/e2e/.vitepress/theme/components/CustomLayout.vue",
+    "__tests__/e2e/.vitepress/theme/components/HomeHeroCopy.vue",
+    "__tests__/e2e/.vitepress/theme/components/NavVersion.vue"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/cr-comment.yml",
+    ".github/workflows/cr.yml",
+    ".github/workflows/lock-threads.yml",
+    ".github/workflows/release-tag.yml",
+    ".github/workflows/stale.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/contributing.md",
+    ".github/pull_request_template.md"
+  ]
+}

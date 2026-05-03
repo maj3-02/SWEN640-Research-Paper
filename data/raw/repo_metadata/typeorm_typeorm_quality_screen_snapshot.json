@@ -1,0 +1,44 @@
+{
+  "repository_full_name": "typeorm/typeorm",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:29.063408+00:00",
+  "tree_sha": "2aab71f9caeb053bfed1398dff233163c610032d",
+  "tree_truncated": false,
+  "tree_path_count": 5714,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/codemod/test",
+    "packages/codemod/test/cli",
+    "packages/codemod/test/cli/list-transforms.test.ts",
+    "packages/codemod/test/cli/parse-args.test.ts",
+    "packages/codemod/test/cli/run-transforms.test.ts",
+    "packages/codemod/test/dependencies",
+    "packages/codemod/test/dependencies/find-package-json.test.ts",
+    "packages/codemod/test/dependencies/get-config.test.ts",
+    "packages/codemod/test/dependencies/upgrade.test.ts",
+    "packages/codemod/test/lib"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/assign-milestone.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/deploy-docs-cloudflare-pages.yml",
+    ".github/workflows/mutation-test.yml",
+    ".github/workflows/preview.yml",
+    ".github/workflows/publish-package.yml",
+    ".github/workflows/pull-request.yml",
+    ".github/workflows/tests-linux.yml",
+    ".github/workflows/tests-windows.yml",
+    ".github/workflows/tests.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug-report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/documentation-issue.yml",
+    ".github/ISSUE_TEMPLATE/feature-request.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

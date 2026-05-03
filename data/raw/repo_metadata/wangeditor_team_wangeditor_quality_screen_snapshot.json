@@ -1,0 +1,35 @@
+{
+  "repository_full_name": "wangeditor-team/wangEditor",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:31.464920+00:00",
+  "tree_sha": "f35d8a73a0a3dc159134d483afc5963d0256ea18",
+  "tree_truncated": false,
+  "tree_path_count": 882,
+  "has_tests": true,
+  "matched_test_paths": [
+    "cypress",
+    "cypress/cypress.d.ts",
+    "cypress/fixtures",
+    "cypress/fixtures/example.json",
+    "cypress/integration",
+    "cypress/integration/editor.spec.ts",
+    "cypress/plugins",
+    "cypress/plugins/index.ts",
+    "cypress/support",
+    "cypress/support/commands.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/deploy-demos.yml",
+    ".github/workflows/deploy-examples.yml.bak",
+    ".github/workflows/e2e.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug.md",
+    ".github/ISSUE_TEMPLATE/feature.md",
+    ".github/ISSUE_TEMPLATE/question.md"
+  ]
+}

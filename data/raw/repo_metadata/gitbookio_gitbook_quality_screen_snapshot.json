@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "GitbookIO/gitbook",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:45.510418+00:00",
+  "tree_sha": "0e10124626d53231da96a582439ff02f2b392f35",
+  "tree_truncated": false,
+  "tree_path_count": 1170,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/embed/src/client/createGitBook.test.ts",
+    "packages/expr/src/__tests__",
+    "packages/expr/src/__tests__/autocomplete.test.ts",
+    "packages/expr/src/__tests__/input-values.test.ts",
+    "packages/expr/src/__tests__/runtime.test.ts",
+    "packages/expr/src/__tests__/template.test.ts",
+    "packages/expr/src/symbols/__tests__",
+    "packages/expr/src/symbols/__tests__/symbols.test.ts",
+    "packages/fonts/src/__snapshots__/getDefaultFont.test.ts.snap",
+    "packages/fonts/src/getDefaultFont.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yaml",
+    ".github/workflows/deploy-preview.yaml",
+    ".github/workflows/deploy-production.yaml",
+    ".github/workflows/deploy-staging.yaml",
+    ".github/workflows/publish.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.md"
+  ]
+}

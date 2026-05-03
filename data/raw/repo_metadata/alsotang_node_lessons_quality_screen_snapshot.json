@@ -1,0 +1,19 @@
+{
+  "repository_full_name": "alsotang/node-lessons",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:18.054781+00:00",
+  "tree_sha": "5e0e72ea7c74011c73880f1a96bfa5108efba547",
+  "tree_truncated": false,
+  "tree_path_count": 93,
+  "has_tests": true,
+  "matched_test_paths": [
+    "lesson6/test",
+    "lesson6/test/main.test.js",
+    "lesson8/test",
+    "lesson8/test/app.test.js"
+  ],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

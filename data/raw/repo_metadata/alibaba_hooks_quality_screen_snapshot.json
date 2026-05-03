@@ -1,0 +1,40 @@
+{
+  "repository_full_name": "alibaba/hooks",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:53.975318+00:00",
+  "tree_sha": "c29de2bc4cec11ecccaa4af32351785077933edb",
+  "tree_truncated": false,
+  "tree_path_count": 946,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/hooks/src/createDeepCompareEffect/__tests__",
+    "packages/hooks/src/createDeepCompareEffect/__tests__/index.spec.ts",
+    "packages/hooks/src/createUpdateEffect/__tests__",
+    "packages/hooks/src/createUpdateEffect/__tests__/index.spec.ts",
+    "packages/hooks/src/createUseStorageState/__tests__",
+    "packages/hooks/src/createUseStorageState/__tests__/index.spec.ts",
+    "packages/hooks/src/index.spec.ts",
+    "packages/hooks/src/useAntdTable/__tests__",
+    "packages/hooks/src/useAntdTable/__tests__/index.spec.ts",
+    "packages/hooks/src/useAsyncEffect/__tests__"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/comment-when-needs-more-info.yml",
+    ".github/workflows/gitleaks.yml",
+    ".github/workflows/issue-close-require.yml",
+    ".github/workflows/issue-reply.yml",
+    ".github/workflows/pkg.pr.new.yml",
+    ".github/workflows/static.yml",
+    ".github/workflows/test.yml",
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    ".github/PULL_REQUEST_TEMPLATE",
+    ".github/PULL_REQUEST_TEMPLATE/pr_cn.md",
+    "CONTRIBUTING.MD",
+    "SECURITY.md"
+  ]
+}

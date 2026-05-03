@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "adam-p/markdown-here",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:20.353022+00:00",
+  "tree_sha": "e00d005299922198aef968e0cd42b275525c20a6",
+  "tree_truncated": false,
+  "tree_path_count": 485,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/common/test",
+    "src/common/test/chai.js",
+    "src/common/test/common-logic-test.js",
+    "src/common/test/index.html",
+    "src/common/test/markdown-here-test.js",
+    "src/common/test/markdown-render-test.js",
+    "src/common/test/mdh-html-to-text-test.js",
+    "src/common/test/mocha.css",
+    "src/common/test/mocha.js",
+    "src/common/test/options-store-test.js"
+  ],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md"
+  ]
+}

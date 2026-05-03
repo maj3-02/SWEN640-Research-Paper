@@ -1,0 +1,22 @@
+{
+  "repository_full_name": "VerbalExpressions/JSVerbalExpressions",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:46.324750+00:00",
+  "tree_sha": "34a9dddc18132f167fb4f4ceabbd7358e22bf7d8",
+  "tree_truncated": false,
+  "tree_path_count": 49,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/tests.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/automerge.yml",
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/gh-pages.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

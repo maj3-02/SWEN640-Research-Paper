@@ -1,0 +1,44 @@
+{
+  "repository_full_name": "lobehub/lobehub",
+  "default_branch": "canary",
+  "fetched_at_utc": "2026-04-28T19:17:59.584551+00:00",
+  "tree_sha": "6f9f5643d197ab7b51f2541ff3ddf32f730d8959",
+  "tree_truncated": false,
+  "tree_path_count": 13065,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/cli/e2e",
+    "apps/cli/e2e/agent-fs-vfs.e2e.test.ts",
+    "apps/cli/e2e/agent.e2e.test.ts",
+    "apps/cli/e2e/doc.e2e.test.ts",
+    "apps/cli/e2e/file.e2e.test.ts",
+    "apps/cli/e2e/generate.e2e.test.ts",
+    "apps/cli/e2e/kb.e2e.test.ts",
+    "apps/cli/e2e/memory.e2e.test.ts",
+    "apps/cli/e2e/message.e2e.test.ts",
+    "apps/cli/e2e/model.e2e.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/auto-i18n.yml",
+    ".github/workflows/auto-tag-release.yml",
+    ".github/workflows/bundle-analyzer.yml",
+    ".github/workflows/claude-auto-e2e-testing.yml",
+    ".github/workflows/claude-auto-testing.yml",
+    ".github/workflows/claude-dedupe-issues.yml",
+    ".github/workflows/claude-issue-triage.yml",
+    ".github/workflows/claude-migration-support.yml",
+    ".github/workflows/claude-pr-assign.yml",
+    ".github/workflows/claude-translate-comments.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1_bug_report.yml",
+    ".github/ISSUE_TEMPLATE/2_feature_request.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

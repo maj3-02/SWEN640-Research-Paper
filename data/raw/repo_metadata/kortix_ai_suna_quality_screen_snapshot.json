@@ -1,0 +1,32 @@
+{
+  "repository_full_name": "kortix-ai/suna",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:24.255989+00:00",
+  "tree_sha": "b337fb5a9b511ac0accc8cee6387b5a5a61aac58",
+  "tree_truncated": false,
+  "tree_path_count": 3879,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/api/src/__tests__",
+    "apps/api/src/__tests__/billing",
+    "apps/api/src/__tests__/billing/account-deletion.test.ts",
+    "apps/api/src/__tests__/billing/checkout-provision.test.ts",
+    "apps/api/src/__tests__/billing/credits.test.ts",
+    "apps/api/src/__tests__/billing/customers-repository.test.ts",
+    "apps/api/src/__tests__/billing/mocks.ts",
+    "apps/api/src/__tests__/billing/subscriptions.test.ts",
+    "apps/api/src/__tests__/billing/webhooks.test.ts",
+    "apps/api/src/__tests__/billing/yearly-rotation.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/deploy-dev.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/snapshot-build.yml",
+    ".github/workflows/trigger-staging-qa.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "repository_full_name": "nilbuild/driver.js",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:56.132398+00:00",
+  "tree_sha": "4e4d07d481ae67cca26441058c76537ed94aea5a",
+  "tree_truncated": false,
+  "tree_path_count": 95,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/sum.test.ts"
+  ],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

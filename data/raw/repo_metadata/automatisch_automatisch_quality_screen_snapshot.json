@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "automatisch/automatisch",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:29.189003+00:00",
+  "tree_sha": "41f3c56a163103cae761bb44f03638cb84e859ee",
+  "tree_truncated": false,
+  "tree_path_count": 4678,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/backend/src/controllers/api/v1/apps/get-app.ee.test.js",
+    "packages/backend/src/controllers/api/v1/apps/get-apps.ee.test.js",
+    "packages/backend/src/controllers/api/v1/executions/get-execution.ee.test.js",
+    "packages/backend/src/controllers/api/v1/executions/get-executions.ee.test.js",
+    "packages/backend/src/controllers/api/v1/flows/create-flow.ee.test.js",
+    "packages/backend/src/controllers/api/v1/flows/delete-flow.ee.test.js",
+    "packages/backend/src/controllers/api/v1/flows/get-flow.ee.test.js",
+    "packages/backend/src/controllers/api/v1/flows/get-flows.ee.test.js",
+    "packages/backend/src/controllers/api/v1/flows/update-flow-status.ee.test.js",
+    "packages/backend/src/controllers/api/v1/mcp/delete-mcp-session.ee.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/backend.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/docs-change.yml",
+    ".github/workflows/playwright.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CODE_OF_CONDUCT.md"
+  ]
+}

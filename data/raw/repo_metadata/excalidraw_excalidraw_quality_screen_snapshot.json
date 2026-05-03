@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "excalidraw/excalidraw",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:51.178450+00:00",
+  "tree_sha": "43fa4b56028478f53dbb65045df1f9f7737c4321",
+  "tree_truncated": false,
+  "tree_path_count": 1362,
+  "has_tests": true,
+  "matched_test_paths": [
+    "excalidraw-app/tests",
+    "excalidraw-app/tests/LanguageList.test.tsx",
+    "excalidraw-app/tests/MobileMenu.test.tsx",
+    "excalidraw-app/tests/__snapshots__",
+    "excalidraw-app/tests/__snapshots__/MobileMenu.test.tsx.snap",
+    "excalidraw-app/tests/collab.test.tsx",
+    "packages/common/src/__snapshots__/colors.test.ts.snap",
+    "packages/common/src/appEventBus.test.ts",
+    "packages/common/src/colors.test.ts",
+    "packages/common/src/utils.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/autorelease-excalidraw.yml",
+    ".github/workflows/build-docker.yml",
+    ".github/workflows/cancel.yml",
+    ".github/workflows/lint.yml",
+    ".github/workflows/locales-coverage.yml",
+    ".github/workflows/publish-docker.yml",
+    ".github/workflows/semantic-pr-title.yml",
+    ".github/workflows/sentry-production.yml",
+    ".github/workflows/size-limit.yml",
+    ".github/workflows/test-coverage-pr.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md"
+  ]
+}

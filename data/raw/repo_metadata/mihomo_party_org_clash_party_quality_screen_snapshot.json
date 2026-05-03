@@ -1,0 +1,21 @@
+{
+  "repository_full_name": "mihomo-party-org/clash-party",
+  "default_branch": "smart_core",
+  "fetched_at_utc": "2026-04-28T19:19:04.971785+00:00",
+  "tree_sha": "b7c9e4aa5ce1d3a0b71b7d043c933793a1e53f5b",
+  "tree_truncated": false,
+  "tree_path_count": 305,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build.yml",
+    ".github/workflows/issues.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report_zh.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request_zh.yml"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "coder/code-server",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:59.139354+00:00",
+  "tree_sha": "02f4d6ea0be322251992273bcf276f966da4af3c",
+  "tree_truncated": false,
+  "tree_path_count": 293,
+  "has_tests": true,
+  "matched_test_paths": [
+    "ci/helm-chart/templates/tests",
+    "ci/helm-chart/templates/tests/test-connection.yaml",
+    "test",
+    "test/e2e",
+    "test/e2e/baseFixture.ts",
+    "test/e2e/codeServer.test.ts",
+    "test/e2e/downloads.test.ts",
+    "test/e2e/extensions.test.ts",
+    "test/e2e/extensions",
+    "test/e2e/extensions/test-extension"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build.yaml",
+    ".github/workflows/installer.yaml",
+    ".github/workflows/publish.yaml",
+    ".github/workflows/release.yaml",
+    ".github/workflows/scripts.yaml",
+    ".github/workflows/security.yaml",
+    ".github/workflows/trivy-docker.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug-report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/doc.md",
+    ".github/ISSUE_TEMPLATE/feature-request.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "docs/CODE_OF_CONDUCT.md",
+    "docs/CONTRIBUTING.md",
+    "docs/SECURITY.md"
+  ]
+}

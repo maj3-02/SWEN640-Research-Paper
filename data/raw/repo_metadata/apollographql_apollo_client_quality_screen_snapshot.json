@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "apollographql/apollo-client",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:23.977507+00:00",
+  "tree_sha": "0dde93e635ae331a7c72a81b97bd3951f6146529",
+  "tree_truncated": false,
+  "tree_path_count": 1204,
+  "has_tests": true,
+  "matched_test_paths": [
+    "eslint-local-rules/forbid-act-in-disabled-act-environment.test.ts",
+    "eslint-local-rules/import-from-export.test.ts",
+    "eslint-local-rules/require-disable-act-environment.test.ts",
+    "eslint-local-rules/require-using-disposable.test.ts",
+    "integration-tests/browser-esm/tests",
+    "integration-tests/browser-esm/tests/playwright",
+    "integration-tests/browser-esm/tests/playwright/jsdeliver-esm.test.ts",
+    "integration-tests/browser-esm/tests/playwright/jspm-prepared.test.ts",
+    "integration-tests/browser-esm/tests/playwright/unpkg-unmangled.test.ts",
+    "integration-tests/cra5/tests"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/config.yml",
+    ".github/workflows/api-extractor.yml",
+    ".github/workflows/arethetypeswrong.yml",
+    ".github/workflows/change-prerelease-tag.yml",
+    ".github/workflows/cleanup-checks.mjs",
+    ".github/workflows/cleanup-checks.yml",
+    ".github/workflows/close-stale-issues.yml",
+    ".github/workflows/compare-build-output.yml",
+    ".github/workflows/copilot-setup-steps.yml",
+    ".github/workflows/devtools-errorcodes.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug.yml",
+    ".github/ISSUE_TEMPLATE/feature-request.md",
+    ".github/ISSUE_TEMPLATE/question-discussion.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md"
+  ]
+}

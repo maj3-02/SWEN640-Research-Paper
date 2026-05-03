@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "Dogfalo/materialize",
+  "default_branch": "v1-dev",
+  "fetched_at_utc": "2026-04-28T19:16:30.767329+00:00",
+  "tree_sha": "824e78248b3de81e383445e76ffb04cc3264fe7d",
+  "tree_truncated": false,
+  "tree_path_count": 389,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/html",
+    "test/html/badges.html",
+    "test/html/buttons.html",
+    "test/html/cards.html",
+    "test/html/carousel.html",
+    "test/html/chips.html",
+    "test/html/collapsible.html",
+    "test/html/dropdown.html",
+    "test/html/fixed_navbar.html"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

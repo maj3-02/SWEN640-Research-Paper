@@ -1,0 +1,35 @@
+{
+  "repository_full_name": "TanStack/table",
+  "default_branch": "alpha",
+  "fetched_at_utc": "2026-04-28T19:18:48.493469+00:00",
+  "tree_sha": "320b2d021c539bb062127275b1c287d6ffd668cb",
+  "tree_truncated": false,
+  "tree_path_count": 3746,
+  "has_tests": true,
+  "matched_test_paths": [
+    "examples/angular/composable-tables/tsconfig.spec.json",
+    "examples/angular/row-selection-signal/tsconfig.spec.json",
+    "packages/angular-table/tests",
+    "packages/angular-table/tests/angularReactivityFeature.test.ts",
+    "packages/angular-table/tests/benchmarks",
+    "packages/angular-table/tests/benchmarks/injectTable.benchmark.ts",
+    "packages/angular-table/tests/benchmarks/setup.ts",
+    "packages/angular-table/tests/flex-render",
+    "packages/angular-table/tests/flex-render/flex-render-component.test-d.ts",
+    "packages/angular-table/tests/flex-render/flex-render-table.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/autofix.yml",
+    ".github/workflows/pr.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/pull_request_template",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

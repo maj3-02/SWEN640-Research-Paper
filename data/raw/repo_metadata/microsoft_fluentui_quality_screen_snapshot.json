@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "microsoft/fluentui",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:22.892111+00:00",
+  "tree_sha": "5cd48e925bd7ca5d8052c4e66d1c9303124d8c3e",
+  "tree_truncated": false,
+  "tree_path_count": 21334,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/public-docsite-v9/src/Concepts/Migration/FromV8/Components/Flex/utils.stories.test.tsx",
+    "apps/public-docsite-v9/tsconfig.spec.json",
+    "apps/rit-tests-v8/src/shared/components/ContextualMenu/ContextualMenuExample.test.tsx",
+    "apps/rit-tests-v8/tsconfig.spec.json",
+    "apps/rit-tests-v9/tsconfig.spec.json",
+    "apps/ssr-tests-v9/tsconfig.spec.json",
+    "apps/ssr-tests/test",
+    "apps/ssr-tests/test/test.js",
+    "apps/vr-tests-react-components/src/utilities/utilities.test.tsx",
+    "packages/charts/chart-utilities/src/DecodeBase64Data.UT.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/azure-static-web-apps-deploy.yml",
+    ".github/workflows/bundle-size-base.yml",
+    ".github/workflows/bundle-size-comment.yml",
+    ".github/workflows/bundle-size.yml",
+    ".github/workflows/check-packages.yml",
+    ".github/workflows/check-tooling.yml",
+    ".github/workflows/copilot-setup-steps.yml",
+    ".github/workflows/create-experimental-branch.yml",
+    ".github/workflows/docsite-publish-ghpages.yml",
+    ".github/workflows/issues.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/01-react-components-bug-report.yml",
+    ".github/ISSUE_TEMPLATE/02-react-bug-report.yml",
+    ".github/ISSUE_TEMPLATE/03-react-charting-bug-report.yml",
+    ".github/ISSUE_TEMPLATE/04-web-components-bug-report.yml",
+    ".github/ISSUE_TEMPLATE/05-tooling-bug-report.yml",
+    ".github/ISSUE_TEMPLATE/06-documentation.yml",
+    ".github/ISSUE_TEMPLATE/07-feature-request.yml",
+    ".github/ISSUE_TEMPLATE/08-convergence_epic.md",
+    ".github/ISSUE_TEMPLATE/09-project_pitch.md",
+    ".github/ISSUE_TEMPLATE/config.yml"
+  ]
+}

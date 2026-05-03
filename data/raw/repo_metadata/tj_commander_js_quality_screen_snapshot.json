@@ -1,0 +1,32 @@
+{
+  "repository_full_name": "tj/commander.js",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:42.062195+00:00",
+  "tree_sha": "8247364da749736570161e95682b07fc2d72497b",
+  "tree_truncated": false,
+  "tree_path_count": 235,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/args.literal.test.js",
+    "tests/args.variadic.test.js",
+    "tests/argument.chain.test.js",
+    "tests/argument.choices.test.js",
+    "tests/argument.custom-processing.test.js",
+    "tests/argument.required.test.js",
+    "tests/argument.variadic.test.js",
+    "tests/command.action.test.js",
+    "tests/command.addCommand.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/tests.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

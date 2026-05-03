@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "gulpjs/gulp",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:35.708368+00:00",
+  "tree_sha": "61f22dc11bb14234b555253095fa1d224ce0eab1",
+  "tree_truncated": false,
+  "tree_path_count": 115,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/.gitkeep",
+    "test/dest.js",
+    "test/fixtures",
+    "test/fixtures/copy",
+    "test/fixtures/copy/example.txt",
+    "test/fixtures/gulpfiles",
+    "test/fixtures/gulpfiles/cjs",
+    "test/fixtures/gulpfiles/cjs/gulpfile.cjs",
+    "test/fixtures/gulpfiles/mjs"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/dev.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/SECURITY.md",
+    "CONTRIBUTING.md"
+  ]
+}

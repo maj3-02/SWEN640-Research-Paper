@@ -1,0 +1,36 @@
+{
+  "repository_full_name": "modelcontextprotocol/servers",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:57.874414+00:00",
+  "tree_sha": "4503e2d12b799448cd05f789dd40f9643a8d1a6c",
+  "tree_truncated": false,
+  "tree_path_count": 170,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/everything/__tests__",
+    "src/everything/__tests__/prompts.test.ts",
+    "src/everything/__tests__/registrations.test.ts",
+    "src/everything/__tests__/resources.test.ts",
+    "src/everything/__tests__/server.test.ts",
+    "src/everything/__tests__/tools.test.ts",
+    "src/fetch/tests",
+    "src/fetch/tests/__init__.py",
+    "src/fetch/tests/test_server.py",
+    "src/filesystem/__tests__"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/claude.yml",
+    ".github/workflows/python.yml",
+    ".github/workflows/readme-pr-check.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/typescript.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

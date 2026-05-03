@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "piskelapp/piskel",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:42.157717+00:00",
+  "tree_sha": "a6b9c02daefceb10093f71e92d52d16920ccb16e",
+  "tree_truncated": false,
+  "tree_path_count": 840,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/e2e",
+    "tests/e2e/data",
+    "tests/e2e/data/drawing",
+    "tests/e2e/data/drawing/tests",
+    "tests/e2e/data/drawing/tests/bucket.drawing.json",
+    "tests/e2e/data/drawing/tests/color.picker.2.json",
+    "tests/e2e/data/drawing/tests/color.picker.json",
+    "tests/e2e/data/drawing/tests/dithering.basic.json",
+    "tests/e2e/data/drawing/tests/eraser.bucket.json"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

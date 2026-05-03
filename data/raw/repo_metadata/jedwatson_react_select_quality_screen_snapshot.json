@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "JedWatson/react-select",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:47.765333+00:00",
+  "tree_sha": "052e864b4990a67c4ee416851c34d1eb7b58267b",
+  "tree_truncated": false,
+  "tree_path_count": 357,
+  "has_tests": true,
+  "matched_test_paths": [
+    "cypress",
+    "cypress/fixtures",
+    "cypress/fixtures/selectors.json",
+    "cypress/integration",
+    "cypress/integration/multi-select.spec.ts",
+    "cypress/integration/single-select.spec.ts",
+    "cypress/tsconfig.json",
+    "packages/react-select/src/__tests__",
+    "packages/react-select/src/__tests__/Async.test.tsx",
+    "packages/react-select/src/__tests__/AsyncCreatable.test.tsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/config.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    "CONTRIBUTING.md"
+  ]
+}

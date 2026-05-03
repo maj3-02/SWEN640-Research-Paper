@@ -1,0 +1,41 @@
+{
+  "repository_full_name": "react-hook-form/react-hook-form",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:18.331676+00:00",
+  "tree_sha": "c2b22f974b032de875006fc093b8f2d498564447",
+  "tree_truncated": false,
+  "tree_path_count": 527,
+  "has_tests": true,
+  "matched_test_paths": [
+    "cypress",
+    "cypress/e2e",
+    "cypress/e2e/autoUnregister.cy.ts",
+    "cypress/e2e/basic.cy.ts",
+    "cypress/e2e/basicSchemaValidation.cy.ts",
+    "cypress/e2e/conditionalField.cy.ts",
+    "cypress/e2e/controller.cy.ts",
+    "cypress/e2e/customSchemaValidation.cy.ts",
+    "cypress/e2e/defaultValues.cy.ts",
+    "cypress/e2e/defaultValuesAsync.cy.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/api-extrator.yml",
+    ".github/workflows/automation.yml",
+    ".github/workflows/build-test.yml",
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/compressed-size.yml",
+    ".github/workflows/lock-issue.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/PULL_REQUEST_TEMPLATE",
+    ".github/PULL_REQUEST_TEMPLATE/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

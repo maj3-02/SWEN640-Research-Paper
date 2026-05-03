@@ -1,0 +1,35 @@
+{
+  "repository_full_name": "OpenCut-app/OpenCut",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:13.745638+00:00",
+  "tree_sha": "6ec818fc11334092dd2d068b2735d04aa0ff04e4",
+  "tree_truncated": false,
+  "tree_path_count": 1316,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/web/src/animation/__tests__",
+    "apps/web/src/animation/__tests__/animated-params.test.ts",
+    "apps/web/src/animation/__tests__/binding-values.test.ts",
+    "apps/web/src/fps/__tests__",
+    "apps/web/src/fps/__tests__/fps.test.ts",
+    "apps/web/src/masks/__tests__",
+    "apps/web/src/masks/__tests__/snap.test.ts",
+    "apps/web/src/retime/__tests__",
+    "apps/web/src/retime/__tests__/resolve.test.ts",
+    "apps/web/src/retime/__tests__/split.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/bun-ci.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/SECURITY.md",
+    ".github/SUPPORT.md",
+    ".github/pull_request_template.md"
+  ]
+}

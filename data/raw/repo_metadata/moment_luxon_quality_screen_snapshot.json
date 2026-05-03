@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "moment/luxon",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:18.291593+00:00",
+  "tree_sha": "b6b9d03709085008287ed7f4ce5067f0f4be53f2",
+  "tree_truncated": false,
+  "tree_path_count": 180,
+  "has_tests": true,
+  "matched_test_paths": [
+    "scripts/test",
+    "test",
+    "test/datetime",
+    "test/datetime/create.test.js",
+    "test/datetime/degrade.test.js",
+    "test/datetime/diff.test.js",
+    "test/datetime/dst.test.js",
+    "test/datetime/equality.test.js",
+    "test/datetime/format.test.js",
+    "test/datetime/getters.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    "CONTRIBUTING.md"
+  ]
+}

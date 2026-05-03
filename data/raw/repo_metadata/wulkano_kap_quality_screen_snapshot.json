@@ -1,0 +1,30 @@
+{
+  "repository_full_name": "wulkano/Kap",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:25.977001+00:00",
+  "tree_sha": "c42692fa63ac71ed192e01684beb78a1b864aa88",
+  "tree_truncated": false,
+  "tree_path_count": 415,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/convert.ts",
+    "test/fixtures",
+    "test/fixtures/corrupt.mp4",
+    "test/fixtures/incomplete.mp4",
+    "test/fixtures/input.mp4",
+    "test/fixtures/input@2x.mp4",
+    "test/helpers",
+    "test/helpers/assertions.ts",
+    "test/helpers/mocks.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/config.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CODE_OF_CONDUCT.md",
+    "contributing.md"
+  ]
+}

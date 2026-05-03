@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "electerm/electerm",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:27.499317+00:00",
+  "tree_sha": "ff6621cc5394b46125e5fa453dc91e45addac692",
+  "tree_truncated": false,
+  "tree_path_count": 842,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/e2e",
+    "test/e2e/00181.layout.spec.js",
+    "test/e2e/00182.workspace.spec.js",
+    "test/e2e/005.3.web-bookmark.spec.js",
+    "test/e2e/005.4.telnet-bookmark.spec.js",
+    "test/e2e/005.5.split-view.spec.js",
+    "test/e2e/005.6.split-view-config.spec.js",
+    "test/e2e/005.ai-config.spec.js",
+    "test/e2e/005.basic-ssh.spec.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-homepage-trigger.yml",
+    ".github/workflows/linux-arm-legacy.yml",
+    ".github/workflows/linux-arm.yml",
+    ".github/workflows/linux-deb-tar.yml",
+    ".github/workflows/linux-legacy.yml",
+    ".github/workflows/linux-rpm-snap.yml",
+    ".github/workflows/mac-10.yml",
+    ".github/workflows/mac-arm.yml",
+    ".github/workflows/mac-test-1.yml",
+    ".github/workflows/mac-test-2.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/1-bug-report.yml",
+    ".github/ISSUE_TEMPLATE/2-proposal.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    "SECURITY.md"
+  ]
+}

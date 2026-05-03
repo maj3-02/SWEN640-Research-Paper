@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "airbnb/visx",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:17.343688+00:00",
+  "tree_sha": "98f5312d540f4dcaf8835d9b313af5a82a85c29b",
+  "tree_truncated": false,
+  "tree_path_count": 1633,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/visx-annotation/test",
+    "packages/visx-annotation/test/Annotation.test.tsx",
+    "packages/visx-annotation/test/CircleSubject.test.tsx",
+    "packages/visx-annotation/test/Connector.test.tsx",
+    "packages/visx-annotation/test/EditableAnnotation.test.tsx",
+    "packages/visx-annotation/test/HtmlLabel.test.tsx",
+    "packages/visx-annotation/test/Label.test.tsx",
+    "packages/visx-annotation/test/LineSubject.test.tsx",
+    "packages/visx-annotation/test/svgMock.ts",
+    "packages/visx-annotation/test/tsconfig.json"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/pull_request.yml",
+    ".github/workflows/push.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

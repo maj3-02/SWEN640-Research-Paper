@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "amruthpillai/reactive-resume",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:28.494675+00:00",
+  "tree_sha": "47abce351b44a1ca42aa8fa6e9dc3e10d0bb838e",
+  "tree_truncated": false,
+  "tree_path_count": 823,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/components/input/chip-input.test.tsx",
+    "src/components/input/url-input.test.tsx",
+    "src/components/level/display.test.tsx",
+    "src/components/resume/shared/linked-title.test.tsx",
+    "src/components/resume/shared/page-link.test.tsx",
+    "src/components/resume/store/resume.test.ts",
+    "src/components/ui/brand-icon.test.tsx",
+    "src/dialogs/store.test.ts",
+    "src/hooks/use-confirm.test.tsx",
+    "src/hooks/use-controlled-state.test.tsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/autofix.yml",
+    ".github/workflows/crowdin-sync.yml",
+    ".github/workflows/docker-build.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1-bug-report.yml",
+    ".github/ISSUE_TEMPLATE/2-feature-request.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    "SECURITY.md"
+  ]
+}

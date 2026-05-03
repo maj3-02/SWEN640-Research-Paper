@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "ramda/ramda",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:53.165878+00:00",
+  "tree_sha": "7d9d8272b160bb6e25a7ea577deb01210f15146a",
+  "tree_truncated": false,
+  "tree_path_count": 727,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/F.js",
+    "test/T.js",
+    "test/add.js",
+    "test/addIndex.js",
+    "test/addIndexRight.js",
+    "test/adjust.js",
+    "test/all.js",
+    "test/allPass.js",
+    "test/always.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build.yml",
+    ".github/workflows/coverage.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "invoke-ai/InvokeAI",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:50.542767+00:00",
+  "tree_sha": "eac4f47d0842b9f370a2e5aa4e22d0b3c40da562",
+  "tree_truncated": false,
+  "tree_path_count": 4056,
+  "has_tests": true,
+  "matched_test_paths": [
+    "invokeai/frontend/web/src/app/store/middleware/listenerMiddleware/listeners/modelSelected.test.ts",
+    "invokeai/frontend/web/src/common/hooks/focus.test.ts",
+    "invokeai/frontend/web/src/common/util/SyncableMap/SyncableMap.test.ts",
+    "invokeai/frontend/web/src/common/util/arrayUtils.test.ts",
+    "invokeai/frontend/web/src/common/util/promptAST.test.ts",
+    "invokeai/frontend/web/src/common/util/promptAttention.test.ts",
+    "invokeai/frontend/web/src/common/util/result.test.ts",
+    "invokeai/frontend/web/src/features/controlLayers/components/StagingArea/shared.test.ts",
+    "invokeai/frontend/web/src/features/controlLayers/components/StagingArea/state.test.ts",
+    "invokeai/frontend/web/src/features/controlLayers/konva/util.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-container.yml",
+    ".github/workflows/build-wheel.yml",
+    ".github/workflows/clean-caches.yml",
+    ".github/workflows/close-inactive-issues.yml",
+    ".github/workflows/deploy-docs.yml",
+    ".github/workflows/frontend-checks.yml",
+    ".github/workflows/frontend-tests.yml",
+    ".github/workflows/label-pr.yml",
+    ".github/workflows/lfs-checks.yml",
+    ".github/workflows/python-checks.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/BUG_REPORT.yml",
+    ".github/ISSUE_TEMPLATE/FEATURE_REQUEST.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/pull_request_template.md",
+    "SECURITY.md",
+    "docs-old/CODE_OF_CONDUCT.md"
+  ]
+}

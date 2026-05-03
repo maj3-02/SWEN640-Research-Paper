@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "erikras/react-redux-universal-hot-example",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:45.907133+00:00",
+  "tree_sha": "076e24bcd9b363a9ce84f0ebbd0fe036f15561e2",
+  "tree_truncated": false,
+  "tree_path_count": 171,
+  "has_tests": true,
+  "matched_test_paths": [
+    "api/__tests__",
+    "api/__tests__/api-test.js",
+    "api/actions/__tests__",
+    "api/actions/__tests__/loadInfo-test.js",
+    "api/actions/__tests__/widget-load-test.js",
+    "api/actions/__tests__/widget-update-test.js",
+    "src/components/__tests__",
+    "src/components/__tests__/InfoBar-test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md"
+  ]
+}

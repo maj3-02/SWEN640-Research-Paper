@@ -1,0 +1,25 @@
+{
+  "repository_full_name": "haizlin/fe-interview",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:47.649469+00:00",
+  "tree_sha": "79bab2c2a203705e1201051ae8c80b752a3d439e",
+  "tree_truncated": false,
+  "tree_path_count": 89,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/--------.md",
+    ".github/ISSUE_TEMPLATE/angularjs.md",
+    ".github/ISSUE_TEMPLATE/css-----.md",
+    ".github/ISSUE_TEMPLATE/es6.md",
+    ".github/ISSUE_TEMPLATE/html-----.md",
+    ".github/ISSUE_TEMPLATE/jquery.md",
+    ".github/ISSUE_TEMPLATE/js-----.md",
+    ".github/ISSUE_TEMPLATE/nodejs.md",
+    ".github/ISSUE_TEMPLATE/other-issue-template.md"
+  ]
+}

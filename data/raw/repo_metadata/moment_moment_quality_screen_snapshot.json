@@ -1,0 +1,32 @@
+{
+  "repository_full_name": "moment/moment",
+  "default_branch": "develop",
+  "fetched_at_utc": "2026-04-28T19:16:24.851832+00:00",
+  "tree_sha": "18aba135ab927ffe7f868ee09276979bed6993a6",
+  "tree_truncated": false,
+  "tree_path_count": 825,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/test",
+    "src/test/helpers",
+    "src/test/helpers/common-locale.js",
+    "src/test/helpers/deprecation-handler.js",
+    "src/test/helpers/dst.js",
+    "src/test/helpers/each-own-prop.js",
+    "src/test/helpers/each.js",
+    "src/test/helpers/has-own-prop.js",
+    "src/test/helpers/object-keys.js",
+    "src/test/locale"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/npm-grunt.yml",
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    "CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "mastra-ai/mastra",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:04.292720+00:00",
+  "tree_sha": "77658b88cf6cf79f1959fce41791f31d8f18582c",
+  "tree_truncated": false,
+  "tree_path_count": 9899,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".claude/skills/mastra-smoke-test/references/tests",
+    ".claude/skills/mastra-smoke-test/references/tests/agents.md",
+    ".claude/skills/mastra-smoke-test/references/tests/errors.md",
+    ".claude/skills/mastra-smoke-test/references/tests/mcp.md",
+    ".claude/skills/mastra-smoke-test/references/tests/memory.md",
+    ".claude/skills/mastra-smoke-test/references/tests/scorers.md",
+    ".claude/skills/mastra-smoke-test/references/tests/server.md",
+    ".claude/skills/mastra-smoke-test/references/tests/setup.md",
+    ".claude/skills/mastra-smoke-test/references/tests/studio.md",
+    ".claude/skills/mastra-smoke-test/references/tests/tools.md"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/README.md",
+    ".github/workflows/backport-auto.yml",
+    ".github/workflows/call-external-mastra-workflow.yml",
+    ".github/workflows/contributor_actions.yml",
+    ".github/workflows/create-release.yml",
+    ".github/workflows/cron-alpha-publish.yml",
+    ".github/workflows/cron-discord-github-sync.yml",
+    ".github/workflows/cron-discord-triage.yml",
+    ".github/workflows/cron-github-issues-follow-up.yml",
+    ".github/workflows/dane-pr-commands.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/documentation.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/ISSUE_TEMPLATE/integration_request.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "docs/CONTRIBUTING.md",
+    "templates/template-browsing-agent/CONTRIBUTING.md"
+  ]
+}

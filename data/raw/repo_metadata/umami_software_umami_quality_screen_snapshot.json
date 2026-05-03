@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "umami-software/umami",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:29.802035+00:00",
+  "tree_sha": "c78ff36db0c82e13c86e5073020472c6546313a3",
+  "tree_truncated": false,
+  "tree_path_count": 1684,
+  "has_tests": true,
+  "matched_test_paths": [
+    "cypress",
+    "cypress/docker-compose.yml",
+    "cypress/e2e",
+    "cypress/e2e/api-team.cy.ts",
+    "cypress/e2e/api-user.cy.ts",
+    "cypress/e2e/api-website.cy.ts",
+    "cypress/e2e/login.cy.ts",
+    "cypress/e2e/user.cy.ts",
+    "cypress/e2e/website.cy.ts",
+    "cypress/fixtures"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/cd-cloud.yml",
+    ".github/workflows/cd.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/stale-issues.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1.bug_report.yml",
+    ".github/ISSUE_TEMPLATE/2.feature_request.yml",
+    ".github/ISSUE_TEMPLATE/config.yml"
+  ]
+}

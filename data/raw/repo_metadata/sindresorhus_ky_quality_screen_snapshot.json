@@ -1,0 +1,29 @@
+{
+  "repository_full_name": "sindresorhus/ky",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:40.470358+00:00",
+  "tree_sha": "e0fcf780de2bd69af2528e4b7b87ccae6bb727b1",
+  "tree_truncated": false,
+  "tree_path_count": 77,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/base-url.ts",
+    "test/body-size.ts",
+    "test/browser.ts",
+    "test/bytes.ts",
+    "test/context.ts",
+    "test/fetch.ts",
+    "test/formdata-searchparams.ts",
+    "test/headers.ts",
+    "test/helpers"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/main.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/security.md"
+  ]
+}

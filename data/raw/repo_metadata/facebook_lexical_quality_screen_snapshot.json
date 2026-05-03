@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "facebook/lexical",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:04.519337+00:00",
+  "tree_sha": "67cfec5a27108bb865a309db3d0ba5d660ed885c",
+  "tree_truncated": false,
+  "tree_path_count": 2119,
+  "has_tests": true,
+  "matched_test_paths": [
+    "examples/agent-example/src/__tests__",
+    "examples/agent-example/src/__tests__/unit",
+    "examples/agent-example/src/__tests__/unit/extractEntityNodes.test.ts",
+    "examples/agent-example/src/__tests__/unit/mergeEntities.test.ts",
+    "examples/extension-sveltekit-ssr-hydration/e2e",
+    "examples/extension-sveltekit-ssr-hydration/e2e/demo.test.ts",
+    "packages/lexical-code-core/src/__tests__",
+    "packages/lexical-code-core/src/__tests__/unit",
+    "packages/lexical-code-core/src/__tests__/unit/CodeExtension.test.ts",
+    "packages/lexical-code-core/src/__tests__/unit/CodeNode.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/after-approval.yml",
+    ".github/workflows/call-core-tests.yml",
+    ".github/workflows/call-e2e-all-tests.yml",
+    ".github/workflows/call-e2e-canary-tests.yml",
+    ".github/workflows/call-e2e-test.yml",
+    ".github/workflows/call-increment-version.yml",
+    ".github/workflows/call-integration-tests.yml",
+    ".github/workflows/call-npm-publish.yml",
+    ".github/workflows/call-post-release.yml",
+    ".github/workflows/close-stale-pr.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

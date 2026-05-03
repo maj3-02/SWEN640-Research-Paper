@@ -1,0 +1,29 @@
+{
+  "repository_full_name": "hammerjs/hammer.js",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:52.749335+00:00",
+  "tree_sha": "ff687ea0daa3c806b9accd2ecb1a46165ea3c00a",
+  "tree_truncated": false,
+  "tree_path_count": 123,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/manual",
+    "tests/manual/assets",
+    "tests/manual/assets/style.css",
+    "tests/manual/compute_touch_action.html",
+    "tests/manual/input.html",
+    "tests/manual/log.html",
+    "tests/manual/multiple.html",
+    "tests/manual/nested.html",
+    "tests/manual/simulator-googlemaps.html"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md"
+  ]
+}

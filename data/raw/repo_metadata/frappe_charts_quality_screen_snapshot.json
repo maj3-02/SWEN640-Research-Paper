@@ -1,0 +1,23 @@
+{
+  "repository_full_name": "frappe/charts",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:17.082803+00:00",
+  "tree_sha": "7b15424c3af80b1c8e178d8e612c290d2d630904",
+  "tree_truncated": false,
+  "tree_path_count": 74,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/js/utils/test",
+    "src/js/utils/test/colors.test.js",
+    "src/js/utils/test/helpers.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/npm-publish.yml",
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

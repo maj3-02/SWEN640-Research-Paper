@@ -1,0 +1,35 @@
+{
+  "repository_full_name": "infinitered/reactotron",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:47.812501+00:00",
+  "tree_sha": "9dcedf2c3342d2e8038579293944cdb34d0aa123",
+  "tree_truncated": false,
+  "tree_path_count": 809,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/example-app/app/services/api/apiProblem.test.ts",
+    "apps/example-app/app/utils/storage/storage.test.ts",
+    "apps/example-app/test",
+    "apps/example-app/test/i18n.test.ts",
+    "apps/example-app/test/mockFile.ts",
+    "apps/example-app/test/setup.ts",
+    "apps/example-app/test/test-tsconfig.json",
+    "apps/reactotron-app/src/renderer/contexts/Layout/useLayout.test.ts",
+    "apps/reactotron-app/src/renderer/contexts/Standalone/useStandalone.test.ts",
+    "lib/eslint-plugin-reactotron/tests"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/config.yml",
+    ".github/workflows/cleanup-all-temp-trusted-branches.yml",
+    ".github/workflows/trust-fork-pr-cleanup.yml",
+    ".github/workflows/trust-fork-pr.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

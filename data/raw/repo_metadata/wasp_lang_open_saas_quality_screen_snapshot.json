@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "wasp-lang/open-saas",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:59.827173+00:00",
+  "tree_sha": "5bdd36e11873f637847e7484a5f8b0076e3a08a2",
+  "tree_truncated": false,
+  "tree_path_count": 717,
+  "has_tests": true,
+  "matched_test_paths": [
+    "template/e2e-tests/tests",
+    "template/e2e-tests/tests/authRedirectTests.spec.ts",
+    "template/e2e-tests/tests/demoAppTests.spec.ts",
+    "template/e2e-tests/tests/landingPageTests.spec.ts",
+    "template/e2e-tests/tests/pricingPageTests.spec.ts",
+    "template/e2e-tests/tests/utils.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/automation-pr-label-external.yaml",
+    ".github/workflows/blog-deployment.yml",
+    ".github/workflows/check-opensaas-diffs.yml",
+    ".github/workflows/e2e-tests.yml",
+    ".github/workflows/lint.yml",
+    ".github/workflows/template-release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md"
+  ]
+}

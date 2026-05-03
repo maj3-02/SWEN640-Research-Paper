@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "chenglou/react-motion",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-26T23:03:22.837497+00:00",
+  "tree_sha": "9e3ce95bacaa9a1b259f969870a21c727232cc68",
+  "tree_truncated": false,
+  "tree_path_count": 94,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/Motion-test.js",
+    "test/StaggeredMotion-test.js",
+    "test/TransitionMotion-test.js",
+    "test/createMockRaf.js",
+    "test/index.js",
+    "test/integration",
+    "test/integration/README.md",
+    "test/integration/bower.html",
+    "test/integration/bower.json"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

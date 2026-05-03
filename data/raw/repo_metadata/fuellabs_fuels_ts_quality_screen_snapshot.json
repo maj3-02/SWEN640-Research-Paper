@@ -1,0 +1,44 @@
+{
+  "repository_full_name": "FuelLabs/fuels-ts",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:21.031684+00:00",
+  "tree_sha": "b3f37c91aca4aa9d5e4c0d3967f66237190826ea",
+  "tree_truncated": false,
+  "tree_path_count": 2892,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/create-fuels-counter-guide/test",
+    "apps/create-fuels-counter-guide/test/ui",
+    "apps/create-fuels-counter-guide/test/ui/test-ui.sh",
+    "apps/create-fuels-counter-guide/test/ui/ui.test.ts",
+    "apps/demo-bun-fuels/src/bun.test.ts",
+    "apps/demo-fuels/src/index.test.ts",
+    "apps/demo-typegen/src/demo.test.ts",
+    "apps/docs/.vitepress/plugins/codeInContextPlugin.test.ts",
+    "apps/docs/.vitepress/plugins/utils/extractImports.test.ts",
+    "internal/check-tests/src/all.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/audit.yaml",
+    ".github/workflows/changesets-pr.yaml",
+    ".github/workflows/code-lint.yaml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/forc-version.yaml",
+    ".github/workflows/pr-labeler.yml",
+    ".github/workflows/pr-lint.yaml",
+    ".github/workflows/pr-validate-changesets.yaml",
+    ".github/workflows/publish-preview.yaml",
+    ".github/workflows/publish-to-next.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1-bug.yaml",
+    ".github/ISSUE_TEMPLATE/2-feature.yaml",
+    ".github/ISSUE_TEMPLATE/config.yaml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

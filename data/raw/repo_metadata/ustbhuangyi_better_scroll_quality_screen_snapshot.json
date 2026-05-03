@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "ustbhuangyi/better-scroll",
+  "default_branch": "dev",
+  "fetched_at_utc": "2026-04-28T19:19:42.349486+00:00",
+  "tree_sha": "f87fbd161d4bebb1d1e90fc1675db1b0f90174d0",
+  "tree_truncated": false,
+  "tree_path_count": 858,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/core/src/__tests__",
+    "packages/core/src/__tests__/Options.spec.ts",
+    "packages/core/src/__tests__/__utils__",
+    "packages/core/src/__tests__/__utils__/event.ts",
+    "packages/core/src/__tests__/__utils__/layout.ts",
+    "packages/core/src/__tests__/index.spec.ts",
+    "packages/core/src/animater/__tests__",
+    "packages/core/src/animater/__tests__/Animation.spec.ts",
+    "packages/core/src/animater/__tests__/Transition.spec.ts",
+    "packages/core/src/animater/__tests__/index.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

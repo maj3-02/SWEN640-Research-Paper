@@ -1,0 +1,30 @@
+{
+  "repository_full_name": "webpack/webpack-bundle-analyzer",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:39.072111+00:00",
+  "tree_sha": "9ba43c79a0113d3fd35dbcc55a637ffebaad7581",
+  "tree_truncated": false,
+  "tree_path_count": 237,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/.eslintrc.json",
+    "test/.gitignore",
+    "test/Logger.js",
+    "test/analyzer.js",
+    "test/bundles",
+    "test/bundles/invalidBundle.js",
+    "test/bundles/validBundleWithArrowFunction.js",
+    "test/bundles/validBundleWithArrowFunction.modules.json",
+    "test/bundles/validBundleWithEsNextFeatures.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/main.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md"
+  ]
+}

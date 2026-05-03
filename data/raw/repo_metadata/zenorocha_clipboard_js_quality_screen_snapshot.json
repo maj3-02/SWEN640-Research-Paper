@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "zenorocha/clipboard.js",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:35.048379+00:00",
+  "tree_sha": "899378dee9681dcf4cb3d702c23a3f3cd9f473d8",
+  "tree_truncated": false,
+  "tree_path_count": 67,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/actions",
+    "test/actions/copy.js",
+    "test/actions/cut.js",
+    "test/actions/default.js",
+    "test/clipboard.js",
+    "test/common",
+    "test/common/command.js",
+    "test/common/create-fake-element.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/publish.yml",
+    ".github/workflows/test.js.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/documentation.md",
+    ".github/ISSUE_TEMPLATE/proposal.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "contributing.md"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "wg-easy/wg-easy",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:56.330558+00:00",
+  "tree_sha": "ebcc42cc49eeb5fff130e49a8d53f5581e6ec2ae",
+  "tree_truncated": false,
+  "tree_path_count": 411,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/test",
+    "src/test/unit",
+    "src/test/unit/firewall.spec.ts",
+    "src/test/unit/password.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/codeql.yml",
+    ".github/workflows/deploy-development.yml",
+    ".github/workflows/deploy-edge.yml",
+    ".github/workflows/deploy-pr.yml",
+    ".github/workflows/deploy.yml",
+    ".github/workflows/lint.yml",
+    ".github/workflows/stale.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/01-bug-report.yml",
+    ".github/ISSUE_TEMPLATE/02-feature-request.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "contributing.md"
+  ]
+}

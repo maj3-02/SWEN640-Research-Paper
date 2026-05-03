@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "lerna/lerna",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:30.510640+00:00",
+  "tree_sha": "f4387d673bfdf4923ab62cd52d3498dec6dc7f2c",
+  "tree_truncated": false,
+  "tree_path_count": 2240,
+  "has_tests": true,
+  "matched_test_paths": [
+    "e2e",
+    "e2e/changed",
+    "e2e/changed/eslint.config.mjs",
+    "e2e/changed/jest.config.ts",
+    "e2e/changed/project.json",
+    "e2e/changed/src",
+    "e2e/changed/src/changed.spec.ts",
+    "e2e/changed/src/test-setup.ts",
+    "e2e/changed/tsconfig.json",
+    "e2e/changed/tsconfig.lib.json"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/other-node-versions.yml",
+    ".github/workflows/pkg-pr-new.yml",
+    ".github/workflows/website-deploy.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1-bug.md",
+    ".github/ISSUE_TEMPLATE/2-feature.md",
+    ".github/ISSUE_TEMPLATE/3-documentation.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

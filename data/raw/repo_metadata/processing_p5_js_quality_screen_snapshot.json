@@ -1,0 +1,45 @@
+{
+  "repository_full_name": "processing/p5.js",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:53.988547+00:00",
+  "tree_sha": "c004b418f81b3e599572ab534669003665f961aa",
+  "tree_truncated": false,
+  "tree_path_count": 1609,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tasks/test",
+    "tasks/test/mocha-chrome.js",
+    "test",
+    "test/.eslintrc",
+    "test/js",
+    "test/js/chai_helpers.js",
+    "test/js/mocha_setup.js",
+    "test/js/modernizr.js",
+    "test/js/p5_helpers.js",
+    "test/js/sinon.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/auto-close-issues.yml",
+    ".github/workflows/ci-lint.yml",
+    ".github/workflows/ci-test.yml",
+    ".github/workflows/contributors-png.yml",
+    ".github/workflows/labeler.yml",
+    ".github/workflows/release-workflow-v2.yml",
+    ".github/workflows/release-workflow.yml",
+    ".github/workflows/stewards-update.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1-p5.js-2.0-bug-report.yml",
+    ".github/ISSUE_TEMPLATE/2-found-a-bug.yml",
+    ".github/ISSUE_TEMPLATE/3-existing-feature-enhancement.yml",
+    ".github/ISSUE_TEMPLATE/4-feature-request.yml",
+    ".github/ISSUE_TEMPLATE/5-discussion.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

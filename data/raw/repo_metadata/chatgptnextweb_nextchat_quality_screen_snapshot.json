@@ -1,0 +1,35 @@
+{
+  "repository_full_name": "ChatGPTNextWeb/NextChat",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:57.010202+00:00",
+  "tree_sha": "c3b8c1587c04fff05f7b42276a43016e87771527",
+  "tree_truncated": false,
+  "tree_path_count": 438,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/model-available.test.ts",
+    "test/model-provider.test.ts",
+    "test/sum-module.test.ts",
+    "test/vision-model-checker.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/app.yml",
+    ".github/workflows/deploy_preview.yml",
+    ".github/workflows/docker.yml",
+    ".github/workflows/issue-translator.yml",
+    ".github/workflows/remove_deploy_preview.yml",
+    ".github/workflows/sync.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1_bug_report.yml",
+    ".github/ISSUE_TEMPLATE/1_bug_report_cn.yml",
+    ".github/ISSUE_TEMPLATE/2_feature_request.yml",
+    ".github/ISSUE_TEMPLATE/2_feature_request_cn.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md"
+  ]
+}

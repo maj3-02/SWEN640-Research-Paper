@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "infernojs/inferno",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:11.372104+00:00",
+  "tree_sha": "f1a7fa2f1d6823989b30ffda410b340eb5ed3963",
+  "tree_truncated": false,
+  "tree_path_count": 586,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/inferno-animation/__tests__",
+    "packages/inferno-animation/__tests__/animatedAllComponent.spec.tsx",
+    "packages/inferno-animation/__tests__/animatedComponent.spec.tsx",
+    "packages/inferno-animation/__tests__/animatedComponentTypings.tsx",
+    "packages/inferno-animation/__tests__/animatedMoveComponent.spec.tsx",
+    "packages/inferno-animation/__tests__/index.spec.tsx",
+    "packages/inferno-animation/__tests__/utils.spec.tsx",
+    "packages/inferno-clone-vnode/__tests__",
+    "packages/inferno-clone-vnode/__tests__/cloneVNode.spec.tsx",
+    "packages/inferno-compat/__tests__"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci-template.yml",
+    ".github/workflows/codeql-analysis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md"
+  ]
+}

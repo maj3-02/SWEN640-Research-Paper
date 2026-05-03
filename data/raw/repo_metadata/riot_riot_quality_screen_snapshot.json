@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "riot/riot",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:20.508858+00:00",
+  "tree_sha": "de59df6f8129c7e13d2c2559ec69de286d78345a",
+  "tree_truncated": false,
+  "tree_path_count": 176,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/components",
+    "test/components/child.riot",
+    "test/components/comments-and-expressions.riot",
+    "test/components/component-with-getters.riot",
+    "test/components/conditional-select-option.riot",
+    "test/components/conditional-slot-parent.riot",
+    "test/components/conditional-slot.riot",
+    "test/components/custom-tag-ref-attribute.riot",
+    "test/components/dashed-attribute-child.riot"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md"
+  ]
+}

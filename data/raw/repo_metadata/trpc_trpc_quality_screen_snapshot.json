@@ -1,0 +1,44 @@
+{
+  "repository_full_name": "trpc/trpc",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:24.425044+00:00",
+  "tree_sha": "23c723cfeaf07da28a52a5c35c3dcccf96a47578",
+  "tree_truncated": false,
+  "tree_path_count": 2041,
+  "has_tests": true,
+  "matched_test_paths": [
+    "examples/.experimental/next-app-dir/test",
+    "examples/.experimental/next-app-dir/test/client.test.ts",
+    "examples/.experimental/next-app-dir/test/server-cache.test.ts",
+    "examples/.test/ssg-infinite-serialization/test",
+    "examples/.test/ssg-infinite-serialization/test/smoke.test.ts",
+    "examples/.test/ssg/test",
+    "examples/.test/ssg/test/smoke.test.ts",
+    "examples/minimal-content-types/test",
+    "examples/minimal-content-types/test/smoke.test.ts",
+    "examples/minimal-react/test"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/check-skills.yml",
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/dependabot-approve.yml",
+    ".github/workflows/labeler.yml",
+    ".github/workflows/lint.yml",
+    ".github/workflows/lock-issues.yml",
+    ".github/workflows/main.yml",
+    ".github/workflows/notify-intent.yml",
+    ".github/workflows/release-manual.yml",
+    ".github/workflows/semantic-pr.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1.bug_report.yml",
+    ".github/ISSUE_TEMPLATE/2.feature_request.yml",
+    ".github/ISSUE_TEMPLATE/3.docs.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

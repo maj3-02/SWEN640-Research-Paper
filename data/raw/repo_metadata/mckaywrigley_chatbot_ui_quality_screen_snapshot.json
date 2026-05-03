@@ -1,0 +1,25 @@
+{
+  "repository_full_name": "mckaywrigley/chatbot-ui",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:35.119912+00:00",
+  "tree_sha": "81328b61d2a4ab597a7a057be70e785cf756d9f8",
+  "tree_truncated": false,
+  "tree_path_count": 405,
+  "has_tests": true,
+  "matched_test_paths": [
+    "__tests__",
+    "__tests__/lib",
+    "__tests__/lib/openapi-conversion.test.ts",
+    "__tests__/playwright-test",
+    "__tests__/playwright-test/.gitignore",
+    "__tests__/playwright-test/package-lock.json",
+    "__tests__/playwright-test/package.json",
+    "__tests__/playwright-test/playwright.config.ts",
+    "__tests__/playwright-test/tests",
+    "__tests__/playwright-test/tests/login.spec.ts"
+  ],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

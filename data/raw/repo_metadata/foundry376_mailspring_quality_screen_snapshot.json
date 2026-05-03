@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "Foundry376/Mailspring",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:07.957497+00:00",
+  "tree_sha": "7539729ed0f01ea006aa703c9aaff623d3b6be9f",
+  "tree_truncated": false,
+  "tree_path_count": 7316,
+  "has_tests": true,
+  "matched_test_paths": [
+    "app/build/resources/linux/redhat/mailspring.spec.in",
+    "app/internal_packages/account-sidebar/specs",
+    "app/internal_packages/account-sidebar/specs/sidebar-item-spec.es6.ts",
+    "app/internal_packages/category-picker/spec",
+    "app/internal_packages/category-picker/spec/category-picker-spec.jsx",
+    "app/internal_packages/composer-signature/specs",
+    "app/internal_packages/composer-signature/specs/preferences-signatures-spec.tsx",
+    "app/internal_packages/composer-signature/specs/signature-composer-dropdown-spec.jsx",
+    "app/internal_packages/composer-signature/specs/signature-composer-extension-spec.ts",
+    "app/internal_packages/composer-signature/specs/signature-store-spec.jsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/config.yml",
+    ".github/workflows/build-linux-arm64.yaml",
+    ".github/workflows/build-linux.yaml",
+    ".github/workflows/build-macos.yaml",
+    ".github/workflows/build-windows.yaml",
+    ".github/workflows/test.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/developer_issue.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

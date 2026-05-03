@@ -1,0 +1,46 @@
+{
+  "repository_full_name": "facebook/react",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:10.569111+00:00",
+  "tree_sha": "ad5dfc82b7107728da1430dd142f75b97b684dac",
+  "tree_truncated": false,
+  "tree_path_count": 7482,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".claude/skills/test",
+    ".claude/skills/test/SKILL.md",
+    "compiler/apps/playground/__tests__",
+    "compiler/apps/playground/__tests__/e2e",
+    "compiler/apps/playground/__tests__/e2e/__snapshots__",
+    "compiler/apps/playground/__tests__/e2e/__snapshots__/page.spec.ts",
+    "compiler/apps/playground/__tests__/e2e/__snapshots__/page.spec.ts/01-user-output.txt",
+    "compiler/apps/playground/__tests__/e2e/__snapshots__/page.spec.ts/02-default-output.txt",
+    "compiler/apps/playground/__tests__/e2e/__snapshots__/page.spec.ts/compilationMode-all-output.txt",
+    "compiler/apps/playground/__tests__/e2e/__snapshots__/page.spec.ts/compilationMode-infer-output.txt"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/compiler_discord_notify.yml",
+    ".github/workflows/compiler_playground.yml",
+    ".github/workflows/compiler_prereleases.yml",
+    ".github/workflows/compiler_prereleases_manual.yml",
+    ".github/workflows/compiler_prereleases_nightly.yml",
+    ".github/workflows/compiler_typescript.yml",
+    ".github/workflows/devtools_discord_notify.yml",
+    ".github/workflows/devtools_regression_tests.yml",
+    ".github/workflows/runtime_build_and_test.yml",
+    ".github/workflows/runtime_commit_artifacts.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/compiler_bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/devtools_bug_report.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "packages/react-devtools/CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "thedotmack/claude-mem",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:02.134677+00:00",
+  "tree_sha": "7e2da10a8eaebe6e08ee1cda689c6d575639540c",
+  "tree_truncated": false,
+  "tree_path_count": 887,
+  "has_tests": true,
+  "matched_test_paths": [
+    "openclaw/src/index.test.ts",
+    "tests",
+    "tests/bun-runner.test.ts",
+    "tests/cli",
+    "tests/cli/adapters",
+    "tests/cli/adapters/claude-code-subagent.test.ts",
+    "tests/cli/handlers",
+    "tests/cli/handlers/summarize-subagent-skip.test.ts",
+    "tests/cli/stdin-reader.test.ts",
+    "tests/codex-workspace-context.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/claude.yml",
+    ".github/workflows/convert-feature-requests.yml",
+    ".github/workflows/deploy-install-scripts.yml",
+    ".github/workflows/npm-publish.yml",
+    ".github/workflows/summary.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "repository_full_name": "jondot/awesome-react-native",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:33.546632+00:00",
+  "tree_sha": "23100d54f6ef1cbdf56d4983dde8fe97cbe26c76",
+  "tree_truncated": false,
+  "tree_path_count": 20,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md"
+  ]
+}

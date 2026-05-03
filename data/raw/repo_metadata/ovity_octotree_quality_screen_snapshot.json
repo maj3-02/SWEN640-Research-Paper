@@ -1,0 +1,16 @@
+{
+  "repository_full_name": "ovity/octotree",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:55.462876+00:00",
+  "tree_sha": "470747c7007c8335981ea7a10a631bbf9bbb11f7",
+  "tree_truncated": false,
+  "tree_path_count": 80,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

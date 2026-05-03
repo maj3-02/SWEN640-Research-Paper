@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "aidenybai/react-scan",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:15.025320+00:00",
+  "tree_sha": "b5be21653951a2234c72f269cef4e469110c9b29",
+  "tree_truncated": false,
+  "tree_path_count": 360,
+  "has_tests": true,
+  "matched_test_paths": [
+    "e2e",
+    "e2e/helpers.ts",
+    "e2e/inspector.spec.ts",
+    "e2e/notifications.spec.ts",
+    "e2e/outlines.spec.ts",
+    "e2e/toolbar.spec.ts",
+    "packages/scan/src/cli-utils.test.mts",
+    "packages/scan/src/core/fast-serialize.test.ts",
+    "packages/scan/src/react-component-name/__tests__",
+    "packages/scan/src/react-component-name/__tests__/arrow-function.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-extension.yml",
+    ".github/workflows/pkg-pr-new.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

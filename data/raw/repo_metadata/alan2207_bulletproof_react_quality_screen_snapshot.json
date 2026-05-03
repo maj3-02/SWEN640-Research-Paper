@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "alan2207/bulletproof-react",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:31.523950+00:00",
+  "tree_sha": "dde5a4ad68989ecc088d6a46f3ba863627aa0629",
+  "tree_truncated": false,
+  "tree_path_count": 749,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/nextjs-app/e2e",
+    "apps/nextjs-app/e2e/.eslintrc.cjs",
+    "apps/nextjs-app/e2e/tests",
+    "apps/nextjs-app/e2e/tests/auth.setup.ts",
+    "apps/nextjs-app/e2e/tests/profile.spec.ts",
+    "apps/nextjs-app/e2e/tests/smoke.spec.ts",
+    "apps/nextjs-app/src/app/app/discussions/[discussionId]/__tests__",
+    "apps/nextjs-app/src/app/app/discussions/[discussionId]/__tests__/discussion.test.tsx",
+    "apps/nextjs-app/src/app/app/discussions/__tests__",
+    "apps/nextjs-app/src/app/app/discussions/__tests__/discussions.test.tsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/nextjs-app-ci.yml",
+    ".github/workflows/nextjs-pages-ci.yml",
+    ".github/workflows/react-vite-ci.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "docs/security.md"
+  ]
+}

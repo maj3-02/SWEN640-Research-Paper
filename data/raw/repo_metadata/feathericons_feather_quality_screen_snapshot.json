@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "feathericons/feather",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:48.090022+00:00",
+  "tree_sha": "3dc050d97405062eba78aa57115c0a15c63abdaa",
+  "tree_truncated": false,
+  "tree_path_count": 356,
+  "has_tests": true,
+  "matched_test_paths": [
+    "bin/__tests__",
+    "bin/__tests__/__snapshots__",
+    "bin/__tests__/__snapshots__/build-icons-object.test.js.snap",
+    "bin/__tests__/__snapshots__/build-sprite-string.test.js.snap",
+    "bin/__tests__/__snapshots__/optimize-svg.test.js.snap",
+    "bin/__tests__/build-icons-object.test.js",
+    "bin/__tests__/build-sprite-string.test.js",
+    "bin/__tests__/optimize-svg.test.js",
+    "src/__tests__",
+    "src/__tests__/__snapshots__"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/01-icon-request.yml",
+    ".github/ISSUE_TEMPLATE/02-bug-report.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

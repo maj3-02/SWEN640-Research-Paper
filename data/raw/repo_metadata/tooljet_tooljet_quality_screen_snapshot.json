@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "ToolJet/ToolJet",
+  "default_branch": "develop",
+  "fetched_at_utc": "2026-04-28T19:16:32.134431+00:00",
+  "tree_sha": "75f41f7367dedac7188eb054b28413dee38bcf01",
+  "tree_truncated": false,
+  "tree_path_count": 14905,
+  "has_tests": true,
+  "matched_test_paths": [
+    "cypress-tests/cypress",
+    "cypress-tests/cypress/commands",
+    "cypress-tests/cypress/commands/apiCommands.js",
+    "cypress-tests/cypress/commands/commands.js",
+    "cypress-tests/cypress/constants",
+    "cypress-tests/cypress/constants/selectors",
+    "cypress-tests/cypress/constants/selectors/Plugins.js",
+    "cypress-tests/cypress/constants/selectors/awss3.js",
+    "cypress-tests/cypress/constants/selectors/common.js",
+    "cypress-tests/cypress/constants/selectors/dashboard.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/cloud-frontend-cf-pages-prod.yml",
+    ".github/workflows/cloud-frontend-cf-pages-stage.yml",
+    ".github/workflows/cloud-frontend.yml",
+    ".github/workflows/code-coverage.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/cypress-appbuilder.yml",
+    ".github/workflows/cypress-marketplace.yml",
+    ".github/workflows/cypress-platform.yml",
+    ".github/workflows/deploy-to-stage.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/01_bug_report.md",
+    ".github/ISSUE_TEMPLATE/02-feature_request.md",
+    ".github/ISSUE_TEMPLATE/03_documentation_report.yml",
+    ".github/ISSUE_TEMPLATE/04_test_specification.md",
+    ".github/ISSUE_TEMPLATE/05_refactor_code_base.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "docs/versioned_docs/version-2.50.0-LTS/security.md"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "THU-MAIC/OpenMAIC",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:42.092842+00:00",
+  "tree_sha": "10b1fc83cf77c769e8acac7b6c0569122b764bfd",
+  "tree_truncated": false,
+  "tree_path_count": 927,
+  "has_tests": true,
+  "matched_test_paths": [
+    "e2e",
+    "e2e/fixtures",
+    "e2e/fixtures/base.ts",
+    "e2e/fixtures/mock-api.ts",
+    "e2e/fixtures/test-data",
+    "e2e/fixtures/test-data/scene-actions.ts",
+    "e2e/fixtures/test-data/scene-content.ts",
+    "e2e/fixtures/test-data/scene-outlines.ts",
+    "e2e/fixtures/test-data/settings.ts",
+    "e2e/pages"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

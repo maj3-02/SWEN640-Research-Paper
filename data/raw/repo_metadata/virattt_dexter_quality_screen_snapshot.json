@@ -1,0 +1,25 @@
+{
+  "repository_full_name": "virattt/dexter",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:12.783242+00:00",
+  "tree_sha": "96bb3472bd2644c489af0f13d9d0a53605943c70",
+  "tree_truncated": false,
+  "tree_path_count": 229,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/controllers/agent-runner.test.ts",
+    "src/gateway/access-control.test.ts",
+    "src/gateway/channels/whatsapp/reconnect.test.ts",
+    "src/gateway/routing/resolve-route.test.ts",
+    "src/gateway/sessions/store.test.ts",
+    "src/gateway/utils.test.ts",
+    "src/utils/cache.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/rebase-on-label.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

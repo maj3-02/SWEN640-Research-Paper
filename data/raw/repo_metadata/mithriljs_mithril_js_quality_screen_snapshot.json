@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "MithrilJS/mithril.js",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:23.699173+00:00",
+  "tree_sha": "bd0ee3fde38347abb8c720dfda6ac02570cc5eef",
+  "tree_truncated": false,
+  "tree_path_count": 166,
+  "has_tests": true,
+  "matched_test_paths": [
+    "api/tests",
+    "api/tests/test-mountRedraw.js",
+    "api/tests/test-router.js",
+    "api/tests/test-routerGetSet.js",
+    "pathname/tests",
+    "pathname/tests/test-buildPathname.js",
+    "pathname/tests/test-compileTemplate.js",
+    "pathname/tests/test-parsePathname.js",
+    "querystring/tests",
+    "querystring/tests/test-buildQueryString.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/issue-create.yml",
+    ".github/workflows/notify-release.yml",
+    ".github/workflows/pr-create-release.yml",
+    ".github/workflows/publish-prerelease.yml",
+    ".github/workflows/push-release.yml",
+    ".github/workflows/rollback.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1-core.yml",
+    ".github/ISSUE_TEMPLATE/2-stream.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "docs/contributing.md"
+  ]
+}

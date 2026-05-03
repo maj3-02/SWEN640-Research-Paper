@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "sindresorhus/got",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:54.150355+00:00",
+  "tree_sha": "e9489c1729a56711a18aa49d11c1ed596dfef451",
+  "tree_truncated": false,
+  "tree_path_count": 138,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/abort.ts",
+    "test/agent.ts",
+    "test/arguments.ts",
+    "test/cache.ts",
+    "test/cookies.ts",
+    "test/create.ts",
+    "test/diagnostics-channel.ts",
+    "test/early-307-redirects.ts",
+    "test/encoding.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/main.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1-bug-report.md",
+    ".github/ISSUE_TEMPLATE/2-feature-request.md",
+    ".github/ISSUE_TEMPLATE/3-question.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    ".github/security.md"
+  ]
+}

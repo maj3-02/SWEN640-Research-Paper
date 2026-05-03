@@ -1,0 +1,29 @@
+{
+  "repository_full_name": "MostlyAdequate/mostly-adequate-guide",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:53.359532+00:00",
+  "tree_sha": "239468e9bc4ce1f0143722f312eb2487cac846ea",
+  "tree_truncated": false,
+  "tree_path_count": 163,
+  "has_tests": true,
+  "matched_test_paths": [
+    "exercises/test",
+    "exercises/test/ch04.js",
+    "exercises/test/ch04.solutions.js",
+    "exercises/test/ch05.js",
+    "exercises/test/ch05.solutions.js",
+    "exercises/test/ch08.js",
+    "exercises/test/ch08.solutions.js",
+    "exercises/test/ch09.js",
+    "exercises/test/ch09.solutions.js",
+    "exercises/test/ch10.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md"
+  ]
+}

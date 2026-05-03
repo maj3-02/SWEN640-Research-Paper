@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "marcuswestin/store.js",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:27.681822+00:00",
+  "tree_sha": "fe77ae9e7ca1c8fb9af27b9f53a14722cd14d9d4",
+  "tree_truncated": false,
+  "tree_path_count": 82,
+  "has_tests": true,
+  "matched_test_paths": [
+    "plugins/compression_test.js",
+    "plugins/defaults_test.js",
+    "plugins/dump_test.js",
+    "plugins/events_test.js",
+    "plugins/expire_test.js",
+    "plugins/json2_test.js",
+    "plugins/observe_test.js",
+    "plugins/operations_test.js",
+    "plugins/update_test.js",
+    "plugins/v1-backcompat_test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/config.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

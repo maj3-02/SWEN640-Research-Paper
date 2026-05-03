@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "segmentio/evergreen",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:42.430025+00:00",
+  "tree_sha": "9b774aee2d794f6cf2f73a054bd33066ca5898a9",
+  "tree_truncated": false,
+  "tree_path_count": 1539,
+  "has_tests": true,
+  "matched_test_paths": [
+    "codemods/src/4.28.1-4.29.0/__tests__",
+    "codemods/src/4.28.1-4.29.0/__tests__/replace-icon-imports.test.ts",
+    "codemods/src/5.0.0-6.0.0/__tests__",
+    "codemods/src/5.0.0-6.0.0/__tests__/replace-margin-top-default.test.ts",
+    "codemods/src/6.0.0-7.0.0/__tests__",
+    "codemods/src/6.0.0-7.0.0/__tests__/eject-classic-theme.test.ts",
+    "codemods/src/6.0.0-7.0.0/__tests__/eject-deprecated-default-theme.test.ts",
+    "codemods/src/6.0.0-7.0.0/__tests__/replace-imports-with-local-path.test.ts",
+    "codemods/src/6.0.0-7.0.0/__tests__/replace-nudge.test.ts",
+    "codemods/src/6.0.0-7.0.0/__tests__/replace-sidebar-tabs.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug-report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

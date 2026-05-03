@@ -1,0 +1,25 @@
+{
+  "repository_full_name": "typescript-cheatsheets/react",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:25.272636+00:00",
+  "tree_sha": "52f70c3f5f8eb8d809ea98b5ebe351fca088c820",
+  "tree_truncated": false,
+  "tree_path_count": 106,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/main.yml",
+    ".github/workflows/mlc_config.json"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/advanced-cheatsheet.md",
+    ".github/ISSUE_TEMPLATE/basic-cheatsheet.md",
+    ".github/ISSUE_TEMPLATE/general-react-ts-question.md",
+    ".github/ISSUE_TEMPLATE/hoc-cheatsheet.md",
+    ".github/ISSUE_TEMPLATE/migrating-cheatsheet.md",
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md"
+  ]
+}

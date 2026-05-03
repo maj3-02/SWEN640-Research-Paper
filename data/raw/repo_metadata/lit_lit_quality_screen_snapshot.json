@@ -1,0 +1,44 @@
+{
+  "repository_full_name": "lit/lit",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:13.114128+00:00",
+  "tree_sha": "6c051d517bd92761787897b2c8c060ed419126e2",
+  "tree_truncated": false,
+  "tree_path_count": 2437,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/context/src/test",
+    "packages/context/src/test/context-provider_test.ts",
+    "packages/context/src/test/context-request_test.ts",
+    "packages/context/src/test/decorators",
+    "packages/context/src/test/decorators/provide_test.ts",
+    "packages/context/src/test/late-provider_test.ts",
+    "packages/context/src/test/protocol-types-test.ts",
+    "packages/context/src/test/protocol-types.ts",
+    "packages/context/src/test/provider-and-consumer_test.ts",
+    "packages/context/src/test/provider-consumer_test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/benchmarks-report.yaml",
+    ".github/workflows/benchmarks.yml",
+    ".github/workflows/changeset-status.yaml",
+    ".github/workflows/release-image.yaml",
+    ".github/workflows/release.yaml",
+    ".github/workflows/sizecheck-report.yaml",
+    ".github/workflows/sizecheck.yaml",
+    ".github/workflows/starter-kits.yaml",
+    ".github/workflows/tests.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug-report.yaml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature-request.yaml",
+    ".github/ISSUE_TEMPLATE/task.yaml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "packages/labs/virtualizer/CONTRIBUTING.md"
+  ]
+}

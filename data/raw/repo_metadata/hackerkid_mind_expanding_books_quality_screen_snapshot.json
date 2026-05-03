@@ -1,0 +1,17 @@
+{
+  "repository_full_name": "hackerkid/Mind-Expanding-Books",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:30.257240+00:00",
+  "tree_sha": "2844c5ad5e1f4da8a637c74503763a2cb56f5550",
+  "tree_truncated": false,
+  "tree_path_count": 72,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md"
+  ]
+}

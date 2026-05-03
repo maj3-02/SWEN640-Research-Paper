@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "electric-sql/pglite",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:51.449598+00:00",
+  "tree_sha": "1337be6e33b7c294f8987c918b1e64d2421365ee",
+  "tree_truncated": false,
+  "tree_path_count": 564,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/pg-protocol/test",
+    "packages/pg-protocol/test/inbound-parser.test.ts",
+    "packages/pg-protocol/test/outbound-serializer.test.ts",
+    "packages/pg-protocol/test/string-utils.test.ts",
+    "packages/pg-protocol/test/testing",
+    "packages/pg-protocol/test/testing/buffer-list.ts",
+    "packages/pg-protocol/test/testing/test-buffers.ts",
+    "packages/pglite-postgis/tests",
+    "packages/pglite-postgis/tests/postgis.test.ts",
+    "packages/pglite-prepopulatedfs/tests"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build_and_test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug-report.md",
+    ".github/ISSUE_TEMPLATE/extension-request.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md"
+  ]
+}

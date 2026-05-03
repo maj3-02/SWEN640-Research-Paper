@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "chartdb/chartdb",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:10.559503+00:00",
+  "tree_sha": "c24936a402bb3e24b4858f05282d69a04fcfe25b",
+  "tree_truncated": false,
+  "tree_path_count": 973,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/lib/check-constraints/__tests__",
+    "src/lib/check-constraints/__tests__/check-constraints-validator.test.ts",
+    "src/lib/data/import-metadata/__tests__",
+    "src/lib/data/import-metadata/__tests__/fix-metadata-json.test.ts",
+    "src/lib/data/sql-export/__tests__",
+    "src/lib/data/sql-export/__tests__/array-fields.test.ts",
+    "src/lib/data/sql-export/__tests__/cross-dialect-export.test.ts",
+    "src/lib/data/sql-export/__tests__/export-sql-dbml.test.ts",
+    "src/lib/data/sql-export/__tests__/export-sql-quoted-identifiers.test.ts",
+    "src/lib/data/sql-export/__tests__/export-sql.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yaml",
+    ".github/workflows/cla.yaml",
+    ".github/workflows/publish.yaml",
+    ".github/workflows/release.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

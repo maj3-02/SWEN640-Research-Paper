@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "downshift-js/downshift",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:43.800931+00:00",
+  "tree_sha": "f1862ed0633a4018227595057295678e718c14d4",
+  "tree_truncated": false,
+  "tree_path_count": 283,
+  "has_tests": true,
+  "matched_test_paths": [
+    "cypress",
+    "cypress/.eslintrc",
+    "cypress/e2e",
+    "cypress/e2e/combobox.cy.js",
+    "cypress/e2e/useCombobox.cy.js",
+    "cypress/e2e/useMultipleCombobox.cy.js",
+    "cypress/e2e/useMultipleSelect.cy.js",
+    "cypress/e2e/useSelect.cy.js",
+    "cypress/e2e/useTagGroup.cy.js",
+    "cypress/fixtures"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/validate.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

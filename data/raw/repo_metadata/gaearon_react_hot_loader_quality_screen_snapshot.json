@@ -1,0 +1,30 @@
+{
+  "repository_full_name": "gaearon/react-hot-loader",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:45.708226+00:00",
+  "tree_sha": "07d1f4e080f18dd83273be5bd02863ce1caf892e",
+  "tree_truncated": false,
+  "tree_path_count": 413,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/.eslintrc.js",
+    "test/AppContainer.dev.test.js",
+    "test/__babel_fixtures__",
+    "test/__babel_fixtures__/bindings.js",
+    "test/__babel_fixtures__/class-properties",
+    "test/__babel_fixtures__/class-properties/arguments.js",
+    "test/__babel_fixtures__/class-properties/arrow-function-in-constructor.js",
+    "test/__babel_fixtures__/class-properties/async-functions-expression-body.js",
+    "test/__babel_fixtures__/class-properties/async-functions.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "repository_full_name": "musistudio/claude-code-router",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:35.311201+00:00",
+  "tree_sha": "e270dea523b8ac025ab9b7b0708dc170efa52d8a",
+  "tree_truncated": false,
+  "tree_path_count": 445,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/docker-publish.yml",
+    ".github/workflows/docs.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

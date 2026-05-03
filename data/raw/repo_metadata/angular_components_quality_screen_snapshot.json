@@ -1,0 +1,44 @@
+{
+  "repository_full_name": "angular/components",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:58.821542+00:00",
+  "tree_sha": "af49eee5d3c75dcd71087f23f1f6fd9d3543f798",
+  "tree_truncated": false,
+  "tree_path_count": 5981,
+  "has_tests": true,
+  "matched_test_paths": [
+    "docs/e2e",
+    "docs/e2e/protractor.conf.js",
+    "docs/e2e/src",
+    "docs/e2e/src/app.e2e-spec.ts",
+    "docs/e2e/src/app.po.ts",
+    "docs/e2e/tsconfig.json",
+    "docs/scenes/e2e",
+    "docs/scenes/e2e/protractor.conf.js",
+    "docs/scenes/e2e/screenshot.ts",
+    "docs/scenes/e2e/src"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/assistant-to-the-branch-manager.yml",
+    ".github/workflows/ci.material-aio.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/deploy-dev-app-main-push.yml",
+    ".github/workflows/dev-infra.yml",
+    ".github/workflows/docs-preview-build.yml",
+    ".github/workflows/docs-preview-deploy.yml",
+    ".github/workflows/google-internal-tests.yml",
+    ".github/workflows/pr.material-aio.yml",
+    ".github/workflows/pr.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/docs.yml",
+    ".github/ISSUE_TEMPLATE/feature.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

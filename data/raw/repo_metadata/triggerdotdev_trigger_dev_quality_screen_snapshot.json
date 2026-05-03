@@ -1,0 +1,45 @@
+{
+  "repository_full_name": "triggerdotdev/trigger.dev",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:55.681257+00:00",
+  "tree_sha": "fefe61f0065937fcf4cc89d7e3f39b9702a5a18c",
+  "tree_truncated": false,
+  "tree_path_count": 5614,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".github/test",
+    ".github/test/README.md",
+    ".github/test/events",
+    ".github/test/events/push-main.json",
+    ".github/test/events/push-tag-build.json",
+    ".github/test/events/push-tag-docker-nonsemver.json",
+    ".github/test/events/push-tag-docker.json",
+    ".github/test/events/push-tag-infra-prod.json",
+    ".github/test/events/push-tag-infra-test.json",
+    ".github/test/events/push-tag-semver.json"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/changesets-pr.yml",
+    ".github/workflows/claude-md-audit.yml",
+    ".github/workflows/claude.yml",
+    ".github/workflows/docs.yml",
+    ".github/workflows/e2e-webapp.yml",
+    ".github/workflows/e2e.yml",
+    ".github/workflows/helm-prerelease.yml",
+    ".github/workflows/pr_checks.yml",
+    ".github/workflows/publish-webapp.yml",
+    ".github/workflows/publish-worker-v4.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/ISSUE_TEMPLATE/instrumentation_request.yml",
+    ".github/ISSUE_TEMPLATE/vouch-request.yml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

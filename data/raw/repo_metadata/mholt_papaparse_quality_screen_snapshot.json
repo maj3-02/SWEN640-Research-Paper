@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "mholt/PapaParse",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:32.930301+00:00",
+  "tree_sha": "cc8c801f83fa2bdbf4baab5048e79b0911d9aa58",
+  "tree_truncated": false,
+  "tree_path_count": 57,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/.eslintrc.js",
+    "tests/long-sample.csv",
+    "tests/node-tests.js",
+    "tests/sample-header.csv",
+    "tests/sample.csv",
+    "tests/test-cases.js",
+    "tests/test.js",
+    "tests/tests.html",
+    "tests/utf-8-bom-sample.csv"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/node.js.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

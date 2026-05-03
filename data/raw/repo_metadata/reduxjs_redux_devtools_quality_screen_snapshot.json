@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "reduxjs/redux-devtools",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:59.606670+00:00",
+  "tree_sha": "4c5d05d4729c0f72c50d24f307c2079fad46533b",
+  "tree_truncated": false,
+  "tree_path_count": 1139,
+  "has_tests": true,
+  "matched_test_paths": [
+    "extension/test",
+    "extension/test/.eslintrc",
+    "extension/test/__mocks__",
+    "extension/test/__mocks__/styleMock.js",
+    "extension/test/app",
+    "extension/test/app/containers",
+    "extension/test/app/containers/App.spec.jsx",
+    "extension/test/app/inject",
+    "extension/test/app/inject/api.spec.js",
+    "extension/test/app/inject/enhancer.spec.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/CI.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CODE_OF_CONDUCT.md",
+    "extension/CODE_OF_CONDUCT.md"
+  ]
+}

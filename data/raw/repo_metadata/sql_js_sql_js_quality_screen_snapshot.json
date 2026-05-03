@@ -1,0 +1,30 @@
+{
+  "repository_full_name": "sql-js/sql.js",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:30.783573+00:00",
+  "tree_sha": "8088a6829d929338b861c7179275b1bc222725d9",
+  "tree_truncated": false,
+  "tree_path_count": 82,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/all.js",
+    "test/disabled_test_memory_leak_on_error.js",
+    "test/issue55.db",
+    "test/load_sql_lib.js",
+    "test/run.sh",
+    "test/sql-requireJS.html",
+    "test/test.sqlite",
+    "test/test_aggregate_functions.js",
+    "test/test_aggregate_redefinition.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/CI.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md"
+  ]
+}

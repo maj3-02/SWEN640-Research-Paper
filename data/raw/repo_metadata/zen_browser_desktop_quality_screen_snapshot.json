@@ -1,0 +1,41 @@
+{
+  "repository_full_name": "zen-browser/desktop",
+  "default_branch": "dev",
+  "fetched_at_utc": "2026-04-28T19:16:28.816698+00:00",
+  "tree_sha": "18c15ac0b8fbfbfc666c453e5ee7f286b609b7a6",
+  "tree_truncated": false,
+  "tree_path_count": 2045,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/zen/glance/tests",
+    "src/zen/glance/tests/GlanceTestUtils.sys.mjs",
+    "src/zen/tests",
+    "src/zen/tests/boosts",
+    "src/zen/tests/boosts/browser.toml",
+    "src/zen/tests/boosts/browser_boost_selector_basic.js",
+    "src/zen/tests/boosts/browser_boost_selector_invalid.js",
+    "src/zen/tests/boosts/browser_boost_selector_nthchild.js",
+    "src/zen/tests/boosts/head.js",
+    "src/zen/tests/compact_mode"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build.yml",
+    ".github/workflows/check-candidate-release.yml",
+    ".github/workflows/clear-all-cache.yml",
+    ".github/workflows/issue-labeler.yml",
+    ".github/workflows/issue-metrics.yml",
+    ".github/workflows/linux-release-build.yml",
+    ".github/workflows/macos-release-build.yml",
+    ".github/workflows/macos-universal-release-build.yml",
+    ".github/workflows/pr-test.yml",
+    ".github/workflows/src"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    "CODE_OF_CONDUCT.md",
+    "SECURITY.md"
+  ]
+}

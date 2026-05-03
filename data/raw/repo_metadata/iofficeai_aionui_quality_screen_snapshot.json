@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "iOfficeAI/AionUi",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:06.180502+00:00",
+  "tree_sha": "ed8a6bcd3803954807465947a5c8da4b43eaabca",
+  "tree_truncated": false,
+  "tree_path_count": 3088,
+  "has_tests": true,
+  "matched_test_paths": [
+    "docs/specs",
+    "docs/specs/acp-rewrite",
+    "docs/specs/acp-rewrite/01-current-problems.md",
+    "docs/specs/acp-rewrite/02-reference-implementation.md",
+    "docs/specs/acp-rewrite/03-architecture-design.md",
+    "docs/specs/acp-rewrite/04-type-catalog.md",
+    "docs/specs/acp-rewrite/05-test-plan.md",
+    "docs/specs/acp-rewrite/06-scenario-walkthrough.md",
+    "docs/specs/acp-rewrite/README.md",
+    "docs/specs/acp-rewrite/TODO.md"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/README.md",
+    ".github/workflows/_build-reusable.yml",
+    ".github/workflows/build-and-release.yml",
+    ".github/workflows/build-manual.yml",
+    ".github/workflows/bump-homebrew.yml",
+    ".github/workflows/gpt-pr-assessment.yml",
+    ".github/workflows/gpt-review.yml",
+    ".github/workflows/pr-checks-docs.yml",
+    ".github/workflows/pr-checks.yml",
+    ".github/workflows/pr-e2e-artifacts.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/ISSUE_TEMPLATE/question.yml",
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md"
+  ]
+}

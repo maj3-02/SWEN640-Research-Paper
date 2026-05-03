@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "botpress/botpress",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:56.660261+00:00",
+  "tree_sha": "e14a2bf5ff0eb1c8cf068c25b2845784b9f56c40",
+  "tree_truncated": false,
+  "tree_path_count": 4234,
+  "has_tests": true,
+  "matched_test_paths": [
+    "bots/bugbuster/src/services/issue-processor/issue-title-format-validator.test.ts",
+    "integrations/browser/src/utils/globs.test.ts",
+    "integrations/chat/src/id-store/in-memory-store.test.ts",
+    "integrations/dropbox/src/dropbox-api/file-tree.test.ts",
+    "integrations/email/src/paging.test.ts",
+    "integrations/github/src/files-readonly/mapping.test.ts",
+    "integrations/google-analytics/src/client.test.ts",
+    "integrations/googlecalendar/src/google-api/mapping/datetime-utils/iso-to-rfc3339.test.ts",
+    "integrations/googledrive/src/files-readonly/google-drive-file-tree.test.ts",
+    "integrations/gsheets/src/actions/implementations/append-values.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/check-all-workflows.yml",
+    ".github/workflows/check-integration-versions.yml",
+    ".github/workflows/check-plugin-versions.yml",
+    ".github/workflows/check-shells.yml",
+    ".github/workflows/deploy-bots.yml",
+    ".github/workflows/deploy-chat-production.yml",
+    ".github/workflows/deploy-chat-staging.yml",
+    ".github/workflows/deploy-integrations-production.yml",
+    ".github/workflows/deploy-integrations-staging.yml",
+    ".github/workflows/docker-chat.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/issue.yml"
+  ]
+}

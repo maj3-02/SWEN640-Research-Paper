@@ -1,0 +1,44 @@
+{
+  "repository_full_name": "google-gemini/gemini-cli",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:54.499667+00:00",
+  "tree_sha": "f8603e990b3b1db51216b70a54223ad65cb6a9e4",
+  "tree_truncated": false,
+  "tree_path_count": 3014,
+  "has_tests": true,
+  "matched_test_paths": [
+    "evals/test-helper.test.ts",
+    "integration-tests/acp-env-auth.test.ts",
+    "integration-tests/acp-telemetry.test.ts",
+    "integration-tests/api-resilience.test.ts",
+    "integration-tests/browser-agent-localhost.test.ts",
+    "integration-tests/browser-agent.test.ts",
+    "integration-tests/browser-policy.test.ts",
+    "integration-tests/checkpointing.test.ts",
+    "integration-tests/clipboard-linux.test.ts",
+    "integration-tests/concurrency-limit.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/agent-session-drift-check.yml",
+    ".github/workflows/chained_e2e.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/community-report.yml",
+    ".github/workflows/deflake.yml",
+    ".github/workflows/docs-audit.yml",
+    ".github/workflows/docs-page-action.yml",
+    ".github/workflows/docs-rebuild.yml",
+    ".github/workflows/eval-pr.yml",
+    ".github/workflows/eval.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/ISSUE_TEMPLATE/website_issue.yml",
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "docs/CONTRIBUTING.md"
+  ]
+}

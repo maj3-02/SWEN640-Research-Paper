@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "codesandbox/codesandbox-client",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:31.079940+00:00",
+  "tree_sha": "8f3b54adbeb5beb782199662e9260ad4a55c1b00",
+  "tree_truncated": false,
+  "tree_path_count": 5853,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/app/integration-tests/tests",
+    "packages/app/integration-tests/tests/__image_snapshots__",
+    "packages/app/integration-tests/tests/__image_snapshots__/1oknw8q8zq-snap.png",
+    "packages/app/integration-tests/tests/__image_snapshots__/2ppkvzx570-snap.png",
+    "packages/app/integration-tests/tests/__image_snapshots__/31kn7voz4q-snap.png",
+    "packages/app/integration-tests/tests/__image_snapshots__/4888omqqz7-snap.png",
+    "packages/app/integration-tests/tests/__image_snapshots__/4j7m47vlm4-snap.png",
+    "packages/app/integration-tests/tests/__image_snapshots__/6w66jzw3mn-snap.png",
+    "packages/app/integration-tests/tests/__image_snapshots__/98o3k45m8p-snap.png",
+    "packages/app/integration-tests/tests/__image_snapshots__/CompuIves-codesandbox-presentation-snap.png"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/config.yml",
+    ".github/workflows/codeql.yml",
+    "packages/codesandbox-api/.travis.yml",
+    "standalone-packages/codesandbox-browserfs/.travis.yml",
+    "standalone-packages/codesandbox-browserfs/appveyor.yml",
+    "standalone-packages/vscode-textmate/.travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/BUG.md",
+    ".github/ISSUE_TEMPLATE/FEATURE.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "standalone-packages/monaco-editor/CONTRIBUTING.md",
+    "standalone-packages/vscode-editor/CONTRIBUTING.md"
+  ]
+}

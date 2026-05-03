@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "balena-io/etcher",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:34.211547+00:00",
+  "tree_sha": "a79db1db6b940dbc4616df2d760cb25a81c1133f",
+  "tree_truncated": false,
+  "tree_path_count": 208,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".github/actions/test",
+    ".github/actions/test/action.yml",
+    "tests",
+    "tests/.eslintrc.yml",
+    "tests/data",
+    "tests/data/wmic-output.txt",
+    "tests/gui",
+    "tests/gui/allow-renderer-process-reuse.ts",
+    "tests/gui/models",
+    "tests/gui/models/available-drives.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/flowzone.yml",
+    ".github/workflows/winget.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "docs/CONTRIBUTING.md",
+    "docs/SUPPORT.md"
+  ]
+}

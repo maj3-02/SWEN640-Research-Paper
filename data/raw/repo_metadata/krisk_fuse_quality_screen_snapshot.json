@@ -1,0 +1,35 @@
+{
+  "repository_full_name": "krisk/Fuse",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:58.084754+00:00",
+  "tree_sha": "ebde7cb918c671cccfd7442f26e94d51619b243a",
+  "tree_truncated": false,
+  "tree_path_count": 229,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/__snapshots__",
+    "test/__snapshots__/extended-search.test.js.snap",
+    "test/__snapshots__/fuzzy-search.test.js.snap",
+    "test/__snapshots__/logical-search.test.js.snap",
+    "test/cache-invalidation.test.js",
+    "test/extended-search.test.js",
+    "test/feature-flags.test.js",
+    "test/fixtures",
+    "test/fixtures/books.json"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/deploy-docs.yml",
+    ".github/workflows/nodejs.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/docs_bug.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/ISSUE_TEMPLATE/support_request.yml",
+    "CONTRIBUTING.md"
+  ]
+}

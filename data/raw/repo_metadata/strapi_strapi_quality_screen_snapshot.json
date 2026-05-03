@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "strapi/strapi",
+  "default_branch": "develop",
+  "fetched_at_utc": "2026-04-28T19:18:01.743448+00:00",
+  "tree_sha": "4d3719a327155a5ea3919c02fbafb41e0fd1ac8d",
+  "tree_truncated": false,
+  "tree_path_count": 7919,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".github/actions/check-pr-status/__tests__",
+    ".github/actions/check-pr-status/__tests__/action.test.js",
+    "docker-compose.test.yml",
+    "docs/docs/guides/e2e",
+    "docs/docs/guides/e2e/00-setup.md",
+    "docs/docs/guides/e2e/01-app-template.md",
+    "docs/docs/guides/e2e/02-data-transfer.md",
+    "docs/docs/guides/e2e/_category_.json",
+    "examples/getstarted/src/extensions/myplugin/content-types/test",
+    "examples/getstarted/src/extensions/myplugin/content-types/test/schema.json"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/adminBundleSize.yml",
+    ".github/workflows/caniuse.yml",
+    ".github/workflows/changeFreeze.yml",
+    ".github/workflows/checks.yml",
+    ".github/workflows/clean-up-pr-caches.yml",
+    ".github/workflows/close_stale_issues.yml",
+    ".github/workflows/commitlint.yml",
+    ".github/workflows/community-label.yml",
+    ".github/workflows/contributor-doc.yml",
+    ".github/workflows/db"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/BUG_REPORT.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

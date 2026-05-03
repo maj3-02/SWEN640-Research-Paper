@@ -1,0 +1,35 @@
+{
+  "repository_full_name": "jashkenas/backbone",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:42.503660+00:00",
+  "tree_sha": "cbeb7e31d95f64dbe92f2202c1131858f905280e",
+  "tree_truncated": false,
+  "tree_path_count": 141,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/.eslintrc",
+    "test/collection.js",
+    "test/debuginfo.js",
+    "test/events.js",
+    "test/index.html",
+    "test/model.coffee",
+    "test/model.js",
+    "test/noconflict.js",
+    "test/router.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/tests.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/Bugs.yml",
+    ".github/ISSUE_TEMPLATE/Documentation.yml",
+    ".github/ISSUE_TEMPLATE/Features.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

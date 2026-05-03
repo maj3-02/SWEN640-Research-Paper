@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "linkwarden/linkwarden",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:33.183227+00:00",
+  "tree_sha": "22723575b04503eb67c9733c63d55179c069903d",
+  "tree_truncated": false,
+  "tree_path_count": 887,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/web/e2e",
+    "apps/web/e2e/.env.example",
+    "apps/web/e2e/data",
+    "apps/web/e2e/data/user.ts",
+    "apps/web/e2e/fixtures",
+    "apps/web/e2e/fixtures/base",
+    "apps/web/e2e/fixtures/base/dashboard-page.ts",
+    "apps/web/e2e/fixtures/base/modal.ts",
+    "apps/web/e2e/fixtures/base/page.ts",
+    "apps/web/e2e/fixtures/index.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/check-branch.yml",
+    ".github/workflows/locale-action.yml",
+    ".github/workflows/playwright-tests.yml",
+    ".github/workflows/release-container.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/ISSUE_TEMPLATE/ask-a-question.md",
+    ".github/ISSUE_TEMPLATE/bug-report.md",
+    ".github/ISSUE_TEMPLATE/feature-request.md",
+    ".github/ISSUE_TEMPLATE/installation-problem.yml",
+    ".github/SECURITY.md",
+    ".github/pull_request_template.md"
+  ]
+}

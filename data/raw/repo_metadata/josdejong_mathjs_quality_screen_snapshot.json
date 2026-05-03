@@ -1,0 +1,35 @@
+{
+  "repository_full_name": "josdejong/mathjs",
+  "default_branch": "develop",
+  "fetched_at_utc": "2026-04-28T19:17:20.089660+00:00",
+  "tree_sha": "ef44f12a37f6a227a37aef94c78cd6c62b241ea9",
+  "tree_truncated": false,
+  "tree_path_count": 1363,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/function/unit",
+    "src/function/unit/to.js",
+    "src/function/unit/toBest.js",
+    "src/type/unit",
+    "src/type/unit/Unit.js",
+    "src/type/unit/function",
+    "src/type/unit/function/createUnit.js",
+    "src/type/unit/function/splitUnit.js",
+    "src/type/unit/function/unit.js",
+    "src/type/unit/physicalConstants.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build.yaml",
+    ".github/workflows/lambdatest.yaml",
+    ".github/workflows/local-browser.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/new_issue.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "docs/expressions/security.md"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "thomaspark/bootswatch",
+  "default_branch": "v5",
+  "fetched_at_utc": "2026-04-28T19:17:22.100517+00:00",
+  "tree_sha": "3eb431f4a24ac7a7a6b95ce280d8d3dd3628f3de",
+  "tree_truncated": false,
+  "tree_path_count": 3138,
+  "has_tests": true,
+  "matched_test_paths": [
+    "docs/2/bower_components/bootstrap/js/tests",
+    "docs/2/bower_components/bootstrap/js/tests/index.html",
+    "docs/2/bower_components/bootstrap/js/tests/phantom.js",
+    "docs/2/bower_components/bootstrap/js/tests/server.js",
+    "docs/2/bower_components/bootstrap/js/tests/unit",
+    "docs/2/bower_components/bootstrap/js/tests/unit/bootstrap-affix.js",
+    "docs/2/bower_components/bootstrap/js/tests/unit/bootstrap-alert.js",
+    "docs/2/bower_components/bootstrap/js/tests/unit/bootstrap-button.js",
+    "docs/2/bower_components/bootstrap/js/tests/unit/bootstrap-carousel.js",
+    "docs/2/bower_components/bootstrap/js/tests/unit/bootstrap-collapse.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    "docs/2/.travis.yml",
+    "docs/2/bower_components/bootstrap/.travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "docs/2/bower_components/bootstrap/CONTRIBUTING.md",
+    "docs/3/bower_components/bootstrap-sass-official/CONTRIBUTING.md",
+    "docs/3/bower_components/bootstrap-sass/CONTRIBUTING.md",
+    "docs/3/bower_components/font-awesome/CONTRIBUTING.md"
+  ]
+}

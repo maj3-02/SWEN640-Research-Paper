@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "pascalorg/editor",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:55.126935+00:00",
+  "tree_sha": "2b588cd30f33bda9856de8dc23b1bb6862c3450d",
+  "tree_truncated": false,
+  "tree_path_count": 1295,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/editor/lib/scene-api-security.test.ts",
+    "apps/editor/lib/scene-store-server.test.ts",
+    "packages/core/src/schema/asset-url.test.ts",
+    "packages/core/src/systems/stair/stair-opening-sync.test.ts",
+    "packages/editor/src/lib/scene-bounds.test.ts",
+    "packages/mcp/src/bridge/scene-bridge.test.ts",
+    "packages/mcp/src/index.test.ts",
+    "packages/mcp/src/lib/safe-fetch.test.ts",
+    "packages/mcp/src/prompts/prompts.test.ts",
+    "packages/mcp/src/resources/resources.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/mcp-ci.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md"
+  ]
+}

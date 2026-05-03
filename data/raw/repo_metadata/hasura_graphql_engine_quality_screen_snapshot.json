@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "hasura/graphql-engine",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:38.536930+00:00",
+  "tree_sha": "6f7be6eb42b721d4fcb93b9c8e9a66dd6452fb13",
+  "tree_truncated": false,
+  "tree_path_count": 17295,
+  "has_tests": true,
+  "matched_test_paths": [
+    "cli-ext/src/shared/utils/__tests__",
+    "cli-ext/src/shared/utils/__tests__/common.test.ts",
+    "cli-ext/tests",
+    "cli-ext/tests/actions-codegen",
+    "cli-ext/tests/actions-codegen/index.js",
+    "cli-ext/tests/actions-codegen/payload.js",
+    "cli-ext/tests/actions-codegen/test.js",
+    "cli-ext/tests/index.js",
+    "cli-ext/tests/sdl",
+    "cli-ext/tests/sdl/index.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/.gitignore",
+    ".circleci/README.md",
+    ".circleci/build-docker-image.sh",
+    ".circleci/ciignore.sh",
+    ".circleci/cli-migrations-builder.dockerfile",
+    ".circleci/config.yml",
+    ".circleci/install-cli-builder-deps.sh",
+    ".circleci/pgbouncer",
+    ".circleci/pgbouncer/users.txt",
+    ".circleci/postgres-12.0-alpine-postgis3"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/01_bug_report.md",
+    ".github/ISSUE_TEMPLATE/02_feature_request.md",
+    ".github/ISSUE_TEMPLATE/03_bug_report_v3.md",
+    ".github/ISSUE_TEMPLATE/04_feature_request_v3.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "cli/CONTRIBUTING.md",
+    "dc-agents/CONTRIBUTING.md"
+  ]
+}

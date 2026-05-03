@@ -1,0 +1,29 @@
+{
+  "repository_full_name": "michalsnik/aos",
+  "default_branch": "next",
+  "fetched_at_utc": "2026-04-28T19:16:42.688911+00:00",
+  "tree_sha": "329fb34f777034345f4d3f4def4dc3bcc300cc2e",
+  "tree_truncated": false,
+  "tree_path_count": 70,
+  "has_tests": true,
+  "matched_test_paths": [
+    "cypress",
+    "cypress/integration",
+    "cypress/integration/aos_spec.js",
+    "cypress/integration/js_events_spec.js",
+    "cypress/integration/mutation_spec.js",
+    "cypress/integration/settings_anchorPlacement_spec.js",
+    "cypress/integration/settings_anchor_spec.js",
+    "cypress/integration/settings_animatedClassName_spec.js",
+    "cypress/integration/settings_delay_spec.js",
+    "cypress/integration/settings_disableMutationObserver_spec.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md"
+  ]
+}

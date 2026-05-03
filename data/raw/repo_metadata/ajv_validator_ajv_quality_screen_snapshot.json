@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "ajv-validator/ajv",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:55.888740+00:00",
+  "tree_sha": "f177fe323420ccb23e1a79445fd470cbf80aee7c",
+  "tree_truncated": false,
+  "tree_path_count": 550,
+  "has_tests": true,
+  "matched_test_paths": [
+    "spec",
+    "spec/.eslintrc.yml",
+    "spec/JSON-Schema-Test-Suite",
+    "spec/_json",
+    "spec/_json/README.md",
+    "spec/after_test.ts",
+    "spec/ajv.spec.ts",
+    "spec/ajv.ts",
+    "spec/ajv2019.ts",
+    "spec/ajv2020.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build.yml",
+    ".github/workflows/publish.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug-or-error-report.md",
+    ".github/ISSUE_TEMPLATE/change.md",
+    ".github/ISSUE_TEMPLATE/compatibility.md",
+    ".github/ISSUE_TEMPLATE/installation.md",
+    ".github/ISSUE_TEMPLATE/typescript.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "docs/security.md"
+  ]
+}

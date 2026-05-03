@@ -1,0 +1,32 @@
+{
+  "repository_full_name": "handlebars-lang/handlebars.js",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:02.325441+00:00",
+  "tree_sha": "3105ca73c1d48581c1fea4375cff51f92bbd43ae",
+  "tree_truncated": false,
+  "tree_path_count": 179,
+  "has_tests": true,
+  "matched_test_paths": [
+    "spec",
+    "spec/artifacts",
+    "spec/artifacts/bom.handlebars",
+    "spec/artifacts/empty.handlebars",
+    "spec/artifacts/example_1.handlebars",
+    "spec/artifacts/example_2.hbs",
+    "spec/artifacts/known.helpers.handlebars",
+    "spec/artifacts/non.default.extension.hbs",
+    "spec/artifacts/partial.template.handlebars",
+    "spec/ast.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

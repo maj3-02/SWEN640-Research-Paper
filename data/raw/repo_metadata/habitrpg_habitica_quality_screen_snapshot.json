@@ -1,0 +1,30 @@
+{
+  "repository_full_name": "HabitRPG/habitica",
+  "default_branch": "develop",
+  "fetched_at_utc": "2026-04-28T19:17:28.667436+00:00",
+  "tree_sha": "a92999fc11a0fcfe24d74ddc952219ece5d73101",
+  "tree_truncated": false,
+  "tree_path_count": 3807,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/.eslintrc.js",
+    "test/README.md",
+    "test/api",
+    "test/api/unit",
+    "test/api/unit/libs",
+    "test/api/unit/libs/apiError.js",
+    "test/api/unit/libs/baseModel.test.js",
+    "test/api/unit/libs/bug-report.test.js",
+    "test/api/unit/libs/collectionManipulators.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

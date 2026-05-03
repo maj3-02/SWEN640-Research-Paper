@@ -1,0 +1,40 @@
+{
+  "repository_full_name": "caprover/caprover",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:53.316885+00:00",
+  "tree_sha": "9fd0eb525e87e16af568f6e72bb6940e528ddc96",
+  "tree_truncated": false,
+  "tree_path_count": 238,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/ApacheMd5.test.ts",
+    "tests/Authenticator.test.ts",
+    "tests/CertCommandGenerator.test.ts",
+    "tests/CircularQueue.test.ts",
+    "tests/GitHelper.test.ts",
+    "tests/OneClickAppRouter.test.ts",
+    "tests/PatchAppDefinition.test.ts",
+    "tests/ProjectSorter.test.ts",
+    "tests/backup.tar"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build_project.yml",
+    ".github/workflows/format_project.yml",
+    ".github/workflows/lint_project.yml",
+    ".github/workflows/publish_edge.yml",
+    ".github/workflows/publish_release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/deployment-issue.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/ISSUE_TEMPLATE/question.md",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "remix-run/remix",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:37.083843+00:00",
+  "tree_sha": "03744490cd2f00968469857c486e2a32bbb9e5ca",
+  "tree_truncated": false,
+  "tree_path_count": 2216,
+  "has_tests": true,
+  "matched_test_paths": [
+    "demos/bookstore/app/app.test.e2e.ts",
+    "demos/bookstore/app/controllers/account/controller.test.ts",
+    "demos/bookstore/app/controllers/admin/books/controller.test.ts",
+    "demos/bookstore/app/controllers/admin/controller.test.ts",
+    "demos/bookstore/app/controllers/auth/controller.test.ts",
+    "demos/bookstore/app/controllers/books/controller.test.ts",
+    "demos/bookstore/app/controllers/cart/controller.test.ts",
+    "demos/bookstore/app/controllers/checkout/controller.test.ts",
+    "demos/bookstore/app/controllers/contact/controller.test.ts",
+    "demos/bookstore/app/controllers/home.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build.yaml",
+    ".github/workflows/check.yaml",
+    ".github/workflows/data-table-integration.yaml",
+    ".github/workflows/file-storage-integration.yaml",
+    ".github/workflows/format.yml",
+    ".github/workflows/generate-remix.yaml",
+    ".github/workflows/preview.yml",
+    ".github/workflows/publish.yaml",
+    ".github/workflows/release-pr.yaml",
+    ".github/workflows/session-integration.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md"
+  ]
+}

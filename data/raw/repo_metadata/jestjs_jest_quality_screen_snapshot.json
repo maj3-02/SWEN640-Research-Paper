@@ -1,0 +1,46 @@
+{
+  "repository_full_name": "jestjs/jest",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:16.209873+00:00",
+  "tree_sha": "186c5c97a94922e299c99e20e1cac00c510fd94b",
+  "tree_truncated": false,
+  "tree_path_count": 4049,
+  "has_tests": true,
+  "matched_test_paths": [
+    "benchmarks/test-file-overhead/0.test.js",
+    "e2e",
+    "e2e/MockStdinWatchPlugin.js",
+    "e2e/Utils.ts",
+    "e2e/__tests__",
+    "e2e/__tests__/__snapshots__",
+    "e2e/__tests__/__snapshots__/asyncAndCallback.test.ts.snap",
+    "e2e/__tests__/__snapshots__/beforeAllFiltered.ts.snap",
+    "e2e/__tests__/__snapshots__/beforeEachQueue.ts.snap",
+    "e2e/__tests__/__snapshots__/callDoneTwice.test.ts.snap"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/close-stale.yml",
+    ".github/workflows/issues.yml",
+    ".github/workflows/lock.yml",
+    ".github/workflows/nightly.yml",
+    ".github/workflows/nodejs.yml",
+    ".github/workflows/pkg-pr-new.yml",
+    ".github/workflows/prepare-cache.yml",
+    ".github/workflows/test-nightly.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/documentation.yaml",
+    ".github/ISSUE_TEMPLATE/feature.yml",
+    ".github/ISSUE_TEMPLATE/question.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    ".github/SUPPORT.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "GOVERNANCE.md"
+  ]
+}

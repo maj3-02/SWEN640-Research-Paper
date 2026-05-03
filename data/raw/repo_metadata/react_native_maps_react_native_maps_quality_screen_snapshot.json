@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "react-native-maps/react-native-maps",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:46.079966+00:00",
+  "tree_sha": "99183afdd8c4d814cc05e324c9e8c60fd812c2da",
+  "tree_truncated": false,
+  "tree_path_count": 579,
+  "has_tests": true,
+  "matched_test_paths": [
+    "__tests__",
+    "__tests__/AnimatedRegion.test.js",
+    "android/src/main/java/com/facebook/fbreact/specs",
+    "android/src/main/java/com/facebook/fbreact/specs/NativeAirMapsModuleSpec.java",
+    "e2e",
+    "e2e/jest.config.js",
+    "e2e/starter.test.js",
+    "src/specs",
+    "src/specs/NativeAirMapsModule.ts",
+    "src/specs/NativeComponentCallout.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/androidBuild.yml",
+    ".github/workflows/iosBuild.yml",
+    ".github/workflows/iosFrameworksBuild.yml",
+    ".github/workflows/pullRequest.yml",
+    ".github/workflows/push.yml",
+    ".github/workflows/stale.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

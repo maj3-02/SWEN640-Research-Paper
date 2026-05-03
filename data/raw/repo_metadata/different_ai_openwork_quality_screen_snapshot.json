@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "different-ai/openwork",
+  "default_branch": "dev",
+  "fetched_at_utc": "2026-04-28T19:19:58.420451+00:00",
+  "tree_sha": "98b074a7b3ba1fc456482eb6877341f5f0b4dc56",
+  "tree_truncated": false,
+  "tree_path_count": 1649,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/opencode-router/test",
+    "apps/opencode-router/test/bridge-e2e.test.js",
+    "apps/opencode-router/test/bridge-multiworkspace.test.js",
+    "apps/opencode-router/test/db.test.js",
+    "apps/opencode-router/test/health-send.test.js",
+    "apps/opencode-router/test/path-scope.test.js",
+    "apps/opencode-router/test/slack.test.js",
+    "apps/opencode-router/test/telegram.test.js",
+    "apps/server-v2/src/app.test.ts",
+    "apps/server-v2/src/contract.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/alpha-macos-aarch64.yml",
+    ".github/workflows/aur-validate.yml",
+    ".github/workflows/build-desktop.yml",
+    ".github/workflows/build-electron-desktop.yml",
+    ".github/workflows/ci-tests.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/deploy-den.yml",
+    ".github/workflows/download-stats.yml",
+    ".github/workflows/opencode-agents.yml",
+    ".github/workflows/prerelease.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug.yml",
+    ".github/ISSUE_TEMPLATE/feature.yml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "SECURITY.md",
+    "SUPPORT.md"
+  ]
+}

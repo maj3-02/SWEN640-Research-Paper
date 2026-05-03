@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "huggingface/transformers.js",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:13.172267+00:00",
+  "tree_sha": "f7487c737aa8cafbc106c9adf69dc9578c8f3fe0",
+  "tree_truncated": false,
+  "tree_path_count": 1047,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/transformers/tests",
+    "packages/transformers/tests/asset_cache.js",
+    "packages/transformers/tests/bundles.test.js",
+    "packages/transformers/tests/configs.test.js",
+    "packages/transformers/tests/feature_extractors.test.js",
+    "packages/transformers/tests/image_processors.test.js",
+    "packages/transformers/tests/init.js",
+    "packages/transformers/tests/models.test.js",
+    "packages/transformers/tests/models",
+    "packages/transformers/tests/models/afmoe"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/documentation.yml",
+    ".github/workflows/pr-documentation.yml",
+    ".github/workflows/publish.yml",
+    ".github/workflows/tests.yml",
+    ".github/workflows/upload-pr-documentation.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1_bug-report.yml",
+    ".github/ISSUE_TEMPLATE/2_new_model.yml",
+    ".github/ISSUE_TEMPLATE/3_new_pipeline.yml",
+    ".github/ISSUE_TEMPLATE/4_feature-request.yml",
+    ".github/ISSUE_TEMPLATE/5_question.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    "CONTRIBUTING.md"
+  ]
+}

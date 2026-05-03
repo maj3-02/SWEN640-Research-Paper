@@ -1,0 +1,35 @@
+{
+  "repository_full_name": "unocss/unocss",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:29.195982+00:00",
+  "tree_sha": "89e4da1faeb903dd6017317277b28472cf50b110",
+  "tree_truncated": false,
+  "tree_path_count": 1842,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages-engine/autocomplete/test",
+    "packages-engine/autocomplete/test/__snapshots__",
+    "packages-engine/autocomplete/test/__snapshots__/autocomplete.test.ts.snap",
+    "packages-engine/autocomplete/test/autocomplete-fuzzy.test.ts",
+    "packages-engine/autocomplete/test/autocomplete-parse.test.ts",
+    "packages-engine/autocomplete/test/autocomplete-utils.test.ts",
+    "packages-engine/autocomplete/test/autocomplete.test.ts",
+    "packages-engine/cli/test",
+    "packages-engine/cli/test/__snapshots__",
+    "packages-engine/cli/test/__snapshots__/cli.test.ts.snap"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/autofix.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/pkg.pr.new.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "bevacqua/dragula",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-26T23:03:21.640689+00:00",
+  "tree_sha": "09ab978dd550490f1f8e456551a1a39ed0d7f984",
+  "tree_truncated": false,
+  "tree_path_count": 50,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/cancel.js",
+    "test/classes.js",
+    "test/containers.js",
+    "test/defaults.js",
+    "test/destroy.js",
+    "test/drag.js",
+    "test/drake-api.js",
+    "test/end.js",
+    "test/events.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

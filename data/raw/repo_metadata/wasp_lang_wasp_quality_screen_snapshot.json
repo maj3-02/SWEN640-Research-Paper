@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "wasp-lang/wasp",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:32.006495+00:00",
+  "tree_sha": "98e247131cd1d4d3e1eee1ad87c54cc75e40970b",
+  "tree_truncated": false,
+  "tree_path_count": 6650,
+  "has_tests": true,
+  "matched_test_paths": [
+    "examples/ask-the-documents/e2e-tests/tests",
+    "examples/ask-the-documents/e2e-tests/tests/simple.spec.ts",
+    "examples/kitchen-sink/e2e-tests/tests",
+    "examples/kitchen-sink/e2e-tests/tests/async-jobs.spec.ts",
+    "examples/kitchen-sink/e2e-tests/tests/auth-hooks.spec.ts",
+    "examples/kitchen-sink/e2e-tests/tests/auth.spec.ts",
+    "examples/kitchen-sink/e2e-tests/tests/auth.ts",
+    "examples/kitchen-sink/e2e-tests/tests/catch-all-route.spec.ts",
+    "examples/kitchen-sink/e2e-tests/tests/crud.spec.ts",
+    "examples/kitchen-sink/e2e-tests/tests/custom-apis.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/automation-algolia-restart-crawler.yaml",
+    ".github/workflows/automation-cache-evict.yaml",
+    ".github/workflows/automation-cache-warm.yaml",
+    ".github/workflows/automation-merge-release-to-main.yaml",
+    ".github/workflows/automation-pr-label-external.yaml",
+    ".github/workflows/ci-deploy-test.yaml",
+    ".github/workflows/ci-examples-test.yaml",
+    ".github/workflows/ci-formatting.yaml",
+    ".github/workflows/ci-libs-test.yaml",
+    ".github/workflows/ci-npm-package-build.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "web/docs/contributing.md",
+    "web/versioned_docs/version-0.11.8/contributing.md",
+    "web/versioned_docs/version-0.12/contributing.md",
+    "web/versioned_docs/version-0.13/contributing.md"
+  ]
+}

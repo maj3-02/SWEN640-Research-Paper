@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "mailcow/mailcow-dockerized",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:40.460992+00:00",
+  "tree_sha": "281cf93db359554e8f4ca941351d5ba157325cc7",
+  "tree_truncated": false,
+  "tree_path_count": 4162,
+  "has_tests": true,
+  "matched_test_paths": [
+    "data/web/inc/lib/vendor/bacon/bacon-qr-code/test",
+    "data/web/inc/lib/vendor/bacon/bacon-qr-code/test/Common",
+    "data/web/inc/lib/vendor/bacon/bacon-qr-code/test/Common/BitArrayTest.php",
+    "data/web/inc/lib/vendor/bacon/bacon-qr-code/test/Common/BitMatrixTest.php",
+    "data/web/inc/lib/vendor/bacon/bacon-qr-code/test/Common/BitUtilsTest.php",
+    "data/web/inc/lib/vendor/bacon/bacon-qr-code/test/Common/ErrorCorrectionLevelTest.php",
+    "data/web/inc/lib/vendor/bacon/bacon-qr-code/test/Common/FormatInformationTest.php",
+    "data/web/inc/lib/vendor/bacon/bacon-qr-code/test/Common/ModeTest.php",
+    "data/web/inc/lib/vendor/bacon/bacon-qr-code/test/Common/ReedSolomonCodecTest.php",
+    "data/web/inc/lib/vendor/bacon/bacon-qr-code/test/Common/VersionTest.php"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/assets",
+    ".github/workflows/assets/check_prs_if_on_staging.png",
+    ".github/workflows/check_if_support_labeled.yml",
+    ".github/workflows/check_prs_if_on_staging.yml",
+    ".github/workflows/close_old_issues_and_prs.yml",
+    ".github/workflows/image_builds.yml",
+    ".github/workflows/pr_to_nightly.yml",
+    ".github/workflows/rebuild_backup_image.yml",
+    ".github/workflows/update_postscreen_access_list.yml",
+    "data/web/inc/lib/vendor/adldap2/adldap2/.travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/Bug_report.yml",
+    ".github/ISSUE_TEMPLATE/Feature_request.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/pr_to_nighty_template.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "data/web/inc/lib/vendor/matthiasmullie/minify/CONTRIBUTING.md",
+    "data/web/inc/lib/vendor/phpmailer/phpmailer/SECURITY.md"
+  ]
+}

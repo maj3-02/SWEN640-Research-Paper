@@ -1,0 +1,32 @@
+{
+  "repository_full_name": "postcss/postcss",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:45.078823+00:00",
+  "tree_sha": "9bc81c48f054a630c9a2e3868263b7ad4fc15013",
+  "tree_truncated": false,
+  "tree_path_count": 119,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/at-rule.test.ts",
+    "test/comment.test.ts",
+    "test/container.test.ts",
+    "test/css-syntax-error.test.ts",
+    "test/declaration.test.ts",
+    "test/document.test.ts",
+    "test/errors.ts",
+    "test/fromJSON.test.ts",
+    "test/input.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/release.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    "docs/CODE_OF_CONDUCT.md",
+    "docs/SECURITY.md"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "repository_full_name": "ourongxing/newsnow",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:23.738866+00:00",
+  "tree_sha": "625bf04bc9ec13acd5554d241fa1683b0506027a",
+  "tree_truncated": false,
+  "tree_path_count": 256,
+  "has_tests": true,
+  "matched_test_paths": [
+    "server/utils/date.test.ts",
+    "test",
+    "test/common.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/docker.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md"
+  ]
+}

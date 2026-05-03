@@ -1,0 +1,36 @@
+{
+  "repository_full_name": "nextai-translator/nextai-translator",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:59.038508+00:00",
+  "tree_sha": "d529dc55c9a5f6b3811c0e3d0d161406ca6cbd19",
+  "tree_truncated": false,
+  "tree_path_count": 378,
+  "has_tests": true,
+  "matched_test_paths": [
+    "e2e",
+    "e2e/common.ts",
+    "e2e/fixtures.ts",
+    "e2e/hotkey.spec.ts",
+    "e2e/index.spec.ts",
+    "e2e/test.html",
+    "e2e/titlebar.spec.ts",
+    "src/common/__tests__",
+    "src/common/__tests__/translate.test.ts",
+    "src/common/engines/abstract-openai.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/lint.yaml",
+    ".github/workflows/playwright.yml",
+    ".github/workflows/release.yaml",
+    ".github/workflows/test-build.yaml",
+    ".github/workflows/unit-test.yaml",
+    ".github/workflows/winget.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug-report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature.yml"
+  ]
+}

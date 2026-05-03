@@ -1,0 +1,46 @@
+{
+  "repository_full_name": "RSSNext/Folo",
+  "default_branch": "dev",
+  "fetched_at_utc": "2026-04-28T19:18:26.725730+00:00",
+  "tree_sha": "88ad11a2ae9a4ca5380662eb98f3817be0b5c73b",
+  "tree_truncated": false,
+  "tree_path_count": 4072,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".github/scripts/build-ota-release.test.ts",
+    ".github/scripts/resolve-desktop-release-config.test.ts",
+    ".github/scripts/resolve-mobile-release-config.test.ts",
+    ".github/scripts/trigger-ota-sync.test.ts",
+    "apps/cli/src/args.test.ts",
+    "apps/cli/src/auth-command.test.ts",
+    "apps/cli/src/browser-login.test.ts",
+    "apps/cli/src/cli.e2e.test.ts",
+    "apps/cli/src/output.test.ts",
+    "apps/desktop/e2e"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-android.yml",
+    ".github/workflows/build-desktop.yml",
+    ".github/workflows/build-ios-development.yml",
+    ".github/workflows/build-ios.yml",
+    ".github/workflows/build-web.yml",
+    ".github/workflows/deploy-cloudflare-desktop.yml",
+    ".github/workflows/deploy-cloudflare-landing.yml",
+    ".github/workflows/deploy-cloudflare-ssr.yml",
+    ".github/workflows/issue-labeler.yml",
+    ".github/workflows/lint.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/ISSUE_TEMPLATE/i18n.yml",
+    ".github/ISSUE_TEMPLATE/typo.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

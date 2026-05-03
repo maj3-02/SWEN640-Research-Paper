@@ -1,0 +1,44 @@
+{
+  "repository_full_name": "openobserve/openobserve",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:30.040522+00:00",
+  "tree_sha": "f43f4769b07f683c8ec0ac9fd5604243531367f2",
+  "tree_truncated": false,
+  "tree_path_count": 4424,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/wal/tests",
+    "src/wal/tests/wal.rs",
+    "tests",
+    "tests/api-testing",
+    "tests/api-testing/.gitignore",
+    "tests/api-testing/.python-version",
+    "tests/api-testing/Makefile",
+    "tests/api-testing/README.md",
+    "tests/api-testing/env.sh",
+    "tests/api-testing/fixtures"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/api-testing.yml",
+    ".github/workflows/audit-checker.yml",
+    ".github/workflows/auto-assign-metadata.yml",
+    ".github/workflows/auto-update-features.yml",
+    ".github/workflows/bug-checker.yml",
+    ".github/workflows/build-fork-pr-image.yml",
+    ".github/workflows/build-pr-image.yml",
+    ".github/workflows/cargo-deny.yml",
+    ".github/workflows/claude-auto-implement.yml",
+    ".github/workflows/claude-pr-fix.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/2-feature-request.yaml",
+    ".github/ISSUE_TEMPLATE/3-docs-bug.yaml",
+    ".github/ISSUE_TEMPLATE/archived",
+    ".github/ISSUE_TEMPLATE/archived/1-bug-report-old.yaml",
+    ".github/ISSUE_TEMPLATE/bug-report-template-latest.yaml",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

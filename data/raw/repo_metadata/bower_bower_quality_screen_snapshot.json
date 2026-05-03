@@ -1,0 +1,30 @@
+{
+  "repository_full_name": "bower/bower",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:20.317403+00:00",
+  "tree_sha": "4e0c3c1181c21624c5b3ab5bdf5d3becdb172b5a",
+  "tree_truncated": false,
+  "tree_path_count": 321,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/bower-config/test",
+    "packages/bower-config/test/assets",
+    "packages/bower-config/test/assets/custom-ca-embed",
+    "packages/bower-config/test/assets/custom-ca-embed/.bowerrc",
+    "packages/bower-config/test/assets/custom-ca",
+    "packages/bower-config/test/assets/custom-ca/.bowerrc",
+    "packages/bower-config/test/assets/custom-ca/ca-bundle.crt",
+    "packages/bower-config/test/assets/env-variables-values",
+    "packages/bower-config/test/assets/env-variables-values/.bowerrc",
+    "packages/bower-config/test/assets/env-variables"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/nodejs.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

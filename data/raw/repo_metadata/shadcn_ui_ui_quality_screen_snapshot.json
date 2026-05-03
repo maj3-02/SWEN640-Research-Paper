@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "shadcn-ui/ui",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:51.962461+00:00",
+  "tree_sha": "56161142f1b83f612462772d18883807b5f0d601",
+  "tree_truncated": false,
+  "tree_path_count": 9179,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/v4/app/(app)/create/lib/parse-preset-input.test.ts",
+    "apps/v4/app/(app)/create/lib/preset-query.test.ts",
+    "apps/v4/app/(app)/create/lib/v0.test.ts",
+    "apps/v4/app/(create)/init/parse-config.test.ts",
+    "apps/v4/app/(create)/init/route.test.ts",
+    "apps/v4/registry/config.test.ts",
+    "packages/shadcn/src/commands/apply.test.ts",
+    "packages/shadcn/src/commands/init.test.ts",
+    "packages/shadcn/src/commands/preset.test.ts",
+    "packages/shadcn/src/migrations/migrate-icons.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/code-check.yml",
+    ".github/workflows/issue-stale.yml",
+    ".github/workflows/prerelease-comment.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/signed-commits.yml",
+    ".github/workflows/test.yml",
+    ".github/workflows/validate-registries.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

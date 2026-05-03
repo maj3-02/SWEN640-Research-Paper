@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "promptfoo/promptfoo",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:17.872703+00:00",
+  "tree_sha": "b76173059f42a0a15dea2858562d73733bd1e6a8",
+  "tree_truncated": false,
+  "tree_path_count": 6045,
+  "has_tests": true,
+  "matched_test_paths": [
+    "examples/config-separate-test-configs/tests",
+    "examples/config-separate-test-configs/tests/tests1.yaml",
+    "examples/config-separate-test-configs/tests/tests2.yaml",
+    "examples/integration-jest/index.test.ts",
+    "helm/chart/promptfoo/templates/tests",
+    "helm/chart/promptfoo/templates/tests/test-connection.yaml",
+    "site/src/components/Store/ProductCard.test.tsx",
+    "site/src/components/Store/StoreErrorBoundary.test.tsx",
+    "site/src/components/Store/useFourthwall.test.ts",
+    "site/src/gdpr/consent.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/deploy-launcher.yml",
+    ".github/workflows/docker.yml",
+    ".github/workflows/image-actions.yml",
+    ".github/workflows/main.yml",
+    ".github/workflows/promptfoo-code-scan.yml",
+    ".github/workflows/release-please-format.yml",
+    ".github/workflows/release-please.yml",
+    ".github/workflows/tusk-test-runner-app-vitest-unit-tests.yml",
+    ".github/workflows/tusk-test-runner-vitest-unit-tests.yml",
+    ".github/workflows/validate-pr-title.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "site/docs/contributing.md"
+  ]
+}

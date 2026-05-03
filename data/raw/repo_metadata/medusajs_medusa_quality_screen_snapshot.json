@@ -1,0 +1,46 @@
+{
+  "repository_full_name": "medusajs/medusa",
+  "default_branch": "develop",
+  "fetched_at_utc": "2026-04-28T19:18:36.847316+00:00",
+  "tree_sha": "6b3d155756bd1a99d7c7e1540fc0bb39b708859a",
+  "tree_truncated": false,
+  "tree_path_count": 34925,
+  "has_tests": true,
+  "matched_test_paths": [
+    "integration-tests/api/__tests__",
+    "integration-tests/api/__tests__/admin",
+    "integration-tests/api/__tests__/admin/__snapshots__",
+    "integration-tests/api/__tests__/admin/__snapshots__/analytics-config.js.snap",
+    "integration-tests/api/__tests__/admin/__snapshots__/customer.js.snap",
+    "integration-tests/api/__tests__/admin/__snapshots__/discount.js.snap",
+    "integration-tests/api/__tests__/admin/__snapshots__/invite.js.snap",
+    "integration-tests/api/__tests__/admin/__snapshots__/price-list.js.snap",
+    "integration-tests/api/__tests__/admin/__snapshots__/product-tag.js.snap",
+    "integration-tests/api/__tests__/admin/__snapshots__/product-type.js.snap"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/action.yml",
+    ".github/workflows/admin-i18n-validation.yml",
+    ".github/workflows/agent-docs.yml",
+    ".github/workflows/cloud-docs-automation.yml",
+    ".github/workflows/create-linear-issue-on-discussion.yml",
+    ".github/workflows/create-linear-issue-on-pr.yml",
+    ".github/workflows/discord-issue-labels.yml",
+    ".github/workflows/docs-automation.yml",
+    ".github/workflows/docs-freshness-check.yml",
+    ".github/workflows/docs-staging-sync.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".claude/skills/triaging-issues/reference/support.md",
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/bug_report_v2.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/docs.yml",
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "packages/design-system/ui/CONTRIBUTING.md"
+  ]
+}

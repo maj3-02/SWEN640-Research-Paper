@@ -1,0 +1,41 @@
+{
+  "repository_full_name": "supabase/supabase",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:55.018633+00:00",
+  "tree_sha": "a8de56aec262addba768361335b3f17290465d64",
+  "tree_truncated": false,
+  "tree_path_count": 18454,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/docs/app/api/crawlers/route.smoke.test.ts",
+    "apps/docs/app/api/graphql/__snapshots__/route.test.ts.snap",
+    "apps/docs/app/api/graphql/route.test.ts",
+    "apps/docs/app/api/graphql/tests",
+    "apps/docs/app/api/graphql/tests/errors.collection.test.ts",
+    "apps/docs/app/api/graphql/tests/errors.test.ts",
+    "apps/docs/app/api/graphql/tests/schema.smoke.test.ts",
+    "apps/docs/app/api/graphql/tests/searchDocs.smoke.test.ts",
+    "apps/docs/app/api/graphql/tests/searchDocs.test.ts",
+    "apps/docs/app/api/graphql/validators.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ai-tests.yml",
+    ".github/workflows/authorize-vercel-deploys.yml",
+    ".github/workflows/auto-label-issues.yml",
+    ".github/workflows/autofix_linters.yml",
+    ".github/workflows/avoid-typos.yml",
+    ".github/workflows/braintrust-evals.yml",
+    ".github/workflows/braintrust-preview-scorers-cleanup.yml",
+    ".github/workflows/braintrust-preview-scorers-deploy.yml",
+    ".github/workflows/braintrust-scorers-deploy.yml",
+    ".github/workflows/dashboard-pr-reminder.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "apps/docs/CONTRIBUTING.md"
+  ]
+}

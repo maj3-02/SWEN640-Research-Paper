@@ -1,0 +1,28 @@
+{
+  "repository_full_name": "impress/impress.js",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:31.480103+00:00",
+  "tree_sha": "c9f6c67457ceee5a011e554f67c447113640777d",
+  "tree_truncated": false,
+  "tree_path_count": 169,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/HOWTO.md",
+    "test/core_tests.js",
+    "test/core_tests_presentation.html",
+    "test/helpers.js",
+    "test/non_default.html",
+    "test/non_default.js",
+    "test/plugins",
+    "test/plugins/rel",
+    "test/plugins/rel/padding_tests.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/config.yml",
+    ".github/workflows/pipeline.yaml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

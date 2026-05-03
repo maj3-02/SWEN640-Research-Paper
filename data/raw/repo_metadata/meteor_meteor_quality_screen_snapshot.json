@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "meteor/meteor",
+  "default_branch": "devel",
+  "fetched_at_utc": "2026-04-28T19:16:27.118935+00:00",
+  "tree_sha": "a350d90040da1352cce121cf6623b396d3ff922f",
+  "tree_truncated": false,
+  "tree_path_count": 5288,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".github/scripts/__tests__",
+    ".github/scripts/__tests__/inactive-issues.test.js",
+    "npm-packages/cordova-plugin-meteor-webapp/tests",
+    "npm-packages/cordova-plugin-meteor-webapp/tests/fixtures",
+    "npm-packages/cordova-plugin-meteor-webapp/tests/fixtures/bundled_www",
+    "npm-packages/cordova-plugin-meteor-webapp/tests/fixtures/bundled_www/application",
+    "npm-packages/cordova-plugin-meteor-webapp/tests/fixtures/bundled_www/application/app",
+    "npm-packages/cordova-plugin-meteor-webapp/tests/fixtures/bundled_www/application/app/mobileapp.js",
+    "npm-packages/cordova-plugin-meteor-webapp/tests/fixtures/bundled_www/application/app/mobileapp.js.map",
+    "npm-packages/cordova-plugin-meteor-webapp/tests/fixtures/bundled_www/application/app/some-data.json"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/check-code-style.yml",
+    ".github/workflows/check-syntax.yml",
+    ".github/workflows/docs.yml",
+    ".github/workflows/e2e-tests.yml",
+    ".github/workflows/guide.yml",
+    ".github/workflows/inactive-issues.yml",
+    ".github/workflows/labeler.yml",
+    ".github/workflows/npm-eslint-plugin-meteor.yml",
+    ".github/workflows/npm-meteor-babel.yml",
+    ".github/workflows/npm-meteor-promise.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/ISSUE_TEMPLATE.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "docs/Contributing.md",
+    "guide/CONTRIBUTING.md",
+    "guide/source/CONTRIBUTING.md",
+    "guide/source/security.md"
+  ]
+}

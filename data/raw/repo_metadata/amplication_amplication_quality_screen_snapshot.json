@@ -1,0 +1,44 @@
+{
+  "repository_full_name": "amplication/amplication",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:45.845164+00:00",
+  "tree_sha": "7656495d27f0dceff89657590c3f14149e45c7a6",
+  "tree_truncated": false,
+  "tree_path_count": 5348,
+  "has_tests": true,
+  "matched_test_paths": [
+    "ee/packages/git-sync-manager/src/private-plugin/private-plugin.service.spec.ts",
+    "ee/packages/git-sync-manager/tests",
+    "ee/packages/git-sync-manager/tests/diff",
+    "ee/packages/git-sync-manager/tests/diff/build-path-factory.spec.ts",
+    "ee/packages/git-sync-manager/tests/diff/delete-files.spec.ts",
+    "ee/packages/git-sync-manager/tests/diff/diff.service.spec.ts",
+    "ee/packages/git-sync-manager/tests/diff/diffset-mapper.spec.ts",
+    "ee/packages/git-sync-manager/tests/diff/mocks.ts",
+    "ee/packages/git-sync-manager/tsconfig.spec.json",
+    "libs/util/code-gen-types/src/code-gen-types.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/README.md",
+    ".github/workflows/azure-static-web-apps.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/deployment.production.yml",
+    ".github/workflows/deployment.static.template.yml",
+    ".github/workflows/dsg-release-notes-generator.yml",
+    ".github/workflows/e2e.yml",
+    ".github/workflows/nx.template.yml",
+    ".github/workflows/pr-labeler.yml",
+    ".github/workflows/release.assistant-function-json.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug.yaml",
+    ".github/ISSUE_TEMPLATE/documentation-request.yaml",
+    ".github/ISSUE_TEMPLATE/feature.yml",
+    ".github/ISSUE_TEMPLATE/troubleshooting.yaml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

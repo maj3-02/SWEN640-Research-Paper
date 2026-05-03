@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "pinojs/pino",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:05.819190+00:00",
+  "tree_sha": "7b30138d79435d6ce92497a222fca5121fc1f5cb",
+  "tree_truncated": false,
+  "tree_path_count": 239,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/basic.test.js",
+    "test/broken-pipe.test.js",
+    "test/browser-child.test.js",
+    "test/browser-disabled.test.js",
+    "test/browser-early-console-freeze.test.js",
+    "test/browser-is-level-enabled.test.js",
+    "test/browser-levels.test.js",
+    "test/browser-redaction.test.js",
+    "test/browser-serializers.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/bench.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/lock-threads.yml",
+    ".github/workflows/publish-release.yml",
+    ".github/workflows/target-main.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

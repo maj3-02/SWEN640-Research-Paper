@@ -1,0 +1,29 @@
+{
+  "repository_full_name": "be5invis/Iosevka",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-26T23:03:21.896675+00:00",
+  "tree_sha": "685197fa9afc26acfc702679cea3635cecda988a",
+  "tree_truncated": false,
+  "tree_path_count": 4546,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/dev-daily-build.yml",
+    ".github/workflows/pr-build-validation.yml",
+    ".github/workflows/pr-target-branch-check.yml",
+    ".github/workflows/stale.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/character-request.md",
+    ".github/ISSUE_TEMPLATE/character-variant-request.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/ISSUE_TEMPLATE/ligation-request.md",
+    ".github/PULL_REQUEST_TEMPLATE",
+    ".github/PULL_REQUEST_TEMPLATE/character-addition.md",
+    ".github/PULL_REQUEST_TEMPLATE/character-variant.md",
+    ".github/pull_request_template.md"
+  ]
+}

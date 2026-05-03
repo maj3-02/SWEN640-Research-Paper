@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "langfuse/langfuse",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:53.714912+00:00",
+  "tree_sha": "3e314974e48a0d12066276ffb7581c6c82eb3b73",
+  "tree_truncated": false,
+  "tree_path_count": 4243,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".env.test.example",
+    "scripts/codex/setup.test.sh",
+    "specs",
+    "specs/lfe-8485-project-level-default-saved-views.md",
+    "web/src/__e2e__/auth.spec.ts",
+    "web/src/__e2e__/create-project.spec.ts",
+    "web/src/__tests__",
+    "web/src/__tests__/after-teardown.ts",
+    "web/src/__tests__/aggregateScores.clienttest.ts",
+    "web/src/__tests__/buildStepData.clienttest.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/_deploy_ecs_service.yml",
+    ".github/workflows/ci.yml.template",
+    ".github/workflows/cla-assistant.yml",
+    ".github/workflows/claude-review-maintainer-prs.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/codespell.yml",
+    ".github/workflows/dependabot-rebase-stale.yml",
+    ".github/workflows/deploy.yml",
+    ".github/workflows/licencecheck.yml",
+    ".github/workflows/pipeline.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "repository_full_name": "subquery/subql",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:28.988211+00:00",
+  "tree_sha": "51e2a2c985c3c869510a36e8c37a3b3557af4a3c",
+  "tree_truncated": false,
+  "tree_path_count": 1335,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/cli/src/commands/migrate.test.ts",
+    "packages/cli/src/commands/publish.test.ts",
+    "packages/cli/src/controller/add-chain-controller.spec.ts",
+    "packages/cli/src/controller/build-controller.spec.ts",
+    "packages/cli/src/controller/codegen-controller.spec.ts",
+    "packages/cli/src/controller/codegen-controller.test.ts",
+    "packages/cli/src/controller/codegen-cosmos.test.ts",
+    "packages/cli/src/controller/deploy-controller.spec.ts",
+    "packages/cli/src/controller/deploy-controller.test.ts",
+    "packages/cli/src/controller/generate-controller.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/benchmark.yml",
+    ".github/workflows/discord.yml",
+    ".github/workflows/gh-release.yml",
+    ".github/workflows/node-docker.yml",
+    ".github/workflows/pr.yml",
+    ".github/workflows/publish.yml",
+    ".github/workflows/query-docker.yml",
+    ".github/workflows/scripts",
+    ".github/workflows/scripts/benchmark",
+    ".github/workflows/scripts/benchmark/Dockerfile"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "SECURITY.md",
+    "contributing.md"
+  ]
+}

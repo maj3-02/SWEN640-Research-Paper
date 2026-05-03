@@ -1,0 +1,37 @@
+{
+  "repository_full_name": "xyflow/xyflow",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:30.015096+00:00",
+  "tree_sha": "a58568f11bc0e1a1bdca1b3549e959e2e1ca0cdd",
+  "tree_truncated": false,
+  "tree_path_count": 944,
+  "has_tests": true,
+  "matched_test_paths": [
+    "examples/react/cypress",
+    "examples/react/cypress/components",
+    "examples/react/cypress/components/hooks",
+    "examples/react/cypress/components/hooks/useEdges.cy.tsx",
+    "examples/react/cypress/components/hooks/useNodes.cy.tsx",
+    "examples/react/cypress/components/hooks/useNodesInitialized.cy.tsx",
+    "examples/react/cypress/components/hooks/useOnViewportChange.cy.tsx",
+    "examples/react/cypress/components/hooks/useViewport.cy.tsx",
+    "examples/react/cypress/components/reactflow",
+    "examples/react/cypress/components/reactflow/basic-props.cy.tsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/codespell.yml",
+    ".github/workflows/dispatchWebsiteUpdate.yaml",
+    ".github/workflows/playwright.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

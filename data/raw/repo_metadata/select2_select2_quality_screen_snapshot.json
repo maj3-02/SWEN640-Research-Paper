@@ -1,0 +1,32 @@
+{
+  "repository_full_name": "select2/select2",
+  "default_branch": "develop",
+  "fetched_at_utc": "2026-04-28T19:16:47.856622+00:00",
+  "tree_sha": "595494a72fee67b0a61c64701cbb72e3121f97b9",
+  "tree_truncated": false,
+  "tree_path_count": 850,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/a11y",
+    "tests/a11y/selection-tests.js",
+    "tests/data",
+    "tests/data/array-tests.js",
+    "tests/data/base-tests.js",
+    "tests/data/maximumInputLength-tests.js",
+    "tests/data/maximumSelectionLength-tests.js",
+    "tests/data/minimumInputLength-tests.js",
+    "tests/data/select-tests.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/docs-deploy.yml",
+    ".github/workflows/main.yml",
+    ".github/workflows/package-deploy.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "repository_full_name": "less/less.js",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:08.840788+00:00",
+  "tree_sha": "060fd7f93ad897b8fec397037aee2d757e9fe8a6",
+  "tree_truncated": false,
+  "tree_path_count": 1130,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/less/test",
+    "packages/less/test/.eslintrc.json",
+    "packages/less/test/README.md",
+    "packages/less/test/browser",
+    "packages/less/test/browser/common.js",
+    "packages/less/test/browser/css",
+    "packages/less/test/browser/css/global-vars",
+    "packages/less/test/browser/css/global-vars/simple.css",
+    "packages/less/test/browser/css/modify-vars",
+    "packages/less/test/browser/css/modify-vars/simple.css"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/create-release-pr.yml",
+    ".github/workflows/publish.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    ".github/SECURITY.md",
+    "CONTRIBUTING.md"
+  ]
+}

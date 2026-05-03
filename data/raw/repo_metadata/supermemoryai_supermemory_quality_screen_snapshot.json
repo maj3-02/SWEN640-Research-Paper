@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "supermemoryai/supermemory",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:08.734972+00:00",
+  "tree_sha": "0d2ca1bb41036590f173936c672eb1f768b52478",
+  "tree_truncated": false,
+  "tree_path_count": 1054,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/agent-framework-python/tests",
+    "packages/agent-framework-python/tests/__init__.py",
+    "packages/agent-framework-python/tests/test_connection.py",
+    "packages/agent-framework-python/tests/test_context_provider.py",
+    "packages/agent-framework-python/tests/test_middleware.py",
+    "packages/agent-framework-python/tests/test_tools.py",
+    "packages/agent-framework-python/tests/test_utils.py",
+    "packages/ai-sdk/src/tools.test.ts",
+    "packages/docs-test/tests",
+    "packages/docs-test/tests/integrations"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/claude-auto-fix-ci.yml",
+    ".github/workflows/claude-code-review.yml",
+    ".github/workflows/claude.yml",
+    ".github/workflows/publish-agent-framework-python.yml",
+    ".github/workflows/publish-ai-sdk.yml",
+    ".github/workflows/publish-cartesia-sdk-python.yml",
+    ".github/workflows/publish-memory-graph.yml",
+    ".github/workflows/publish-openai-sdk-python.yml",
+    ".github/workflows/publish-pipecat-sdk-python.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md"
+  ]
+}

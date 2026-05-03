@@ -1,0 +1,21 @@
+{
+  "repository_full_name": "azl397985856/leetcode",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:22.033859+00:00",
+  "tree_sha": "24b0b6284959e0f21539764a156595af7664b63f",
+  "tree_truncated": false,
+  "tree_path_count": 885,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/calibreapp-image-actions.yml",
+    ".github/workflows/ci.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/daily-problem.md",
+    ".github/ISSUE_TEMPLATE/translation.md",
+    "CONTRIBUTING.md"
+  ]
+}

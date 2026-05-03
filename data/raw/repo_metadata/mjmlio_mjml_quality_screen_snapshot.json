@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "mjmlio/mjml",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:04.310612+00:00",
+  "tree_sha": "a308d396aa1970d633cc9ca4378e4e11966284b0",
+  "tree_truncated": false,
+  "tree_path_count": 327,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/mjml-core/tests",
+    "packages/mjml-core/tests/.eslintrc",
+    "packages/mjml-core/tests/jsonToXml.test.js",
+    "packages/mjml-core/tests/mergeOutlookConditionnals.test.js",
+    "packages/mjml-core/tests/minifyOutlookConditionnals.test.js",
+    "packages/mjml-core/tests/shorthandParser.test.js",
+    "packages/mjml-core/tests/skeleton.test.js",
+    "packages/mjml-core/tests/widthParser.test.js",
+    "packages/mjml-parser-xml/test",
+    "packages/mjml-parser-xml/test/incl.mjml"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-documentation.yml",
+    ".github/workflows/mjml-workflow.yml",
+    ".github/workflows/npm-publish.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    "CONTRIBUTING.md"
+  ]
+}

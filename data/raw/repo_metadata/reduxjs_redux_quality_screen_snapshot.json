@@ -1,0 +1,40 @@
+{
+  "repository_full_name": "reduxjs/redux",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:03.812164+00:00",
+  "tree_sha": "0d8fae6f444920588ea7993b31f9775cffc973d4",
+  "tree_truncated": false,
+  "tree_path_count": 597,
+  "has_tests": true,
+  "matched_test_paths": [
+    "examples/counter-ts/src/App.test.tsx",
+    "examples/counter-ts/src/features/counter/counterSlice.spec.ts",
+    "examples/counter/src/App.test.js",
+    "examples/counter/src/features/counter/counterSlice.spec.js",
+    "examples/shopping-cart/src/components/Cart.spec.js",
+    "examples/shopping-cart/src/components/Product.spec.js",
+    "examples/shopping-cart/src/components/ProductItem.spec.js",
+    "examples/shopping-cart/src/components/ProductsList.spec.js",
+    "examples/shopping-cart/src/reducers/cart.spec.js",
+    "examples/shopping-cart/src/reducers/index.spec.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/publish.yaml",
+    ".github/workflows/size.yaml",
+    ".github/workflows/test.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/Bug_report.md",
+    ".github/ISSUE_TEMPLATE/Feature_request.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/documentation-edit.md",
+    ".github/ISSUE_TEMPLATE/documentation-new.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    ".github/PULL_REQUEST_TEMPLATE",
+    ".github/PULL_REQUEST_TEMPLATE/bugfix.md",
+    ".github/PULL_REQUEST_TEMPLATE/documentation-edit.md",
+    ".github/PULL_REQUEST_TEMPLATE/documentation-new.md"
+  ]
+}

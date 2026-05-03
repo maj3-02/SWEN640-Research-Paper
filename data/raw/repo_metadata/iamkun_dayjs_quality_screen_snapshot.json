@@ -1,0 +1,32 @@
+{
+  "repository_full_name": "iamkun/dayjs",
+  "default_branch": "dev",
+  "fetched_at_utc": "2026-04-28T19:16:24.442372+00:00",
+  "tree_sha": "b84592fe4e89abb23749de9a772454d5d2e65f19",
+  "tree_truncated": false,
+  "tree_path_count": 446,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/__mocks__",
+    "test/__mocks__/dayjs.js",
+    "test/browser.spec.js",
+    "test/comparison.test.js",
+    "test/constructor.test.js",
+    "test/display.test.js",
+    "test/get-set.test.js",
+    "test/issues",
+    "test/issues/issue2027.correct-order.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/check.yml",
+    ".github/workflows/lint-test.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/--bug-report.md",
+    "CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "repository_full_name": "remix-run/react-router",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:05.508873+00:00",
+  "tree_sha": "b80380d498724153af8a2943f5c39a77227d38fe",
+  "tree_truncated": false,
+  "tree_path_count": 1821,
+  "has_tests": true,
+  "matched_test_paths": [
+    "integration",
+    "integration/CHANGELOG.md",
+    "integration/abort-signal-test.ts",
+    "integration/action-test.ts",
+    "integration/assets",
+    "integration/assets/toupload.txt",
+    "integration/assets/touploadtoobig.txt",
+    "integration/blocking-test.ts",
+    "integration/browser-entry-test.ts",
+    "integration/bug-report-test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/changes-file.yml",
+    ".github/workflows/close-feature-pr.yml",
+    ".github/workflows/close-no-repro-issue.yml",
+    ".github/workflows/close-no-repro-issues.yml",
+    ".github/workflows/deduplicate-lock-file.yml",
+    ".github/workflows/delete-changeset-bot-comments.yml",
+    ".github/workflows/docs.yml",
+    ".github/workflows/format.yml",
+    ".github/workflows/integration-full.yml",
+    ".github/workflows/integration-pr-ubuntu.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/documentation_isse.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "GOVERNANCE.md",
+    "SECURITY.md",
+    "docs/community/contributing.md",
+    "docs/how-to/security.md"
+  ]
+}

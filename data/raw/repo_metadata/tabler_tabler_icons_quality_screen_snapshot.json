@@ -1,0 +1,36 @@
+{
+  "repository_full_name": "tabler/tabler-icons",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-26T23:03:27.107258+00:00",
+  "tree_sha": "9b27b65e3d2e72ff4fd219b2dc21da81ea9cbab8",
+  "tree_truncated": false,
+  "tree_path_count": 7131,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/icons-angular/src/lib/tabler-icon-filled.component.spec.ts",
+    "packages/icons-angular/src/lib/tabler-icon-outline.component.spec.ts",
+    "packages/icons-angular/src/lib/tabler-icon.component.optimization.spec.ts",
+    "packages/icons-angular/tsconfig.spec.json",
+    "packages/icons-preact/test.spec.tsx",
+    "packages/icons-react/test.spec.tsx",
+    "packages/icons-solidjs/test.spec.jsx",
+    "packages/icons-svelte-runes/test.spec.js",
+    "packages/icons-svelte/test.spec.js",
+    "packages/icons-vue/test.spec.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build.yml",
+    ".github/workflows/close-inactive.yml",
+    ".github/workflows/close-stale-prs.yml",
+    ".github/workflows/labeler.yml",
+    ".github/workflows/sync-icons.yml",
+    ".github/workflows/validate-pr.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/01-icon_request.yml",
+    ".github/ISSUE_TEMPLATE/02-bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml"
+  ]
+}

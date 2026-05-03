@@ -1,0 +1,37 @@
+{
+  "repository_full_name": "date-fns/date-fns",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:28.281856+00:00",
+  "tree_sha": "dd66398305c2b015fba3c1b3d31ccff42ee8d4cf",
+  "tree_truncated": false,
+  "tree_path_count": 3104,
+  "has_tests": true,
+  "matched_test_paths": [
+    "scripts/test",
+    "scripts/test/_lib",
+    "scripts/test/_lib/queue.ts",
+    "scripts/test/_lib/tz.ts",
+    "scripts/test/smoke.sh",
+    "scripts/test/types.sh",
+    "scripts/test/tz.sh",
+    "scripts/test/tzIANA.sh",
+    "scripts/test/tzIANA.ts",
+    "scripts/test/tzOffset.sh"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/attw_tests.yaml",
+    ".github/workflows/browser_tests.yaml",
+    ".github/workflows/code_quality.yaml",
+    ".github/workflows/coverage.yaml",
+    ".github/workflows/node_tests.yaml",
+    ".github/workflows/smoke_tests.yaml",
+    ".github/workflows/tz_tests.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/issue-report.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

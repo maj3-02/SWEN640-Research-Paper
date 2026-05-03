@@ -1,0 +1,25 @@
+{
+  "repository_full_name": "wandb/openui",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:08.955410+00:00",
+  "tree_sha": "f9d8f0e30e1efe2a21bbefffba33bcf6b4e12dc7",
+  "tree_truncated": false,
+  "tree_path_count": 267,
+  "has_tests": true,
+  "matched_test_paths": [
+    "backend/tests",
+    "backend/tests/test_openui.py",
+    "frontend/integration_tests/basic.spec.ts",
+    "frontend/src/__tests__",
+    "frontend/src/__tests__/App.tsx",
+    "frontend/src/__tests__/utils.ts",
+    "frontend/src/components/__tests__",
+    "frontend/src/components/__tests__/LoadingOrError.tsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/docker.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

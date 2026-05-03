@@ -1,0 +1,41 @@
+{
+  "repository_full_name": "parse-community/parse-server",
+  "default_branch": "alpha",
+  "fetched_at_utc": "2026-04-26T23:03:24.800371+00:00",
+  "tree_sha": "35207c279635316bcfef6499b6620b867748523b",
+  "tree_truncated": false,
+  "tree_path_count": 551,
+  "has_tests": true,
+  "matched_test_paths": [
+    "spec",
+    "spec/.babelrc",
+    "spec/AccountLockoutPolicy.spec.js",
+    "spec/AdaptableController.spec.js",
+    "spec/AdapterLoader.spec.js",
+    "spec/Adapters",
+    "spec/Adapters/Auth",
+    "spec/Adapters/Auth/BaseCodeAdapter.spec.js",
+    "spec/Adapters/Auth/gcenter.spec.js",
+    "spec/Adapters/Auth/github.spec.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci-automated-check-environment.yml",
+    ".github/workflows/ci-performance.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/release-automated.yml",
+    ".github/workflows/release-manual-docker.yml",
+    ".github/workflows/release-manual-docs.yml",
+    ".github/workflows/release-prepare-monthly.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/---1-report-an-issue.md",
+    ".github/ISSUE_TEMPLATE/---2-feature-request.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

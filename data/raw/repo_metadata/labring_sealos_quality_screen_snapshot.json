@@ -1,0 +1,45 @@
+{
+  "repository_full_name": "labring/sealos",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:37.935456+00:00",
+  "tree_sha": "4e40ffc4e948235c962445be096a369709917e1d",
+  "tree_truncated": false,
+  "tree_path_count": 10273,
+  "has_tests": true,
+  "matched_test_paths": [
+    "controllers/devbox/test",
+    "controllers/devbox/test/e2e",
+    "controllers/devbox/test/e2e/e2e_suite_test.go",
+    "controllers/devbox/test/e2e/e2e_test.go",
+    "controllers/devbox/test/utils",
+    "controllers/devbox/test/utils/utils.go",
+    "controllers/pkg/pay/test",
+    "controllers/pkg/pay/test/README.md",
+    "controllers/pkg/pay/test/img.png",
+    "controllers/pkg/pay/test/main.go"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/bot-cherry-pick.yml",
+    ".github/workflows/bot-issues-translator.yml",
+    ".github/workflows/bot-labels.yml",
+    ".github/workflows/build-base-images.yml",
+    ".github/workflows/check-coverage.yml",
+    ".github/workflows/check-license.yml",
+    ".github/workflows/check-pr-title-lint-semantic.yml",
+    ".github/workflows/check-semgrep.yml",
+    ".github/workflows/ci-patch-image.yml",
+    ".github/workflows/ci.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/docs.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

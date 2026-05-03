@@ -1,0 +1,35 @@
+{
+  "repository_full_name": "node-red/node-red",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:56.130664+00:00",
+  "tree_sha": "7231e3d7658927c49d5b5756de28904a04b40c76",
+  "tree_truncated": false,
+  "tree_path_count": 1862,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/editor",
+    "test/editor/editor_helper.js",
+    "test/editor/pageobjects",
+    "test/editor/pageobjects/editor",
+    "test/editor/pageobjects/editor/debugTab_page.js",
+    "test/editor/pageobjects/editor/palette_page.js",
+    "test/editor/pageobjects/editor/workspace_page.js",
+    "test/editor/pageobjects/nodes",
+    "test/editor/pageobjects/nodes/core"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/release.yml",
+    ".github/workflows/tests.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

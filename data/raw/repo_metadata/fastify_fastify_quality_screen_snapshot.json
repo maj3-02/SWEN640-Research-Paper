@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "fastify/fastify",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:32.939520+00:00",
+  "tree_sha": "4965daceab71462e38156acdcf8ef535ddf35df0",
+  "tree_truncated": false,
+  "tree_path_count": 420,
+  "has_tests": true,
+  "matched_test_paths": [
+    "integration",
+    "integration/server.js",
+    "integration/test.sh",
+    "test",
+    "test/404s.test.js",
+    "test/500s.test.js",
+    "test/allow-unsafe-regex.test.js",
+    "test/als.test.js",
+    "test/async-await.test.js",
+    "test/async-dispose.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/backport.yml",
+    ".github/workflows/ci-alternative-runtime.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/citgm-package.yml",
+    ".github/workflows/citgm.yml",
+    ".github/workflows/coverage-nix.yml",
+    ".github/workflows/coverage-win.yml",
+    ".github/workflows/integration-alternative-runtimes.yml",
+    ".github/workflows/integration.yml",
+    ".github/workflows/labeler.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "GOVERNANCE.md",
+    "SECURITY.md",
+    "docs/Guides/Contributing.md"
+  ]
+}

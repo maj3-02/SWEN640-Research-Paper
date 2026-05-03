@@ -1,0 +1,41 @@
+{
+  "repository_full_name": "layui/layui",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:38.020092+00:00",
+  "tree_sha": "349b924fc61a336e8775b8324bb766c9104bebce",
+  "tree_truncated": false,
+  "tree_path_count": 487,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/unit",
+    "tests/unit/core.test.js",
+    "tests/visual",
+    "tests/visual/assets",
+    "tests/visual/assets/i18n",
+    "tests/visual/assets/i18n/en.js",
+    "tests/visual/assets/i18n/fr.js",
+    "tests/visual/assets/i18n/zh-HK.js",
+    "tests/visual/assets/json"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/issue-close-require.yml",
+    ".github/workflows/issue-closed.yml",
+    ".github/workflows/issue-labeled.yml",
+    ".github/workflows/issue-opened.yml",
+    ".github/workflows/pr-preview.yml",
+    ".github/workflows/release-npm.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug-feature.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

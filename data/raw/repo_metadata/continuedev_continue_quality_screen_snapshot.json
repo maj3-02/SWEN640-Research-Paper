@@ -1,0 +1,46 @@
+{
+  "repository_full_name": "continuedev/continue",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:35.998521+00:00",
+  "tree_sha": "cb273098d968906d25ee737b454f0b5f13ea2482",
+  "tree_truncated": false,
+  "tree_path_count": 3679,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".idea/modules/com.github.continuedev.continueintellijextension.continue-intellij-extension.test.iml",
+    "binary/test",
+    "binary/test/binary.test.ts",
+    "core/autocomplete/context/root-path-context/test",
+    "core/autocomplete/context/root-path-context/test/RootPathContextService.vitest.ts",
+    "core/autocomplete/context/root-path-context/test/files",
+    "core/autocomplete/context/root-path-context/test/files/__init__.py",
+    "core/autocomplete/context/root-path-context/test/files/base_module.py",
+    "core/autocomplete/context/root-path-context/test/files/file1.go",
+    "core/autocomplete/context/root-path-context/test/files/file1.php"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/auto-assign-issue.yaml",
+    ".github/workflows/auto-fix-failed-tests.yml",
+    ".github/workflows/auto-release.yml",
+    ".github/workflows/cla.yaml",
+    ".github/workflows/cli-pr-checks.yml",
+    ".github/workflows/continue-agents.yml",
+    ".github/workflows/delete-stale-branches.yaml",
+    ".github/workflows/jetbrains-release.yaml",
+    ".github/workflows/label-merged-prs.yml",
+    ".github/workflows/main-build.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/docs_issue_report.yml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "extensions/intellij/CONTRIBUTING.md",
+    "extensions/vscode/CONTRIBUTING.md"
+  ]
+}

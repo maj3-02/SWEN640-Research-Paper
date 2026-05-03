@@ -1,0 +1,45 @@
+{
+  "repository_full_name": "nilbuild/developer-roadmap",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:48.602488+00:00",
+  "tree_sha": "1364c89a65e3ae051fc9ecf300fdcd1d61d8152e",
+  "tree_truncated": false,
+  "tree_path_count": 12553,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/guides.spec.ts",
+    "tests/guides.spec.ts-snapshots",
+    "tests/guides.spec.ts-snapshots/guides-1-chromium-darwin.png",
+    "tests/index.spec.ts",
+    "tests/index.spec.ts-snapshots",
+    "tests/index.spec.ts-snapshots/homepage-test-1-chromium-darwin.png",
+    "tests/roadmap.spec.ts",
+    "tests/roadmap.spec.ts-snapshots",
+    "tests/roadmap.spec.ts-snapshots/roadmap-android-1-chromium-darwin.png"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/aws-costs.yml",
+    ".github/workflows/cleanup-orphaned-content.yml",
+    ".github/workflows/close-feedback-pr.yml",
+    ".github/workflows/cloudfront-api-cache.yml",
+    ".github/workflows/cloudfront-fe-cache.yml",
+    ".github/workflows/deployment.yml",
+    ".github/workflows/label-issue.yml",
+    ".github/workflows/sync-content-to-repo.yml",
+    ".github/workflows/sync-repo-to-database.yml",
+    ".github/workflows/upgrade-dependencies.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/01-suggest-changes.yml",
+    ".github/ISSUE_TEMPLATE/02-bug-report.yml",
+    ".github/ISSUE_TEMPLATE/03-feature-suggestion.yml",
+    ".github/ISSUE_TEMPLATE/04-roadmap-contribution.yml",
+    ".github/ISSUE_TEMPLATE/05-something-else.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    "code_of_conduct.md",
+    "contributing.md"
+  ]
+}

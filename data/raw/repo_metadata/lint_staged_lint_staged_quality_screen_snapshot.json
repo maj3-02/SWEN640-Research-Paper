@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "lint-staged/lint-staged",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:23.517537+00:00",
+  "tree_sha": "f03b9a9486c769ebe3635d1f8ac7c7539fcff435",
+  "tree_truncated": false,
+  "tree_path_count": 207,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/__utils__",
+    "test/__utils__/createTempDir.js",
+    "test/__utils__/getRepoRootPath.js",
+    "test/e2e",
+    "test/e2e/__utils__",
+    "test/e2e/__utils__/forkLintStagedBin.js",
+    "test/e2e/internal-errors.test.js",
+    "test/e2e/kill-tasks-on-failure.test.js",
+    "test/e2e/no-stash.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/default-branch-push.yml",
+    ".github/workflows/npm.yml",
+    ".github/workflows/pull-requests.yml",
+    ".github/workflows/security.yml",
+    ".github/workflows/tag.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md"
+  ]
+}

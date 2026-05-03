@@ -1,0 +1,32 @@
+{
+  "repository_full_name": "feathersjs/feathers",
+  "default_branch": "dove",
+  "fetched_at_utc": "2026-04-28T19:19:50.839404+00:00",
+  "tree_sha": "3c3da6d688e62a1f832f549d3271c80ce3a47b01",
+  "tree_truncated": false,
+  "tree_path_count": 774,
+  "has_tests": true,
+  "matched_test_paths": [
+    "docs/guides/cli/app.test.md",
+    "docs/guides/cli/client.test.md",
+    "docs/guides/cli/service.test.md",
+    "packages/adapter-commons/test",
+    "packages/adapter-commons/test/commons.test.ts",
+    "packages/adapter-commons/test/fixture.ts",
+    "packages/adapter-commons/test/query.test.ts",
+    "packages/adapter-commons/test/service.test.ts",
+    "packages/adapter-commons/test/sort.test.ts",
+    "packages/adapter-tests/test"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/nodejs.yml",
+    ".github/workflows/update-dependencies.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/contributing.md",
+    ".github/pull_request_template.md",
+    "docs/guides/security.md"
+  ]
+}

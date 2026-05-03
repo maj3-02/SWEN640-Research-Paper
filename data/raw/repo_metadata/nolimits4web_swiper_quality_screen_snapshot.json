@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "nolimits4web/swiper",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:28.548871+00:00",
+  "tree_sha": "f664c1db351ea7227ba36a794f9da237848eb341",
+  "tree_truncated": false,
+  "tree_path_count": 380,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build.yml",
+    ".github/workflows/formatting.yml",
+    ".github/workflows/issue-close-require.yml",
+    ".github/workflows/issue-labeled.yml",
+    ".github/workflows/lint.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature-request.yml",
+    ".github/ISSUE_TEMPLATE/swiper_core_issue.yml",
+    ".github/ISSUE_TEMPLATE/swiper_element_issue.yml",
+    ".github/ISSUE_TEMPLATE/swiper_react_issue.yml",
+    ".github/ISSUE_TEMPLATE/vue_issue.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

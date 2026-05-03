@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "remy/nodemon",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:46.059010+00:00",
+  "tree_sha": "1d0a639b67f6d9dfa6dc3089d53461993106ebab",
+  "tree_truncated": false,
+  "tree_path_count": 525,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/cli",
+    "test/cli/exec.test.js",
+    "test/cli/parse.test.js",
+    "test/config",
+    "test/config/env.test.js",
+    "test/config/load-logging.test.js",
+    "test/config/load.test.js",
+    "test/docker.sh",
+    "test/events"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/commits.yml",
+    ".github/workflows/node.js.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/stale.yml",
+    ".github/workflows/website.yml",
+    ".travis.yml",
+    "test/fixtures/watch-count/node_modules/express/node_modules/qs/.travis.yml",
+    "test/fixtures/watch-count/node_modules/express/node_modules/utils-merge/.travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    "CODE_OF_CONDUCT.md",
+    "test/fixtures/watch-count/node_modules/express/node_modules/qs/CONTRIBUTING.md"
+  ]
+}

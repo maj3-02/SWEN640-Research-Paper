@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "decaporg/decap-cms",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:01.120486+00:00",
+  "tree_sha": "6ef2f9bdf81ce9df55642fe1414e5e687cff95fd",
+  "tree_truncated": false,
+  "tree_path_count": 1396,
+  "has_tests": true,
+  "matched_test_paths": [
+    "cypress",
+    "cypress/Readme.md",
+    "cypress/e2e",
+    "cypress/e2e/common",
+    "cypress/e2e/common/editorial_workflow.js",
+    "cypress/e2e/common/editorial_workflow_migrations.js",
+    "cypress/e2e/common/entries.js",
+    "cypress/e2e/common/i18n.js",
+    "cypress/e2e/common/i18n_editorial_workflow_spec.js",
+    "cypress/e2e/common/media_library.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/create-release.yml",
+    ".github/workflows/labeler.yml",
+    ".github/workflows/nodejs.yml",
+    ".github/workflows/publish.yml",
+    ".github/workflows/sponsors.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

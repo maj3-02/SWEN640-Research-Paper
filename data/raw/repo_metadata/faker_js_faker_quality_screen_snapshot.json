@@ -1,0 +1,44 @@
+{
+  "repository_full_name": "faker-js/faker",
+  "default_branch": "next",
+  "fetched_at_utc": "2026-04-28T19:19:53.130599+00:00",
+  "tree_sha": "f286dfdb046be8387b3104bb9d6503ad5112fef8",
+  "tree_truncated": false,
+  "tree_path_count": 4130,
+  "has_tests": true,
+  "matched_test_paths": [
+    "cypress",
+    "cypress/e2e",
+    "cypress/e2e/api.cy.ts",
+    "cypress/e2e/example-refresh.cy.ts",
+    "cypress/e2e/guide.cy.ts",
+    "cypress/tsconfig.json",
+    "test",
+    "test/__snapshots__",
+    "test/__snapshots__/locale-data.spec.ts.snap",
+    "test/all-functional.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/check-mergable-by-label.yml",
+    ".github/workflows/check-release-pr.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/comment-issue.yml",
+    ".github/workflows/draft-release.yml",
+    ".github/workflows/integration-test.yml",
+    ".github/workflows/pr.yml",
+    ".github/workflows/prepare-release-pr.yml",
+    ".github/workflows/publish-release.yml",
+    ".github/workflows/semantic-pull-request.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/ISSUE_TEMPLATE/freestyle.md",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

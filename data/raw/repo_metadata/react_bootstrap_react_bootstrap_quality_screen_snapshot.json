@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "react-bootstrap/react-bootstrap",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:06.916068+00:00",
+  "tree_sha": "2f6eef1fbff33c05ea3655fa4e6fa54ef5456aad",
+  "tree_truncated": false,
+  "tree_path_count": 689,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/AccordionButtonSpec.tsx",
+    "test/AccordionHeaderSpec.tsx",
+    "test/AccordionSpec.tsx",
+    "test/AlertSpec.tsx",
+    "test/BadgeSpec.tsx",
+    "test/BootstrapModalManagerSpec.ts",
+    "test/BreadcrumbItemSpec.tsx",
+    "test/BreadcrumbSpec.tsx",
+    "test/ButtonGroupSpec.tsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    "CONTRIBUTING.md"
+  ]
+}

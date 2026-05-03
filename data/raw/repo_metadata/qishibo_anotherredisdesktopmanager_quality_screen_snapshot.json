@@ -1,0 +1,23 @@
+{
+  "repository_full_name": "qishibo/AnotherRedisDesktopManager",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:34.840793+00:00",
+  "tree_sha": "4c2b7a5f1074b619eb11ca19796d896c3a8e7098",
+  "tree_truncated": false,
+  "tree_path_count": 153,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build_linux.yml",
+    ".github/workflows/build_mac.yml",
+    ".github/workflows/build_windows.yml",
+    ".github/workflows/codeql-analysis.yml.bak",
+    ".github/workflows/gen_sponsors.yaml",
+    ".github/workflows/publish_winget.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "SECURITY.md"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "clash-verge-rev/clash-verge-rev",
+  "default_branch": "dev",
+  "fetched_at_utc": "2026-04-28T19:17:51.625222+00:00",
+  "tree_sha": "33d7988ac98c9d2cfb36dd7c50ae3d2aebfc8f05",
+  "tree_truncated": false,
+  "tree_path_count": 740,
+  "has_tests": true,
+  "matched_test_paths": [
+    "crates/clash-verge-draft/tests",
+    "crates/clash-verge-draft/tests/test_me.rs",
+    "src/assets/image/test",
+    "src/assets/image/test/apple.svg",
+    "src/assets/image/test/github.svg",
+    "src/assets/image/test/google.svg",
+    "src/assets/image/test/youtube.svg",
+    "src/components/test",
+    "src/components/test/test-box.tsx",
+    "src/components/test/test-item.tsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/autobuild-check-test.yml",
+    ".github/workflows/autobuild.yml",
+    ".github/workflows/cargo-audit.yml",
+    ".github/workflows/check-commit-needs-build.yml",
+    ".github/workflows/clean-old-assets.yml",
+    ".github/workflows/copilot-setup-steps.yml",
+    ".github/workflows/cross_check.yaml",
+    ".github/workflows/dev.yml",
+    ".github/workflows/frontend-check.yml",
+    ".github/workflows/lint-clippy.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/ISSUE_TEMPLATE/i18n_request.yml",
+    "CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "repository_full_name": "nfl/react-helmet",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:07.182279+00:00",
+  "tree_sha": "1b57ddb1524bab195df3eeabafef67768a6d2a15",
+  "tree_truncated": false,
+  "tree_path_count": 25,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/HelmetDeclarativeTest.js",
+    "test/HelmetTest.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

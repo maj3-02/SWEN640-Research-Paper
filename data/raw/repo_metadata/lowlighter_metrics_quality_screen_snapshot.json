@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "lowlighter/metrics",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:10.706668+00:00",
+  "tree_sha": "366f8b9dfe3a59656c67d5dcad9950f59c9bc96d",
+  "tree_truncated": false,
+  "tree_path_count": 833,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/cases",
+    "tests/cases/16personalities.plugin.yml",
+    "tests/cases/achievements.plugin.yml",
+    "tests/cases/activity.plugin.yml",
+    "tests/cases/anilist.plugin.yml",
+    "tests/cases/base.plugin.yml",
+    "tests/cases/calendar.plugin.yml",
+    "tests/cases/chess.plugin.yml",
+    "tests/cases/classic.template.yml"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/branches.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/clean.yml",
+    ".github/workflows/examples.presets.yml",
+    ".github/workflows/examples.yml",
+    ".github/workflows/label.yml",
+    ".github/workflows/spelling.yml",
+    ".github/workflows/stale.yml",
+    ".github/workflows/test.presets.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/pull_request_template.md",
+    ".github/readme/partials/documentation/contributing.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

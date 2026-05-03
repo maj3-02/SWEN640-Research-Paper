@@ -1,0 +1,35 @@
+{
+  "repository_full_name": "js-cookie/js-cookie",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-26T23:03:19.807599+00:00",
+  "tree_sha": "8a7bf279f55864f5f8c34bf5c5cdc12141eb9b69",
+  "tree_truncated": false,
+  "tree_path_count": 64,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/encoding.html",
+    "test/encoding.js",
+    "test/fix-qunit-reference.js",
+    "test/index.html",
+    "test/missing_semicolon.html",
+    "test/module.html",
+    "test/module.mjs",
+    "test/node.js",
+    "test/sub"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/stale-bot.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

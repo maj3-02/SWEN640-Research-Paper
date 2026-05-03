@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "nextauthjs/next-auth",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:47.095843+00:00",
+  "tree_sha": "dab3cfb1a04aad0b20e616bf9f1d21b5d6e318cd",
+  "tree_truncated": false,
+  "tree_path_count": 1637,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/dev/nextjs/tests",
+    "apps/dev/nextjs/tests/signin.spec.ts",
+    "packages/adapter-azure-tables/test",
+    "packages/adapter-azure-tables/test/index.test.ts",
+    "packages/adapter-azure-tables/test/test.sh",
+    "packages/adapter-d1/test",
+    "packages/adapter-d1/test/index.test.ts",
+    "packages/adapter-dgraph/test",
+    "packages/adapter-dgraph/test/index.test.ts",
+    "packages/adapter-dgraph/test/private.key"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/broken-link-checker.yml",
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/pr-labeler.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/sync-examples.yml",
+    ".github/workflows/triage.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1_bug_framework.yml",
+    ".github/ISSUE_TEMPLATE/2_bug_provider.yml",
+    ".github/ISSUE_TEMPLATE/3_bug_adapter.yml",
+    ".github/ISSUE_TEMPLATE/4_documentation.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

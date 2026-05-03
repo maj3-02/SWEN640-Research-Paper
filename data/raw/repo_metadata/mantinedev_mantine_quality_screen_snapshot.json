@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "mantinedev/mantine",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:41.656591+00:00",
+  "tree_sha": "3646de9f0fe83eaf2946154e6385bd82eb15c243",
+  "tree_truncated": false,
+  "tree_path_count": 6968,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/@mantine/carousel/src/Carousel.test.tsx",
+    "packages/@mantine/carousel/src/CarouselSlide/CarouselSlide.test.tsx",
+    "packages/@mantine/charts/src/AreaChart/AreaChart.test.tsx",
+    "packages/@mantine/charts/src/BarChart/BarChart.test.tsx",
+    "packages/@mantine/charts/src/BarsList/BarsList.test.tsx",
+    "packages/@mantine/charts/src/BubbleChart/BubbleChart.test.tsx",
+    "packages/@mantine/charts/src/ChartLegend/ChartLegend.test.tsx",
+    "packages/@mantine/charts/src/ChartTooltip/ChartTooltip.test.tsx",
+    "packages/@mantine/charts/src/CompositeChart/CompositeChart.test.tsx",
+    "packages/@mantine/charts/src/DonutChart/DonutChart.test.tsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/npm_test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/comunity_template.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/docs_report.yml",
+    "CONTRIBUTING.md"
+  ]
+}

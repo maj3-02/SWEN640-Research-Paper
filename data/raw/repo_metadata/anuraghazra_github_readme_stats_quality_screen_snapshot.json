@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "anuraghazra/github-readme-stats",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:17.151081+00:00",
+  "tree_sha": "5df91f9bfa89c356a55cbb3c2bbc164fdbf94a86",
+  "tree_truncated": false,
+  "tree_path_count": 150,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/__snapshots__",
+    "tests/__snapshots__/renderWakatimeCard.test.js.snap",
+    "tests/api.test.js",
+    "tests/bench",
+    "tests/bench/api.bench.js",
+    "tests/bench/calculateRank.bench.js",
+    "tests/bench/gist.bench.js",
+    "tests/bench/pin.bench.js",
+    "tests/bench/utils.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/deploy-prep.py",
+    ".github/workflows/deploy-prep.yml",
+    ".github/workflows/e2e-test.yml",
+    ".github/workflows/empty-issues-closer.yml",
+    ".github/workflows/generate-theme-doc.yml",
+    ".github/workflows/label-pr.yml",
+    ".github/workflows/ossf-analysis.yml",
+    ".github/workflows/preview-theme.yml",
+    ".github/workflows/prs-cache-clean.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

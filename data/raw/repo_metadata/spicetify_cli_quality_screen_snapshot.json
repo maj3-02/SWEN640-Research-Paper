@@ -1,0 +1,21 @@
+{
+  "repository_full_name": "spicetify/cli",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:56.330101+00:00",
+  "tree_sha": "035d194999116720593defd5132f564210c2a48a",
+  "tree_truncated": false,
+  "tree_path_count": 128,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build.yml",
+    ".github/workflows/labeler.yml",
+    ".github/workflows/linter.yml",
+    ".github/workflows/lintpr.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md"
+  ]
+}

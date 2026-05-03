@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "mattermost/mattermost",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:29.571676+00:00",
+  "tree_sha": "fdaea9dec316d6a10014b7010f3558675e300490",
+  "tree_truncated": false,
+  "tree_path_count": 14897,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".github/actions/calculate-cypress-results/src/merge.test.ts",
+    ".github/actions/calculate-playwright-results/src/merge.test.ts",
+    ".github/actions/save-junit-report-tms/src/__tests__",
+    ".github/actions/save-junit-report-tms/src/__tests__/fixtures",
+    ".github/actions/save-junit-report-tms/src/__tests__/fixtures/report-basic.xml",
+    ".github/actions/save-junit-report-tms/src/__tests__/fixtures/report-duplicate-keys.xml",
+    ".github/actions/save-junit-report-tms/src/__tests__/fixtures/report-multiple-suites.xml",
+    ".github/actions/save-junit-report-tms/src/__tests__/helpers.test.ts",
+    ".github/actions/save-junit-report-tms/src/__tests__/main.test.ts",
+    "e2e-tests/cypress"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/api.yml",
+    ".github/workflows/build-opensearch-image.yml",
+    ".github/workflows/build-server-image.yml",
+    ".github/workflows/claude.yml",
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/docker-push-mirrored.yml",
+    ".github/workflows/docs-impact-review.yml",
+    ".github/workflows/e2e-fulltests-ci.yml",
+    ".github/workflows/e2e-tests-check.yml",
+    ".github/workflows/e2e-tests-ci-template.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "api/CONTRIBUTING.md"
+  ]
+}

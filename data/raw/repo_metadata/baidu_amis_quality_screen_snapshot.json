@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "baidu/amis",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:28.088476+00:00",
+  "tree_sha": "43a33ee066990589f5891674e645c4c927761fe5",
+  "tree_truncated": false,
+  "tree_path_count": 4238,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/amis-core/__tests__",
+    "packages/amis-core/__tests__/__snapshots__",
+    "packages/amis-core/__tests__/__snapshots__/factory.test.tsx.snap",
+    "packages/amis-core/__tests__/async-filter.test.ts",
+    "packages/amis-core/__tests__/compat.test.d.ts",
+    "packages/amis-core/__tests__/compat.test.ts",
+    "packages/amis-core/__tests__/condition.test.ts",
+    "packages/amis-core/__tests__/datamapping.test.ts",
+    "packages/amis-core/__tests__/factory.test.d.ts",
+    "packages/amis-core/__tests__/factory.test.tsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/auto-labeler.yml",
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/gh-pages.yml",
+    ".github/workflows/issue-spam-filter.yml",
+    ".github/workflows/pr-test.yml",
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug-report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature-request.md",
+    ".github/ISSUE_TEMPLATE/rfc.md",
+    ".github/ISSUE_TEMPLATE/usage-question.md",
+    "packages/amis/SECURITY.md"
+  ]
+}

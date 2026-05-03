@@ -1,0 +1,25 @@
+{
+  "repository_full_name": "auchenberg/volkswagen",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:15.603529+00:00",
+  "tree_sha": "ae379b4459ee4dd71b4783246b99f6a3135fdc4b",
+  "tree_truncated": false,
+  "tree_path_count": 21,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/_fake-ci.js",
+    "test/assert.js",
+    "test/chai.js",
+    "test/exit-code.js",
+    "test/tap.js",
+    "test/tape.js",
+    "test/throw.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

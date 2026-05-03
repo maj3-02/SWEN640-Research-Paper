@@ -1,0 +1,36 @@
+{
+  "repository_full_name": "semantic-release/semantic-release",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:54.190215+00:00",
+  "tree_sha": "9276f5a21d159920d1682abd9e3b37e3683a354a",
+  "tree_truncated": false,
+  "tree_path_count": 147,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/branches",
+    "test/branches/branches.test.js",
+    "test/branches/expand.test.js",
+    "test/branches/get-tags.test.js",
+    "test/branches/normalize.test.js",
+    "test/cli.test.js",
+    "test/definitions",
+    "test/definitions/branches.test.js",
+    "test/definitions/plugins.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/release.yml",
+    ".github/workflows/scorecard.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/01_bug_report.yml",
+    ".github/ISSUE_TEMPLATE/02_feature_request.yml",
+    ".github/ISSUE_TEMPLATE/03_plugin_suggestion.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

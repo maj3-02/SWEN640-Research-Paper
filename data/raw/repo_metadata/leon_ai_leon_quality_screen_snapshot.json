@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "leon-ai/leon",
+  "default_branch": "develop",
+  "fetched_at_utc": "2026-04-28T19:19:38.403868+00:00",
+  "tree_sha": "aa150e477930ffdac31d6385678e115335d19615",
+  "tree_truncated": false,
+  "tree_path_count": 1627,
+  "has_tests": true,
+  "matched_test_paths": [
+    "skills/age_skill/test",
+    "skills/age_skill/test/.gitkeep",
+    "skills/color_skill/test",
+    "skills/color_skill/test/.gitkeep",
+    "skills/date_time_skill/test",
+    "skills/date_time_skill/test/.gitkeep",
+    "skills/guess_the_number_skill/test",
+    "skills/guess_the_number_skill/test/.gitkeep",
+    "skills/have_i_been_pwned_skill/test",
+    "skills/have_i_been_pwned_skill/test/.gitkeep"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build.yml",
+    ".github/workflows/lint.yml",
+    ".github/workflows/tests.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/BUG.md",
+    ".github/ISSUE_TEMPLATE/DOCS.md",
+    ".github/ISSUE_TEMPLATE/FEATURE_REQUEST.md",
+    ".github/ISSUE_TEMPLATE/IMPROVEMENT.md",
+    ".github/ISSUE_TEMPLATE/QUESTION.md",
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

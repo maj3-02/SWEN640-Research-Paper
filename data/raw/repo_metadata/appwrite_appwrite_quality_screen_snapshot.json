@@ -1,0 +1,40 @@
+{
+  "repository_full_name": "appwrite/appwrite",
+  "default_branch": "1.9.x",
+  "fetched_at_utc": "2026-04-28T19:18:05.772382+00:00",
+  "tree_sha": "547709a1d875430130929c148c7f555af4b5d253",
+  "tree_truncated": false,
+  "tree_path_count": 3555,
+  "has_tests": true,
+  "matched_test_paths": [
+    "bin/specs",
+    "bin/test",
+    "docs/specs",
+    "docs/specs/authentication.drawio.svg",
+    "docs/specs/custom-domains.drawio.svg",
+    "docs/specs/overview.drawio.svg",
+    "docs/specs/realtime.drawio.svg",
+    "src/Appwrite/Platform/Modules/Project/Http/Project/SMTP/Tests",
+    "src/Appwrite/Platform/Modules/Project/Http/Project/SMTP/Tests/Create.php",
+    "tests"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ai-moderator.yml",
+    ".github/workflows/auto-label-issue.yml",
+    ".github/workflows/benchmark-comment.js",
+    ".github/workflows/ci.yml",
+    ".github/workflows/cleanup-cache.yml",
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/issue-triage.lock.yml",
+    ".github/workflows/issue-triage.md",
+    ".github/workflows/nightly.yml",
+    ".github/workflows/publish.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

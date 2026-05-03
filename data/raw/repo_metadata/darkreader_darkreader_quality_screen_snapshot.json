@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "darkreader/darkreader",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:11.720427+00:00",
+  "tree_sha": "082a02181055fae625ea61b1ed2e6d9cb920c63c",
+  "tree_truncated": false,
+  "tree_path_count": 1226,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/browser",
+    "tests/browser/coverage.js",
+    "tests/browser/dynamic",
+    "tests/browser/dynamic/inline-override.tests.ts",
+    "tests/browser/dynamic/link-override.tests.ts",
+    "tests/browser/dynamic/style-override.tests.ts",
+    "tests/browser/e2e",
+    "tests/browser/e2e/devtools.tests.ts",
+    "tests/browser/e2e/environment.tests.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/tagged-release.yml",
+    ".github/workflows/test-browser.yml",
+    ".github/workflows/test-code.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/broken-website-report.yml",
+    ".github/ISSUE_TEMPLATE/bug-report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature-request.yml",
+    ".github/ISSUE_TEMPLATE/performance-issue-report.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

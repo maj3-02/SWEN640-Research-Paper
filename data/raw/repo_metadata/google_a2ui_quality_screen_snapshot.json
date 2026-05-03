@@ -1,0 +1,40 @@
+{
+  "repository_full_name": "google/A2UI",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:58.690191+00:00",
+  "tree_sha": "89860413d19901a18409778e66fc887729767f9e",
+  "tree_truncated": false,
+  "tree_path_count": 2215,
+  "has_tests": true,
+  "matched_test_paths": [
+    "agent_sdks/conformance/tests",
+    "agent_sdks/conformance/tests/test_conformance_yaml.py",
+    "agent_sdks/cpp/tests",
+    "agent_sdks/cpp/tests/parser",
+    "agent_sdks/cpp/tests/parser/test_parser.cc",
+    "agent_sdks/cpp/tests/parser/test_payload_fixer.cc",
+    "agent_sdks/cpp/tests/parser/test_streaming_v08.cc",
+    "agent_sdks/cpp/tests/parser/test_streaming_v09.cc",
+    "agent_sdks/cpp/tests/schema",
+    "agent_sdks/cpp/tests/schema/test_catalog.cc"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/auto-assignment.yml",
+    ".github/workflows/check_license.yml",
+    ".github/workflows/check_private_index.yml",
+    ".github/workflows/composer_build_and_test.yml",
+    ".github/workflows/cpp_agent_sdk_build_and_test.yml",
+    ".github/workflows/docs.yml",
+    ".github/workflows/e2e_test.yaml",
+    ".github/workflows/editor_build.yml",
+    ".github/workflows/inspector_build.yml",
+    ".github/workflows/java_build_and_test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/sprint-task.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "repository_full_name": "nextapps-de/flexsearch",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:29.861616+00:00",
+  "tree_sha": "defb38b083f00a412034ef4b3d29278e2e984903",
+  "tree_truncated": false,
+  "tree_path_count": 604,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/.c8rc.json",
+    "test/async.js",
+    "test/basic.js",
+    "test/cache.js",
+    "test/context.js",
+    "test/debug.js",
+    "test/document.js",
+    "test/document.tag.js",
+    "test/encoder.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/node.js.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "SECURITY.md"
+  ]
+}

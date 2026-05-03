@@ -1,0 +1,21 @@
+{
+  "repository_full_name": "humanlayer/12-factor-agents",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:24.460144+00:00",
+  "tree_sha": "d20c728368bf9c189d6d7aab704744decb6ec0cc",
+  "tree_truncated": false,
+  "tree_path_count": 596,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/walkthroughgen/test",
+    "packages/walkthroughgen/test/e2e",
+    "packages/walkthroughgen/test/e2e/test-e2e.ts",
+    "packages/walkthroughgen/test/utils",
+    "packages/walkthroughgen/test/utils/console-mock.ts",
+    "packages/walkthroughgen/test/utils/temp-dir.ts"
+  ],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

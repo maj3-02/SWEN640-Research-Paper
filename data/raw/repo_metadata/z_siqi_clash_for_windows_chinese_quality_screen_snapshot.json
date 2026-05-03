@@ -1,0 +1,36 @@
+{
+  "repository_full_name": "Z-Siqi/Clash-for-Windows_Chinese",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:42.319558+00:00",
+  "tree_sha": "d530262f46af6b281fbcbb95ee3f868644db8c29",
+  "tree_truncated": false,
+  "tree_path_count": 4114,
+  "has_tests": true,
+  "matched_test_paths": [
+    "app/main/node_modules/mousetrap/plugins/record/tests",
+    "app/main/node_modules/mousetrap/plugins/record/tests/index.html",
+    "app/main/node_modules/mousetrap/plugins/record/tests/jelly.css",
+    "app/main/node_modules/mousetrap/plugins/record/tests/jelly.js",
+    "app/main/node_modules/vue/packages/compiler-sfc/test",
+    "app/main/node_modules/vue/packages/compiler-sfc/test/__snapshots__",
+    "app/main/node_modules/vue/packages/compiler-sfc/test/__snapshots__/compileScript.spec.ts.snap",
+    "app/main/node_modules/vue/packages/compiler-sfc/test/__snapshots__/cssVars.spec.ts.snap",
+    "app/main/node_modules/vue/packages/compiler-sfc/test/compileScript.spec.ts",
+    "app/main/node_modules/vue/packages/compiler-sfc/test/compileStyle.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/CloseStaleIssues.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/issues-template-and-rules.yaml",
+    "app/main/node_modules/axios/SECURITY.md",
+    "app/main/node_modules/bl/node_modules/readable-stream/CONTRIBUTING.md",
+    "app/main/node_modules/bl/node_modules/readable-stream/GOVERNANCE.md",
+    "app/main/node_modules/dijkstrajs/CONTRIBUTING.md",
+    "app/main/node_modules/tar-stream/node_modules/readable-stream/CONTRIBUTING.md",
+    "app/main/node_modules/tar-stream/node_modules/readable-stream/GOVERNANCE.md",
+    "app/main/node_modules/uuid/CONTRIBUTING.md"
+  ]
+}

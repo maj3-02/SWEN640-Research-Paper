@@ -1,0 +1,30 @@
+{
+  "repository_full_name": "conwnet/github1s",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:04.737827+00:00",
+  "tree_sha": "170788d646ab62f3e16e22dd197ebed377d8b28b",
+  "tree_truncated": false,
+  "tree_path_count": 369,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/__tests__",
+    "tests/__tests__/__image_snapshots__",
+    "tests/__tests__/__image_snapshots__/index-test-ts-should-load-successfully-1-snap.png",
+    "tests/__tests__/__image_snapshots__/index-test-ts-should-open-file-correctly-1-snap.png",
+    "tests/__tests__/__image_snapshots__/index-test-ts-should-show-commit-files-1-snap.png",
+    "tests/__tests__/index.test.ts",
+    "tests/jest.config.js",
+    "tests/package-lock.json",
+    "tests/package.json"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build.yml",
+    ".github/workflows/codacy-analysis.yaml",
+    ".github/workflows/test-wtih-vscode-build.yml",
+    ".github/workflows/welcome-first-time-contributors.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "cypress-io/cypress",
+  "default_branch": "develop",
+  "fetched_at_utc": "2026-04-28T19:18:12.537556+00:00",
+  "tree_sha": "545556ee30d468d005a4efea07742e237d44ecd9",
+  "tree_truncated": false,
+  "tree_path_count": 8690,
+  "has_tests": true,
+  "matched_test_paths": [
+    "cli/bin/cypress",
+    "cli/test",
+    "cli/test/fixture",
+    "cli/test/fixture/bad_example.zip",
+    "cli/test/fixture/cafile.pem",
+    "cli/test/fixture/example.zip",
+    "cli/test/lib",
+    "cli/test/lib/__snapshots__",
+    "cli/test/lib/__snapshots__/build.spec.ts.snap",
+    "cli/test/lib/__snapshots__/cli.spec.ts.snap"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/.gitignore",
+    ".circleci/README.md",
+    ".circleci/cache-version.txt",
+    ".circleci/config.yml",
+    ".circleci/scripts",
+    ".circleci/scripts/generate-pipeline-parameters.sh",
+    ".circleci/src",
+    ".circleci/src/pipeline",
+    ".circleci/src/pipeline/@pipeline.yml",
+    ".circleci/src/pipeline/commands"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1-bug-report.yml",
+    ".github/ISSUE_TEMPLATE/2-feature.yml",
+    ".github/ISSUE_TEMPLATE/3-install-issue.yml",
+    ".github/ISSUE_TEMPLATE/4-memory-issue.yml",
+    ".github/ISSUE_TEMPLATE/5-cy-prompt-issue.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

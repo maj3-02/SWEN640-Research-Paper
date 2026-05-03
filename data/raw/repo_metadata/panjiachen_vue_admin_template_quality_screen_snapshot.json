@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "PanJiaChen/vue-admin-template",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-26T23:03:27.953826+00:00",
+  "tree_sha": "4c18a3f47bdb417ad8a25f09910f848cb574dee2",
+  "tree_truncated": false,
+  "tree_path_count": 138,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/unit",
+    "tests/unit/.eslintrc.js",
+    "tests/unit/components",
+    "tests/unit/components/Breadcrumb.spec.js",
+    "tests/unit/components/Hamburger.spec.js",
+    "tests/unit/components/SvgIcon.spec.js",
+    "tests/unit/utils",
+    "tests/unit/utils/formatTime.spec.js",
+    "tests/unit/utils/param2Obj.spec.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

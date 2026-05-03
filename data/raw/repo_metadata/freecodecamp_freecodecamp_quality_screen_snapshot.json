@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "freeCodeCamp/freeCodeCamp",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:47.580151+00:00",
+  "tree_sha": "40836e70fd3d78914c8c89a3e4e1d6ab70a98b41",
+  "tree_truncated": false,
+  "tree_path_count": 20229,
+  "has_tests": true,
+  "matched_test_paths": [
+    "api/src/daily-coding-challenge/routes/daily-coding-challenge.test.ts",
+    "api/src/db/extensions.test.ts",
+    "api/src/exam-environment/routes/exam-environment.test.ts",
+    "api/src/exam-environment/utils/exam-environment.test.ts",
+    "api/src/plugins/auth-dev.test.ts",
+    "api/src/plugins/auth.test.ts",
+    "api/src/plugins/auth0.test.ts",
+    "api/src/plugins/bouncer.test.ts",
+    "api/src/plugins/cookie-update.test.ts",
+    "api/src/plugins/cookies.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/crowdin-download.client-ui.yml",
+    ".github/workflows/crowdin-upload.client-ui.yml",
+    ".github/workflows/crowdin-upload.curriculum.yml",
+    ".github/workflows/curriculum-i18n-submodule.yml",
+    ".github/workflows/deploy-api.yml",
+    ".github/workflows/deploy-client.yml",
+    ".github/workflows/devcontainer-ci.yml",
+    ".github/workflows/docker-docr-cleanup.yml",
+    ".github/workflows/docker-docr.yml",
+    ".github/workflows/docker-ghcr.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/01--issues-with-coding-challenges.yml",
+    ".github/ISSUE_TEMPLATE/02--issues-with-software-on-platforms.yml",
+    ".github/ISSUE_TEMPLATE/03--issues-with-content-on-articles-and-docs.yml",
+    ".github/ISSUE_TEMPLATE/04--feature-request-for-freecodecamp-org-s-platforms.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "Stirling-Tools/Stirling-PDF",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:58.920643+00:00",
+  "tree_sha": "1c42ce7087712cefc4da9a8fa698deca2a813bf6",
+  "tree_truncated": false,
+  "tree_path_count": 4464,
+  "has_tests": true,
+  "matched_test_paths": [
+    "app/common/src/test",
+    "app/common/src/test/java",
+    "app/common/src/test/java/stirling",
+    "app/common/src/test/java/stirling/software",
+    "app/common/src/test/java/stirling/software/common",
+    "app/common/src/test/java/stirling/software/common/annotations",
+    "app/common/src/test/java/stirling/software/common/annotations/AutoJobPostMappingIntegrationTest.java",
+    "app/common/src/test/java/stirling/software/common/configuration",
+    "app/common/src/test/java/stirling/software/common/configuration/interfaces",
+    "app/common/src/test/java/stirling/software/common/configuration/interfaces/ShowAdminInterfaceTest.java"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/PR-Auto-Deploy-V2.yml",
+    ".github/workflows/PR-Demo-Comment-with-react.yml",
+    ".github/workflows/PR-Demo-cleanup.yml",
+    ".github/workflows/ai-engine.yml",
+    ".github/workflows/ai_pr_title_review.yml",
+    ".github/workflows/aur-publish.yml",
+    ".github/workflows/auto-labelerV2.yml",
+    ".github/workflows/build-enterprise.yml",
+    ".github/workflows/build.yml",
+    ".github/workflows/check_toml.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1-bug.yml",
+    ".github/ISSUE_TEMPLATE/2-feature.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

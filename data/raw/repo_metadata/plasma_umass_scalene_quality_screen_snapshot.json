@@ -1,0 +1,36 @@
+{
+  "repository_full_name": "plasma-umass/scalene",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:33.822707+00:00",
+  "tree_sha": "1fd91c4c204a0bf20ce67af61e24e93254d9c768",
+  "tree_truncated": false,
+  "tree_path_count": 499,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/automatic",
+    "test/automatic/README.md",
+    "test/automatic/dataframe",
+    "test/automatic/dataframe/README.md",
+    "test/automatic/dataframe/dataframe-select-optimized.py",
+    "test/automatic/dataframe/dataframe-select-original.py",
+    "test/automatic/svm",
+    "test/automatic/svm/README.md",
+    "test/automatic/svm/data"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/blacken.yml",
+    ".github/workflows/build-and-upload.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/run-linters.yml",
+    ".github/workflows/test-smoketests.yml",
+    ".github/workflows/tests.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    "CODE_OF_CONDUCT.md"
+  ]
+}

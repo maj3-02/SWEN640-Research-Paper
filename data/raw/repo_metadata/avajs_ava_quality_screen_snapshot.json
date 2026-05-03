@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "avajs/ava",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-26T23:03:26.233900+00:00",
+  "tree_sha": "a3049907a846f6b1180e772e9a0701ce21370464",
+  "tree_truncated": false,
+  "tree_path_count": 1289,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test-tap/fixture/globs/custom-extension/test",
+    "test-tap/fixture/globs/custom-extension/test/do-not-compile.js",
+    "test-tap/fixture/globs/custom-extension/test/foo.jsx",
+    "test-tap/fixture/globs/custom-extension/test/helpers",
+    "test-tap/fixture/globs/custom-extension/test/helpers/a.jsx",
+    "test-tap/fixture/globs/custom-extension/test/helpers/b.js",
+    "test-tap/fixture/globs/custom-extension/test/sub",
+    "test-tap/fixture/globs/custom-extension/test/sub/_helper.jsx",
+    "test-tap/fixture/globs/custom-extension/test/sub/bar.jsx",
+    "test-tap/fixture/globs/cwd/dir-a/test"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature.md"
+  ]
+}

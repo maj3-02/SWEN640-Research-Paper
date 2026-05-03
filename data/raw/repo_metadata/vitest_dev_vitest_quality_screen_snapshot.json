@@ -1,0 +1,44 @@
+{
+  "repository_full_name": "vitest-dev/vitest",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:43.001603+00:00",
+  "tree_sha": "ad16223e7c6d9cf3ff410a695a9fbf622ba5cab2",
+  "tree_truncated": false,
+  "tree_path_count": 3659,
+  "has_tests": true,
+  "matched_test_paths": [
+    "examples/basic/test",
+    "examples/basic/test/__snapshots__",
+    "examples/basic/test/__snapshots__/suite.test.ts.snap",
+    "examples/basic/test/basic.test.ts",
+    "examples/basic/test/suite.test.ts",
+    "examples/fastify/test",
+    "examples/fastify/test/app.test.ts",
+    "examples/lit/test",
+    "examples/lit/test/basic.test.ts",
+    "examples/opentelemetry/src/basic.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/cr.yml",
+    ".github/workflows/ecosystem-ci-trigger.yml",
+    ".github/workflows/issue-close-require.yml",
+    ".github/workflows/issue-labeled.yml",
+    ".github/workflows/lock-closed-issues.yml",
+    ".github/workflows/pr-labeled-automated.yml",
+    ".github/workflows/publish.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/docs.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "packages/ui/CONTRIBUTING.md"
+  ]
+}

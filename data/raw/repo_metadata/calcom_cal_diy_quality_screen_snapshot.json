@@ -1,0 +1,45 @@
+{
+  "repository_full_name": "calcom/cal.diy",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:22.451824+00:00",
+  "tree_sha": "c2c95b371a691a5db042db7705f7708dbe62ce96",
+  "tree_truncated": false,
+  "tree_path_count": 10266,
+  "has_tests": true,
+  "matched_test_paths": [
+    "__checks__/csp-login.spec.ts",
+    "apps/api/v2/src/lib/inputs/capitalize-timezone.spec.ts",
+    "apps/api/v2/src/lib/is-origin-allowed/is-origin-allowed.spec.ts",
+    "apps/api/v2/src/lib/pagination/pagination.spec.ts",
+    "apps/api/v2/src/modules/auth/guards/or-guard/or.guard.spec.ts",
+    "apps/api/v2/src/modules/auth/guards/permissions/permissions.guard.spec.ts",
+    "apps/api/v2/src/modules/cal-unified-calendars/controllers/cal-unified-calendars.controller.spec.ts",
+    "apps/api/v2/src/modules/cal-unified-calendars/pipes/get-calendar-event-details-output-pipe.spec.ts",
+    "apps/api/v2/src/modules/cal-unified-calendars/pipes/google-calendar-event-input.pipe.spec.ts",
+    "apps/api/v2/src/modules/cal-unified-calendars/services/google-calendar.service.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/all-checks.yml",
+    ".github/workflows/api-v2-production-build.yml",
+    ".github/workflows/api-v2-unit-tests.yml",
+    ".github/workflows/atoms-production-build.yml",
+    ".github/workflows/cache-clean.yml",
+    ".github/workflows/changesets.yml",
+    ".github/workflows/check-prisma-migrations.yml",
+    ".github/workflows/check-types.yml",
+    ".github/workflows/cleanup-report.yml",
+    ".github/workflows/cleanup.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "packages/app-store/CONTRIBUTING.md"
+  ]
+}

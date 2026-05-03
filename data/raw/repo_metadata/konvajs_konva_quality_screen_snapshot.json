@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "konvajs/konva",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:59.110947+00:00",
+  "tree_sha": "398f9d3b49d0d3c3e3384458a2cb839cc1c31e1d",
+  "tree_truncated": false,
+  "tree_path_count": 180,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/assets",
+    "test/assets/bunny.png",
+    "test/assets/darth-vader.jpg",
+    "test/assets/lion.png",
+    "test/assets/scorpion-sprite.png",
+    "test/assets/tiger.ts",
+    "test/assets/worldMap.ts",
+    "test/bunnies.html",
+    "test/ifame.html"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build.yml",
+    ".github/workflows/prettier.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/test-browser.yml",
+    ".github/workflows/test-node.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

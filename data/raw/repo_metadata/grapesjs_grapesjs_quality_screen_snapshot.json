@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "GrapesJS/grapesjs",
+  "default_branch": "dev",
+  "fetched_at_utc": "2026-04-28T19:18:55.463049+00:00",
+  "tree_sha": "cf8257ad6f15de797f44e48bc4d199edb6a9db10",
+  "tree_truncated": false,
+  "tree_path_count": 876,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/cli/test",
+    "packages/cli/test/utils.spec.ts",
+    "packages/core/test",
+    "packages/core/test/common.ts",
+    "packages/core/test/setup.js",
+    "packages/core/test/specs",
+    "packages/core/test/specs/asset_manager",
+    "packages/core/test/specs/asset_manager/index.ts",
+    "packages/core/test/specs/asset_manager/model",
+    "packages/core/test/specs/asset_manager/model/Asset.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/publish-cli.yml",
+    ".github/workflows/publish-core-latest.yml",
+    ".github/workflows/publish-core-rc.yml",
+    ".github/workflows/publish-docs.yml",
+    ".github/workflows/publish.yml",
+    ".github/workflows/quality.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1.bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

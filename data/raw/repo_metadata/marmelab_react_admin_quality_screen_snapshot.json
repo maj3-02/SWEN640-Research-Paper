@@ -1,0 +1,37 @@
+{
+  "repository_full_name": "marmelab/react-admin",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:52.569542+00:00",
+  "tree_sha": "ef95fadfa572aba9758f07a79f36204818ebc805",
+  "tree_truncated": false,
+  "tree_path_count": 3419,
+  "has_tests": true,
+  "matched_test_paths": [
+    "cypress",
+    "cypress/cypress.config.js",
+    "cypress/e2e",
+    "cypress/e2e/auth.cy.js",
+    "cypress/e2e/create.cy.js",
+    "cypress/e2e/custom-forms.cy.js",
+    "cypress/e2e/customPages.cy.js",
+    "cypress/e2e/edit.cy.js",
+    "cypress/e2e/list.cy.js",
+    "cypress/e2e/mobile.cy.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/deploy-doc-headless.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/Bug_report.md",
+    ".github/ISSUE_TEMPLATE/Custom.md",
+    ".github/ISSUE_TEMPLATE/Feature_request.md",
+    ".github/pull_request_template.md",
+    "docs/Contributing.md"
+  ]
+}

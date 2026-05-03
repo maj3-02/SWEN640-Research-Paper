@@ -1,0 +1,26 @@
+{
+  "repository_full_name": "digitalocean/nginxconfig.io",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:41.686061+00:00",
+  "tree_sha": "dd290c0b706b8a8c2f86cfbffaae9c17715b431d",
+  "tree_truncated": false,
+  "tree_path_count": 612,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/testBrowserLanguage.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/do-spaces-workflow.yml",
+    ".github/workflows/gh-pages-workflow.yml",
+    ".github/workflows/test-workflow.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/help.md",
+    ".github/ISSUE_TEMPLATE/report-a-bug.md",
+    ".github/ISSUE_TEMPLATE/request-a-feature.md",
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

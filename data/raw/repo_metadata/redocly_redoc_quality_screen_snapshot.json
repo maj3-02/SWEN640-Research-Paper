@@ -1,0 +1,36 @@
+{
+  "repository_full_name": "Redocly/redoc",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:55.703515+00:00",
+  "tree_sha": "d41fd46f7cbee86bf83dc17b7ec51baf54f72a54",
+  "tree_truncated": false,
+  "tree_path_count": 393,
+  "has_tests": true,
+  "matched_test_paths": [
+    "e2e",
+    "e2e/e2e.html",
+    "e2e/index.html",
+    "e2e/integration",
+    "e2e/integration/menu.e2e.ts",
+    "e2e/integration/misc.e2e.ts",
+    "e2e/integration/search.e2e.ts",
+    "e2e/integration/standalone.e2e.ts",
+    "e2e/integration/urls.e2e.ts",
+    "e2e/plugins"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/docs-tests.yaml",
+    ".github/workflows/e2e-tests.yml",
+    ".github/workflows/main.yml",
+    ".github/workflows/publish.yml",
+    ".github/workflows/unit-tests.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/pull_request_template.md"
+  ]
+}

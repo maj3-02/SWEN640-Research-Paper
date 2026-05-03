@@ -1,0 +1,41 @@
+{
+  "repository_full_name": "advplyr/audiobookshelf",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:40.884126+00:00",
+  "tree_sha": "47457ee1e76a3e073230dd95a0faafdb1b17508b",
+  "tree_truncated": false,
+  "tree_path_count": 1170,
+  "has_tests": true,
+  "matched_test_paths": [
+    "client/cypress",
+    "client/cypress/fixtures",
+    "client/cypress/fixtures/images",
+    "client/cypress/fixtures/images/book_placeholder.jpg",
+    "client/cypress/fixtures/images/cover1.jpg",
+    "client/cypress/fixtures/images/cover2.jpg",
+    "client/cypress/support",
+    "client/cypress/support/commands.js",
+    "client/cypress/support/component-index.html",
+    "client/cypress/support/component.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/apply_comments.yaml",
+    ".github/workflows/close-issues-on-release.yml",
+    ".github/workflows/close_blank_issues.yaml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/component-tests.yml",
+    ".github/workflows/docker-build.yml",
+    ".github/workflows/i18n-integration.yml",
+    ".github/workflows/integration-test.yml",
+    ".github/workflows/lint-openapi.yml",
+    ".github/workflows/notify-abs-windows.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug.yaml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature.yml",
+    ".github/pull_request_template.md"
+  ]
+}

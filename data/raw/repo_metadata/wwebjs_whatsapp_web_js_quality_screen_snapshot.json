@@ -1,0 +1,41 @@
+{
+  "repository_full_name": "wwebjs/whatsapp-web.js",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-26T23:03:23.792166+00:00",
+  "tree_sha": "f935b500117e264c2b3abc25b63a280bd98182a7",
+  "tree_truncated": false,
+  "tree_path_count": 206,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/README.md",
+    "tests/client.js",
+    "tests/helper.js",
+    "tests/structures",
+    "tests/structures/chat.js",
+    "tests/structures/group.js",
+    "tests/structures/message.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/format-issue-bug.yml",
+    ".github/workflows/issue-triage.yml",
+    ".github/workflows/labels-sync.yml",
+    ".github/workflows/lint.yml",
+    ".github/workflows/pr-triage.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/stale.yml",
+    ".github/workflows/tests.yml",
+    ".github/workflows/update.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/01-bug_report.yml",
+    ".github/ISSUE_TEMPLATE/02-feature_request.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/SUPPORT.md",
+    ".github/pull_request_template.md"
+  ]
+}

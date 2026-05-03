@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "gorhill/uBlock",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:19.594119+00:00",
+  "tree_sha": "11b749e0a3fdf11ca768fdaf25bcdb3107d392c0",
+  "tree_truncated": false,
+  "tree_path_count": 1260,
+  "has_tests": true,
+  "matched_test_paths": [
+    "docs/tests",
+    "docs/tests/css-selector-based-cosmetic-filters.html",
+    "docs/tests/hnbigset-benchmark.html",
+    "docs/tests/hnset-benchmark.html",
+    "docs/tests/hntrie-test.html",
+    "docs/tests/hostname-pool.js",
+    "docs/tests/index.html",
+    "docs/tests/procedural-cosmetic-filters.html",
+    "docs/tests/procedural-html-filters.html",
+    "docs/tests/scriptlet-injection-filters-1.html"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/RELEASE.HEAD.md",
+    ".github/workflows/main.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/config.yml",
+    "CONTRIBUTING.md"
+  ]
+}

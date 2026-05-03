@@ -1,0 +1,37 @@
+{
+  "repository_full_name": "markedjs/marked",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:32.741925+00:00",
+  "tree_sha": "dba76f68043a429bede1d16c07b36c7758db091d",
+  "tree_truncated": false,
+  "tree_path_count": 446,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/.eslintrc.json",
+    "test/bench.js",
+    "test/cjs-test.cjs",
+    "test/recheck.ts",
+    "test/rules.js",
+    "test/run-spec-tests.js",
+    "test/specs",
+    "test/specs/commonmark",
+    "test/specs/commonmark/commonmark.0.31.2.json"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/tests.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/Bug_report.md",
+    ".github/ISSUE_TEMPLATE/Feature_request.md",
+    ".github/ISSUE_TEMPLATE/Proposal.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    ".github/PULL_REQUEST_TEMPLATE",
+    ".github/PULL_REQUEST_TEMPLATE/badges.md",
+    "SECURITY.md",
+    "docs/CODE_OF_CONDUCT.md",
+    "docs/CONTRIBUTING.md"
+  ]
+}

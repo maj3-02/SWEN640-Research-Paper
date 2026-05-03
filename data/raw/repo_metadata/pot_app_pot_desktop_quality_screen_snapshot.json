@@ -1,0 +1,19 @@
+{
+  "repository_full_name": "pot-app/pot-desktop",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-26T23:03:37.506882+00:00",
+  "tree_sha": "5b68d0f3b429e2a11b6368c075f9adeb1bd59620",
+  "tree_truncated": false,
+  "tree_path_count": 466,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/package.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug.yml",
+    ".github/ISSUE_TEMPLATE/feature.yml"
+  ]
+}

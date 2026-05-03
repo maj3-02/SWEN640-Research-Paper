@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "pixijs/pixijs",
+  "default_branch": "dev",
+  "fetched_at_utc": "2026-04-28T19:18:14.761239+00:00",
+  "tree_sha": "8f42bb760872ed6652775d00a4de448ac277e783",
+  "tree_truncated": false,
+  "tree_path_count": 3552,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".github/actions/unit",
+    ".github/actions/unit/action.yml",
+    "src/accessibility/__tests__",
+    "src/accessibility/__tests__/AccessibilitySystem.test.ts",
+    "src/accessibility/__tests__/accessibleTarget.test.ts",
+    "src/app/__tests__",
+    "src/app/__tests__/Application.test.ts",
+    "src/assets/__tests__",
+    "src/assets/__tests__/Assets.test.ts",
+    "src/assets/__tests__/bundle.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/issue-close.yaml",
+    ".github/workflows/issue-labelled.yaml",
+    ".github/workflows/publish-branch.yaml",
+    ".github/workflows/publish-switch.yml",
+    ".github/workflows/pull-name.yml",
+    ".github/workflows/pull-unit.yml",
+    ".github/workflows/pull-visuals.yml",
+    ".github/workflows/push.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/stack-blitz-publish.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

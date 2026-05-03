@@ -1,0 +1,45 @@
+{
+  "repository_full_name": "SigNoz/signoz",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:51.894811+00:00",
+  "tree_sha": "c230fbcbc243f4e5e550a1c2b74403b5b1aa90d7",
+  "tree_truncated": false,
+  "tree_path_count": 9031,
+  "has_tests": true,
+  "matched_test_paths": [
+    "docs/contributing/tests",
+    "docs/contributing/tests/e2e.md",
+    "docs/contributing/tests/integration.md",
+    "frontend/src/AppRoutes/__tests__",
+    "frontend/src/AppRoutes/__tests__/Private.test.tsx",
+    "frontend/src/api/browser/localstorage/__tests__",
+    "frontend/src/api/browser/localstorage/__tests__/get.test.ts",
+    "frontend/src/api/browser/sessionstorage/__tests__",
+    "frontend/src/api/browser/sessionstorage/__tests__/get.test.ts",
+    "frontend/src/api/dynamicVariables/__tests__"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-community.yaml",
+    ".github/workflows/build-enterprise.yaml",
+    ".github/workflows/build-staging.yaml",
+    ".github/workflows/commitci.yaml",
+    ".github/workflows/docs.yml",
+    ".github/workflows/e2eci.yaml",
+    ".github/workflows/goci.yaml",
+    ".github/workflows/gor-histogramquantile.yaml",
+    ".github/workflows/gor-signoz-community.yaml",
+    ".github/workflows/gor-signoz.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/ISSUE_TEMPLATE/performance-issue-report.md",
+    ".github/ISSUE_TEMPLATE/request_dashboard.md",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "repository_full_name": "ether/etherpad",
+  "default_branch": "develop",
+  "fetched_at_utc": "2026-04-28T19:19:31.703557+00:00",
+  "tree_sha": "f6a56ec2cb0093ad526e43dd45ecbdb4399f8f3c",
+  "tree_truncated": false,
+  "tree_path_count": 940,
+  "has_tests": true,
+  "matched_test_paths": [
+    "docs/superpowers/specs",
+    "docs/superpowers/specs/2026-04-20-issue-7570-ueberdb2-drivers-design.md",
+    "src/tests",
+    "src/tests/README.md",
+    "src/tests/backend-new",
+    "src/tests/backend-new/easysync-helper.ts",
+    "src/tests/backend-new/specs",
+    "src/tests/backend-new/specs/AttributeMap.ts",
+    "src/tests/backend-new/specs/StringIteratorTest.ts",
+    "src/tests/backend-new/specs/admin_utils.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/backend-tests.yml",
+    ".github/workflows/build-and-deploy-docs.yml",
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/deb-package.yml",
+    ".github/workflows/dependency-review.yml",
+    ".github/workflows/docker.yml",
+    ".github/workflows/frontend-admin-tests.yml",
+    ".github/workflows/frontend-tests.yml",
+    ".github/workflows/handleRelease.yml",
+    ".github/workflows/installer-test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/ISSUE_TEMPLATE/plugin-request-template.md",
+    ".github/ISSUE_TEMPLATE/security-issue.md",
+    ".github/ISSUE_TEMPLATE/security.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "bin/plugins/lib/CONTRIBUTING.md"
+  ]
+}

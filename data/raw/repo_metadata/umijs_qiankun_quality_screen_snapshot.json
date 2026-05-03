@@ -1,0 +1,44 @@
+{
+  "repository_full_name": "umijs/qiankun",
+  "default_branch": "next",
+  "fetched_at_utc": "2026-04-28T19:19:41.462496+00:00",
+  "tree_sha": "8f386c30c97813ddf007d24ddaec949161c42d3e",
+  "tree_truncated": false,
+  "tree_path_count": 509,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/bundler-plugin/tests",
+    "packages/bundler-plugin/tests/fixtures",
+    "packages/bundler-plugin/tests/fixtures/webpack4.html",
+    "packages/bundler-plugin/tests/fixtures/webpack5.html",
+    "packages/bundler-plugin/tests/plugin.test.ts",
+    "packages/bundler-plugin/tests/webpack4",
+    "packages/bundler-plugin/tests/webpack4/.eslintrc.js",
+    "packages/bundler-plugin/tests/webpack4/index.html",
+    "packages/bundler-plugin/tests/webpack4/index.js",
+    "packages/bundler-plugin/tests/webpack4/package.json"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/announcement-notify.yml",
+    ".github/workflows/changeset-prerelease.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/emoji-helper.yml",
+    ".github/workflows/github-pages.yml",
+    ".github/workflows/issue-close-inactive.yml",
+    ".github/workflows/issue-reply.yml",
+    ".github/workflows/publish-1.x.yml",
+    ".github/workflows/publish-latest.yml",
+    ".github/workflows/release-notify.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/bug_report_cn.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/ISSUE_TEMPLATE/rfc_cn.md",
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

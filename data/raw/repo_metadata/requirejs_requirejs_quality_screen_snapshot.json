@@ -1,0 +1,29 @@
+{
+  "repository_full_name": "requirejs/requirejs",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:38.690819+00:00",
+  "tree_sha": "7faea6492e190f0ff2ded4b86a76f11eaf1ae6d9",
+  "tree_truncated": false,
+  "tree_path_count": 856,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/NAMESPACE.html",
+    "tests/afterload.html",
+    "tests/afterloadreadystate.js",
+    "tests/all.js",
+    "tests/anon",
+    "tests/anon/a.js",
+    "tests/anon/anon-tests.js",
+    "tests/anon/anonSimple.html",
+    "tests/anon/blue.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md"
+  ]
+}

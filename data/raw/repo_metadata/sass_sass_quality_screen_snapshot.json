@@ -1,0 +1,30 @@
+{
+  "repository_full_name": "sass/sass",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:49.325513+00:00",
+  "tree_sha": "bd6fbec2122340873c4f60e1c231d55f2cacedc7",
+  "tree_truncated": false,
+  "tree_path_count": 243,
+  "has_tests": true,
+  "matched_test_paths": [
+    "spec",
+    "spec/EMBEDDED_PROTOCOL_VERSION",
+    "spec/README.md",
+    "spec/at-rules",
+    "spec/at-rules/extend.md",
+    "spec/at-rules/for.md",
+    "spec/at-rules/forward.md",
+    "spec/at-rules/function.md",
+    "spec/at-rules/import.md",
+    "spec/at-rules/media.md"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

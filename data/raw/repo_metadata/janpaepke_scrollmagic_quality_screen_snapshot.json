@@ -1,0 +1,25 @@
+{
+  "repository_full_name": "janpaepke/ScrollMagic",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:53.746336+00:00",
+  "tree_sha": "64eaa1e0af17027913848cdcae095c4c97a58951",
+  "tree_truncated": false,
+  "tree_path_count": 90,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/e2e",
+    "tests/e2e/UNTESTED-KNOWN-BUGS.md",
+    "tests/e2e/caching.test.ts",
+    "tests/e2e/containers.test.ts",
+    "tests/e2e/destroy.test.ts",
+    "tests/e2e/dev-warnings.test.ts",
+    "tests/e2e/element-tracking.test.ts",
+    "tests/e2e/enable-disable.test.ts",
+    "tests/e2e/helpers.ts"
+  ],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "GLips/Figma-Context-MCP",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:57.724126+00:00",
+  "tree_sha": "166f87dcc610634a0e067dd5acc03d1fc0c411a4",
+  "tree_truncated": false,
+  "tree_path_count": 104,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/tests",
+    "src/tests/benchmark.test.ts",
+    "src/tests/config.test.ts",
+    "src/tests/error-meta.test.ts",
+    "src/tests/image-processing.test.ts",
+    "src/tests/integration.test.ts",
+    "src/tests/layout-alignment.test.ts",
+    "src/tests/path-validation.test.ts",
+    "src/tests/rich-text.test.ts",
+    "src/tests/serialization.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    "CONTRIBUTING.md"
+  ]
+}

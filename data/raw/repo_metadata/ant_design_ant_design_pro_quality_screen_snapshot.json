@@ -1,0 +1,36 @@
+{
+  "repository_full_name": "ant-design/ant-design-pro",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:26.948270+00:00",
+  "tree_sha": "4bb860ac2e687d7e883b65222384e0ab2212c04b",
+  "tree_truncated": false,
+  "tree_path_count": 418,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/pages/user/login/__snapshots__/login.test.tsx.snap",
+    "src/pages/user/login/login.test.tsx",
+    "tests",
+    "tests/__mocks__",
+    "tests/__mocks__/mermaid.js",
+    "tests/setupTests.jsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/coverage.yml",
+    ".github/workflows/deploy.yml",
+    ".github/workflows/emoji-helper.yml",
+    ".github/workflows/issue-labeled.yml",
+    ".github/workflows/issue-open-check.yml",
+    ".github/workflows/preview-build.yml",
+    ".github/workflows/preview-deploy.yml",
+    ".github/workflows/preview-start.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/ISSUE_TEMPLATE/question.md",
+    "CODE_OF_CONDUCT.md"
+  ]
+}

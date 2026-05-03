@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "pnpm/pnpm",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:31.794999+00:00",
+  "tree_sha": "1a7c088e4d288ec053b1e1bdcd0e19375bc02a32",
+  "tree_truncated": false,
+  "tree_path_count": 4379,
+  "has_tests": true,
+  "matched_test_paths": [
+    "__utils__/assert-project/test",
+    "__utils__/assert-project/test/fixture",
+    "__utils__/assert-project/test/fixture/.gitignore",
+    "__utils__/assert-project/test/fixture/project",
+    "__utils__/assert-project/test/fixture/project/package.json",
+    "__utils__/assert-project/test/fixture/project/pnpm-lock.yaml",
+    "__utils__/assert-project/test/fixture/project/pnpm-workspace.yaml",
+    "__utils__/assert-project/test/index.ts",
+    "__utils__/assert-project/test/tsconfig.json",
+    "__utils__/assert-store/test"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/audit.yml",
+    ".github/workflows/benchmark.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/docker.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/test.yml",
+    ".github/workflows/update-latest.yml",
+    ".github/workflows/update-lockfile.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug-report.yaml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature-request.yaml",
+    ".github/ISSUE_TEMPLATE/regression-report.yaml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

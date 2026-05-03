@@ -1,0 +1,35 @@
+{
+  "repository_full_name": "Modernizr/Modernizr",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:49.376352+00:00",
+  "tree_sha": "bab42e37f8f2951a5fedffa010cb01c481b14348",
+  "tree_truncated": false,
+  "tree_path_count": 537,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/browser",
+    "test/browser/iframe.pug",
+    "test/browser/integration.css",
+    "test/browser/integration.pug",
+    "test/browser/integration",
+    "test/browser/integration/bools.js",
+    "test/browser/integration/caniuse.js",
+    "test/browser/integration/classes.js",
+    "test/browser/integration/global.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/coverage.yml",
+    ".github/workflows/deploy.yml",
+    ".github/workflows/testing.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/ISSUE_TEMPLATE/---bug-report.md",
+    ".github/ISSUE_TEMPLATE/---test-request.md",
+    ".github/ISSUE_TEMPLATE/good-first-issue.md",
+    ".github/ISSUE_TEMPLATE/question.md"
+  ]
+}

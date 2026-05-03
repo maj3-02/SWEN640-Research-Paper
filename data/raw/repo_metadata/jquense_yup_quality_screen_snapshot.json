@@ -1,0 +1,30 @@
+{
+  "repository_full_name": "jquense/yup",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:02.785530+00:00",
+  "tree_sha": "ff31eee8a2b10c938bb3a22544d9e33957a8cf01",
+  "tree_truncated": false,
+  "tree_path_count": 85,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/.eslintignore",
+    "test/ValidationError.ts",
+    "test/array.ts",
+    "test/bool.ts",
+    "test/date.ts",
+    "test/helpers.ts",
+    "test/lazy.ts",
+    "test/mixed.ts",
+    "test/number.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/question.md"
+  ]
+}

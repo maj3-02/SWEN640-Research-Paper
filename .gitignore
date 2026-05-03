@@ -29,15 +29,9 @@ Desktop.ini
 *.swo
 ~$*.docx
 
-# Large regenerated GitHub payloads excluded from the public repository
-data/raw/**/*.json
+# Legacy/pilot raw payloads are not part of the public final-study release
 data/raw/commits/**
 data/raw/issues/**
-data/raw/repo_metadata/**
-data/interim/final_sample/raw_commits/*_commits_raw.json
-data/interim/final_sample/raw_issues/*_issues_raw.json
-data/interim/final_sample/classified_commits/classified_commits.csv
-data/interim/final_sample/classified_issues/classified_issues.csv
 
 # Draft manuscript files are not part of the public reproducibility repo
 paper/*.docx

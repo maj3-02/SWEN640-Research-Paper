@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "ionic-team/ionic-framework",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:07.538809+00:00",
+  "tree_sha": "f3cd39b7fb291286374285c4a326ec6b9a8ea237",
+  "tree_truncated": false,
+  "tree_path_count": 10765,
+  "has_tests": true,
+  "matched_test_paths": [
+    "core/src/components/accordion/test",
+    "core/src/components/accordion/test/a11y",
+    "core/src/components/accordion/test/a11y/accordion.e2e.ts",
+    "core/src/components/accordion/test/a11y/index.html",
+    "core/src/components/accordion/test/a11y/screen-readers.md",
+    "core/src/components/accordion/test/accordion.spec.ts",
+    "core/src/components/accordion/test/basic",
+    "core/src/components/accordion/test/basic/accordion.e2e.ts",
+    "core/src/components/accordion/test/basic/accordion.e2e.ts-snapshots",
+    "core/src/components/accordion/test/basic/accordion.e2e.ts-snapshots/accordion-basic-ios-ltr-Mobile-Chrome-linux.png"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/actions",
+    ".github/workflows/actions/build-angular-server",
+    ".github/workflows/actions/build-angular-server/action.yml",
+    ".github/workflows/actions/build-angular",
+    ".github/workflows/actions/build-angular/action.yml",
+    ".github/workflows/actions/build-core-stencil-prerelease",
+    ".github/workflows/actions/build-core-stencil-prerelease/action.yml",
+    ".github/workflows/actions/build-core",
+    ".github/workflows/actions/build-core/action.yml",
+    ".github/workflows/actions/build-react-router"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "docs/CONTRIBUTING.md"
+  ]
+}

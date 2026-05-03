@@ -1,0 +1,35 @@
+{
+  "repository_full_name": "slab/quill",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:14.505033+00:00",
+  "tree_sha": "539cbffd0a13b18e9c65eb84dd35e6596e403158",
+  "tree_truncated": false,
+  "tree_path_count": 448,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/quill/test",
+    "packages/quill/test/e2e",
+    "packages/quill/test/e2e/__dev_server__",
+    "packages/quill/test/e2e/__dev_server__/index.html",
+    "packages/quill/test/e2e/__dev_server__/webpack.config.cjs",
+    "packages/quill/test/e2e/fixtures",
+    "packages/quill/test/e2e/fixtures/Clipboard.ts",
+    "packages/quill/test/e2e/fixtures/Composition.ts",
+    "packages/quill/test/e2e/fixtures/index.ts",
+    "packages/quill/test/e2e/fixtures/utils"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/_test.yml",
+    ".github/workflows/changelog.yml",
+    ".github/workflows/label.yml",
+    ".github/workflows/main.yml",
+    ".github/workflows/pull-request.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "repository_full_name": "babel/babel",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:20.067112+00:00",
+  "tree_sha": "2255b1f6fd2cd95812ebbc0f6d1bf73db8ed89f8",
+  "tree_truncated": false,
+  "tree_path_count": 41106,
+  "has_tests": true,
+  "matched_test_paths": [
+    "codemods/babel-plugin-codemod-object-assign-to-object-spread/test",
+    "codemods/babel-plugin-codemod-object-assign-to-object-spread/test/fixtures",
+    "codemods/babel-plugin-codemod-object-assign-to-object-spread/test/fixtures/object-assign-to-object-spread",
+    "codemods/babel-plugin-codemod-object-assign-to-object-spread/test/fixtures/object-assign-to-object-spread/multiple-objects",
+    "codemods/babel-plugin-codemod-object-assign-to-object-spread/test/fixtures/object-assign-to-object-spread/multiple-objects/input.js",
+    "codemods/babel-plugin-codemod-object-assign-to-object-spread/test/fixtures/object-assign-to-object-spread/multiple-objects/options.json",
+    "codemods/babel-plugin-codemod-object-assign-to-object-spread/test/fixtures/object-assign-to-object-spread/multiple-objects/output.js",
+    "codemods/babel-plugin-codemod-object-assign-to-object-spread/test/fixtures/object-assign-to-object-spread/multiple",
+    "codemods/babel-plugin-codemod-object-assign-to-object-spread/test/fixtures/object-assign-to-object-spread/multiple/input.js",
+    "codemods/babel-plugin-codemod-object-assign-to-object-spread/test/fixtures/object-assign-to-object-spread/multiple/options.json"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/config.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/e2e-tests.yml",
+    ".github/workflows/issue-triage.yml",
+    ".github/workflows/lock.yml",
+    ".github/workflows/pkg-pr-new.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/reminders.yml",
+    ".github/workflows/repl.yml",
+    ".github/workflows/update-compat-data.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "packages/babel-preset-env/CONTRIBUTING.md"
+  ]
+}

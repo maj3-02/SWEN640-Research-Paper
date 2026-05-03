@@ -1,0 +1,44 @@
+{
+  "repository_full_name": "adobe/react-spectrum",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:52.627656+00:00",
+  "tree_sha": "d266cace77525505737af417f326332e7ea585a4",
+  "tree_truncated": false,
+  "tree_path_count": 11343,
+  "has_tests": true,
+  "matched_test_paths": [
+    "examples/rsp-next-ts/test",
+    "examples/rsp-next-ts/test/index.test.js",
+    "examples/rsp-webpack-4/test",
+    "examples/rsp-webpack-4/test/index.test.js",
+    "packages/@adobe/react-spectrum/test",
+    "packages/@adobe/react-spectrum/test/accordion",
+    "packages/@adobe/react-spectrum/test/accordion/Accordion.ssr.test.js",
+    "packages/@adobe/react-spectrum/test/accordion/Accordion.test.js",
+    "packages/@adobe/react-spectrum/test/actionbar",
+    "packages/@adobe/react-spectrum/test/actionbar/ActionBar.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/.npmrc",
+    ".circleci/api-comment.js",
+    ".circleci/comment.js",
+    ".circleci/config.yml",
+    ".github/workflows/beta-docs.yaml",
+    ".github/workflows/labeler.yml",
+    ".github/workflows/lint-pr-titles.yaml",
+    ".github/workflows/nightly.yaml",
+    ".github/workflows/prod-docs.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/Bug_Report.yml",
+    ".github/ISSUE_TEMPLATE/Documentation.yml",
+    ".github/ISSUE_TEMPLATE/Feature_Request.yml",
+    ".github/ISSUE_TEMPLATE/Feedback.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

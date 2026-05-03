@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "microsoft/playwright",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:57.470696+00:00",
+  "tree_sha": "21ca7274eda9da9fac51f001cbfa9ed97e8a21b5",
+  "tree_truncated": false,
+  "tree_path_count": 3525,
+  "has_tests": true,
+  "matched_test_paths": [
+    "examples/github-api/tests",
+    "examples/github-api/tests/test-api.spec.ts",
+    "examples/mock-battery/tests",
+    "examples/mock-battery/tests/show-battery-status.spec.js",
+    "examples/mock-battery/tests/update-battery-status.spec.js",
+    "examples/mock-battery/tests/verify-calls.spec.js",
+    "examples/mock-filesystem/tests",
+    "examples/mock-filesystem/tests/directory-reader.spec.js",
+    "examples/mock-filesystem/tests/file-reader.spec.js",
+    "examples/svgomg/tests"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/copilot-setup-steps.yml",
+    ".github/workflows/create_test_report.yml",
+    ".github/workflows/infra.yml",
+    ".github/workflows/merge.config.ts",
+    ".github/workflows/pr_check_client_side_changes.yml",
+    ".github/workflows/publish_extension.yml",
+    ".github/workflows/publish_release.yml",
+    ".github/workflows/publish_release_docker.yml",
+    ".github/workflows/roll_browser_into_playwright.yml",
+    ".github/workflows/roll_nodejs.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/documentation.yml",
+    ".github/ISSUE_TEMPLATE/feature.yml",
+    ".github/ISSUE_TEMPLATE/question.yml",
+    ".github/ISSUE_TEMPLATE/regression.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "SUPPORT.md"
+  ]
+}

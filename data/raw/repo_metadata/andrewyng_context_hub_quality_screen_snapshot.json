@@ -1,0 +1,36 @@
+{
+  "repository_full_name": "andrewyng/context-hub",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:36.900588+00:00",
+  "tree_sha": "04c149cd82d23d037e157d5920b80b0ca10d84b5",
+  "tree_truncated": false,
+  "tree_path_count": 6239,
+  "has_tests": true,
+  "matched_test_paths": [
+    "cli/test",
+    "cli/test/e2e.test.js",
+    "cli/test/fixtures",
+    "cli/test/fixtures/acme",
+    "cli/test/fixtures/acme/docs",
+    "cli/test/fixtures/acme/docs/versioned-api",
+    "cli/test/fixtures/acme/docs/versioned-api/v1",
+    "cli/test/fixtures/acme/docs/versioned-api/v1/DOC.md",
+    "cli/test/fixtures/acme/docs/versioned-api/v2",
+    "cli/test/fixtures/acme/docs/versioned-api/v2/DOC.md"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/deploy-content.yml",
+    ".github/workflows/publish.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

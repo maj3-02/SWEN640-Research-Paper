@@ -1,0 +1,14 @@
+{
+  "repository_full_name": "firecrawl/open-lovable",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:54.460333+00:00",
+  "tree_sha": "69bd93bae7a9c97ef989eb70aabe6797fb3dac89",
+  "tree_truncated": false,
+  "tree_path_count": 487,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

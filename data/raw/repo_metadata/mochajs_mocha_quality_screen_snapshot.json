@@ -1,0 +1,44 @@
+{
+  "repository_full_name": "mochajs/mocha",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:56.766466+00:00",
+  "tree_sha": "1b3d60429e484bde837b86e6eb12b497e2c73c40",
+  "tree_truncated": false,
+  "tree_path_count": 744,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/README.md",
+    "test/assertions.js",
+    "test/browser-specific",
+    "test/browser-specific/esm.spec.mjs",
+    "test/browser-specific/fixtures",
+    "test/browser-specific/fixtures/esm.fixture.mjs",
+    "test/browser-specific/fixtures/webpack",
+    "test/browser-specific/fixtures/webpack/webpack.config.js",
+    "test/browser-specific/fixtures/webpack/webpack.fixture.mjs"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/format.yml",
+    ".github/workflows/mocha.yml",
+    ".github/workflows/nightly-site-deploy.yml",
+    ".github/workflows/npm-script.yml",
+    ".github/workflows/octoguide.yml",
+    ".github/workflows/release-please.yml",
+    ".github/workflows/stale.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/01-bug.yml",
+    ".github/ISSUE_TEMPLATE/02-documentation.yml",
+    ".github/ISSUE_TEMPLATE/03-feature-request.yml",
+    ".github/ISSUE_TEMPLATE/04-performance.yml",
+    ".github/ISSUE_TEMPLATE/05-repository-tooling.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "SECURITY.md"
+  ]
+}

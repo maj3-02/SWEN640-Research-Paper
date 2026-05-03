@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "javascript-obfuscator/javascript-obfuscator",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:45.538086+00:00",
+  "tree_sha": "10c763fa65674932ab2ab90ac83720f018e04050",
+  "tree_truncated": false,
+  "tree_path_count": 1629,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/declarations",
+    "test/declarations/index.d.ts",
+    "test/declarations/source-map-resolve.d.ts",
+    "test/dev",
+    "test/dev/dev-compile-performance.ts",
+    "test/dev/dev-runtime-performance.ts",
+    "test/dev/dev.ts",
+    "test/fixtures",
+    "test/fixtures/compile-performance.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/ISSUE_TEMPLATE/question.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

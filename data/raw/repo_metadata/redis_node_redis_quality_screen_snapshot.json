@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "redis/node-redis",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:36.931626+00:00",
+  "tree_sha": "675c0ab0a52b18dc31630404e3c732253c03094f",
+  "tree_truncated": false,
+  "tree_path_count": 1461,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/bloom/lib/commands/bloom/ADD.spec.ts",
+    "packages/bloom/lib/commands/bloom/CARD.spec.ts",
+    "packages/bloom/lib/commands/bloom/EXISTS.spec.ts",
+    "packages/bloom/lib/commands/bloom/INFO.spec.ts",
+    "packages/bloom/lib/commands/bloom/INSERT.spec.ts",
+    "packages/bloom/lib/commands/bloom/LOADCHUNK.spec.ts",
+    "packages/bloom/lib/commands/bloom/MADD.spec.ts",
+    "packages/bloom/lib/commands/bloom/MEXISTS.spec.ts",
+    "packages/bloom/lib/commands/bloom/RESERVE.spec.ts",
+    "packages/bloom/lib/commands/bloom/SCANDUMP.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/codeql.yml",
+    ".github/workflows/documentation.yml",
+    ".github/workflows/release-drafter-bloom.yml",
+    ".github/workflows/release-drafter-entraid.yml",
+    ".github/workflows/release-drafter-json.yml",
+    ".github/workflows/release-drafter-search.yml",
+    ".github/workflows/release-drafter-time-series.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/stale-issues.yml",
+    ".github/workflows/tests.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/BUG-REPORT.yml",
+    ".github/ISSUE_TEMPLATE/DOCUMENTATION.yml",
+    ".github/ISSUE_TEMPLATE/FEATURE-REQUEST.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

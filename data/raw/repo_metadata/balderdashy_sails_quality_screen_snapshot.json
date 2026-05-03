@@ -1,0 +1,32 @@
+{
+  "repository_full_name": "balderdashy/sails",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:56.972316+00:00",
+  "tree_sha": "fd71efbd4f13a31525d9fa936560d3c99efe3da6",
+  "tree_truncated": false,
+  "tree_path_count": 887,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/.eslintrc",
+    "test/README.md",
+    "test/benchmarks",
+    "test/benchmarks/README.md",
+    "test/benchmarks/helpers",
+    "test/benchmarks/helpers/benchmarx.js",
+    "test/benchmarks/sails.load.test.js",
+    "test/benchmarks/sails.request.generic.test.js",
+    "test/fixtures"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml",
+    "appveyor.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE",
+    "CONTRIBUTING.md",
+    "docs/concepts/Security/Security.md"
+  ]
+}

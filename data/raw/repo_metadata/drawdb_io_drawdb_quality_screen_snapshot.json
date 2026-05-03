@@ -1,0 +1,21 @@
+{
+  "repository_full_name": "drawdb-io/drawdb",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:32.545454+00:00",
+  "tree_sha": "dde59f8b15c626f87c6c285910c6cba16b79b574",
+  "tree_truncated": false,
+  "tree_path_count": 299,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build.yml",
+    ".github/workflows/docker.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    "CONTRIBUTING.md"
+  ]
+}

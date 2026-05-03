@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "DIYgod/RSSHub",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:20.552109+00:00",
+  "tree_sha": "6a9213566f38771a3bab29aa73a3f398e1253999",
+  "tree_truncated": false,
+  "tree_path_count": 9025,
+  "has_tests": true,
+  "matched_test_paths": [
+    "lib/api/category/one.test.ts",
+    "lib/api/follow/config.test.ts",
+    "lib/api/index.test.ts",
+    "lib/api/namespace.test.ts",
+    "lib/api/radar/rules/all.test.ts",
+    "lib/api/radar/rules/one.test.ts",
+    "lib/api/route/status.test.ts",
+    "lib/app-bootstrap.test.tsx",
+    "lib/app.test.ts",
+    "lib/config.remote-error.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-assets.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/comment-on-issue.yml",
+    ".github/workflows/dependabot-fork.yml",
+    ".github/workflows/docker-release.yml",
+    ".github/workflows/docker-test-cont.yml",
+    ".github/workflows/docker-test.yml",
+    ".github/workflows/format.yml",
+    ".github/workflows/ghcr-retention.yml",
+    ".github/workflows/issue-command.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report_en.yml",
+    ".github/ISSUE_TEMPLATE/bug_report_zh.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request_en.yml",
+    ".github/ISSUE_TEMPLATE/feature_request_zh.yml",
+    ".github/ISSUE_TEMPLATE/rss_request_en.yml",
+    ".github/ISSUE_TEMPLATE/rss_request_zh.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

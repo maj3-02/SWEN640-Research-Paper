@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "laurent22/joplin",
+  "default_branch": "dev",
+  "fetched_at_utc": "2026-04-28T19:18:06.416480+00:00",
+  "tree_sha": "ef8bba3a360b780ff535a4e6be022121b7735832",
+  "tree_truncated": false,
+  "tree_path_count": 8991,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/app-cli/app/cli-integration-tests.test.ts",
+    "packages/app-cli/app/command-done.test.ts",
+    "packages/app-cli/app/command-mkbook.test.ts",
+    "packages/app-cli/app/command-publish.test.ts",
+    "packages/app-cli/app/command-rmbook.test.ts",
+    "packages/app-cli/app/command-rmnote.test.ts",
+    "packages/app-cli/app/command-share.test.ts",
+    "packages/app-cli/app/command-unpublish.test.ts",
+    "packages/app-cli/tests",
+    "packages/app-cli/tests/.gitignore"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/automerge.yml",
+    ".github/workflows/build-android.yml",
+    ".github/workflows/build-macos-m1.yml",
+    ".github/workflows/check-pr-title.yml",
+    ".github/workflows/cla.yml",
+    ".github/workflows/close-stale-issues.yml",
+    ".github/workflows/comment-on-failure.yml",
+    ".github/workflows/delete-coderabbit-comments.yml",
+    ".github/workflows/github-actions-main.yml",
+    ".github/workflows/shared"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/BUG_REPORT.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE",
+    "SECURITY.md",
+    "packages/fork-sax/CONTRIBUTING.md",
+    "packages/react-native-saf-x/CONTRIBUTING.md"
+  ]
+}

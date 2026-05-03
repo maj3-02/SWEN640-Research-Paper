@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "gatsbyjs/gatsby",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:21.823871+00:00",
+  "tree_sha": "47bd906a079acd4c977a431925c6ce2aa05c6af9",
+  "tree_truncated": false,
+  "tree_path_count": 9535,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".github/actions/high-priority-prs/src/__tests__",
+    ".github/actions/high-priority-prs/src/__tests__/__snapshots__",
+    ".github/actions/high-priority-prs/src/__tests__/__snapshots__/pr-message.js.snap",
+    ".github/actions/high-priority-prs/src/__tests__/__snapshots__/process-data.js.snap",
+    ".github/actions/high-priority-prs/src/__tests__/fixtures",
+    ".github/actions/high-priority-prs/src/__tests__/fixtures/data.json",
+    ".github/actions/high-priority-prs/src/__tests__/pr-message.js",
+    ".github/actions/high-priority-prs/src/__tests__/process-data.js",
+    "deprecated-packages/gatsby-image/src/__tests__",
+    "deprecated-packages/gatsby-image/src/__tests__/__snapshots__"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/config.yml",
+    ".github/workflows/schedule-stale.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/BUG_REPORT.yml",
+    ".github/ISSUE_TEMPLATE/DOCUMENTATION.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "GOVERNANCE.md",
+    "SECURITY.md",
+    "benchmarks/source-agilitycms/CODE_OF_CONDUCT.md",
+    "deprecated-packages/gatsby-recipes/CONTRIBUTING.md"
+  ]
+}

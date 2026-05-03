@@ -1,0 +1,46 @@
+{
+  "repository_full_name": "CherryHQ/cherry-studio",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:18.606033+00:00",
+  "tree_sha": "c813320bfc319ee41b51a1a774f6af5dd064f995",
+  "tree_truncated": false,
+  "tree_path_count": 3033,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/aiCore/src/core/models/__tests__",
+    "packages/aiCore/src/core/models/__tests__/ModelResolver.test.ts",
+    "packages/aiCore/src/core/models/__tests__/utils.test.ts",
+    "packages/aiCore/src/core/options/__tests__",
+    "packages/aiCore/src/core/options/__tests__/factory.test.ts",
+    "packages/aiCore/src/core/plugins/built-in/toolUsePlugin/__tests__",
+    "packages/aiCore/src/core/plugins/built-in/toolUsePlugin/__tests__/StreamEventManager.test.ts",
+    "packages/aiCore/src/core/plugins/built-in/toolUsePlugin/__tests__/promptToolUsePlugin.test.ts",
+    "packages/aiCore/src/core/providers/__tests__",
+    "packages/aiCore/src/core/providers/__tests__/ExtensionRegistry.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/auto-i18n.yml",
+    ".github/workflows/ci-rerun-on-base-change.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/claude-code-review.yml",
+    ".github/workflows/claude-translator.yml",
+    ".github/workflows/claude.yml",
+    ".github/workflows/dispatch-docs-update.yml",
+    ".github/workflows/github-issue-tracker.yml",
+    ".github/workflows/issue-management.yml",
+    ".github/workflows/nightly-build.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/0_bug_report.yml",
+    ".github/ISSUE_TEMPLATE/1_feature_request.yml",
+    ".github/ISSUE_TEMPLATE/2_question.yml",
+    ".github/ISSUE_TEMPLATE/3_others.yml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "docs/zh/guides/contributing.md"
+  ]
+}

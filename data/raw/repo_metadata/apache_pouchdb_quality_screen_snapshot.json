@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "apache/pouchdb",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:06.271936+00:00",
+  "tree_sha": "e69a50afcc9abefaf829917b4bfa2a66bafa3aeb",
+  "tree_truncated": false,
+  "tree_path_count": 977,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/.eslintrc.json",
+    "tests/capacity",
+    "tests/capacity/index.html",
+    "tests/common-utils.js",
+    "tests/component",
+    "tests/component/test.ajax.js",
+    "tests/component/test.auth.js",
+    "tests/component/test.deletion_error.js",
+    "tests/component/test.headers.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/docs.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/issue.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md"
+  ]
+}

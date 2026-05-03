@@ -1,0 +1,19 @@
+{
+  "repository_full_name": "git-tips/tips",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-26T23:03:23.978229+00:00",
+  "tree_sha": "049de43d12c669da6154769b92451ae96c1c2716",
+  "tree_truncated": false,
+  "tree_path_count": 29,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/deploy-docs.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CODE_OF_CONDUCT.md",
+    "contributing.md"
+  ]
+}

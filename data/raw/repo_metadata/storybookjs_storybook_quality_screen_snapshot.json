@@ -1,0 +1,46 @@
+{
+  "repository_full_name": "storybookjs/storybook",
+  "default_branch": "next",
+  "fetched_at_utc": "2026-04-28T19:17:56.812915+00:00",
+  "tree_sha": "d0d6e235a721d639646d40f8dd803ed4bf83b052",
+  "tree_truncated": false,
+  "tree_path_count": 6566,
+  "has_tests": true,
+  "matched_test_paths": [
+    "code/addons/a11y/src/a11yRunner.test.ts",
+    "code/addons/a11y/src/a11yRunnerUtils.test.ts",
+    "code/addons/a11y/src/components/A11YPanel.test.tsx",
+    "code/addons/a11y/src/components/A11yContext.test.tsx",
+    "code/addons/a11y/src/manager.test.tsx",
+    "code/addons/a11y/src/preview.test.tsx",
+    "code/addons/docs/src/blocks/blocks/DocsPage.test.ts",
+    "code/addons/docs/src/blocks/blocks/usePrimaryStory.test.tsx",
+    "code/addons/docs/src/blocks/components/DocsPage.test.tsx",
+    "code/addons/docs/src/blocks/controls/Date.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/config.yml",
+    ".github/workflows/agent-scan.yml",
+    ".github/workflows/code-simplifier.lock.yml",
+    ".github/workflows/code-simplifier.md",
+    ".github/workflows/copilot-setup-steps.yml",
+    ".github/workflows/cron-weekly.yml",
+    ".github/workflows/danger-js.yml",
+    ".github/workflows/duplicate-code-detector.lock.yml",
+    ".github/workflows/duplicate-code-detector.md",
+    ".github/workflows/fork-checks.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/tracking_issue.yml",
+    ".github/ISSUE_TEMPLATE/update_docs.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "code/lib/eslint-plugin/CONTRIBUTING.md"
+  ]
+}

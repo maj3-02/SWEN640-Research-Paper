@@ -1,0 +1,29 @@
+{
+  "repository_full_name": "myliang/x-spreadsheet",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:22.711944+00:00",
+  "tree_sha": "0c55f3ee1e708002eaef280432d6efeaeabdc886",
+  "tree_truncated": false,
+  "tree_path_count": 178,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/core",
+    "test/core/alphabet_test.js",
+    "test/core/cell_range_test.js",
+    "test/core/cell_test.js",
+    "test/core/font_test.js",
+    "test/core/format_test.js",
+    "test/core/formula_test.js",
+    "test/helper_test.js",
+    "test/index_test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CODE_OF_CONDUCT.md"
+  ]
+}

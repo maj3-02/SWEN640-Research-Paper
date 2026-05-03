@@ -1,0 +1,20 @@
+{
+  "repository_full_name": "EastWorld/wechat-app-mall",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-26T23:03:24.194920+00:00",
+  "tree_sha": "8ed39df73f5b1634a00e40f20cd0481fa2a65bd0",
+  "tree_truncated": false,
+  "tree_path_count": 1253,
+  "has_tests": true,
+  "matched_test_paths": [
+    "pages/test",
+    "pages/test/wifi.js",
+    "pages/test/wifi.json",
+    "pages/test/wifi.wxml",
+    "pages/test/wifi.wxss"
+  ],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

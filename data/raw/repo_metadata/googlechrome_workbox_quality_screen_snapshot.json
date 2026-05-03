@@ -1,0 +1,32 @@
+{
+  "repository_full_name": "GoogleChrome/workbox",
+  "default_branch": "v7",
+  "fetched_at_utc": "2026-04-28T19:17:38.242902+00:00",
+  "tree_sha": "8e6df29925ea157524e7e11d6cc059fd18248aa7",
+  "tree_truncated": false,
+  "tree_path_count": 964,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/all",
+    "test/all/node",
+    "test/all/node/test-exports.js",
+    "test/all/node/test-jsdocs.js",
+    "test/all/node/test-package.js",
+    "test/all/node/test-prod-builds.js",
+    "test/all/node/test-yarn-installation.js",
+    "test/workbox-background-sync",
+    "test/workbox-background-sync/integration"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/pull-request.yml",
+    ".github/workflows/scorecards-analysis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

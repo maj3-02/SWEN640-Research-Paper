@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "enzymejs/enzyme",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:58.968030+00:00",
+  "tree_sha": "61e1b47c4bdc4509b2ac286c0d3ae3df172d26f0",
+  "tree_truncated": false,
+  "tree_path_count": 470,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/enzyme-example-mocha/src/Foo.spec.jsx",
+    "packages/enzyme-example-mocha/test",
+    "packages/enzyme-example-mocha/test/.setup.js",
+    "packages/enzyme-example-mocha/test/mocha.opts",
+    "packages/enzyme-test-suite/test",
+    "packages/enzyme-test-suite/test/Adapter-spec.jsx",
+    "packages/enzyme-test-suite/test/Debug-spec.jsx",
+    "packages/enzyme-test-suite/test/RSTTraversal-spec.jsx",
+    "packages/enzyme-test-suite/test/ReactWrapper-spec.jsx",
+    "packages/enzyme-test-suite/test/ShallowWrapper-spec.jsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/node-pretest.yml",
+    ".github/workflows/node.yml",
+    ".github/workflows/rebase.yml",
+    ".github/workflows/require-allow-edits.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/Bug_report.md",
+    ".github/ISSUE_TEMPLATE/Feature_request.md",
+    "CONTRIBUTING.md"
+  ]
+}

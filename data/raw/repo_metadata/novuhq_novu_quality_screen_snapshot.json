@@ -1,0 +1,46 @@
+{
+  "repository_full_name": "novuhq/novu",
+  "default_branch": "next",
+  "fetched_at_utc": "2026-04-28T19:18:25.691169+00:00",
+  "tree_sha": "76909638bcef6a2683d041f8744ced40fe777bbf",
+  "tree_truncated": false,
+  "tree_path_count": 8942,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/api/e2e",
+    "apps/api/e2e/compile-email-template.e2e.ts",
+    "apps/api/e2e/enterprise",
+    "apps/api/e2e/enterprise/conversations",
+    "apps/api/e2e/enterprise/conversations/conversations.e2e.ts",
+    "apps/api/e2e/enterprise/inbound-webhook",
+    "apps/api/e2e/enterprise/inbound-webhook/process-inbound-webhook.e2e.ts",
+    "apps/api/e2e/mock-http-client.ts",
+    "apps/api/e2e/retry.e2e.ts",
+    "apps/api/e2e/setup.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/check-only.yml",
+    ".github/workflows/check-submodule-sync-merge.yaml",
+    ".github/workflows/check-submodule-sync-pr.yaml",
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/community-label.yml",
+    ".github/workflows/contributor-checks.yml",
+    ".github/workflows/conventional-commit.yml",
+    ".github/workflows/deploy.yml",
+    ".github/workflows/deployment-summary.yml",
+    ".github/workflows/dev-deploy-dashboard.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/docs_feedback.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/ISSUE_TEMPLATE/polishing.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "libs/internal-sdk/CONTRIBUTING.md"
+  ]
+}

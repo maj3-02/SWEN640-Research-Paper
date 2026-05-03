@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "hapijs/joi",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-26T23:03:25.203314+00:00",
+  "tree_sha": "7d43b12c6c96ccc28b261a67bdbdc4ef033c784a",
+  "tree_truncated": false,
+  "tree_path_count": 94,
+  "has_tests": true,
+  "matched_test_paths": [
+    "browser/tests",
+    "browser/tests/index.js",
+    "test",
+    "test/base.js",
+    "test/cache.js",
+    "test/common.js",
+    "test/compile.js",
+    "test/errors.js",
+    "test/extend.js",
+    "test/helper.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci-module.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

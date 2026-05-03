@@ -1,0 +1,35 @@
+{
+  "repository_full_name": "multica-ai/multica",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:07.704007+00:00",
+  "tree_sha": "f0c845b7777e6ca62f8cea21112232ed11d97c97",
+  "tree_truncated": false,
+  "tree_path_count": 1488,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/desktop/scripts/package.test.mjs",
+    "apps/desktop/src/main/cli-release-asset.test.ts",
+    "apps/desktop/src/main/external-url.test.ts",
+    "apps/desktop/src/main/version-decision.test.ts",
+    "apps/desktop/src/renderer/src/components/parse-daemon-log.test.ts",
+    "apps/desktop/src/renderer/src/stores/tab-store.test.ts",
+    "apps/desktop/test",
+    "apps/desktop/test/setup.ts",
+    "apps/web/app/(auth)/login/page.test.tsx",
+    "apps/web/app/auth/callback/page.test.tsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/desktop-smoke.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "dexie/Dexie.js",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:20:00.712732+00:00",
+  "tree_sha": "59091b70406d29426bf3df14571ba9cae4ff30ab",
+  "tree_truncated": false,
+  "tree_path_count": 956,
+  "has_tests": true,
+  "matched_test_paths": [
+    "addons/Dexie.Observable/test",
+    "addons/Dexie.Observable/test/gh-actions.sh",
+    "addons/Dexie.Observable/test/integration",
+    "addons/Dexie.Observable/test/integration/karma-env.js",
+    "addons/Dexie.Observable/test/integration/karma.conf.js",
+    "addons/Dexie.Observable/test/integration/test-observable-dexie-tests.html",
+    "addons/Dexie.Observable/test/typings",
+    "addons/Dexie.Observable/test/typings/test-typings.ts",
+    "addons/Dexie.Observable/test/typings/tsconfig.json",
+    "addons/Dexie.Observable/test/unit"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/dexie-cloud-common.yml",
+    ".github/workflows/main.yml",
+    ".github/workflows/publish.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

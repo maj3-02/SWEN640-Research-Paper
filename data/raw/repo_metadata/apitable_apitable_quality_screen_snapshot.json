@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "apitable/apitable",
+  "default_branch": "develop",
+  "fetched_at_utc": "2026-04-28T19:19:49.985658+00:00",
+  "tree_sha": "88b24ce9f359cc434778be75d03603182882dc76",
+  "tree_truncated": false,
+  "tree_path_count": 10963,
+  "has_tests": true,
+  "matched_test_paths": [
+    "backend-server/application/src/test",
+    "backend-server/application/src/test/java",
+    "backend-server/application/src/test/java/com",
+    "backend-server/application/src/test/java/com/apitable",
+    "backend-server/application/src/test/java/com/apitable/AbstractIntegrationTest.java",
+    "backend-server/application/src/test/java/com/apitable/AbstractMyBatisMapperTest.java",
+    "backend-server/application/src/test/java/com/apitable/FileHelper.java",
+    "backend-server/application/src/test/java/com/apitable/TestContextInitializer.java",
+    "backend-server/application/src/test/java/com/apitable/TestMybatisPlusConfig.java",
+    "backend-server/application/src/test/java/com/apitable/TestSuiteWithDB.java"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ai_code_reviewer.yml",
+    ".github/workflows/build.yaml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/dependency-review.yml",
+    ".github/workflows/lint.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/bug_report_cn.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/docs.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/ISSUE_TEMPLATE/prd.md",
+    ".github/ISSUE_TEMPLATE/question.md",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

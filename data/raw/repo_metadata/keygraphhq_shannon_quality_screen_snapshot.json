@@ -1,0 +1,22 @@
+{
+  "repository_full_name": "KeygraphHQ/shannon",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:23.924491+00:00",
+  "tree_sha": "6c8135d031600b38733a455a49866ce3b4fbe444",
+  "tree_truncated": false,
+  "tree_path_count": 194,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/release-beta.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/rollback-beta.yml",
+    ".github/workflows/rollback.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml"
+  ]
+}

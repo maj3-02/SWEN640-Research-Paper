@@ -1,0 +1,30 @@
+{
+  "repository_full_name": "browserslist/browserslist",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:31.889777+00:00",
+  "tree_sha": "e5cc4046bd8bc745b800b0f69ad8e05ab8158170",
+  "tree_truncated": false,
+  "tree_path_count": 127,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/all.test.js",
+    "test/and.test.js",
+    "test/baseline.test.js",
+    "test/benchmark",
+    "test/benchmark/one",
+    "test/benchmark/one/app",
+    "test/benchmark/one/app/css",
+    "test/benchmark/one/app/css/hello.css",
+    "test/benchmark/one/package.json"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/release.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "docs/SECURITY.md"
+  ]
+}

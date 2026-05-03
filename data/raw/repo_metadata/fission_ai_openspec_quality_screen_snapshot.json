@@ -1,0 +1,29 @@
+{
+  "repository_full_name": "Fission-AI/OpenSpec",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:20.761993+00:00",
+  "tree_sha": "3c7a05c5dc88b2397c478805890b55ed392b19e8",
+  "tree_truncated": false,
+  "tree_path_count": 1048,
+  "has_tests": true,
+  "matched_test_paths": [
+    "openspec/changes/add-change-stacking-awareness/specs",
+    "openspec/changes/add-change-stacking-awareness/specs/change-creation",
+    "openspec/changes/add-change-stacking-awareness/specs/change-creation/spec.md",
+    "openspec/changes/add-change-stacking-awareness/specs/change-stacking-workflow",
+    "openspec/changes/add-change-stacking-awareness/specs/change-stacking-workflow/spec.md",
+    "openspec/changes/add-change-stacking-awareness/specs/cli-change",
+    "openspec/changes/add-change-stacking-awareness/specs/cli-change/spec.md",
+    "openspec/changes/add-change-stacking-awareness/specs/openspec-conventions",
+    "openspec/changes/add-change-stacking-awareness/specs/openspec-conventions/spec.md",
+    "openspec/changes/add-global-install-scope/specs"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/README.md",
+    ".github/workflows/ci.yml",
+    ".github/workflows/release-prepare.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

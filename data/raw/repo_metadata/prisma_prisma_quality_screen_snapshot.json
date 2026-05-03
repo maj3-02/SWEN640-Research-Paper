@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "prisma/prisma",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:15.770704+00:00",
+  "tree_sha": "d6d9fc9ed341946d45c7d0aba35081a7bd741aa1",
+  "tree_truncated": false,
+  "tree_path_count": 6437,
+  "has_tests": true,
+  "matched_test_paths": [
+    "helpers/test",
+    "helpers/test/presets",
+    "helpers/test/presets/default.js",
+    "helpers/test/presets/withSnapshotSerializer.js",
+    "packages/adapter-d1/src/d1.test.ts",
+    "packages/adapter-libsql/src/errors.test.ts",
+    "packages/adapter-libsql/src/libsql.test.ts",
+    "packages/adapter-mariadb/src/conversion.test.ts",
+    "packages/adapter-mariadb/src/credentials.test.ts",
+    "packages/adapter-mariadb/src/errors.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/auto-close-github-discussions.yml",
+    ".github/workflows/benchmark.yml",
+    ".github/workflows/build-engine-branch.yml",
+    ".github/workflows/bundle-size.yml",
+    ".github/workflows/ci-aux-files.yml",
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/daily-buildpulse.yml",
+    ".github/workflows/daily-test.yml",
+    ".github/workflows/label-stale-issues.yml",
+    ".github/workflows/lint-workflow-files.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

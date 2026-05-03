@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "gpujs/gpu.js",
+  "default_branch": "develop",
+  "fetched_at_utc": "2026-04-28T19:17:15.807559+00:00",
+  "tree_sha": "f66631c4fc1ba3b30f991dac7f6577efdd6f17c6",
+  "tree_truncated": false,
+  "tree_path_count": 489,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/all-template.html",
+    "test/all.html",
+    "test/benchmark-faster.js",
+    "test/benchmark.js",
+    "test/browser-test-utils.js",
+    "test/features",
+    "test/features/add-custom-function.js",
+    "test/features/add-custom-native-function.js",
+    "test/features/add-typed-functions.js"
+  ],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md"
+  ]
+}

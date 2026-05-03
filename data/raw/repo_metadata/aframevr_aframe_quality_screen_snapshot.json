@@ -1,0 +1,32 @@
+{
+  "repository_full_name": "aframevr/aframe",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:06.717634+00:00",
+  "tree_sha": "d7a10b14ada468b8b149bf8d6f1b741f81f79977",
+  "tree_truncated": false,
+  "tree_path_count": 848,
+  "has_tests": true,
+  "matched_test_paths": [
+    "examples/test",
+    "examples/test/animation-color",
+    "examples/test/animation-color/index.html",
+    "examples/test/animation",
+    "examples/test/animation/index.html",
+    "examples/test/animation/sun.jpg",
+    "examples/test/canvas-texture",
+    "examples/test/canvas-texture/components",
+    "examples/test/canvas-texture/components/canvas-updater.js",
+    "examples/test/canvas-texture/components/draw-canvas-rectangles.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/trigger-deploy.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

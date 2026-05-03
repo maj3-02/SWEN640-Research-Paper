@@ -1,0 +1,41 @@
+{
+  "repository_full_name": "resend/react-email",
+  "default_branch": "canary",
+  "fetched_at_utc": "2026-04-28T19:19:26.924397+00:00",
+  "tree_sha": "961d1d297394c6110eb8847cf604b25df7945469",
+  "tree_truncated": false,
+  "tree_path_count": 1995,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/web/components/ensure-matching-variants.spec.tsx",
+    "apps/web/src/app/api/check-spam/check-spam.spec.tsx",
+    "apps/web/src/app/api/send/test",
+    "apps/web/src/app/api/send/test/route.ts",
+    "apps/web/src/components/component-code-view.spec.tsx",
+    "apps/web/src/utils/convert-uris-into-urls.spec.ts",
+    "apps/web/src/utils/spam-assassin/parse-pointing-table-rows.spec.ts",
+    "packages/create-email/src/index.spec.ts",
+    "packages/editor/src/__tests__",
+    "packages/editor/src/__tests__/browser-test-helpers.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/bump.yml",
+    ".github/workflows/e2e.yml",
+    ".github/workflows/lint.yml",
+    ".github/workflows/pin-dependencies-check.yml",
+    ".github/workflows/preview-release.yml",
+    ".github/workflows/pull-request-title-check.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/sync-skills.yml",
+    ".github/workflows/tests.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1.bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

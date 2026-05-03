@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "siddharthvaddem/openscreen",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:34.396945+00:00",
+  "tree_sha": "608e0abe87eecba949f2c5b75a7d4d72e2363ca8",
+  "tree_truncated": false,
+  "tree_path_count": 300,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/components/video-editor/projectPersistence.test.ts",
+    "src/hooks/useCameraDevices.test.ts",
+    "src/i18n/__tests__",
+    "src/i18n/__tests__/tutorialHelpTranslations.test.ts",
+    "src/lib/__tests__",
+    "src/lib/__tests__/frameStepNavigation.test.ts",
+    "src/lib/blurEffects.test.ts",
+    "src/lib/compositeLayout.test.ts",
+    "src/lib/cursorTelemetryBuffer.test.ts",
+    "src/lib/exporter/gifExporter.browser.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/discord.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md"
+  ]
+}

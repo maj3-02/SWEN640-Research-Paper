@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "fosrl/pangolin",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:18.951812+00:00",
+  "tree_sha": "81922f54d5df3b436c499f158cd73a9cdffc4d87",
+  "tree_truncated": false,
+  "tree_path_count": 1657,
+  "has_tests": true,
+  "matched_test_paths": [
+    "server/lib/cleanupLogs.test.ts",
+    "server/lib/ip.test.ts",
+    "server/lib/traefik/pathEncoding.test.ts",
+    "server/lib/traefik/traefikConfig.test.ts",
+    "server/lib/validators.test.ts",
+    "server/middlewares/integration",
+    "server/middlewares/integration/index.ts",
+    "server/middlewares/integration/verifyAccessTokenAccess.ts",
+    "server/middlewares/integration/verifyApiKey.ts",
+    "server/middlewares/integration/verifyApiKeyApiKeyAccess.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/cicd.yml",
+    ".github/workflows/linting.yml",
+    ".github/workflows/mirror.yaml",
+    ".github/workflows/restart-runners.yml",
+    ".github/workflows/saas.yml",
+    ".github/workflows/stale-bot.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1.bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

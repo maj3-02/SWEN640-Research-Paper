@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "ruanyf/es6tutorial",
+  "default_branch": "gh-pages",
+  "fetched_at_utc": "2026-04-26T23:03:24.599017+00:00",
+  "tree_sha": "d62e09c6eca665269e0effca9dacc7f6b7d0398a",
+  "tree_truncated": false,
+  "tree_path_count": 307,
+  "has_tests": true,
+  "matched_test_paths": [
+    "app/bower_components/marked/test",
+    "app/bower_components/marked/test/README",
+    "app/bower_components/marked/test/browser",
+    "app/bower_components/marked/test/browser/index.html",
+    "app/bower_components/marked/test/browser/index.js",
+    "app/bower_components/marked/test/browser/test.js",
+    "app/bower_components/marked/test/index.js",
+    "app/bower_components/marked/test/new",
+    "app/bower_components/marked/test/new/autolink_lines.html",
+    "app/bower_components/marked/test/new/autolink_lines.text"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    "app/bower_components/marked/.travis.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

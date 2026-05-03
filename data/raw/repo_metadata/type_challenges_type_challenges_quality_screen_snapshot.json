@@ -1,0 +1,32 @@
+{
+  "repository_full_name": "type-challenges/type-challenges",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:14.296627+00:00",
+  "tree_sha": "0b0b0b18bcb7ac42dc22ce26ffb438231d4754b1",
+  "tree_truncated": false,
+  "tree_path_count": 1292,
+  "has_tests": true,
+  "matched_test_paths": [
+    "utils/index.d.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/index-update.yaml",
+    ".github/workflows/issue-pr.yaml",
+    ".github/workflows/labeling.yaml",
+    ".github/workflows/toggle-pr-with-issue.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/0-answer.md",
+    ".github/ISSUE_TEMPLATE/0-bug.md",
+    ".github/ISSUE_TEMPLATE/0-discussion.md",
+    ".github/ISSUE_TEMPLATE/0-help.md",
+    ".github/ISSUE_TEMPLATE/0-new.md",
+    ".github/ISSUE_TEMPLATE/1-answer.ja.md",
+    ".github/ISSUE_TEMPLATE/1-answer.ko.md",
+    ".github/ISSUE_TEMPLATE/1-answer.zh-CN.md",
+    ".github/ISSUE_TEMPLATE/1-new.ja.md",
+    ".github/ISSUE_TEMPLATE/1-new.zh-CN.md"
+  ]
+}

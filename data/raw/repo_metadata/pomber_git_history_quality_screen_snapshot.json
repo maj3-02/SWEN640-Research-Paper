@@ -1,0 +1,22 @@
+{
+  "repository_full_name": "pomber/git-history",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:29.618622+00:00",
+  "tree_sha": "a20f6085cf9055b350a4db13cea6e013936da9cd",
+  "tree_truncated": false,
+  "tree_path_count": 96,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/git-providers/language-detector.test.js",
+    "src/utils.test.js",
+    "vscode-ext/test",
+    "vscode-ext/test/extension.test.js",
+    "vscode-ext/test/index.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

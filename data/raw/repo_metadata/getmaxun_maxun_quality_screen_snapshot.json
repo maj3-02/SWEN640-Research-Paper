@@ -1,0 +1,21 @@
+{
+  "repository_full_name": "getmaxun/maxun",
+  "default_branch": "develop",
+  "fetched_at_utc": "2026-04-28T19:19:48.242788+00:00",
+  "tree_sha": "1f0da545e7f12dee051ecb0666ea27b3105f5f5f",
+  "tree_truncated": false,
+  "tree_path_count": 311,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/components/integration",
+    "src/components/integration/IntegrationSettings.tsx"
+  ],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    "CONTRIBUTING.md"
+  ]
+}

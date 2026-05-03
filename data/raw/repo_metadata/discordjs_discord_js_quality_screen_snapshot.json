@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "discordjs/discord.js",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:52.114432+00:00",
+  "tree_sha": "40ce0791a8ed348189d9aefe0669cee29bf59920",
+  "tree_truncated": false,
+  "tree_path_count": 2096,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/actions/__tests__",
+    "packages/actions/__tests__/formatTag.test.ts",
+    "packages/actions/tsconfig.test.json",
+    "packages/brokers/__tests__",
+    "packages/brokers/__tests__/index.test.ts",
+    "packages/brokers/tsconfig.test.json",
+    "packages/builders/__tests__",
+    "packages/builders/__tests__/components",
+    "packages/builders/__tests__/components/actionRow.test.ts",
+    "packages/builders/__tests__/components/button.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/cleanup-cache.yml",
+    ".github/workflows/deploy-website.yml",
+    ".github/workflows/deprecate-version.yml",
+    ".github/workflows/documentation.yml",
+    ".github/workflows/issue-triage.yml",
+    ".github/workflows/label-sync.yml",
+    ".github/workflows/lock.yml",
+    ".github/workflows/pr-triage.yml",
+    ".github/workflows/publish-dev-docker.yml",
+    ".github/workflows/publish-dev.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/01-package_bug_report.yml",
+    ".github/ISSUE_TEMPLATE/02-application_bug_report.yml",
+    ".github/ISSUE_TEMPLATE/03-proxy_container_bug_report.yml",
+    ".github/ISSUE_TEMPLATE/04-feature_request.yml",
+    ".github/ISSUE_TEMPLATE/05-guide.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/SUPPORT.md",
+    "apps/guide/CONTRIBUTING.md"
+  ]
+}

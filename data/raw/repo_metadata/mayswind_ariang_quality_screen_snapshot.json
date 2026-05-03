@@ -1,0 +1,16 @@
+{
+  "repository_full_name": "mayswind/AriaNg",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:37.068390+00:00",
+  "tree_sha": "7ad711a4f1e66b8fc59fe0127c97b588cc908ed4",
+  "tree_truncated": false,
+  "tree_path_count": 132,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/config.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

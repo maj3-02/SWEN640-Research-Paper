@@ -1,0 +1,35 @@
+{
+  "repository_full_name": "microsoft/monaco-editor",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:25.980432+00:00",
+  "tree_sha": "b538f103f3a006b59ac5162bdc89a7d1c1fce497",
+  "tree_truncated": false,
+  "tree_path_count": 1292,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/languages/definitions/abap/abap.test.ts",
+    "src/languages/definitions/apex/apex.test.ts",
+    "src/languages/definitions/azcli/azcli.test.ts",
+    "src/languages/definitions/bat/bat.test.ts",
+    "src/languages/definitions/bicep/bicep.test.ts",
+    "src/languages/definitions/cameligo/cameligo.test.ts",
+    "src/languages/definitions/clojure/clojure.test.ts",
+    "src/languages/definitions/coffee/coffee.test.ts",
+    "src/languages/definitions/cpp/cpp.test.ts",
+    "src/languages/definitions/csharp/csharp.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/website.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1_bug_report.yaml",
+    ".github/ISSUE_TEMPLATE/2_feature_request.yaml",
+    ".github/ISSUE_TEMPLATE/3_other.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

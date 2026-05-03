@@ -1,0 +1,37 @@
+{
+  "repository_full_name": "mobxjs/mobx",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:47.318187+00:00",
+  "tree_sha": "cdb249a7623aa5df8bdc84d197184ce25ef021a6",
+  "tree_truncated": false,
+  "tree_path_count": 547,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/eslint-plugin-mobx/__tests__",
+    "packages/eslint-plugin-mobx/__tests__/exhaustive-make-observable.js",
+    "packages/eslint-plugin-mobx/__tests__/missing-make-observable.js",
+    "packages/eslint-plugin-mobx/__tests__/missing-observer.js",
+    "packages/eslint-plugin-mobx/__tests__/no-anonymous-observer.js",
+    "packages/eslint-plugin-mobx/__tests__/unconditional-make-observable.js",
+    "packages/eslint-plugin-mobx/__tests__/utils",
+    "packages/eslint-plugin-mobx/__tests__/utils/get-rule-tester.js",
+    "packages/mobx-react-lite/__tests__",
+    "packages/mobx-react-lite/__tests__/.eslintrc.yaml"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build_and_test.yml",
+    ".github/workflows/coveralls.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/documentation.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

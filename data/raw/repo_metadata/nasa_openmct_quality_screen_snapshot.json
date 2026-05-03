@@ -1,0 +1,44 @@
+{
+  "repository_full_name": "nasa/openmct",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:38.482463+00:00",
+  "tree_sha": "9a855cf70274b9b45f4d537b7e23e50450ad738d",
+  "tree_truncated": false,
+  "tree_path_count": 1542,
+  "has_tests": true,
+  "matched_test_paths": [
+    "e2e",
+    "e2e/.eslintrc.cjs",
+    "e2e/.npmignore",
+    "e2e/.percy.ci.yml",
+    "e2e/.percy.nightly.yml",
+    "e2e/README.md",
+    "e2e/appActions.js",
+    "e2e/avpFixtures.js",
+    "e2e/baseFixtures.js",
+    "e2e/constants.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/e2e-couchdb.yml",
+    ".github/workflows/e2e-full.yml",
+    ".github/workflows/e2e-perf.yml",
+    ".github/workflows/npm-prerelease.yml",
+    ".github/workflows/pr-platform.yml",
+    ".github/workflows/pr.yml",
+    ".github/workflows/prcop-config.json",
+    ".github/workflows/prcop.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/enhancement-request.md",
+    ".github/ISSUE_TEMPLATE/maintenance-type.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "docs/src/guide/security.md"
+  ]
+}

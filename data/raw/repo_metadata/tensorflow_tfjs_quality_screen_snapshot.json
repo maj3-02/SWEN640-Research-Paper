@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "tensorflow/tfjs",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:26.261440+00:00",
+  "tree_sha": "7f5309fef0a47545e34049903dbdae0f97285f7e",
+  "tree_truncated": false,
+  "tree_path_count": 3847,
+  "has_tests": true,
+  "matched_test_paths": [
+    "e2e",
+    "e2e/.npmignore",
+    "e2e/.npmrc",
+    "e2e/README.md",
+    "e2e/benchmarks",
+    "e2e/benchmarks/SpecRunner.html",
+    "e2e/benchmarks/benchmark_util.js",
+    "e2e/benchmarks/benchmark_util_test.js",
+    "e2e/benchmarks/browserstack-benchmark",
+    "e2e/benchmarks/browserstack-benchmark/README.md"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/deploy-benchmark-preview.yml",
+    ".github/workflows/deploy-benchmark-prod.yml",
+    ".github/workflows/stale.yaml",
+    ".github/workflows/tfjs-ci.yml",
+    ".github/workflows/tfjs-nightly-release-and-publish-test.yml",
+    ".github/workflows/tfjs-release-branch-publish-test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/00-bug-issue.md",
+    ".github/ISSUE_TEMPLATE/10-build-installation-issue.md",
+    ".github/ISSUE_TEMPLATE/20-feature-request.md",
+    ".github/ISSUE_TEMPLATE/30-other-issues.md",
+    "CONTRIBUTING.md",
+    "tfjs-vis/CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "repository_full_name": "elsewhencode/project-guidelines",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:39.788600+00:00",
+  "tree_sha": "87c9014ec4f96f8469984538ec5c6601e6f09e7e",
+  "tree_truncated": false,
+  "tree_path_count": 31,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

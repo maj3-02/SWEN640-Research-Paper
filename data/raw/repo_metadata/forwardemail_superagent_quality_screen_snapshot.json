@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "forwardemail/superagent",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:10.302794+00:00",
+  "tree_sha": "3ef367619fbb2a8d07082238892ae12dafe4b0b0",
+  "tree_truncated": false,
+  "tree_path_count": 141,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".test.babelrc",
+    "test",
+    "test/agent-base.js",
+    "test/basic.js",
+    "test/client",
+    "test/client/request.js",
+    "test/client/serialize.js",
+    "test/client/xdomain.js",
+    "test/content-type.js",
+    "test/form.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "yarnpkg/yarn",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:29.192796+00:00",
+  "tree_sha": "c2dda503f3759b5be5f0e24ecd9cf5c97a540147",
+  "tree_truncated": false,
+  "tree_path_count": 10020,
+  "has_tests": true,
+  "matched_test_paths": [
+    "__tests__",
+    "__tests__/__mocks__",
+    "__tests__/__mocks__/inquirer.js",
+    "__tests__/__mocks__/npm-registry.js",
+    "__tests__/__mocks__/request.js",
+    "__tests__/__snapshots__",
+    "__tests__/__snapshots__/index.js.snap",
+    "__tests__/__snapshots__/integration.js.snap",
+    "__tests__/__snapshots__/normalize-manifest.js.snap",
+    "__tests__/_temp.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/config.yml",
+    ".github/workflows/signing.yml",
+    "__tests__/fixtures/autoclean/initialized/node_modules/left-pad/.travis.yml",
+    "__tests__/fixtures/autoclean/not-initialized/node_modules/left-pad/.travis.yml",
+    "__tests__/fixtures/autoclean/workspaces/foo/node_modules/left-pad/.travis.yml",
+    "__tests__/fixtures/autoclean/workspaces/node_modules/left-pad/.travis.yml",
+    "__tests__/fixtures/import/deep/node_modules/commander/node_modules/graceful-readlink/.travis.yml",
+    "__tests__/fixtures/import/missing-dev/node_modules/graceful-readlink/.travis.yml",
+    "__tests__/fixtures/import/missing-opt/node_modules/graceful-readlink/.travis.yml",
+    "__tests__/fixtures/import/shallow-dev/node_modules/graceful-readlink/.travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

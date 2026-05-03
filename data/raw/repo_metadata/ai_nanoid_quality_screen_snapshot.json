@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "ai/nanoid",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:45.623157+00:00",
+  "tree_sha": "e52d94613f0c5542c998a2f7d778295549432389",
+  "tree_truncated": false,
+  "tree_path_count": 57,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/benchmark.js",
+    "test/bin.test.js",
+    "test/check-prebuild.js",
+    "test/check-versions.js",
+    "test/demo",
+    "test/demo/dist",
+    "test/demo/dist/assets",
+    "test/demo/dist/assets/index-CqL4y9Wm.js",
+    "test/demo/dist/index.html"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/jsr.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "SECURITY.md"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "wechaty/wechaty",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:06.409467+00:00",
+  "tree_sha": "5a0520ac7d0567777d6931eee53f81bbfcae1453",
+  "tree_truncated": false,
+  "tree_path_count": 226,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/config.spec.ts",
+    "src/io-peer/io-peer.spec.ts",
+    "src/io.spec.ts",
+    "src/mods/impls.spec.ts",
+    "src/mods/mod.spec.ts",
+    "src/package-json.spec.ts",
+    "src/plugin.spec.ts",
+    "src/pure-functions/is-template-string-array.spec.ts",
+    "src/pure-functions/timestamp-to-date.spec.ts",
+    "src/pure-functions/xml.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/coverage.yml",
+    ".github/workflows/docker.yml",
+    ".github/workflows/node.js.yml",
+    ".github/workflows/npm.yml",
+    "appveyor.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/ISSUE_TEMPLATE/wechaty-bug-report.md",
+    ".github/ISSUE_TEMPLATE/wechaty-feature-request.md",
+    ".github/ISSUE_TEMPLATE/wechaty-question.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md"
+  ]
+}

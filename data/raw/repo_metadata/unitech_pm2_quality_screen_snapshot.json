@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "Unitech/pm2",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:28.359685+00:00",
+  "tree_sha": "ff1ca974afada8730aa55f8ed1df40e700cedbcb",
+  "tree_truncated": false,
+  "tree_path_count": 869,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/Dockerfile",
+    "test/README.md",
+    "test/benchmarks",
+    "test/benchmarks/monit-daemon.sh",
+    "test/benchmarks/monit.sh",
+    "test/benchmarks/result.monit",
+    "test/docker_parallel_test.sh",
+    "test/e2e.sh",
+    "test/e2e"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/node.js.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "repository_full_name": "activepieces/activepieces",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:11.497878+00:00",
+  "tree_sha": "d3d2de605cff4d239c69ee128e1648023dad8ed3",
+  "tree_truncated": false,
+  "tree_path_count": 26627,
+  "has_tests": true,
+  "matched_test_paths": [
+    "deploy/activepieces-helm/templates/tests",
+    "deploy/activepieces-helm/templates/tests/test-connection.yaml",
+    "docker-compose.test.yml",
+    "packages/cli/tsconfig.spec.json",
+    "packages/pieces/community/phone-validator/src/lib/actions/validate-phone.test.ts",
+    "packages/pieces/community/validatedmails/tsconfig.spec.json",
+    "packages/pieces/community/zoo/src/lib/actions/unit",
+    "packages/pieces/community/zoo/src/lib/actions/unit/convert-angle.action.ts",
+    "packages/pieces/community/zoo/src/lib/actions/unit/convert-area.action.ts",
+    "packages/pieces/community/zoo/src/lib/actions/unit/convert-current.action.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/benchmark.yml",
+    ".github/workflows/build-cloud-image.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/closed-issue-reply.yaml",
+    ".github/workflows/continuous-delivery-canary.yml",
+    ".github/workflows/continuous-delivery-cloud.yml",
+    ".github/workflows/continuous-delivery-release.yml",
+    ".github/workflows/continuous-delivery-rollback-canary.yml",
+    ".github/workflows/continuous-delivery-rollback.yml",
+    ".github/workflows/continuous-delivery-stg.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/ISSUE_TEMPLATE/mcp_bounty.md",
+    ".github/ISSUE_TEMPLATE/piece-request.md",
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "repository_full_name": "toon-format/toon",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:01.603479+00:00",
+  "tree_sha": "ef2f900d2f8bb71c9ca145dd4a6c644ca3abb059",
+  "tree_truncated": false,
+  "tree_path_count": 156,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/cli/test",
+    "packages/cli/test/index.test.ts",
+    "packages/cli/test/json-from-events.test.ts",
+    "packages/cli/test/json-stringify-stream.test.ts",
+    "packages/cli/test/utils.ts",
+    "packages/toon/test",
+    "packages/toon/test/decode.test.ts",
+    "packages/toon/test/decodeStream.test.ts",
+    "packages/toon/test/decodeStreamAsync.test.ts",
+    "packages/toon/test/encode.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/deploy.yml",
+    ".github/workflows/pr-title.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

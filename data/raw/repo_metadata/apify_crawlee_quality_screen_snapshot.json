@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "apify/crawlee",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:05.732646+00:00",
+  "tree_sha": "5dc1627deccd3d04d12fefec99b0e119fb87cbe4",
+  "tree_truncated": false,
+  "tree_path_count": 3038,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/basic-crawler/test",
+    "packages/basic-crawler/test/batch-add-requests.test.ts",
+    "packages/basic-crawler/test/migration.test.ts",
+    "packages/basic-crawler/test/tsconfig.json",
+    "packages/browser-crawler/test",
+    "packages/browser-crawler/test/migration.test.ts",
+    "packages/browser-crawler/test/tsconfig.json",
+    "packages/browser-pool/test",
+    "packages/browser-pool/test/changing-page-options.test.ts",
+    "packages/browser-pool/test/multiple-plugins.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/check-pr-title.yml",
+    ".github/workflows/deploy-nginx.yml",
+    ".github/workflows/docs.yml",
+    ".github/workflows/publish-to-npm.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/test-ci.yml",
+    ".github/workflows/test-e2e.yml",
+    ".github/workflows/update_new_issue.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    "CONTRIBUTING.md"
+  ]
+}

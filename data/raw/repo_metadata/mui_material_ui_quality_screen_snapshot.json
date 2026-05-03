@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "mui/material-ui",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:15.548599+00:00",
+  "tree_sha": "94dcbe1170c5f549db0244314d13d43f12fb26f3",
+  "tree_truncated": false,
+  "tree_path_count": 42605,
+  "has_tests": true,
+  "matched_test_paths": [
+    "docs/src/modules/utils/extractTemplates.test.js",
+    "docs/src/modules/utils/replaceMarkdownLinks.test.js",
+    "packages-internal/api-docs-builder-core/materialUi/getMaterialUiComponentInfo.test.ts",
+    "packages-internal/api-docs-builder/src/buildApiUtils.test.ts",
+    "packages-internal/api-docs-builder/src/utils/escapeCell.test.ts",
+    "packages-internal/api-docs-builder/src/utils/findApiPages.test.ts",
+    "packages-internal/api-docs-builder/src/utils/replaceUrl.test.js",
+    "packages-internal/core-docs/src/Demo/DemoThemeProviders.test.tsx",
+    "packages-internal/core-docs/src/Demo/sandbox/CodeSandbox.test.js",
+    "packages-internal/core-docs/src/Demo/sandbox/Dependencies.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/config.yml",
+    ".github/workflows/check-if-pr-has-label.yml",
+    ".github/workflows/ci-check.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/closed-issue-message.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/create-cherry-pick-pr.yml",
+    ".github/workflows/ensure-triage-label.yml",
+    ".github/workflows/issue-cleanup.yml",
+    ".github/workflows/maintenance.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1.bug.yml",
+    ".github/ISSUE_TEMPLATE/2.feature.yml",
+    ".github/ISSUE_TEMPLATE/3.rfc.yml",
+    ".github/ISSUE_TEMPLATE/4.docs-feedback.yml",
+    ".github/ISSUE_TEMPLATE/5.priority-support.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "docs/data/material/getting-started/support/support.md"
+  ]
+}

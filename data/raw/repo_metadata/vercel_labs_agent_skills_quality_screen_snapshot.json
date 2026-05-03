@@ -1,0 +1,16 @@
+{
+  "repository_full_name": "vercel-labs/agent-skills",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:48.473244+00:00",
+  "tree_sha": "ce3e64e468f8fa09a2d075d102771838061fdac0",
+  "tree_truncated": false,
+  "tree_path_count": 186,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/react-best-practices-ci.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

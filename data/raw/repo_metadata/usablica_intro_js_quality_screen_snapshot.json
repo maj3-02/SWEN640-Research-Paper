@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "usablica/intro.js",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:03.396794+00:00",
+  "tree_sha": "b50a24316febe87e9ee430542587c6ece5ab4cad",
+  "tree_truncated": false,
+  "tree_path_count": 417,
+  "has_tests": true,
+  "matched_test_paths": [
+    "cypress",
+    "cypress/plugins",
+    "cypress/plugins/index.ts",
+    "cypress/setup",
+    "cypress/setup/index.html",
+    "cypress/snapshots",
+    "cypress/snapshots/base",
+    "cypress/snapshots/base/src",
+    "cypress/snapshots/base/src/packages",
+    "cypress/snapshots/base/src/packages/tour"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/main.yaml",
+    ".github/workflows/nodejs.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "winstonjs/winston",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:52.548840+00:00",
+  "tree_sha": "ed45345f01b8ceb1d436e4791d95469c5213a0cf",
+  "tree_truncated": false,
+  "tree_path_count": 137,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/fixtures",
+    "test/fixtures/.gitkeep",
+    "test/fixtures/keys",
+    "test/fixtures/keys/agent2-cert.pem",
+    "test/fixtures/keys/agent2-key.pem",
+    "test/fixtures/logs",
+    "test/fixtures/logs/.gitkeep",
+    "test/globalSetup.js",
+    "test/helpers"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

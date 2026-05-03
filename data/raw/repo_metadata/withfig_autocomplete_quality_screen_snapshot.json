@@ -1,0 +1,25 @@
+{
+  "repository_full_name": "withfig/autocomplete",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:57.786330+00:00",
+  "tree_sha": "aef52acff84c45edde61ae610cc2c964802b9a38",
+  "tree_truncated": false,
+  "tree_path_count": 1597,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build.yml",
+    ".github/workflows/danger.yml",
+    ".github/workflows/lint.yml",
+    ".github/workflows/typecheck.yml",
+    ".github/workflows/verify-cla.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/main_issue_template.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

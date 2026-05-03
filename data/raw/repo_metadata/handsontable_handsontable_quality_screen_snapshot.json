@@ -1,0 +1,44 @@
+{
+  "repository_full_name": "handsontable/handsontable",
+  "default_branch": "develop",
+  "fetched_at_utc": "2026-04-26T23:03:23.196332+00:00",
+  "tree_sha": "3d9f8b3182d4bb6258e375d477abad7d9f168881",
+  "tree_truncated": false,
+  "tree_path_count": 7530,
+  "has_tests": true,
+  "matched_test_paths": [
+    "docs/tests",
+    "docs/tests/.env.example",
+    "docs/tests/README-TEST.md",
+    "docs/tests/paths.js",
+    "docs/tests/visualDocs.spec.ts",
+    "examples/next/docs/angular-wrapper/basic-example/spec",
+    "examples/next/docs/angular-wrapper/basic-example/spec/Smoke.spec.js",
+    "examples/next/docs/angular-wrapper/basic-example/spec/support",
+    "examples/next/docs/angular-wrapper/basic-example/spec/support/jasmine.config.js",
+    "examples/next/docs/angular-wrapper/data-provider/spec"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/audit.yml",
+    ".github/workflows/build-all.yml",
+    ".github/workflows/changelog.yml",
+    ".github/workflows/code-quality.yml",
+    ".github/workflows/docs-algolia-reindex.yml",
+    ".github/workflows/docs-linter.yml",
+    ".github/workflows/docs-production.yml",
+    ".github/workflows/docs-staging-delete.yml",
+    ".github/workflows/docs-staging.yml",
+    ".github/workflows/docs-visual-tests.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yaml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/improve_docs.yaml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "docs/content/guides/security/security/security.md"
+  ]
+}

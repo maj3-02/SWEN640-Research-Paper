@@ -1,0 +1,36 @@
+{
+  "repository_full_name": "TanStack/query",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:12.762442+00:00",
+  "tree_sha": "c5ab5a1065ebb6a2a6e2802f974df10b527c1db9",
+  "tree_truncated": false,
+  "tree_path_count": 2663,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/angular-query-experimental/src/__tests__",
+    "packages/angular-query-experimental/src/__tests__/infinite-query-options.test-d.ts",
+    "packages/angular-query-experimental/src/__tests__/infinite-query-options.test.ts",
+    "packages/angular-query-experimental/src/__tests__/inject-devtools-panel.test.ts",
+    "packages/angular-query-experimental/src/__tests__/inject-infinite-query.test-d.ts",
+    "packages/angular-query-experimental/src/__tests__/inject-infinite-query.test.ts",
+    "packages/angular-query-experimental/src/__tests__/inject-is-fetching.test.ts",
+    "packages/angular-query-experimental/src/__tests__/inject-is-mutating.test.ts",
+    "packages/angular-query-experimental/src/__tests__/inject-is-restoring.test.ts",
+    "packages/angular-query-experimental/src/__tests__/inject-mutation-state.test-d.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/autofix.yml",
+    ".github/workflows/detect-agent.yml",
+    ".github/workflows/labeler.yml",
+    ".github/workflows/pr.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md"
+  ]
+}

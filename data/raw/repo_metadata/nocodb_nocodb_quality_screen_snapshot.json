@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "nocodb/nocodb",
+  "default_branch": "develop",
+  "fetched_at_utc": "2026-04-28T19:18:03.602225+00:00",
+  "tree_sha": "72ea436f98401da9cb5ab19a51bc99030bf030b9",
+  "tree_truncated": false,
+  "tree_path_count": 4735,
+  "has_tests": true,
+  "matched_test_paths": [
+    "docker-compose/1_Auto_Upstall/tests",
+    "docker-compose/1_Auto_Upstall/tests/configure",
+    "docker-compose/1_Auto_Upstall/tests/configure/monitor.bats",
+    "docker-compose/1_Auto_Upstall/tests/configure/restart.bats",
+    "docker-compose/1_Auto_Upstall/tests/configure/scale.bats",
+    "docker-compose/1_Auto_Upstall/tests/configure/setup.sh",
+    "docker-compose/1_Auto_Upstall/tests/configure/start.bats",
+    "docker-compose/1_Auto_Upstall/tests/configure/stop.bats",
+    "docker-compose/1_Auto_Upstall/tests/configure/upgrade.bats",
+    "docker-compose/1_Auto_Upstall/tests/expects"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/bats-test.yml",
+    ".github/workflows/ci-cd.yml",
+    ".github/workflows/cleanup-caches-by-branch.yml",
+    ".github/workflows/dco-check.yml",
+    ".github/workflows/dependency-review.yml",
+    ".github/workflows/dispatch-oss.yml",
+    ".github/workflows/docker-readme-publish.yml",
+    ".github/workflows/jest-unit-test.yml",
+    ".github/workflows/on-event-issue-closed.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/--bug-report.yaml",
+    ".github/ISSUE_TEMPLATE/--feature-request.yaml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "SECURITY.md"
+  ]
+}

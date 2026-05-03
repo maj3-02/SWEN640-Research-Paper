@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "HumanSignal/label-studio",
+  "default_branch": "develop",
+  "fetched_at_utc": "2026-04-28T19:18:50.266137+00:00",
+  "tree_sha": "9c483e3a0a8d00605c0f1d4973be67e2de72f8d8",
+  "tree_truncated": false,
+  "tree_path_count": 6223,
+  "has_tests": true,
+  "matched_test_paths": [
+    "label_studio/core/feature_flags/tests",
+    "label_studio/core/feature_flags/tests/test_base.py",
+    "label_studio/core/tests",
+    "label_studio/core/tests/__init__.py",
+    "label_studio/core/tests/test_db_utils.py",
+    "label_studio/core/tests/test_migration_helpers.py",
+    "label_studio/core/tests/test_models.py",
+    "label_studio/core/tests/test_redis.py",
+    "label_studio/data_export/tests",
+    "label_studio/data_export/tests/__init__.py"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/algolia-crawler-hs-docs.yml",
+    ".github/workflows/algolia-crawler-ls-docs.yml",
+    ".github/workflows/apply-linters.yml",
+    ".github/workflows/bandit.yml",
+    ".github/workflows/biome.yml",
+    ".github/workflows/build_pypi.yml",
+    ".github/workflows/build_pypi_nightly.yml",
+    ".github/workflows/bump-helm-chart.yml",
+    ".github/workflows/cancel_cicd_pipeline.yml",
+    ".github/workflows/cicd_pipeline.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/content_creator_program.md",
+    ".github/ISSUE_TEMPLATE/custom.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "docs/CONTRIBUTING.md",
+    "docs/source/guide/security.md"
+  ]
+}

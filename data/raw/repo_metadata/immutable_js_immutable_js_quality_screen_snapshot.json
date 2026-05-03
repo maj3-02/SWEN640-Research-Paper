@@ -1,0 +1,32 @@
+{
+  "repository_full_name": "immutable-js/immutable-js",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:35.531570+00:00",
+  "tree_sha": "9acd11a87e1c628f08639f9ae0539073f4ee46d8",
+  "tree_truncated": false,
+  "tree_path_count": 369,
+  "has_tests": true,
+  "matched_test_paths": [
+    "__tests__",
+    "__tests__/ArraySeq.ts",
+    "__tests__/Comparator.ts",
+    "__tests__/Conversion.ts",
+    "__tests__/Equality.ts",
+    "__tests__/IndexedSeq.ts",
+    "__tests__/KeyedSeq.ts",
+    "__tests__/List.ts",
+    "__tests__/ListJS.js",
+    "__tests__/Map.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/output_diff.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

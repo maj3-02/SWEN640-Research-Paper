@@ -1,0 +1,30 @@
+{
+  "repository_full_name": "motdotla/dotenv",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-26T23:03:28.146285+00:00",
+  "tree_sha": "10f5c0fb341089a16defab128a0cfe9e548c49ec",
+  "tree_truncated": false,
+  "tree_path_count": 47,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/.env",
+    "tests/.env-multiline",
+    "tests/.env.local",
+    "tests/.env.multiline",
+    "tests/.env.vault",
+    "tests/test-cli-options.js",
+    "tests/test-config-cli.js",
+    "tests/test-config-vault.js",
+    "tests/test-config.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

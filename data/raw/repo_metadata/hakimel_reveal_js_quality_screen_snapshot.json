@@ -1,0 +1,30 @@
+{
+  "repository_full_name": "hakimel/reveal.js",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:18.109055+00:00",
+  "tree_sha": "76dc90065968d4ead13692489c2c4e506c50e382",
+  "tree_truncated": false,
+  "tree_path_count": 272,
+  "has_tests": true,
+  "matched_test_paths": [
+    "react/src/__tests__",
+    "react/src/__tests__/setup.ts",
+    "react/src/components/code.test.tsx",
+    "react/src/components/deck.test.tsx",
+    "react/src/components/fragment.test.tsx",
+    "react/src/components/markdown.test.tsx",
+    "react/src/components/slide.test.tsx",
+    "react/src/components/stack.test.tsx",
+    "test",
+    "test/assets"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/spellcheck.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "appsmithorg/appsmith",
+  "default_branch": "release",
+  "fetched_at_utc": "2026-04-28T19:18:25.151597+00:00",
+  "tree_sha": "a92dee41fe82ad5fc4f4166df86ab423a1f93bd9",
+  "tree_truncated": false,
+  "tree_path_count": 16197,
+  "has_tests": true,
+  "matched_test_paths": [
+    "app/client/cypress",
+    "app/client/cypress/.eslintrc.json",
+    "app/client/cypress/Dockerfile",
+    "app/client/cypress/apply-patches.js",
+    "app/client/cypress/e2e",
+    "app/client/cypress/e2e/GSheet",
+    "app/client/cypress/e2e/GSheet/AllAccess_Spec.ts",
+    "app/client/cypress/e2e/GSheet/GsheetMisc_Spec.ts",
+    "app/client/cypress/e2e/GSheet/ReadNWrite_Access_Spec.ts",
+    "app/client/cypress/e2e/GSheet/ReadOnly_Access_Spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/README.md",
+    ".github/workflows/ad-hoc-docker-image.yml",
+    ".github/workflows/build-chromatic.yml",
+    ".github/workflows/build-client-server-count.yml",
+    ".github/workflows/build-client-server.yml",
+    ".github/workflows/build-docker-image.yml",
+    ".github/workflows/build-storybook.yml",
+    ".github/workflows/caddy-routes-test.yml",
+    ".github/workflows/ci-client-cyclic-deps-check.yml",
+    ".github/workflows/ci-test-custom-script.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/--bug-report.yaml",
+    ".github/ISSUE_TEMPLATE/--epic.yaml",
+    ".github/ISSUE_TEMPLATE/--feature-request.yaml",
+    ".github/ISSUE_TEMPLATE/--project-estimation.yaml",
+    ".github/ISSUE_TEMPLATE/--task.yaml",
+    ".github/ISSUE_TEMPLATE/Templates.yaml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

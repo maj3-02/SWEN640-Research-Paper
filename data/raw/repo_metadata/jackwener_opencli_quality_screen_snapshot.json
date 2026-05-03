@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "jackwener/OpenCLI",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:04.966676+00:00",
+  "tree_sha": "10baf02060bda736234c160927ccd4c9d0af82b6",
+  "tree_truncated": false,
+  "tree_path_count": 1491,
+  "has_tests": true,
+  "matched_test_paths": [
+    "clis/1688/assets.test.js",
+    "clis/1688/download.test.js",
+    "clis/1688/item.test.js",
+    "clis/1688/search.test.js",
+    "clis/1688/shared.test.js",
+    "clis/1688/store.test.js",
+    "clis/36kr/hot.test.js",
+    "clis/36kr/news.test.js",
+    "clis/51job/utils.test.js",
+    "clis/amazon/bestsellers.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-extension.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/doc-check.yml",
+    ".github/workflows/docs.yml",
+    ".github/workflows/e2e-headed.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/security.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/ISSUE_TEMPLATE/new_site_adapter.yml",
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md",
+    "docs/developer/contributing.md",
+    "docs/zh/developer/contributing.md"
+  ]
+}

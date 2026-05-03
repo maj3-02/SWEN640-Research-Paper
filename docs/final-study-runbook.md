@@ -95,7 +95,7 @@ python scripts/collect/fetch_issues.py --sample-file data/interim/final_sample/f
 
 Primary outputs include raw commit and issue files plus collection summaries under `data/interim/final_sample/raw_commits/` and `data/interim/final_sample/raw_issues/`.
 
-Large raw payloads are excluded from the public repository. The collection summary and failure files are retained.
+The public repository includes the final-study raw collection payloads used for the paper. Large final-study data files are tracked with Git LFS.
 
 ## 9. Collection Completeness Audit
 
@@ -117,12 +117,14 @@ python scripts/classify/classify_commits.py --sample-file data/interim/final_sam
 python scripts/classify/classify_issues.py --sample-file data/interim/final_sample/final_sample.csv
 ```
 
-Primary summary outputs:
+Primary outputs:
 
+- `data/interim/final_sample/classified_commits/classified_commits.csv`
 - `data/interim/final_sample/classified_commits/classified_commits_summary.json`
+- `data/interim/final_sample/classified_issues/classified_issues.csv`
 - `data/interim/final_sample/classified_issues/classified_issues_summary.json`
 
-Large classified row-level CSVs are excluded from the public repository. They can be regenerated from raw collection outputs.
+The public repository includes the row-level classified final-study CSVs used to compute the reported repository metrics.
 
 ## 11. Aggregation
 

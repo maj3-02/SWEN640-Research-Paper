@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "RaspberryPiFoundation/blockly",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:34.080173+00:00",
+  "tree_sha": "6af219013bcad376b96981ce48f2cee55d5a242a",
+  "tree_truncated": false,
+  "tree_path_count": 2100,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/blockly/tests",
+    "packages/blockly/tests/browser",
+    "packages/blockly/tests/browser/.mocharc.js",
+    "packages/blockly/tests/browser/test",
+    "packages/blockly/tests/browser/test/basic_block_factory_test.mjs",
+    "packages/blockly/tests/browser/test/basic_block_test.mjs",
+    "packages/blockly/tests/browser/test/basic_playground_test.mjs",
+    "packages/blockly/tests/browser/test/block_undo_test.mjs",
+    "packages/blockly/tests/browser/test/clipboard_test.mjs",
+    "packages/blockly/tests/browser/test/delete_blocks_test.mjs"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/appengine_deploy.yml",
+    ".github/workflows/assign_reviewers.yml",
+    ".github/workflows/browser_test.yml",
+    ".github/workflows/build.yml",
+    ".github/workflows/conventional-label.yml",
+    ".github/workflows/deploy-docusaurus.yml",
+    ".github/workflows/publish.yml",
+    ".github/workflows/update-gh-pages.yml",
+    ".github/workflows/welcome_new_contributors.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.yaml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/documentation.yaml",
+    ".github/ISSUE_TEMPLATE/feature_request.yaml",
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

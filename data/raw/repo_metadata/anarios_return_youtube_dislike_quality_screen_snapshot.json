@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "Anarios/return-youtube-dislike",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:32.089088+00:00",
+  "tree_sha": "c0c3a2ea5f2039eb5d41ae96d1429169f7b445cf",
+  "tree_truncated": false,
+  "tree_path_count": 348,
+  "has_tests": true,
+  "matched_test_paths": [
+    "Extensions/combined/src/premiumAnalytics/activity/index.spec.js",
+    "Extensions/combined/src/premiumAnalytics/activity/time.spec.js",
+    "Extensions/combined/src/premiumAnalytics/index.spec.js",
+    "Extensions/combined/src/premiumAnalytics/logging.spec.js",
+    "Extensions/combined/src/premiumAnalytics/map/index.spec.js",
+    "Extensions/combined/src/premiumAnalytics/panel.spec.js",
+    "Extensions/combined/src/premiumAnalytics/state.spec.js",
+    "Extensions/combined/src/premiumAnalytics/teaser/index.spec.js",
+    "Extensions/combined/src/premiumAnalytics/theme.spec.js",
+    "Extensions/combined/src/premiumAnalytics/utils.spec.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build.yaml",
+    ".github/workflows/commentcommands.yml",
+    ".github/workflows/weblint.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug.yml",
+    ".github/ISSUE_TEMPLATE/feature-request.yml",
+    "CONTRIBUTING.md"
+  ]
+}

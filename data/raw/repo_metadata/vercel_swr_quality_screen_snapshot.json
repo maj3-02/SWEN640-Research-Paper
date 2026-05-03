@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "vercel/swr",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:37.985685+00:00",
+  "tree_sha": "46f3954a35c39771ba3dcc00af774e4002062418",
+  "tree_truncated": false,
+  "tree_path_count": 512,
+  "has_tests": true,
+  "matched_test_paths": [
+    "e2e",
+    "e2e/site",
+    "e2e/site/README.md",
+    "e2e/site/app",
+    "e2e/site/app/basic-ssr",
+    "e2e/site/app/basic-ssr/block.tsx",
+    "e2e/site/app/basic-ssr/page.tsx",
+    "e2e/site/app/concurrent-transition",
+    "e2e/site/app/concurrent-transition/page.tsx",
+    "e2e/site/app/concurrent-transition/transition-demo.tsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/install",
+    ".github/workflows/install/action.yml",
+    ".github/workflows/test-canary.yml",
+    ".github/workflows/test-legacy-react.yml",
+    ".github/workflows/test-release.yml",
+    ".github/workflows/trigger-release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/SECURITY.md"
+  ]
+}

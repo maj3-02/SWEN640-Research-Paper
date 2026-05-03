@@ -1,0 +1,30 @@
+{
+  "repository_full_name": "chatboxai/chatbox",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:25.361013+00:00",
+  "tree_sha": "b45fc528e6f6682656166d5d068f2f1b4907c405",
+  "tree_truncated": false,
+  "tree_path_count": 952,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/__tests__",
+    "src/__tests__/App.test.tsx.bk",
+    "src/renderer/components/settings/provider/importProviderState.test.ts",
+    "src/renderer/packages/base64.test.ts",
+    "src/renderer/packages/context-management/attachment-payload.test.ts",
+    "src/renderer/packages/context-management/compaction-detector.test.ts",
+    "src/renderer/packages/context-management/context-builder.test.ts",
+    "src/renderer/packages/context-management/context-tokens.hook.test.ts",
+    "src/renderer/packages/context-management/context-tokens.integration.test.ts",
+    "src/renderer/packages/context-management/context-tokens.unit.test.ts"
+  ],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/custom.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

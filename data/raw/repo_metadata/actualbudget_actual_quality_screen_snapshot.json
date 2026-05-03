@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "actualbudget/actual",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:53.993357+00:00",
+  "tree_sha": "11ce29e7fdc39cff8950525da0dd7022d2e32a0c",
+  "tree_truncated": false,
+  "tree_path_count": 4011,
+  "has_tests": true,
+  "matched_test_paths": [
+    "bin/__tests__",
+    "bin/__tests__/validate-publish-imports.test.ts",
+    "packages/api/__snapshots__/methods.test.ts.snap",
+    "packages/api/methods.test.ts",
+    "packages/ci-actions/src/versions/get-next-package-version.test.ts",
+    "packages/cli/src/cache.test.ts",
+    "packages/cli/src/commands/accounts.test.ts",
+    "packages/cli/src/commands/query.test.ts",
+    "packages/cli/src/commands/sync.test.ts",
+    "packages/cli/src/config.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ai-generated-release-notes.yml",
+    ".github/workflows/autofix.yml",
+    ".github/workflows/build.yml",
+    ".github/workflows/check.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/count-points.yml",
+    ".github/workflows/cut-release-branch.yml",
+    ".github/workflows/docker-edge.yml",
+    ".github/workflows/docker-release.yml",
+    ".github/workflows/docs-spelling.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug-report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/documentation.yml",
+    ".github/ISSUE_TEMPLATE/feature-request.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md"
+  ]
+}

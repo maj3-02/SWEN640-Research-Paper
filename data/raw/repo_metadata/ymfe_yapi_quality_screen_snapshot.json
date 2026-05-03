@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "YMFE/yapi",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:43.128017+00:00",
+  "tree_sha": "59bade3a8a43e7db077d38a4b0c7c584f30ddf8c",
+  "tree_truncated": false,
+  "tree_path_count": 590,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/common",
+    "test/common/common.test.js",
+    "test/common/mergeJsonSchema.test.js",
+    "test/lib.test.js",
+    "test/mock-extra.test.js",
+    "test/server",
+    "test/server/commons.test.js",
+    "test/server/mockServer.test.js",
+    "test/swagger.v2.json"
+  ],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "SECURITY.md"
+  ]
+}

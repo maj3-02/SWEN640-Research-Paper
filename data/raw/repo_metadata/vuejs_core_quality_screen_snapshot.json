@@ -1,0 +1,40 @@
+{
+  "repository_full_name": "vuejs/core",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:06.860969+00:00",
+  "tree_sha": "3310eea4ececff0379ea657e633e3c18b0f647eb",
+  "tree_truncated": false,
+  "tree_path_count": 803,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages-private/dts-test/tsconfig.test.json",
+    "packages/compiler-core/__tests__",
+    "packages/compiler-core/__tests__/__snapshots__",
+    "packages/compiler-core/__tests__/__snapshots__/codegen.spec.ts.snap",
+    "packages/compiler-core/__tests__/__snapshots__/compile.spec.ts.snap",
+    "packages/compiler-core/__tests__/__snapshots__/parse.spec.ts.snap",
+    "packages/compiler-core/__tests__/__snapshots__/scopeId.spec.ts.snap",
+    "packages/compiler-core/__tests__/codegen.spec.ts",
+    "packages/compiler-core/__tests__/compile.spec.ts",
+    "packages/compiler-core/__tests__/parse.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/autofix.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/close-cant-reproduce-issues.yml",
+    ".github/workflows/ecosystem-ci-trigger.yml",
+    ".github/workflows/lock-closed-issues.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/size-data.yml",
+    ".github/workflows/size-report.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/contributing.md",
+    "SECURITY.md"
+  ]
+}

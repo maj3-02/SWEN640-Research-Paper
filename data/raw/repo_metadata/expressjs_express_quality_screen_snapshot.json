@@ -1,0 +1,30 @@
+{
+  "repository_full_name": "expressjs/express",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:18.350529+00:00",
+  "tree_sha": "6340c1eaaedc0ddcae8be8df2cdb1d2e961cbf2f",
+  "tree_truncated": false,
+  "tree_path_count": 281,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/Route.js",
+    "test/Router.js",
+    "test/acceptance",
+    "test/acceptance/auth.js",
+    "test/acceptance/content-negotiation.js",
+    "test/acceptance/cookie-sessions.js",
+    "test/acceptance/cookies.js",
+    "test/acceptance/downloads.js",
+    "test/acceptance/ejs.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/legacy.yml",
+    ".github/workflows/scorecard.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "GeekyAnts/NativeBase",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:19.370896+00:00",
+  "tree_sha": "335a1d5f854f4416b841235c1afdfda04ea12243",
+  "tree_truncated": false,
+  "tree_path_count": 1524,
+  "has_tests": true,
+  "matched_test_paths": [
+    "example/tests",
+    "example/tests/storybook.test.js",
+    "example/tests/storybook.test.js.snap.android",
+    "example/tests/storybook.test.js.snap.ios",
+    "example/tests/storybook.test.js.snap.node",
+    "example/tests/storybook.test.js.snap.web",
+    "src/components/composites/FormControl/test",
+    "src/components/composites/FormControl/test/FormControl.test.tsx",
+    "src/components/primitives/Checkbox/test",
+    "src/components/primitives/Checkbox/test/checkbox.test.tsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

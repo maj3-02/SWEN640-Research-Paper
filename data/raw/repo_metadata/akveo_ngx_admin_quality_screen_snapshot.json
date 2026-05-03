@@ -1,0 +1,28 @@
+{
+  "repository_full_name": "akveo/ngx-admin",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:55.221856+00:00",
+  "tree_sha": "dc6a442704bfef34b776b5eb15faf852d9e2f75c",
+  "tree_truncated": false,
+  "tree_path_count": 633,
+  "has_tests": true,
+  "matched_test_paths": [
+    "e2e",
+    "e2e/.eslintrc.json",
+    "e2e/tsconfig.e2e.json",
+    "src/tsconfig.spec.json"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ACTION_TRIGGER_GUIDE.md",
+    ".github/workflows/demoDeploy.yml",
+    ".github/workflows/docsDeploy.yml",
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

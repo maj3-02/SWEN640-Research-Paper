@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "JakeChampion/fetch",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:48.269623+00:00",
+  "tree_sha": "ba5cf1ed2e02ebb96fa1e60b4fd2eb04071b60e4",
+  "tree_truncated": false,
+  "tree_path_count": 31,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/karma-worker.config.js",
+    "test/karma.config.js",
+    "test/server.js",
+    "test/test.js",
+    "test/worker-adapter.js",
+    "test/worker.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/lock.yml",
+    ".github/workflows/node.js.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/scorecard.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

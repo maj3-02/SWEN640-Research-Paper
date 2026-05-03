@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "airbnb/lottie-web",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:36.529456+00:00",
+  "tree_sha": "bede03d25d232826e0c9dca1733d542d8a7754fb",
+  "tree_truncated": false,
+  "tree_path_count": 393,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/animations",
+    "test/animations/adrock.json",
+    "test/animations/bacon.json",
+    "test/animations/banner.json",
+    "test/animations/bm_ronda.json",
+    "test/animations/bodymovin.json",
+    "test/animations/dalek.json",
+    "test/animations/footage",
+    "test/animations/footage/data.json"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/testAnimations.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

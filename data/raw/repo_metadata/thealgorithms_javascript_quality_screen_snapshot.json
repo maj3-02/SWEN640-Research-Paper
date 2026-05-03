@@ -1,0 +1,37 @@
+{
+  "repository_full_name": "TheAlgorithms/JavaScript",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:35.301426+00:00",
+  "tree_sha": "5c39e87a9a31f279c60f830ad74a845e4788a517",
+  "tree_truncated": false,
+  "tree_path_count": 817,
+  "has_tests": true,
+  "matched_test_paths": [
+    "Backtracking/tests",
+    "Backtracking/tests/AllCombinationsOfSizeK.test.js",
+    "Backtracking/tests/GenerateParentheses.test.js",
+    "Backtracking/tests/GeneratePermutations.test.js",
+    "Backtracking/tests/KnightTour.test.js",
+    "Backtracking/tests/MColoringProblem.test.js",
+    "Backtracking/tests/NQueens.test.js",
+    "Backtracking/tests/RatInAMaze.test.js",
+    "Backtracking/tests/Sudoku.test.js",
+    "Backtracking/tests/SumOfSubset.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/Ci.yml",
+    ".github/workflows/UpdateDirectory.js",
+    ".github/workflows/UpdateDirectory.yml",
+    ".github/workflows/UploadCoverageReport.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/ISSUE_TEMPLATE/other.yml",
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md"
+  ]
+}

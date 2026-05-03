@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "nodemailer/nodemailer",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:06.466022+00:00",
+  "tree_sha": "1997040e23e5df901b8ee085ae3fc1fdbdd06f9f",
+  "tree_truncated": false,
+  "tree_path_count": 179,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/addressparser",
+    "test/addressparser/addressparser-test.js",
+    "test/base64",
+    "test/base64/base64-test.js",
+    "test/base64/fixtures",
+    "test/base64/fixtures/alice.txt",
+    "test/dkim",
+    "test/dkim/cache",
+    "test/dkim/cache/README.md"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/release.yaml",
+    ".github/workflows/stale.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/report-an-issue.md",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md"
+  ]
+}

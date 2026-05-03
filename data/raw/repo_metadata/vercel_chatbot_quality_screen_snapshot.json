@@ -1,0 +1,28 @@
+{
+  "repository_full_name": "vercel/chatbot",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:20.914254+00:00",
+  "tree_sha": "107a43a8039bb4f19d0ced4ff3445e2523d14305",
+  "tree_truncated": false,
+  "tree_path_count": 232,
+  "has_tests": true,
+  "matched_test_paths": [
+    "lib/ai/models.test.ts",
+    "tests",
+    "tests/e2e",
+    "tests/e2e/api.test.ts",
+    "tests/e2e/auth.test.ts",
+    "tests/e2e/chat.test.ts",
+    "tests/e2e/model-selector.test.ts",
+    "tests/fixtures.ts",
+    "tests/helpers.ts",
+    "tests/pages"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/lint.yml",
+    ".github/workflows/playwright.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

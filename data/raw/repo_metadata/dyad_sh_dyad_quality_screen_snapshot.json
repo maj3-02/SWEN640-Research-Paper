@@ -1,0 +1,44 @@
+{
+  "repository_full_name": "dyad-sh/dyad",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:21.163529+00:00",
+  "tree_sha": "2d6294b07988a3960b45907e53d83c92fc10562b",
+  "tree_truncated": false,
+  "tree_path_count": 1912,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".claude/hooks/tests",
+    ".claude/hooks/tests/README.md",
+    ".claude/hooks/tests/bad_commands.txt",
+    ".claude/hooks/tests/fixtures",
+    ".claude/hooks/tests/fixtures/completed_tasks.jsonl",
+    ".claude/hooks/tests/fixtures/incomplete_tasks.jsonl",
+    ".claude/hooks/tests/good_commands.txt",
+    ".claude/hooks/tests/python_bad_commands.txt",
+    ".claude/hooks/tests/python_good_commands.txt",
+    ".claude/hooks/tests/python_passthrough_commands.txt"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/README.md",
+    ".github/workflows/bugbot-trigger.yml",
+    ".github/workflows/cancel-ci-after-merge.yml",
+    ".github/workflows/cancel-claude-pr-review-after-merge.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/cla.yml",
+    ".github/workflows/claude-check-workflows.yml",
+    ".github/workflows/claude-deflake-e2e.yml",
+    ".github/workflows/claude-pr-review.yml",
+    ".github/workflows/claude-rebase.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/add_template.md",
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/ISSUE_TEMPLATE/hub_issue.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "src/pro/CONTRIBUTING.md"
+  ]
+}

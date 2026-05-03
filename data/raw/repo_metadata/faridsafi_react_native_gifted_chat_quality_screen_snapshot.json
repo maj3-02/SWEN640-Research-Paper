@@ -1,0 +1,28 @@
+{
+  "repository_full_name": "FaridSafi/react-native-gifted-chat",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:58.897813+00:00",
+  "tree_sha": "8a1d8f38e53a649cb1b431f95e3625195d50c3be",
+  "tree_truncated": false,
+  "tree_path_count": 269,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/__tests__",
+    "src/__tests__/Actions.test.tsx",
+    "src/__tests__/Avatar.test.tsx",
+    "src/__tests__/Bubble.test.tsx",
+    "src/__tests__/Color.test.tsx",
+    "src/__tests__/Composer.test.tsx",
+    "src/__tests__/Constant.test.tsx",
+    "src/__tests__/Day.test.tsx",
+    "src/__tests__/DayAnimated.test.tsx",
+    "src/__tests__/GiftedAvatar.test.tsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/main.yml",
+    ".github/workflows/stale.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

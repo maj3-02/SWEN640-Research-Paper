@@ -1,0 +1,35 @@
+{
+  "repository_full_name": "jasmine/jasmine",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:13.850072+00:00",
+  "tree_sha": "fc88950f7e3c0801cc4b2a83b8bfb8d843a280b0",
+  "tree_truncated": false,
+  "tree_path_count": 456,
+  "has_tests": true,
+  "matched_test_paths": [
+    "lib/jasmine-core/example/node_example/spec",
+    "lib/jasmine-core/example/node_example/spec/helpers",
+    "lib/jasmine-core/example/node_example/spec/helpers/jasmine_examples",
+    "lib/jasmine-core/example/node_example/spec/helpers/jasmine_examples/SpecHelper.js",
+    "lib/jasmine-core/example/node_example/spec/jasmine_examples",
+    "lib/jasmine-core/example/node_example/spec/jasmine_examples/PlayerSpec.js",
+    "lib/jasmine-core/example/spec",
+    "lib/jasmine-core/example/spec/PlayerSpec.js",
+    "lib/jasmine-core/example/spec/SpecHelper.js",
+    "spec"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/config.yml",
+    ".github/workflows/safari.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_proposal.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md"
+  ]
+}

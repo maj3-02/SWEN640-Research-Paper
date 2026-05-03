@@ -1,0 +1,44 @@
+{
+  "repository_full_name": "lucide-icons/lucide",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:08.252357+00:00",
+  "tree_sha": "1da4059d5976f0c1a13a3bcb9f2cf5e78b872a75",
+  "tree_truncated": false,
+  "tree_path_count": 4655,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/angular/src/lucide-config.spec.ts",
+    "packages/angular/src/lucide-dynamic-icon.spec.ts",
+    "packages/angular/src/lucide-icon-base.spec.ts",
+    "packages/angular/src/lucide-icons.spec.ts",
+    "packages/angular/tsconfig.spec.json",
+    "packages/astro/tests",
+    "packages/astro/tests/Icon.spec.ts",
+    "packages/astro/tests/__snapshots__",
+    "packages/astro/tests/__snapshots__/Icon.spec.ts.snap",
+    "packages/astro/tests/__snapshots__/createLucideIcon.spec.ts.snap"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/angular.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/close-issue-with-banned-phrases.yml",
+    ".github/workflows/close-stale-prs.yml",
+    ".github/workflows/comment-icon-preview.yml",
+    ".github/workflows/icons.yml",
+    ".github/workflows/labeler.yml",
+    ".github/workflows/lint-code.yml",
+    ".github/workflows/lint-pr-title.yml",
+    ".github/workflows/linting-icons.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/01_icon_request.yml",
+    ".github/ISSUE_TEMPLATE/02_bug_report.yml",
+    ".github/ISSUE_TEMPLATE/03_bug_report_site.yml",
+    ".github/ISSUE_TEMPLATE/04_feature_request.yml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

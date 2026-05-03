@@ -1,0 +1,17 @@
+{
+  "repository_full_name": "mdbootstrap/TW-Elements",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:35.946930+00:00",
+  "tree_sha": "9b442c410d8de1c44fbad6728668235c36c4b712",
+  "tree_truncated": false,
+  "tree_path_count": 76,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    "CODE_OF_CONDUCT.md"
+  ]
+}

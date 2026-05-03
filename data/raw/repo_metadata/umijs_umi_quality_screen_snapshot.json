@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "umijs/umi",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:45.321193+00:00",
+  "tree_sha": "c1150fdee54301f59f66cd12361721abf6e071c5",
+  "tree_truncated": false,
+  "tree_path_count": 4843,
+  "has_tests": true,
+  "matched_test_paths": [
+    "codemod/src/appJSUpdater.test.ts",
+    "codemod/src/configBuilder.test.ts",
+    "codemod/src/configUpdater.test.ts",
+    "codemod/src/jsTransformer.test.ts",
+    "codemod/src/prepare.test.ts",
+    "codemod/src/runner/config.test.ts",
+    "codemod/src/runner/packageJSON.test.ts",
+    "codemod/src/utils/getVersionMajor.test.ts",
+    "examples/ant-design-pro/src/e2e",
+    "examples/ant-design-pro/src/e2e/baseLayout.e2e.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/compressed-size.yml",
+    ".github/workflows/coverage.yml",
+    ".github/workflows/doc.yml",
+    ".github/workflows/e2e-basic.yml",
+    ".github/workflows/e2e-boilerplate.yml",
+    ".github/workflows/e2e-mfsu.yml",
+    ".github/workflows/e2e-qiankun.yml",
+    ".github/workflows/e2e-vite.yml",
+    ".github/workflows/emoji-helper.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    "CONTRIBUTING.md",
+    "docs/docs/docs/introduce/contributing.md"
+  ]
+}

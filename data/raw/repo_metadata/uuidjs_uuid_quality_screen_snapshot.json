@@ -1,0 +1,36 @@
+{
+  "repository_full_name": "uuidjs/uuid",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:50.173156+00:00",
+  "tree_sha": "95af4489be459d6ba14d137b6fcd87ffd0953e91",
+  "tree_truncated": false,
+  "tree_path_count": 154,
+  "has_tests": true,
+  "matched_test_paths": [
+    "examples/node-jest/jsdom.test.js",
+    "examples/node-jest/node.test.js",
+    "examples/typescript/buffer.test.ts",
+    "src/test",
+    "src/test/parse.test.ts",
+    "src/test/rng.test.ts",
+    "src/test/stringify.test.ts",
+    "src/test/test_constants.ts",
+    "src/test/v1.test.ts",
+    "src/test/v35.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/browser.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/release-please.yml",
+    ".github/workflows/stale-issues.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    ".github/SECURITY.md",
+    "CONTRIBUTING.md"
+  ]
+}

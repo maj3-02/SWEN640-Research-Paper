@@ -1,0 +1,30 @@
+{
+  "repository_full_name": "browserify/browserify",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:22.336434+00:00",
+  "tree_sha": "1a6728020fbc4edff0979e8fb6fa675ba66286dc",
+  "tree_truncated": false,
+  "tree_path_count": 716,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/args.js",
+    "test/array.js",
+    "test/array",
+    "test/array/one.js",
+    "test/array/three.js",
+    "test/array/two.js",
+    "test/async.js",
+    "test/async",
+    "test/async/src.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml",
+    "appveyor.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "security.md"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "repository_full_name": "TanStack/router",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:20:00.436324+00:00",
+  "tree_sha": "d6decca41807e9ca28279e2db6640e7a8bdc1229",
+  "tree_truncated": false,
+  "tree_path_count": 12336,
+  "has_tests": true,
+  "matched_test_paths": [
+    "e2e",
+    "e2e/.gitignore",
+    "e2e/e2e-utils",
+    "e2e/e2e-utils/eslint.config.js",
+    "e2e/e2e-utils/package.json",
+    "e2e/e2e-utils/src",
+    "e2e/e2e-utils/src/derivePort.ts",
+    "e2e/e2e-utils/src/devServerWarmup.ts",
+    "e2e/e2e-utils/src/e2eSetupTeardown.ts",
+    "e2e/e2e-utils/src/fixture.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/autofix.yml",
+    ".github/workflows/bundle-size.yml",
+    ".github/workflows/check-skills.yml",
+    ".github/workflows/client-nav-benchmarks.yml",
+    ".github/workflows/labeler.yml",
+    ".github/workflows/pr.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    "CONTRIBUTING.md"
+  ]
+}

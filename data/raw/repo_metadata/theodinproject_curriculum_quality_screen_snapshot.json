@@ -1,0 +1,40 @@
+{
+  "repository_full_name": "TheOdinProject/curriculum",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:42.647482+00:00",
+  "tree_sha": "007837e25ef89f2c559cfc413522cb8f02b71bbd",
+  "tree_truncated": false,
+  "tree_path_count": 948,
+  "has_tests": true,
+  "matched_test_paths": [
+    "markdownlint/TOP001_descriptiveLinkTextLabels/tests",
+    "markdownlint/TOP001_descriptiveLinkTextLabels/tests/TOP001.test.js",
+    "markdownlint/TOP001_descriptiveLinkTextLabels/tests/blacklisted_label_text.md",
+    "markdownlint/TOP001_descriptiveLinkTextLabels/tests/this_or_here.md",
+    "markdownlint/TOP002_noCodeInHeadings/tests",
+    "markdownlint/TOP002_noCodeInHeadings/tests/TOP002.test.js",
+    "markdownlint/TOP002_noCodeInHeadings/tests/fixed_test.md",
+    "markdownlint/TOP002_noCodeInHeadings/tests/test.md",
+    "markdownlint/TOP003_defaultSectionContent/tests",
+    "markdownlint/TOP003_defaultSectionContent/tests/TOP003.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/codespell.yml",
+    ".github/workflows/labeler.yml",
+    ".github/workflows/markdownlint.yml",
+    ".github/workflows/markdownlint_testing.yml",
+    ".github/workflows/stale.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/archive",
+    ".github/ISSUE_TEMPLATE/archive/bug_report.md",
+    ".github/ISSUE_TEMPLATE/archive/feature_request.md",
+    ".github/ISSUE_TEMPLATE/broken_link.yaml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/suggestion.yaml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md"
+  ]
+}

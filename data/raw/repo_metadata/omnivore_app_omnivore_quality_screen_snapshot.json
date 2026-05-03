@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "omnivore-app/omnivore",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:45.038715+00:00",
+  "tree_sha": "3372a2e5012b734b0320a322156382052a7a6a07",
+  "tree_truncated": false,
+  "tree_path_count": 5365,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apple/OmnivoreKit/Tests",
+    "apple/OmnivoreKit/Tests/AppTests",
+    "apple/OmnivoreKit/Tests/AppTests/AppTests.swift",
+    "apple/OmnivoreKit/Tests/AppTests/XCTestManifests.swift",
+    "apple/OmnivoreKit/Tests/LinuxMain.swift",
+    "apple/OmnivoreKit/Tests/ModelsTests",
+    "apple/OmnivoreKit/Tests/ModelsTests/ModelsTests.swift",
+    "apple/OmnivoreKit/Tests/ServicesTests",
+    "apple/OmnivoreKit/Tests/ServicesTests/ServicesTests.swift",
+    "apple/OmnivoreKit/Tests/UtilsTests"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-docker-images.yml",
+    ".github/workflows/build-self-host-docker-images.yml",
+    ".github/workflows/lint-migrations.yml",
+    ".github/workflows/run-distiller.yml",
+    ".github/workflows/run-tests.yaml",
+    ".github/workflows/static.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/blank-template.md",
+    ".github/ISSUE_TEMPLATE/qa-run-template.md",
+    "SECURITY.md",
+    "packages/readabilityjs/CODE_OF_CONDUCT.md"
+  ]
+}

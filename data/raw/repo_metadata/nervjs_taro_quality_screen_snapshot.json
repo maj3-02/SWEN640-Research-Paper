@@ -1,0 +1,41 @@
+{
+  "repository_full_name": "NervJS/taro",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:27.726423+00:00",
+  "tree_sha": "9c6c511bf8312b422670ab3559acbaeaadaa1347",
+  "tree_truncated": false,
+  "tree_path_count": 6639,
+  "has_tests": true,
+  "matched_test_paths": [
+    "crates/native_binding/__test__",
+    "crates/native_binding/__test__/index.spec.mjs",
+    "crates/swc_plugin_compile_mode/src/tests",
+    "crates/swc_plugin_compile_mode/src/tests/alipay.rs",
+    "crates/swc_plugin_compile_mode/src/tests/attributes.rs",
+    "crates/swc_plugin_compile_mode/src/tests/children.rs",
+    "crates/swc_plugin_compile_mode/src/tests/condition.rs",
+    "crates/swc_plugin_compile_mode/src/tests/entry.rs",
+    "crates/swc_plugin_compile_mode/src/tests/harmony",
+    "crates/swc_plugin_compile_mode/src/tests/harmony/attributes.rs"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/auto-review.yml",
+    ".github/workflows/build-rust-binding.yml",
+    ".github/workflows/build-rust-wasm.yml",
+    ".github/workflows/dependabot-update-lockfile.yml",
+    ".github/workflows/issue-labeler.yml",
+    ".github/workflows/nodejs.yml",
+    ".github/workflows/publish.yml",
+    ".github/workflows/sync-components-types.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "webpack/webpack",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:19.394221+00:00",
+  "tree_sha": "45b2358d76430696201a3fcc1fb5279f4a7a477d",
+  "tree_truncated": false,
+  "tree_path_count": 13845,
+  "has_tests": true,
+  "matched_test_paths": [
+    "declarations.test.d.ts",
+    "test",
+    "test/AbstractMethodError.unittest.js",
+    "test/AppendOnlyStackedSet.unittest.js",
+    "test/ArrayHelpers.unittest.js",
+    "test/BannerPlugin.test.js",
+    "test/BenchmarkTestCases.benchmark.mjs",
+    "test/BinaryMiddleware.unittest.js",
+    "test/BuildDependencies.longtest.js",
+    "test/ChangesAndRemovals.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/benchmarks.yml",
+    ".github/workflows/dependabot.yml",
+    ".github/workflows/dependency-review.yml",
+    ".github/workflows/examples.yml",
+    ".github/workflows/pr-quality.yml",
+    ".github/workflows/publish-to-pkg-pr-new.yml",
+    ".github/workflows/release-announcement.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md",
+    "GOVERNANCE.md"
+  ]
+}

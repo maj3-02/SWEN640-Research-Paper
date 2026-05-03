@@ -1,0 +1,46 @@
+{
+  "repository_full_name": "tldraw/tldraw",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:15.041585+00:00",
+  "tree_sha": "a034dd0dfdbdbcf2d063a21b69824d51e8e66358",
+  "tree_truncated": false,
+  "tree_path_count": 4692,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/analytics/src/state/state.test.ts",
+    "apps/bemo-worker/src/worker.test.ts",
+    "apps/docs/utils/parse-markdown.test.tsx",
+    "apps/dotcom/client/e2e",
+    "apps/dotcom/client/e2e/consts.ts",
+    "apps/dotcom/client/e2e/fixtures",
+    "apps/dotcom/client/e2e/fixtures/Database.ts",
+    "apps/dotcom/client/e2e/fixtures/DeleteFileDialog.ts",
+    "apps/dotcom/client/e2e/fixtures/Editor.ts",
+    "apps/dotcom/client/e2e/fixtures/ErrorPages.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/add-framer-rewrites.yml",
+    ".github/workflows/bump-versions.yml",
+    ".github/workflows/checks.yml",
+    ".github/workflows/claude.yml",
+    ".github/workflows/close-stale-issues.yml",
+    ".github/workflows/dependabot-dedupe.yml",
+    ".github/workflows/deploy-analytics.yml",
+    ".github/workflows/deploy-bemo.yml",
+    ".github/workflows/deploy-dotcom.yml",
+    ".github/workflows/deploy-mcp-app.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/example_request.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/ISSUE_TEMPLATE/task.yml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

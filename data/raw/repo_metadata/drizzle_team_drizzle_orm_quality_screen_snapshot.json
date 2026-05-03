@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "drizzle-team/drizzle-orm",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:32.721326+00:00",
+  "tree_sha": "48e5406027103a9fca6eb66417187c4a8b5c6aa3",
+  "tree_truncated": false,
+  "tree_path_count": 1623,
+  "has_tests": true,
+  "matched_test_paths": [
+    "drizzle-arktype/tests",
+    "drizzle-arktype/tests/mysql.test.ts",
+    "drizzle-arktype/tests/pg.test.ts",
+    "drizzle-arktype/tests/singlestore.test.ts",
+    "drizzle-arktype/tests/sqlite.test.ts",
+    "drizzle-arktype/tests/tsconfig.json",
+    "drizzle-arktype/tests/utils.ts",
+    "drizzle-kit/tests",
+    "drizzle-kit/tests/bin.test.ts",
+    "drizzle-kit/tests/cli-export.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/codeql.yml",
+    ".github/workflows/release-feature-branch.yaml",
+    ".github/workflows/release-latest.yaml",
+    ".github/workflows/router.yaml",
+    ".github/workflows/unpublish-release-feature-branch.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug-template.yaml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/docs-template.yaml",
+    ".github/ISSUE_TEMPLATE/feature-template.yaml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

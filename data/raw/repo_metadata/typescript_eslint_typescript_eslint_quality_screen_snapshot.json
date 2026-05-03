@@ -1,0 +1,46 @@
+{
+  "repository_full_name": "typescript-eslint/typescript-eslint",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:44.113002+00:00",
+  "tree_sha": "b7b2670123f76419630f88f3a807f85b7c535230",
+  "tree_truncated": false,
+  "tree_path_count": 10834,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/ast-spec/tests",
+    "packages/ast-spec/tests/AssignmentOperatorToText.test-d.ts",
+    "packages/ast-spec/tests/BinaryOperatorToText.test-d.ts",
+    "packages/ast-spec/tests/PunctuatorTokenToText.test-d.ts",
+    "packages/ast-spec/tests/ast-node-types.test-d.ts",
+    "packages/ast-spec/tests/fixtures-with-differences-ast.shot",
+    "packages/ast-spec/tests/fixtures-with-differences-errors.shot",
+    "packages/ast-spec/tests/fixtures-with-differences-tokens.shot",
+    "packages/ast-spec/tests/fixtures-without-babel-support.shot",
+    "packages/ast-spec/tests/fixtures.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/a11y-alt-bot.yml",
+    ".github/workflows/breaking-change-validation.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/cleanup-cache.yml",
+    ".github/workflows/nx-migrate.yml",
+    ".github/workflows/pr-review-requested.yml",
+    ".github/workflows/pr-title-validation.yml",
+    ".github/workflows/prettier-update.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/01-bug-report-plugin.yaml",
+    ".github/ISSUE_TEMPLATE/02-enhancement-rule-option.yaml",
+    ".github/ISSUE_TEMPLATE/03-enhancement-new-rule.yaml",
+    ".github/ISSUE_TEMPLATE/04-enhancement-new-base-rule-extension.yaml",
+    ".github/ISSUE_TEMPLATE/05-documentation-request.yml",
+    ".github/ISSUE_TEMPLATE/06-bug-report-other.yaml",
+    ".github/ISSUE_TEMPLATE/07-enhancement-other.yaml",
+    ".github/ISSUE_TEMPLATE/08-bug-report-complex.yaml",
+    ".github/ISSUE_TEMPLATE/09-config-change.yaml",
+    ".github/ISSUE_TEMPLATE/10-repo-maintenance.yaml"
+  ]
+}

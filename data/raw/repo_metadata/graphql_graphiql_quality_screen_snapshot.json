@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "graphql/graphiql",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:40.301392+00:00",
+  "tree_sha": "e6f37d8b010d8df276cf693f61dfae41d80e2504",
+  "tree_truncated": false,
+  "tree_path_count": 1015,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/cm6-graphql/__tests__",
+    "packages/cm6-graphql/__tests__/cases.txt",
+    "packages/cm6-graphql/__tests__/test.spec.ts",
+    "packages/cm6-graphql/__tests__/types.txt",
+    "packages/codemirror-graphql/src/__tests__",
+    "packages/codemirror-graphql/src/__tests__/hint.test.ts",
+    "packages/codemirror-graphql/src/__tests__/kitchen-sink.graphql",
+    "packages/codemirror-graphql/src/__tests__/lint.test.ts",
+    "packages/codemirror-graphql/src/__tests__/mode.test.ts",
+    "packages/codemirror-graphql/src/__tests__/schema-kitchen-sink.graphql"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/pr-graphql-compat-check.yml",
+    ".github/workflows/pr.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/update-cdn-example.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/graphiql-bug.yml",
+    ".github/ISSUE_TEMPLATE/graphiql-feature.md",
+    ".github/ISSUE_TEMPLATE/language-server-bug.yml",
+    ".github/ISSUE_TEMPLATE/language-server-feature.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

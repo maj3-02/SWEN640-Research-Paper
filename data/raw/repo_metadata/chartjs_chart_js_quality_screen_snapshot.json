@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "chartjs/Chart.js",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:18.777504+00:00",
+  "tree_sha": "ab79c3bfbdb45d5652c0e8c76a3c8e7ddd48b4bf",
+  "tree_truncated": false,
+  "tree_path_count": 1943,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/.eslintrc.yml",
+    "test/BasicChartWebWorker.js",
+    "test/fixtures",
+    "test/fixtures/controller.bar",
+    "test/fixtures/controller.bar/aligned-pixels.js",
+    "test/fixtures/controller.bar/aligned-pixels.png",
+    "test/fixtures/controller.bar/backgroundColor",
+    "test/fixtures/controller.bar/backgroundColor/indexable.js",
+    "test/fixtures/controller.bar/backgroundColor/indexable.png"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/compressed-size.yml",
+    ".github/workflows/deploy-docs.yml",
+    ".github/workflows/release-drafter.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/docs.yml",
+    ".github/ISSUE_TEMPLATE/feature.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "docs/developers/contributing.md"
+  ]
+}

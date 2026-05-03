@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "pbakaus/impeccable",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-26T23:03:22.261052+00:00",
+  "tree_sha": "25e6c820aab580526f8e9ffb3866b5a5b39c16c9",
+  "tree_truncated": false,
+  "tree_path_count": 1382,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/build.test.js",
+    "tests/cleanup-deprecated.test.mjs",
+    "tests/design-parser.test.mjs",
+    "tests/detect-antipatterns-browser.test.mjs",
+    "tests/detect-antipatterns-fixtures.test.mjs",
+    "tests/detect-antipatterns.test.js",
+    "tests/fixtures",
+    "tests/fixtures/antipatterns",
+    "tests/fixtures/antipatterns/color.html"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

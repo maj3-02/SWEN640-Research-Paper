@@ -1,0 +1,16 @@
+{
+  "repository_full_name": "alyssaxuu/screenity",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-26T23:03:35.923416+00:00",
+  "tree_sha": "284b43a2684479d6b2a0c2c2d527e2700a56fddc",
+  "tree_truncated": false,
+  "tree_path_count": 720,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CODE_OF_CONDUCT.md"
+  ]
+}

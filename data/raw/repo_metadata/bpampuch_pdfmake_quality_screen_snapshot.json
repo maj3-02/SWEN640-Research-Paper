@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "bpampuch/pdfmake",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:44.231216+00:00",
+  "tree_sha": "db68a45dba1c91b1fae9d63609acf5ca396f93f8",
+  "tree_truncated": false,
+  "tree_path_count": 209,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/browser",
+    "tests/browser/polyfills.spec.js",
+    "tests/integration",
+    "tests/integration/alignment.spec.js",
+    "tests/integration/background.spec.js",
+    "tests/integration/basics.spec.js",
+    "tests/integration/columns.spec.js",
+    "tests/integration/images.spec.js",
+    "tests/integration/integrationTestHelper.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/node.js.yml",
+    ".github/workflows/npm-publish.yml",
+    ".github/workflows/typos.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md"
+  ]
+}

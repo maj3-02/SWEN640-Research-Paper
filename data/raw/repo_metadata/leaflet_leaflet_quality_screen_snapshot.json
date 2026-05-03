@@ -1,0 +1,35 @@
+{
+  "repository_full_name": "Leaflet/Leaflet",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:26.844652+00:00",
+  "tree_sha": "5bfbbc369f8a75762b029dda11faf5da8dee76ff",
+  "tree_truncated": false,
+  "tree_path_count": 1137,
+  "has_tests": true,
+  "matched_test_paths": [
+    "debug/tests",
+    "debug/tests/add-remove-layers.html",
+    "debug/tests/canvas-loop.html",
+    "debug/tests/click-on-canvas.html",
+    "debug/tests/custom-panes.html",
+    "debug/tests/detached-dom-memory-leak.html",
+    "debug/tests/dist-amd.html",
+    "debug/tests/dist-esm.html",
+    "debug/tests/dist-global.html",
+    "debug/tests/dragging-and-copyworldjump.html"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/main.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/ISSUE_TEMPLATE/improve_documentation.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

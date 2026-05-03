@@ -1,0 +1,16 @@
+{
+  "repository_full_name": "nondanee/UnblockNeteaseMusic",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:07.557867+00:00",
+  "tree_sha": "b8d5f4b4fe59cef9c021b99f3cf2606d99fa4790",
+  "tree_truncated": false,
+  "tree_path_count": 52,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/publish.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

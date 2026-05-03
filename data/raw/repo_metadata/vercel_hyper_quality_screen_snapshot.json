@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "vercel/hyper",
+  "default_branch": "canary",
+  "fetched_at_utc": "2026-04-28T19:18:18.812350+00:00",
+  "tree_sha": "2a7bb18259d975f27b30b502af1be7576f6f5656",
+  "tree_truncated": false,
+  "tree_path_count": 202,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/index.ts",
+    "test/testUtils",
+    "test/testUtils/is-hex-color.ts",
+    "test/unit",
+    "test/unit/cli-api.test.ts",
+    "test/unit/to-electron-background-color.test.ts",
+    "test/unit/window-utils.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/e2e_comment.yml",
+    ".github/workflows/nodejs.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/pull_request_template.md"
+  ]
+}

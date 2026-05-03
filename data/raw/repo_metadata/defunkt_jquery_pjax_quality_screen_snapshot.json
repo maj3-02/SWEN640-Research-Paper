@@ -1,0 +1,29 @@
+{
+  "repository_full_name": "defunkt/jquery-pjax",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:10.070585+00:00",
+  "tree_sha": "153262eda33e31119eabb97cd5f14365580a3b35",
+  "tree_truncated": false,
+  "tree_path_count": 50,
+  "has_tests": true,
+  "matched_test_paths": [
+    "script/test",
+    "test",
+    "test/app.rb",
+    "test/evaled.js",
+    "test/favicon.ico",
+    "test/run-qunit.js",
+    "test/unit",
+    "test/unit/fn_pjax.js",
+    "test/unit/helpers.js",
+    "test/unit/pjax.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md"
+  ]
+}

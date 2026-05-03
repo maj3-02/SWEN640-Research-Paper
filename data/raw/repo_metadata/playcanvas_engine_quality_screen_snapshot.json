@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "playcanvas/engine",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:21.635398+00:00",
+  "tree_sha": "950bccc68b79352fad3bb4b899433837b48377ab",
+  "tree_truncated": false,
+  "tree_path_count": 2854,
+  "has_tests": true,
+  "matched_test_paths": [
+    "examples/src/examples/test",
+    "examples/src/examples/test/attenuation.example.mjs",
+    "examples/src/examples/test/contact-hardening-shadows.controls.mjs",
+    "examples/src/examples/test/contact-hardening-shadows.example.mjs",
+    "examples/src/examples/test/detail-map.controls.mjs",
+    "examples/src/examples/test/detail-map.example.mjs",
+    "examples/src/examples/test/global-shader-properties.controls.mjs",
+    "examples/src/examples/test/global-shader-properties.example.mjs",
+    "examples/src/examples/test/material-test.example.mjs",
+    "examples/src/examples/test/opacity.example.mjs"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/beta.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/publish.yml",
+    ".github/workflows/upload.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

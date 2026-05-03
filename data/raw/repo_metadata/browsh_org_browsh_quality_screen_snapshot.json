@@ -1,0 +1,30 @@
+{
+  "repository_full_name": "browsh-org/browsh",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-26T23:03:33.088824+00:00",
+  "tree_sha": "499ef386d45cd1e2b5457dd04887c017f77b7e27",
+  "tree_truncated": false,
+  "tree_path_count": 120,
+  "has_tests": true,
+  "matched_test_paths": [
+    "interfacer/test",
+    "interfacer/test/http-server",
+    "interfacer/test/http-server/server_test.go",
+    "interfacer/test/http-server/setup.go",
+    "interfacer/test/sites",
+    "interfacer/test/sites/smorgasbord",
+    "interfacer/test/sites/smorgasbord/another.html",
+    "interfacer/test/sites/smorgasbord/css",
+    "interfacer/test/sites/smorgasbord/css/main.css",
+    "interfacer/test/sites/smorgasbord/css/spinner.css"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/lint.yml",
+    ".github/workflows/main.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md"
+  ]
+}

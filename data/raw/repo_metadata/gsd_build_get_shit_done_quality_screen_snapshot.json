@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "gsd-build/get-shit-done",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:20.976465+00:00",
+  "tree_sha": "c0730fffde8b58b45b1eaf87d303a2bf0cbe7b93",
+  "tree_truncated": false,
+  "tree_path_count": 1043,
+  "has_tests": true,
+  "matched_test_paths": [
+    "docs/ja-JP/superpowers/specs",
+    "docs/ja-JP/superpowers/specs/2026-03-20-multi-project-workspaces-design.md",
+    "docs/ko-KR/superpowers/specs",
+    "docs/ko-KR/superpowers/specs/2026-03-20-multi-project-workspaces-design.md",
+    "docs/pt-BR/superpowers/specs",
+    "docs/pt-BR/superpowers/specs/2026-03-20-multi-project-workspaces-design.md",
+    "docs/superpowers/specs",
+    "docs/superpowers/specs/2026-04-17-ultraplan-phase-design.md",
+    "sdk/src/assembled-prompts.test.ts",
+    "sdk/src/cli-transport.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/auto-branch.yml",
+    ".github/workflows/auto-label-issues.yml",
+    ".github/workflows/branch-cleanup.yml",
+    ".github/workflows/branch-naming.yml",
+    ".github/workflows/close-draft-prs.yml",
+    ".github/workflows/hotfix.yml",
+    ".github/workflows/install-smoke.yml",
+    ".github/workflows/pr-gate.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/require-issue-link.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/chore.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/docs_issue.yml",
+    ".github/ISSUE_TEMPLATE/enhancement.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/PULL_REQUEST_TEMPLATE",
+    ".github/PULL_REQUEST_TEMPLATE/enhancement.md",
+    ".github/PULL_REQUEST_TEMPLATE/feature.md",
+    ".github/PULL_REQUEST_TEMPLATE/fix.md"
+  ]
+}

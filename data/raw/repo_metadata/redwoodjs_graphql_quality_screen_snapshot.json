@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "redwoodjs/graphql",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:35.474182+00:00",
+  "tree_sha": "a7852fb92d0e4ac2bcce1d9a755717ba6cf53ffd",
+  "tree_truncated": false,
+  "tree_path_count": 7409,
+  "has_tests": true,
+  "matched_test_paths": [
+    "__fixtures__/empty-project/api/src/directives/requireAuth/requireAuth.test.ts",
+    "__fixtures__/empty-project/api/src/directives/skipAuth/skipAuth.test.ts",
+    "__fixtures__/example-todo-main/api/src/directives/requireAuth/requireAuth.test.js",
+    "__fixtures__/example-todo-main/api/src/directives/skipAuth/skipAuth.test.js",
+    "__fixtures__/example-todo-main/api/src/functions/nested/nested.test.ts",
+    "__fixtures__/example-todo-main/api/src/services/todos/todos.test.js",
+    "__fixtures__/fragment-test-project/api/src/__tests__",
+    "__fixtures__/fragment-test-project/api/src/__tests__/context.test.ts",
+    "__fixtures__/fragment-test-project/api/src/directives/requireAuth/requireAuth.test.ts",
+    "__fixtures__/fragment-test-project/api/src/directives/skipAuth/skipAuth.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/check-changelog.yml.disabled",
+    ".github/workflows/check-create-redwood-app.yml.disabled",
+    ".github/workflows/check-test-project-fixture.yml.disabled",
+    ".github/workflows/ci.yml.disabled",
+    ".github/workflows/codeql-analysis.yml.disabled",
+    ".github/workflows/publish-canary.yml.disabled",
+    ".github/workflows/publish-release-candidate.yml.disabled",
+    ".github/workflows/require-milestone.yml.disabled",
+    ".github/workflows/require-release-label.yml.disabled",
+    ".github/workflows/scorecard.yml.disabled"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug-report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/documentation.yml",
+    ".github/ISSUE_TEMPLATE/rfc.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "docs/docs/security.md",
+    "docs/versioned_docs/version-1.x/security.md",
+    "docs/versioned_docs/version-2.x/security.md"
+  ]
+}

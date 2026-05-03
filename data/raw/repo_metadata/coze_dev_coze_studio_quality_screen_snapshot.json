@@ -1,0 +1,40 @@
+{
+  "repository_full_name": "coze-dev/coze-studio",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:18.467349+00:00",
+  "tree_sha": "22275b1c2661d35344a7493cffe401e8cc61cf8e",
+  "tree_truncated": false,
+  "tree_path_count": 20490,
+  "has_tests": true,
+  "matched_test_paths": [
+    "backend/domain/workflow/internal/compose/test",
+    "backend/domain/workflow/internal/compose/test/batch_test.go",
+    "backend/domain/workflow/internal/compose/test/loop_test.go",
+    "backend/domain/workflow/internal/compose/test/question_answer_test.go",
+    "backend/domain/workflow/internal/compose/test/workflow_test.go",
+    "common/_templates/component/__tests__",
+    "common/_templates/component/__tests__/.gitkeep",
+    "common/_templates/node-core/__tests__",
+    "common/_templates/node-core/__tests__/.gitkeep",
+    "common/_templates/rsbuild-web/__tests__"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/ci@backend.yml",
+    ".github/workflows/ci@main.yml",
+    ".github/workflows/claude.yml",
+    ".github/workflows/common-pr-checks.yml",
+    ".github/workflows/idl.yaml",
+    ".github/workflows/license-check.yaml",
+    ".github/workflows/semantic-pull-request.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

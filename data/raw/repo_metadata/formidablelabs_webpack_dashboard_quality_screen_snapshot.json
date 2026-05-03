@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "FormidableLabs/webpack-dashboard",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:26.710590+00:00",
+  "tree_sha": "9333a27e4b8f784fee13132df4f88e73aca3ca31",
+  "tree_truncated": false,
+  "tree_path_count": 99,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/.eslintrc.json",
+    "test/base.spec.js",
+    "test/bin",
+    "test/bin/webpack-dashboard.spec.js",
+    "test/dashboard",
+    "test/dashboard/index.spec.js",
+    "test/plugin",
+    "test/plugin/index.spec.js",
+    "test/setup.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

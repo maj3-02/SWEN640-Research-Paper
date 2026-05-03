@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "C4illin/ConvertX",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:41.239991+00:00",
+  "tree_sha": "0965928949319e2839770fbf57a8337440d42630",
+  "tree_truncated": false,
+  "tree_path_count": 135,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/converters",
+    "tests/converters/assimp.test.ts",
+    "tests/converters/calibre.test.ts",
+    "tests/converters/dasel.test.ts",
+    "tests/converters/dvisvgm.test.ts",
+    "tests/converters/ffmpeg.test.ts",
+    "tests/converters/graphicsmagick.test.ts",
+    "tests/converters/helpers",
+    "tests/converters/helpers/commonTests.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/bump-version.yml",
+    ".github/workflows/check-lint.yml",
+    ".github/workflows/conventional-label.yml",
+    ".github/workflows/docker-publish.yml",
+    ".github/workflows/dockerhub-description.yml",
+    ".github/workflows/remove-docker-tag.yml",
+    ".github/workflows/run-bun-test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/converter_request.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    "SECURITY.md"
+  ]
+}

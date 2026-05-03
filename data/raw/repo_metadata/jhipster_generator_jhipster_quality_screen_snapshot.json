@@ -1,0 +1,46 @@
+{
+  "repository_full_name": "jhipster/generator-jhipster",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:07.483850+00:00",
+  "tree_sha": "94004d6cbcc7c2b3cc38dcf78003b08bfbb8abb0",
+  "tree_truncated": false,
+  "tree_path_count": 5264,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".blueprint/generate-generator/templates/generator.spec.ts.ejs",
+    ".blueprint/generate-sample/__snapshots__/generator.spec.ts.snap",
+    ".blueprint/generate-sample/generator.spec.ts",
+    ".blueprint/github-build-matrix/__snapshots__/generator.spec.ts.snap",
+    ".blueprint/github-build-matrix/generator.spec.ts",
+    ".blueprint/github-build-matrix/support/__snapshots__/git-chages.spec.ts.snap",
+    ".blueprint/github-build-matrix/support/git-chages.spec.ts",
+    ".blueprint/update-generators/generator.spec.ts",
+    "cli/cli-jdl.spec.ts",
+    "cli/cli.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/angular.yml",
+    ".github/workflows/auto-merge.yml",
+    ".github/workflows/cache.yml",
+    ".github/workflows/copyright-update.yml",
+    ".github/workflows/depsreview.yml",
+    ".github/workflows/devserver.yml",
+    ".github/workflows/docker-compose-integration.yml",
+    ".github/workflows/docker-image-publish-github-registry.yml",
+    ".github/workflows/generator-database-changelog-liquibase.yml",
+    ".github/workflows/generator-generate-blueprint.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/BUG_REPORT.md",
+    ".github/ISSUE_TEMPLATE/BUG_REPORT_CUSTOM.md",
+    ".github/ISSUE_TEMPLATE/BUG_REPORT_JDL.md",
+    ".github/ISSUE_TEMPLATE/FEATURE_REQUEST.md",
+    ".github/ISSUE_TEMPLATE/SPONSOR_THE_PROJECT.md",
+    ".github/ISSUE_TEMPLATE/SUPPORT_QUESTION.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

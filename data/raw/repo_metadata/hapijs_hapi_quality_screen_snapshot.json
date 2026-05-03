@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "hapijs/hapi",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:21.846645+00:00",
+  "tree_sha": "b9b1ba909992e41b8d0b0d90b6a59a23cd26ce6a",
+  "tree_truncated": false,
+  "tree_path_count": 84,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/.hidden",
+    "test/auth.js",
+    "test/common.js",
+    "test/core.js",
+    "test/cors.js",
+    "test/file",
+    "test/file/image.jpg",
+    "test/file/image.png",
+    "test/file/image.png.gz"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci-module.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

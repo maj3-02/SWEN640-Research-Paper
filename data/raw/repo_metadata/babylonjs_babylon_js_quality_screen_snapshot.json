@@ -1,0 +1,35 @@
+{
+  "repository_full_name": "BabylonJS/Babylon.js",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:57.378752+00:00",
+  "tree_sha": "3d046b4a0cb67b507bf1ec36c181e9a01ea555ee",
+  "tree_truncated": false,
+  "tree_path_count": 8059,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/dev/addons/test",
+    "packages/dev/addons/test/unit",
+    "packages/dev/addons/test/unit/atmosphere",
+    "packages/dev/addons/test/unit/atmosphere/sampling.test.ts",
+    "packages/dev/core/test",
+    "packages/dev/core/test/unit",
+    "packages/dev/core/test/unit/Animations",
+    "packages/dev/core/test/unit/Animations/babylon.animation.test.ts",
+    "packages/dev/core/test/unit/Animations/babylon.animationGroup.test.ts",
+    "packages/dev/core/test/unit/Animations/babylon.runtimeAnimation.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/code-simplifier.lock.yml",
+    ".github/workflows/code-simplifier.md",
+    ".github/workflows/copilot-setup-steps.yml",
+    ".github/workflows/stale.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    "CODE_OF_CONDUCT.md",
+    "contributing.md"
+  ]
+}

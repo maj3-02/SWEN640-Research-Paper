@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "Dokploy/dokploy",
+  "default_branch": "canary",
+  "fetched_at_utc": "2026-04-28T19:18:33.780552+00:00",
+  "tree_sha": "fb6b06f064b7eaa8e08878d5cfdea50ec3d774fa",
+  "tree_truncated": false,
+  "tree_path_count": 1611,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/dokploy/__test__",
+    "apps/dokploy/__test__/cluster",
+    "apps/dokploy/__test__/cluster/upload.test.ts",
+    "apps/dokploy/__test__/compose",
+    "apps/dokploy/__test__/compose/compose.test.ts",
+    "apps/dokploy/__test__/compose/config",
+    "apps/dokploy/__test__/compose/config/config-root.test.ts",
+    "apps/dokploy/__test__/compose/config/config-service.test.ts",
+    "apps/dokploy/__test__/compose/config/config.test.ts",
+    "apps/dokploy/__test__/compose/domain"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/create-pr.yml",
+    ".github/workflows/deploy.yml",
+    ".github/workflows/dokploy.yml",
+    ".github/workflows/format.yml",
+    ".github/workflows/monitoring.yml",
+    ".github/workflows/pr-quality.yml",
+    ".github/workflows/pull-request.yml",
+    ".github/workflows/sync-openapi-docs.yml",
+    ".github/workflows/sync-version.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature-request.yml",
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

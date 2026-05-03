@@ -1,0 +1,22 @@
+{
+  "repository_full_name": "lyswhut/lx-music-mobile",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:41.658539+00:00",
+  "tree_sha": "cbb4b032eb2973fb9189c5d86c44fed24770239a",
+  "tree_truncated": false,
+  "tree_path_count": 946,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/beta-pack.yml",
+    ".github/workflows/build-test.yml",
+    ".github/workflows/publish-version-info.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug.yml",
+    ".github/ISSUE_TEMPLATE/feature.yml"
+  ]
+}

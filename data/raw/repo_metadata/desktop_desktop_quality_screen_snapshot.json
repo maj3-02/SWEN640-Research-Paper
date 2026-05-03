@@ -1,0 +1,41 @@
+{
+  "repository_full_name": "desktop/desktop",
+  "default_branch": "development",
+  "fetched_at_utc": "2026-04-28T19:19:14.324439+00:00",
+  "tree_sha": "81c2111af1741dec8ab57c251b918198d4ceb361",
+  "tree_truncated": false,
+  "tree_path_count": 3372,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".test.env",
+    "app/test",
+    "app/test/.eslintrc.yml",
+    "app/test/e2e",
+    "app/test/e2e/app-launch.e2e.ts",
+    "app/test/e2e/e2e-fixtures.ts",
+    "app/test/e2e/mock-update-server.ts",
+    "app/test/e2e/playwright.config.ts",
+    "app/test/e2e/test-helpers.ts",
+    "app/test/fake-stats-post.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/draft-release.yml",
+    ".github/workflows/release-pr.yml",
+    ".github/workflows/triage-issues.yml",
+    ".github/workflows/triage-prs.yml",
+    ".github/workflows/triage-scheduled-tasks.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.yaml",
+    ".github/ISSUE_TEMPLATE/feature_request.yaml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "SECURITY.md",
+    "app/test/fixtures/copy-detection-status/CONTRIBUTING.md"
+  ]
+}

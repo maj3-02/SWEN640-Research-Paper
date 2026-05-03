@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "foreversd/forever",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:28.855623+00:00",
+  "tree_sha": "2ba8489f8d53f823494035e58fa4184749917084",
+  "tree_truncated": false,
+  "tree_path_count": 57,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/cli-test",
+    "test/core",
+    "test/core/daemonic-inheritance-test.js",
+    "test/core/start-stop-json-array-test.js",
+    "test/core/start-stop-json-obj-test.js",
+    "test/core/start-stop-relative-test.js",
+    "test/core/stopall-peaceful-test.js",
+    "test/core/stopbypid-peaceful-test.js",
+    "test/core/tail-stopall-test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/config.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

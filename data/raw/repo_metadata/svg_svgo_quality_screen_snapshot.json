@@ -1,0 +1,37 @@
+{
+  "repository_full_name": "svg/svgo",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-26T23:03:20.754947+00:00",
+  "tree_sha": "581fe687825740e425012bbdf6491ee4bbc9dc65",
+  "tree_truncated": false,
+  "tree_path_count": 642,
+  "has_tests": true,
+  "matched_test_paths": [
+    "lib/parser.test.js",
+    "lib/path.test.js",
+    "lib/style.test.js",
+    "lib/svgo-node.test.js",
+    "lib/svgo.test.js",
+    "lib/xast.test.js",
+    "test",
+    "test/browser.js",
+    "test/cli",
+    "test/cli/cli.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/publish.yml",
+    ".github/workflows/regression.yml",
+    ".github/workflows/test-report.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/ISSUE_TEMPLATE/plugin_request.md",
+    "CONTRIBUTING.md"
+  ]
+}

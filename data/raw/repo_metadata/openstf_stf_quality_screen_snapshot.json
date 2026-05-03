@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "openstf/stf",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:28.131380+00:00",
+  "tree_sha": "2b9649009722794dee9efd32b71bccbcbfe9d794",
+  "tree_truncated": false,
+  "tree_path_count": 1201,
+  "has_tests": true,
+  "matched_test_paths": [
+    "res/app/components/stf/screen/fast-image-render/test",
+    "res/app/components/stf/screen/fast-image-render/test/images",
+    "res/app/components/stf/screen/fast-image-render/test/images/screen.dds",
+    "res/app/components/stf/screen/fast-image-render/test/images/screen.dds.gz",
+    "res/app/components/stf/screen/fast-image-render/test/images/screen.jpg",
+    "res/app/components/stf/screen/fast-image-render/test/images/screen.png",
+    "res/app/components/stf/screen/fast-image-render/test/images/screen.webp",
+    "res/app/components/stf/screen/fast-image-render/test/images/texture24.crn",
+    "res/app/components/stf/screen/fast-image-render/test/index.html",
+    "res/app/components/stf/screen/fast-image-render/test/performance_test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug-report-or-feature-request.md",
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    "CONTRIBUTING.md"
+  ]
+}

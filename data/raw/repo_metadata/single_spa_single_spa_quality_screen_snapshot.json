@@ -1,0 +1,32 @@
+{
+  "repository_full_name": "single-spa/single-spa",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:28.351665+00:00",
+  "tree_sha": "297483c11265050542d7ef107d14c44936c51883",
+  "tree_truncated": false,
+  "tree_path_count": 211,
+  "has_tests": true,
+  "matched_test_paths": [
+    "node-spec/nodejs.spec.js",
+    "spec",
+    "spec/apis",
+    "spec/apis/app-names.spec.js",
+    "spec/apis/check-activity-functions.spec.js",
+    "spec/apis/delayed-start-popstate.spec.js",
+    "spec/apis/error-handlers.spec.js",
+    "spec/apis/event-listeners.spec.js",
+    "spec/apis/first-mount.spec.js",
+    "spec/apis/multiple-instances.spec.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-and-test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bugs-or-questions.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

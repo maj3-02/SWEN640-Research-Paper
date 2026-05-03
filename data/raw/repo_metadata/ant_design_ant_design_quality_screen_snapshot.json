@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "ant-design/ant-design",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:56.053894+00:00",
+  "tree_sha": "edfae38d8d8064d4245f555074a140ba0d67f628",
+  "tree_truncated": false,
+  "tree_path_count": 5312,
+  "has_tests": true,
+  "matched_test_paths": [
+    "components/__tests__",
+    "components/__tests__/17.test.ts",
+    "components/__tests__/__snapshots__",
+    "components/__tests__/__snapshots__/index.test.ts.snap",
+    "components/__tests__/__snapshots__/setup.test.tsx.snap",
+    "components/__tests__/blog.test.ts",
+    "components/__tests__/index.test.ts",
+    "components/__tests__/node.test.tsx",
+    "components/__tests__/setup.test.tsx",
+    "components/_util/__tests__"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/discussion-open-check.yml",
+    ".github/workflows/issue-check-inactive.yml",
+    ".github/workflows/issue-close-require.yml",
+    ".github/workflows/issue-inactivity-reminder.yml",
+    ".github/workflows/issue-labeled.yml",
+    ".github/workflows/issue-open-check.yml",
+    ".github/workflows/issue-remove-inactive.yml",
+    ".github/workflows/issue-schedule.yml",
+    ".github/workflows/mock-project-build.yml",
+    ".github/workflows/pkg.pr.new.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    ".github/PULL_REQUEST_TEMPLATE_CN.md",
+    "CODE_OF_CONDUCT.md",
+    "SECURITY.md"
+  ]
+}

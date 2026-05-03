@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "homebridge/homebridge",
+  "default_branch": "latest",
+  "fetched_at_utc": "2026-04-28T19:18:57.567416+00:00",
+  "tree_sha": "7df9f1bfe577615a31e6baa2542ddc3a72f2e07f",
+  "tree_truncated": false,
+  "tree_path_count": 106,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/api.spec.ts",
+    "src/logger.spec.ts",
+    "src/platformAccessory.spec.ts",
+    "src/pluginManager.spec.ts",
+    "src/server.spec.ts",
+    "src/user.spec.ts",
+    "src/util/mac.spec.ts",
+    "src/version.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build.yml",
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/labeler.yml",
+    ".github/workflows/release-drafter.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/stale.yml",
+    ".github/workflows/wiki-change-notification.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "rabbitmq/rabbitmq-server",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:30.567063+00:00",
+  "tree_sha": "6072dbdedd4ba539ce0b7117f12da4a46dddfb50",
+  "tree_truncated": false,
+  "tree_path_count": 4077,
+  "has_tests": true,
+  "matched_test_paths": [
+    "deps/amqp10_client/test",
+    "deps/amqp10_client/test/activemq_ct_helpers.erl",
+    "deps/amqp10_client/test/mock_server.erl",
+    "deps/amqp10_client/test/msg_SUITE.erl",
+    "deps/amqp10_client/test/system_SUITE.erl",
+    "deps/amqp10_client/test/system_SUITE_data",
+    "deps/amqp10_client/test/system_SUITE_data/conf",
+    "deps/amqp10_client/test/system_SUITE_data/conf/activemq.xml",
+    "deps/amqp10_client/test/system_SUITE_data/conf/activemq_no_anon.xml",
+    "deps/amqp10_common/test"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/authorization-server-make.yaml",
+    ".github/workflows/ibm-mq-make.yaml",
+    ".github/workflows/oci-make-nightly.yaml",
+    ".github/workflows/oci-make.yaml",
+    ".github/workflows/peer-discovery-aws.yaml",
+    ".github/workflows/release-4.1.x-alphas.yaml",
+    ".github/workflows/release-4.2.x-alphas.yaml",
+    ".github/workflows/release-4.3.x-alphas.yaml",
+    ".github/workflows/release-4.4.x-alphas.yaml",
+    ".github/workflows/test-authnz.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    ".github/SECURITY.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "deps/amqp10_client/CODE_OF_CONDUCT.md",
+    "deps/amqp10_client/CONTRIBUTING.md",
+    "deps/amqp10_common/CODE_OF_CONDUCT.md",
+    "deps/amqp10_common/CONTRIBUTING.md",
+    "deps/amqp_client/CODE_OF_CONDUCT.md",
+    "deps/amqp_client/CONTRIBUTING.md"
+  ]
+}

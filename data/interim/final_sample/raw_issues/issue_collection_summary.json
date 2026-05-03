@@ -1,8 +1,8 @@
 {
   "collection_type": "issues",
-  "sample_file": "data\\interim\\final_sample\\final_sample.csv",
+  "sample_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\final_sample.csv",
   "sample_run_type": "final_study",
-  "output_dir": "data\\interim\\final_sample\\raw_issues",
+  "output_dir": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues",
   "study_window_start": "2024-01-01",
   "study_window_end": "2025-12-31",
   "pagination_mode": "graphql_cursor",
@@ -17,11 +17,11 @@
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "149",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "129",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "60",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -37,18 +37,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 168,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\sillytavern_sillytavern_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\sillytavern_sillytavern_issues_raw.json"
     },
     {
       "repository_full_name": "fanmingming/live",
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "133",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "115",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "52",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -64,18 +64,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 8,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\fanmingming_live_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\fanmingming_live_issues_raw.json"
     },
     {
       "repository_full_name": "automatisch/automatisch",
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "357",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "298",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "111",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -91,18 +91,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 5,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\automatisch_automatisch_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\automatisch_automatisch_issues_raw.json"
     },
     {
       "repository_full_name": "openlayers/openlayers",
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "423",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "353",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "124",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -118,18 +118,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 101,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\openlayers_openlayers_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\openlayers_openlayers_issues_raw.json"
     },
     {
       "repository_full_name": "playcanvas/engine",
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "318",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "267",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "102",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -145,18 +145,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 724,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\playcanvas_engine_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\playcanvas_engine_issues_raw.json"
     },
     {
       "repository_full_name": "eslint/eslint",
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "141",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "121",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "55",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -172,18 +172,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 321,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\eslint_eslint_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\eslint_eslint_issues_raw.json"
     },
     {
       "repository_full_name": "phaserjs/phaser",
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "74",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "64",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "29",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -199,18 +199,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 4098,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\phaserjs_phaser_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\phaserjs_phaser_issues_raw.json"
     },
     {
       "repository_full_name": "gethomepage/homepage",
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "113",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "98",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "47",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -226,18 +226,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 569,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\gethomepage_homepage_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\gethomepage_homepage_issues_raw.json"
     },
     {
       "repository_full_name": "drawdb-io/drawdb",
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "82",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "72",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "32",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -253,18 +253,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 16,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\drawdb_io_drawdb_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\drawdb_io_drawdb_issues_raw.json"
     },
     {
       "repository_full_name": "wanglin2/mind-map",
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "441",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "366",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "129",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -280,18 +280,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 27,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\wanglin2_mind_map_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\wanglin2_mind_map_issues_raw.json"
     },
     {
       "repository_full_name": "philc/vimium",
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "151",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "131",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "62",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -307,18 +307,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 436,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\philc_vimium_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\philc_vimium_issues_raw.json"
     },
     {
       "repository_full_name": "parcel-bundler/parcel",
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "62",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "53",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "23",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -334,18 +334,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 133,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\parcel_bundler_parcel_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\parcel_bundler_parcel_issues_raw.json"
     },
     {
       "repository_full_name": "spicetify/cli",
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "194",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "169",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "71",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -361,18 +361,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 159,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\spicetify_cli_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\spicetify_cli_issues_raw.json"
     },
     {
       "repository_full_name": "sweetalert2/sweetalert2",
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "231",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "200",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "77",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -388,18 +388,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 39,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\sweetalert2_sweetalert2_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\sweetalert2_sweetalert2_issues_raw.json"
     },
     {
       "repository_full_name": "lovell/sharp",
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "102",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "89",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "43",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -415,18 +415,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 136,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\lovell_sharp_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\lovell_sharp_issues_raw.json"
     },
     {
       "repository_full_name": "sudheerj/javascript-interview-questions",
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "138",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "119",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "54",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -442,18 +442,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 0,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\sudheerj_javascript_interview_questions_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\sudheerj_javascript_interview_questions_issues_raw.json"
     },
     {
       "repository_full_name": "expressjs/express",
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "19",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "18",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "5",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -469,18 +469,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 73,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\expressjs_express_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\expressjs_express_issues_raw.json"
     },
     {
       "repository_full_name": "codesandbox/codesandbox-client",
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "365",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "305",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "114",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -496,18 +496,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 44,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\codesandbox_codesandbox_client_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\codesandbox_codesandbox_client_issues_raw.json"
     },
     {
       "repository_full_name": "novnc/noVNC",
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "361",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "302",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "113",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -523,18 +523,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 27,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\novnc_novnc_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\novnc_novnc_issues_raw.json"
     },
     {
       "repository_full_name": "riot/riot",
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "313",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "263",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "99",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -550,18 +550,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 6,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\riot_riot_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\riot_riot_issues_raw.json"
     },
     {
       "repository_full_name": "be5invis/Sarasa-Gothic",
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "437",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "364",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "128",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -577,18 +577,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 15,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\be5invis_sarasa_gothic_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\be5invis_sarasa_gothic_issues_raw.json"
     },
     {
       "repository_full_name": "browserslist/browserslist",
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "369",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "307",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "115",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -604,18 +604,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 11,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\browserslist_browserslist_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\browserslist_browserslist_issues_raw.json"
     },
     {
       "repository_full_name": "leonardomso/33-js-concepts",
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "22",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "21",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "8",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -631,18 +631,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 36,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\leonardomso_33_js_concepts_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\leonardomso_33_js_concepts_issues_raw.json"
     },
     {
       "repository_full_name": "JedWatson/classnames",
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "238",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "207",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "79",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -658,18 +658,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 2,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\jedwatson_classnames_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\jedwatson_classnames_issues_raw.json"
     },
     {
       "repository_full_name": "mjmlio/mjml",
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "232",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "201",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "78",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -685,18 +685,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 64,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\mjmlio_mjml_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\mjmlio_mjml_issues_raw.json"
     },
     {
       "repository_full_name": "iamkun/dayjs",
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "47",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "40",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "16",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -712,18 +712,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 51,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\iamkun_dayjs_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\iamkun_dayjs_issues_raw.json"
     },
     {
       "repository_full_name": "chartjs/Chart.js",
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "21",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "20",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "7",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -739,18 +739,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 101,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\chartjs_chart_js_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\chartjs_chart_js_issues_raw.json"
     },
     {
       "repository_full_name": "mayswind/AriaNg",
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "394",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "329",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "119",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -766,18 +766,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 11,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\mayswind_ariang_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\mayswind_ariang_issues_raw.json"
     },
     {
       "repository_full_name": "h5bp/html5-boilerplate",
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "34",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "30",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "13",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -793,18 +793,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 6,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\h5bp_html5_boilerplate_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\h5bp_html5_boilerplate_issues_raw.json"
     },
     {
       "repository_full_name": "mishoo/UglifyJS",
       "language_group": "JavaScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\javascript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\javascript_candidates_raw.json",
         "source_record_index": "377",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\javascript_candidates_filtered.csv",
         "enrichment_input_record_index": "314",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "116",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -820,18 +820,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 5,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\mishoo_uglifyjs_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\mishoo_uglifyjs_issues_raw.json"
     },
     {
       "repository_full_name": "microsoft/vscode",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "5",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "6",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "134",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -847,18 +847,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 18476,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\microsoft_vscode_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\microsoft_vscode_issues_raw.json"
     },
     {
       "repository_full_name": "remotion-dev/remotion",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "80",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "81",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "177",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -874,18 +874,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 313,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\remotion_dev_remotion_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\remotion_dev_remotion_issues_raw.json"
     },
     {
       "repository_full_name": "cline/cline",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "48",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "49",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "157",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -901,18 +901,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 836,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\cline_cline_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\cline_cline_issues_raw.json"
     },
     {
       "repository_full_name": "ant-design/ant-design",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "19",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "20",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "140",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -928,18 +928,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 1144,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\ant_design_ant_design_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\ant_design_ant_design_issues_raw.json"
     },
     {
       "repository_full_name": "streetwriters/notesnook",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "499",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "481",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "438",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -955,18 +955,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 1704,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\streetwriters_notesnook_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\streetwriters_notesnook_issues_raw.json"
     },
     {
       "repository_full_name": "QwenLM/qwen-code",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "249",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "245",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "288",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -982,18 +982,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 882,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\qwenlm_qwen_code_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\qwenlm_qwen_code_issues_raw.json"
     },
     {
       "repository_full_name": "voideditor/void",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "186",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "183",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "251",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -1009,18 +1009,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 3,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\voideditor_void_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\voideditor_void_issues_raw.json"
     },
     {
       "repository_full_name": "teambit/bit",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "364",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "354",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "363",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -1036,18 +1036,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 17,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\teambit_bit_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\teambit_bit_issues_raw.json"
     },
     {
       "repository_full_name": "xyflow/xyflow",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "124",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "124",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "213",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -1063,18 +1063,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 134,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\xyflow_xyflow_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\xyflow_xyflow_issues_raw.json"
     },
     {
       "repository_full_name": "motiondivision/motion",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "158",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "156",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "233",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -1090,18 +1090,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 245,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\motiondivision_motion_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\motiondivision_motion_issues_raw.json"
     },
     {
       "repository_full_name": "puppeteer/puppeteer",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "21",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "22",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "142",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -1117,18 +1117,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 461,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\puppeteer_puppeteer_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\puppeteer_puppeteer_issues_raw.json"
     },
     {
       "repository_full_name": "xtermjs/xterm.js",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "314",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "308",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "326",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -1144,18 +1144,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 119,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\xtermjs_xterm_js_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\xtermjs_xterm_js_issues_raw.json"
     },
     {
       "repository_full_name": "thedotmack/claude-mem",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "41",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "42",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "152",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -1171,18 +1171,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 912,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\thedotmack_claude_mem_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\thedotmack_claude_mem_issues_raw.json"
     },
     {
       "repository_full_name": "lucide-icons/lucide",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "276",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "271",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "301",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -1198,18 +1198,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 105,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\lucide_icons_lucide_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\lucide_icons_lucide_issues_raw.json"
     },
     {
       "repository_full_name": "tinymce/tinymce",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "425",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "410",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "394",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -1225,18 +1225,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 91,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\tinymce_tinymce_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\tinymce_tinymce_issues_raw.json"
     },
     {
       "repository_full_name": "czlonkowski/n8n-mcp",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "351",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "342",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "353",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -1252,18 +1252,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 107,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\czlonkowski_n8n_mcp_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\czlonkowski_n8n_mcp_issues_raw.json"
     },
     {
       "repository_full_name": "visgl/deck.gl",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "493",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "475",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "435",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -1279,18 +1279,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 119,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\visgl_deck_gl_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\visgl_deck_gl_issues_raw.json"
     },
     {
       "repository_full_name": "DayuanJiang/next-ai-draw-io",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "194",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "191",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "256",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -1306,18 +1306,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 70,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\dayuanjiang_next_ai_draw_io_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\dayuanjiang_next_ai_draw_io_issues_raw.json"
     },
     {
       "repository_full_name": "radix-ui/primitives",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "353",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "344",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "355",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -1333,18 +1333,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 83,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\radix_ui_primitives_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\radix_ui_primitives_issues_raw.json"
     },
     {
       "repository_full_name": "coze-dev/coze-studio",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "309",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "303",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "322",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -1360,18 +1360,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 16,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\coze_dev_coze_studio_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\coze_dev_coze_studio_issues_raw.json"
     },
     {
       "repository_full_name": "pmndrs/react-three-fiber",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "170",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "168",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "242",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -1387,18 +1387,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 80,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\pmndrs_react_three_fiber_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\pmndrs_react_three_fiber_issues_raw.json"
     },
     {
       "repository_full_name": "Eugeny/tabby",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "40",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "41",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "151",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -1414,18 +1414,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 145,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\eugeny_tabby_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\eugeny_tabby_issues_raw.json"
     },
     {
       "repository_full_name": "mckaywrigley/chatbot-ui",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "144",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "142",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "227",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -1441,18 +1441,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 2,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\mckaywrigley_chatbot_ui_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\mckaywrigley_chatbot_ui_issues_raw.json"
     },
     {
       "repository_full_name": "GLips/Figma-Context-MCP",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "478",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "460",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "425",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -1468,18 +1468,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 40,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\glips_figma_context_mcp_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\glips_figma_context_mcp_issues_raw.json"
     },
     {
       "repository_full_name": "aidenybai/million",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "387",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "376",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "374",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -1495,18 +1495,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 9,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\aidenybai_million_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\aidenybai_million_issues_raw.json"
     },
     {
       "repository_full_name": "bvaughn/react-window",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "395",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "384",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "379",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -1522,18 +1522,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 31,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\bvaughn_react_window_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\bvaughn_react_window_issues_raw.json"
     },
     {
       "repository_full_name": "virattt/dexter",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "293",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "287",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "310",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -1549,18 +1549,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 32,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\virattt_dexter_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\virattt_dexter_issues_raw.json"
     },
     {
       "repository_full_name": "KeygraphHQ/shannon",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "101",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "102",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "196",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -1576,18 +1576,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 88,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\keygraphhq_shannon_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\keygraphhq_shannon_issues_raw.json"
     },
     {
       "repository_full_name": "graphql/graphql-js",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "316",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "310",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "327",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -1603,18 +1603,18 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 23,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\graphql_graphql_js_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\graphql_graphql_js_issues_raw.json"
     },
     {
       "repository_full_name": "redis/ioredis",
       "language_group": "TypeScript",
       "sample_run_type": "final_study",
       "sample_row_trace": {
-        "source_file": "data\\raw\\candidate_repos\\typescript_candidates_raw.json",
+        "source_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\raw\\candidate_repos\\typescript_candidates_raw.json",
         "source_record_index": "448",
-        "enrichment_input_file": "data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
+        "enrichment_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\quality_screened_candidates\\typescript_candidates_filtered.csv",
         "enrichment_input_record_index": "432",
-        "final_sampling_input_file": "data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
+        "final_sampling_input_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_candidate_screen\\final_eligible_candidate_pool.csv",
         "final_sampling_input_record_index": "407",
         "final_sampling_stage": "final_study_sampling",
         "final_sampling_role": "final_sample",
@@ -1630,7 +1630,7 @@
       "excluded_pull_request_count": 0,
       "missing_closed_at_count": 0,
       "outside_window_count": 101,
-      "output_file": "data\\interim\\final_sample\\raw_issues\\redis_ioredis_issues_raw.json"
+      "output_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_issues\\redis_ioredis_issues_raw.json"
     }
   ],
   "failures": []

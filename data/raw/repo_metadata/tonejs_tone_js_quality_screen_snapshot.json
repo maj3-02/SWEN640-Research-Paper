@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "Tonejs/Tone.js",
+  "default_branch": "dev",
+  "fetched_at_utc": "2026-04-28T19:19:56.914000+00:00",
+  "tree_sha": "03569e2a54c2a8c129e50c57f68875ca5ef87ef2",
+  "tree_truncated": false,
+  "tree_path_count": 541,
+  "has_tests": true,
+  "matched_test_paths": [
+    "Tone/component/analysis/Analyser.test.ts",
+    "Tone/component/analysis/DCMeter.test.ts",
+    "Tone/component/analysis/FFT.test.ts",
+    "Tone/component/analysis/Follower.test.ts",
+    "Tone/component/analysis/Meter.test.ts",
+    "Tone/component/analysis/Waveform.test.ts",
+    "Tone/component/channel/Channel.test.ts",
+    "Tone/component/channel/CrossFade.test.ts",
+    "Tone/component/channel/Merge.test.ts",
+    "Tone/component/channel/MidSideMerge.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/stale.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "repository_full_name": "linshenkx/prompt-optimizer",
+  "default_branch": "develop",
+  "fetched_at_utc": "2026-04-28T19:18:49.695672+00:00",
+  "tree_sha": "3824b64609984a7e19136c534a7a7462a1b2affe",
+  "tree_truncated": false,
+  "tree_path_count": 2057,
+  "has_tests": true,
+  "matched_test_paths": [
+    "docs/superpowers/specs",
+    "docs/superpowers/specs/2026-03-31-reference-image-dialog-redesign-design.md",
+    "packages/core/tests",
+    "packages/core/tests/fixtures",
+    "packages/core/tests/fixtures/README.md",
+    "packages/core/tests/fixtures/evaluation-rendered",
+    "packages/core/tests/fixtures/evaluation-rendered/basic-user-compare.md",
+    "packages/core/tests/fixtures/evaluation-rendered/basic-user-prompt-only.md",
+    "packages/core/tests/fixtures/evaluation-rendered/basic-user-result.md",
+    "packages/core/tests/fixtures/evaluation-rendered/pro-multi-compare.md"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/docker.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "mkdocs/docs/en/help/support.md",
+    "mkdocs/docs/zh/help/support.md"
+  ]
+}

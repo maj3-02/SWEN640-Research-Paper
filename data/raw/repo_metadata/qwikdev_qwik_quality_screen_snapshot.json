@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "QwikDev/qwik",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:10.855535+00:00",
+  "tree_sha": "0a3ca0edebb6e0479ab07626d1e0704a21e4283b",
+  "tree_truncated": false,
+  "tree_path_count": 3885,
+  "has_tests": true,
+  "matched_test_paths": [
+    "e2e",
+    "e2e/adapters-e2e",
+    "e2e/adapters-e2e/.gitignore",
+    "e2e/adapters-e2e/adapters",
+    "e2e/adapters-e2e/adapters/express",
+    "e2e/adapters-e2e/adapters/express/vite.config.ts",
+    "e2e/adapters-e2e/package.json",
+    "e2e/adapters-e2e/playwright.config.ts",
+    "e2e/adapters-e2e/src",
+    "e2e/adapters-e2e/src/components"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ai-issue-triage.yml",
+    ".github/workflows/auto-assign-core-team.yml",
+    ".github/workflows/bench.yml.disabled",
+    ".github/workflows/ci.yml",
+    ".github/workflows/closing-issues.yml",
+    ".github/workflows/deploy-docs.yml",
+    ".github/workflows/labeling-issues.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug.yaml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/docs_suggestion.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "GOVERNANCE.md",
+    "SECURITY.md"
+  ]
+}

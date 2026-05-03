@@ -1,0 +1,29 @@
+{
+  "repository_full_name": "copy/v86",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-26T23:03:19.987422+00:00",
+  "tree_sha": "452df77fc53fb82491da1c34c3a17dbb7c45a5c6",
+  "tree_truncated": false,
+  "tree_path_count": 600,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/Readme.md",
+    "tests/api",
+    "tests/api/2g-mem.js",
+    "tests/api/cdrom-insert-eject.js",
+    "tests/api/clean-shutdown.js",
+    "tests/api/floppy.js",
+    "tests/api/pic.js",
+    "tests/api/reboot.js",
+    "tests/api/reset.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/issue.md"
+  ]
+}

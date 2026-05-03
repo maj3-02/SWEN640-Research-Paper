@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "tailwindlabs/headlessui",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:46.563217+00:00",
+  "tree_sha": "eea57cf46fd6767ed1059012f7073b88eb159fba",
+  "tree_truncated": false,
+  "tree_path_count": 644,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/@headlessui-react/src/components/button/button.test.tsx",
+    "packages/@headlessui-react/src/components/checkbox/checkbox.test.tsx",
+    "packages/@headlessui-react/src/components/combobox/combobox.test.tsx",
+    "packages/@headlessui-react/src/components/data-interactive/data-interactive.test.tsx",
+    "packages/@headlessui-react/src/components/description/__snapshots__/description.test.tsx.snap",
+    "packages/@headlessui-react/src/components/description/description.test.tsx",
+    "packages/@headlessui-react/src/components/dialog/dialog.test.tsx",
+    "packages/@headlessui-react/src/components/disclosure/disclosure.test.tsx",
+    "packages/@headlessui-react/src/components/field/field.test.tsx",
+    "packages/@headlessui-react/src/components/fieldset/fieldset.test.tsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/main.yml",
+    ".github/workflows/prepare-release.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug-report.md",
+    ".github/ISSUE_TEMPLATE/config.yml"
+  ]
+}

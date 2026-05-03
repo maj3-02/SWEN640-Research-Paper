@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "coleam00/Archon",
+  "default_branch": "dev",
+  "fetched_at_utc": "2026-04-28T19:19:21.833669+00:00",
+  "tree_sha": "7d0677380960c53f179fbda449665d264c201ec9",
+  "tree_truncated": false,
+  "tree_path_count": 980,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/adapters/src/chat/slack/adapter.test.ts",
+    "packages/adapters/src/chat/slack/auth.test.ts",
+    "packages/adapters/src/chat/telegram/adapter.test.ts",
+    "packages/adapters/src/chat/telegram/auth.test.ts",
+    "packages/adapters/src/chat/telegram/markdown.test.ts",
+    "packages/adapters/src/community/chat/discord/adapter.test.ts",
+    "packages/adapters/src/community/chat/discord/auth.test.ts",
+    "packages/adapters/src/community/forge/gitea/adapter.test.ts",
+    "packages/adapters/src/community/forge/gitlab/adapter.test.ts",
+    "packages/adapters/src/community/forge/gitlab/auth.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/deploy-docs.yml",
+    ".github/workflows/e2e-smoke.yml",
+    ".github/workflows/publish.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "packages/docs-web/src/content/docs/reference/security.md"
+  ]
+}

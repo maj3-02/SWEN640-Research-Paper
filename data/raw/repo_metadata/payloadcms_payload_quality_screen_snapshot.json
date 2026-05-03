@@ -1,0 +1,44 @@
+{
+  "repository_full_name": "payloadcms/payload",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:23.066017+00:00",
+  "tree_sha": "e5673d0c6c09e632bb11d0c766475c788dbd9a77",
+  "tree_truncated": false,
+  "tree_path_count": 10805,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".github/actions/release-commenter/src/__snapshots__/index.test.ts.snap",
+    ".github/actions/release-commenter/src/index.test.ts",
+    "app/(app)/test",
+    "app/(app)/test/page.tsx",
+    "packages/codemod/src/cli.parseFlags.test.ts",
+    "packages/codemod/src/runner.test.ts",
+    "packages/codemod/src/transforms/example-noop/index.test.ts",
+    "packages/create-payload-app/src/ast-integration.spec.ts",
+    "packages/create-payload-app/src/lib/ast/package-json.spec.ts",
+    "packages/create-payload-app/src/lib/ast/payload-config.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/activity-notifications.yml",
+    ".github/workflows/audit-dependencies.sh",
+    ".github/workflows/audit-dependencies.yml",
+    ".github/workflows/dispatch-event.yml",
+    ".github/workflows/e2e.config.ts",
+    ".github/workflows/int.config.ts",
+    ".github/workflows/label-on-change.yml",
+    ".github/workflows/lock-issues.yml",
+    ".github/workflows/main.yml",
+    ".github/workflows/notify-next-canary.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1.bug_report_v3.yml",
+    ".github/ISSUE_TEMPLATE/2.design_issue.yml",
+    ".github/ISSUE_TEMPLATE/DOCUMENTATION_ISSUE.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

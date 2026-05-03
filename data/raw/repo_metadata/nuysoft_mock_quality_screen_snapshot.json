@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "nuysoft/Mock",
+  "default_branch": "refactoring",
+  "fetched_at_utc": "2026-04-26T23:03:30.271414+00:00",
+  "tree_sha": "00ce04b92eb464e664a4438430903f2de96efb47",
+  "tree_truncated": false,
+  "tree_path_count": 71,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/bower.json",
+    "test/materiels",
+    "test/materiels/noop.html",
+    "test/materiels/noop.js",
+    "test/package.json",
+    "test/test.coveralls.js",
+    "test/test.mock.html",
+    "test/test.mock.mock.js",
+    "test/test.mock.random.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "websockets/ws",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:57.398398+00:00",
+  "tree_sha": "843925544e2f4cffe445e0179947f56d6c5b608f",
+  "tree_truncated": false,
+  "tree_path_count": 77,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/autobahn-server.js",
+    "test/autobahn.js",
+    "test/buffer-util.test.js",
+    "test/create-websocket-stream.test.js",
+    "test/duplex-pair.js",
+    "test/event-target.test.js",
+    "test/extension.test.js",
+    "test/fixtures",
+    "test/fixtures/ca-certificate.pem"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    "SECURITY.md"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "mermaid-js/mermaid",
+  "default_branch": "develop",
+  "fetched_at_utc": "2026-04-28T19:17:57.225187+00:00",
+  "tree_sha": "df032c942c32f805a7f4cd1cf30a565e610bc4f1",
+  "tree_truncated": false,
+  "tree_path_count": 1559,
+  "has_tests": true,
+  "matched_test_paths": [
+    "cypress",
+    "cypress/.eslintrc.json",
+    "cypress/fixtures",
+    "cypress/fixtures/example.json",
+    "cypress/helpers",
+    "cypress/helpers/util.ts",
+    "cypress/integration",
+    "cypress/integration/other",
+    "cypress/integration/other/configuration.spec.js",
+    "cypress/integration/other/external-diagrams.spec.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/autofix.yml",
+    ".github/workflows/build-docs.yml",
+    ".github/workflows/check-readme-in-sync.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/dependency-review.yml",
+    ".github/workflows/e2e-applitools.yml",
+    ".github/workflows/e2e-timings.yml",
+    ".github/workflows/e2e.yml",
+    ".github/workflows/issue-triage.yml",
+    ".github/workflows/link-checker.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/diagram_proposal.yml",
+    ".github/ISSUE_TEMPLATE/syntax_proposal.yml",
+    ".github/ISSUE_TEMPLATE/theme_proposal.yml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "docs/community/contributing.md",
+    "docs/community/security.md"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "repository_full_name": "4ian/GDevelop",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-26T23:03:21.075922+00:00",
+  "tree_sha": "e6b8b2f86f6b9b0c7f7fb5b6896cb8c1fb5fe919",
+  "tree_truncated": false,
+  "tree_path_count": 6944,
+  "has_tests": true,
+  "matched_test_paths": [
+    "Core/tests",
+    "Core/tests/AbstractFileSystem.cpp",
+    "Core/tests/ArbitraryResourceWorker.cpp",
+    "Core/tests/BehaviorSerialization.cpp",
+    "Core/tests/Common.cpp",
+    "Core/tests/DependenciesAnalyzer.cpp",
+    "Core/tests/DummyPlatform.cpp",
+    "Core/tests/DummyPlatform.h",
+    "Core/tests/Events.cpp",
+    "Core/tests/EventsBasedObjectVariantHelper.cpp"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/config.yml",
+    ".github/workflows/build-storybook.yml",
+    ".github/workflows/extract-translations.yml",
+    ".github/workflows/gdcore-tools-hook.yml",
+    ".github/workflows/issues.yml",
+    ".github/workflows/update-extension-translations.yml",
+    ".github/workflows/update-translations.yml",
+    ".travis.yml",
+    "appveyor.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/--asset-store-submission.md",
+    ".github/ISSUE_TEMPLATE/--automatic-crash.yml",
+    ".github/ISSUE_TEMPLATE/--bug-report.yml",
+    ".github/ISSUE_TEMPLATE/--feature-request.md",
+    ".github/ISSUE_TEMPLATE/config.yml"
+  ]
+}

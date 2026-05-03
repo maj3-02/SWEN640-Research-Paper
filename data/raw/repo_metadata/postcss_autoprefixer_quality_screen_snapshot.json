@@ -1,0 +1,30 @@
+{
+  "repository_full_name": "postcss/autoprefixer",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-26T23:03:21.290423+00:00",
+  "tree_sha": "e90fde77c6bc86c1643693cacfda418742242ecc",
+  "tree_truncated": false,
+  "tree_path_count": 284,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/at-rule.test.js",
+    "test/autoprefixer.test.js",
+    "test/brackets.test.js",
+    "test/browsers.test.js",
+    "test/cases",
+    "test/cases/3d-transform.css",
+    "test/cases/3d-transform.out.css",
+    "test/cases/advanced-filter.css",
+    "test/cases/advanced-filter.out.css"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/release.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md"
+  ]
+}

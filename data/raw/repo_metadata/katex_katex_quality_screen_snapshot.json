@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "KaTeX/KaTeX",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:21.645455+00:00",
+  "tree_sha": "bdec9b04d3d0a20d9f0c969324ad0490e4b271d4",
+  "tree_truncated": false,
+  "tree_path_count": 761,
+  "has_tests": true,
+  "matched_test_paths": [
+    "contrib/auto-render/test",
+    "contrib/auto-render/test/auto-render-spec.ts",
+    "contrib/render-a11y-string/test",
+    "contrib/render-a11y-string/test/render-a11y-string-spec.ts",
+    "test",
+    "test/__snapshots__",
+    "test/__snapshots__/katex-spec.ts.snap",
+    "test/__snapshots__/mathml-spec.ts.snap",
+    "test/dup-spec.ts",
+    "test/errors-spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/fonts.yml",
+    ".github/workflows/screenshotter.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/ISSUE_TEMPLATE/rendering-bug-report.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "docs/security.md"
+  ]
+}

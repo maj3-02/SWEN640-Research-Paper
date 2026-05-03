@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "uxsolutions/bootstrap-datepicker",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:39.481450+00:00",
+  "tree_sha": "722dc29432e89e048e5677b51fb4cfd8bbdab13c",
+  "tree_truncated": false,
+  "tree_path_count": 308,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/README.md",
+    "tests/assets",
+    "tests/assets/coverage.js",
+    "tests/assets/mock.js",
+    "tests/assets/qunit-logging.js",
+    "tests/assets/qunit.css",
+    "tests/assets/qunit.js",
+    "tests/assets/utils.js",
+    "tests/suites"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "repository_full_name": "Koenkk/zigbee2mqtt",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:52.226603+00:00",
+  "tree_sha": "2b485a98c5f9c879e1e9b80ffae3c7a84b0dce8d",
+  "tree_truncated": false,
+  "tree_path_count": 168,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/assets",
+    "test/assets/certs",
+    "test/assets/certs/dummy.crt",
+    "test/assets/certs/dummy.key",
+    "test/assets/external_converters",
+    "test/assets/external_converters/cjs",
+    "test/assets/external_converters/cjs/mock-external-converter-multiple.js",
+    "test/assets/external_converters/cjs/mock-external-converter.js",
+    "test/assets/external_converters/mjs"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/dependency-review.yaml",
+    ".github/workflows/fail-pr-to-master.yaml",
+    ".github/workflows/ghcr-cleanup.yml",
+    ".github/workflows/issue_bot.yml",
+    ".github/workflows/merge-master-to-dev.yml",
+    ".github/workflows/release-please.yml",
+    ".github/workflows/stale.yml",
+    ".github/workflows/update-dependency.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/external_converter.yaml",
+    ".github/ISSUE_TEMPLATE/feature_request.yaml",
+    ".github/ISSUE_TEMPLATE/new_device_support.yaml",
+    ".github/ISSUE_TEMPLATE/problem_report.yaml",
+    ".github/ISSUE_TEMPLATE/wrong_device.yaml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

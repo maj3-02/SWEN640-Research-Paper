@@ -1,0 +1,45 @@
+{
+  "repository_full_name": "elizaOS/eliza",
+  "default_branch": "develop",
+  "fetched_at_utc": "2026-04-28T19:19:32.457895+00:00",
+  "tree_sha": "2f998a4b1e969953d26c9875d68da11fd6c9671d",
+  "tree_truncated": false,
+  "tree_path_count": 12479,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/app-clawville/test",
+    "apps/app-clawville/test/routes.test.ts",
+    "apps/app-companion/test",
+    "apps/app-companion/test/companion-emotes.live.e2e.test.ts",
+    "apps/app-companion/test/run-storybook-e2e.mjs",
+    "apps/app-defense-of-the-agents/test",
+    "apps/app-defense-of-the-agents/test/lifecycle.test.ts",
+    "apps/app-form/src/tests",
+    "apps/app-form/src/tests/toon-integration.live.test.ts",
+    "apps/app-form/test"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/README.md",
+    ".github/workflows/android-release.yml",
+    ".github/workflows/apple-store-release.yml",
+    ".github/workflows/auto-label.yml",
+    ".github/workflows/benchmark-tests.yml",
+    ".github/workflows/benchmark-weekly.yml",
+    ".github/workflows/build-android.yml",
+    ".github/workflows/build-electron.yml",
+    ".github/workflows/build-ios.yml",
+    ".github/workflows/ci.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/pull_request_template.md",
+    "packages/app-core/test/contracts/lib/openzeppelin-contracts/CODE_OF_CONDUCT.md",
+    "packages/app-core/test/contracts/lib/openzeppelin-contracts/CONTRIBUTING.md",
+    "packages/app-core/test/contracts/lib/openzeppelin-contracts/SECURITY.md",
+    "packages/app-core/test/contracts/lib/openzeppelin-contracts/lib/forge-std/CONTRIBUTING.md",
+    "packages/benchmarks/solana/solana-gym-env/CONTRIBUTING.md"
+  ]
+}

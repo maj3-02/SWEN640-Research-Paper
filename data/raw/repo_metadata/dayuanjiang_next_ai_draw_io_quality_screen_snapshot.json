@@ -1,0 +1,37 @@
+{
+  "repository_full_name": "DayuanJiang/next-ai-draw-io",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:47.983700+00:00",
+  "tree_sha": "a8d27088efc2cf84f0c4e3a6a799dc8c191b55ed",
+  "tree_truncated": false,
+  "tree_path_count": 327,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/e2e",
+    "tests/e2e/chat.spec.ts",
+    "tests/e2e/copy-paste.spec.ts",
+    "tests/e2e/diagram-generation.spec.ts",
+    "tests/e2e/error-handling.spec.ts",
+    "tests/e2e/file-upload.spec.ts",
+    "tests/e2e/fixtures",
+    "tests/e2e/fixtures/diagrams.ts",
+    "tests/e2e/history-restore.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/auto-format.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/docker-build.yml",
+    ".github/workflows/electron-release.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/enhancement.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md"
+  ]
+}

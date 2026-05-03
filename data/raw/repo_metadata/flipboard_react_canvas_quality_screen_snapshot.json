@@ -1,0 +1,17 @@
+{
+  "repository_full_name": "Flipboard/react-canvas",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:35.549162+00:00",
+  "tree_sha": "0b71180b4061a55410efb4578df2b65c1bf00a8e",
+  "tree_truncated": false,
+  "tree_path_count": 57,
+  "has_tests": true,
+  "matched_test_paths": [
+    "lib/__tests__",
+    "lib/__tests__/clamp-test.js"
+  ],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

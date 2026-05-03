@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "Nagi-ovo/gemini-voyager",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:37.114944+00:00",
+  "tree_sha": "917b5dc0897a2d03bebb86e2068fa1bc2ff297a0",
+  "tree_truncated": false,
+  "tree_path_count": 997,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/core/services/__tests__",
+    "src/core/services/__tests__/AccountIsolationService.test.ts",
+    "src/core/services/__tests__/GoogleDriveSyncService.test.ts",
+    "src/core/services/__tests__/KeyboardShortcutService.test.ts",
+    "src/core/services/__tests__/SettingsBackupService.test.ts",
+    "src/core/services/__tests__/StorageService.test.ts",
+    "src/core/utils/__tests__",
+    "src/core/utils/__tests__/browser.test.ts",
+    "src/core/utils/__tests__/concurrency.test.ts",
+    "src/core/utils/__tests__/conversationIdentity.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/deploy-docs.yml",
+    ".github/workflows/issue-claim.yml",
+    ".github/workflows/issue-validator.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/sponsors.yml",
+    ".github/workflows/stale.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/pull_request_template.md"
+  ]
+}

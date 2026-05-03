@@ -1,0 +1,41 @@
+{
+  "repository_full_name": "udecode/plate",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:44.448344+00:00",
+  "tree_sha": "5f6a32494c82957d1ca1ca490050018748b37cc4",
+  "tree_truncated": false,
+  "tree_path_count": 6188,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".changeset/changelog-config.test.cjs",
+    "apps/www/src/__tests__",
+    "apps/www/src/__tests__/package-integration",
+    "apps/www/src/__tests__/package-integration/__deferred__",
+    "apps/www/src/__tests__/package-integration/__deferred__/README.md",
+    "apps/www/src/__tests__/package-integration/__deferred__/clipboard",
+    "apps/www/src/__tests__/package-integration/__deferred__/clipboard/editor-clipboard.deferred.spec.tsx",
+    "apps/www/src/__tests__/package-integration/__deferred__/ime",
+    "apps/www/src/__tests__/package-integration/__deferred__/ime/editor-ime.deferred.spec.tsx",
+    "apps/www/src/__tests__/package-integration/__deferred__/mouse-selection"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/changeset-auto-release.yml",
+    ".github/workflows/ci-templates.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/clean-up-pr-caches.yml",
+    ".github/workflows/registry.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/slate-deps-pr.yml",
+    ".github/workflows/sync-templates.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md",
+    "tooling/CONTRIBUTING.md",
+    "tooling/cn/CONTRIBUTING.md"
+  ]
+}

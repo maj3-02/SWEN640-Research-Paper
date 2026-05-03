@@ -1,0 +1,45 @@
+{
+  "repository_full_name": "koala73/worldmonitor",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:07.081685+00:00",
+  "tree_sha": "c7d0603d65ba3a0b72aa518dd2a05e985fa7ed74",
+  "tree_truncated": false,
+  "tree_path_count": 3554,
+  "has_tests": true,
+  "matched_test_paths": [
+    "api/_cors.test.mjs",
+    "api/loaders-xml-wms-regression.test.mjs",
+    "api/og-story.test.mjs",
+    "api/youtube/embed.test.mjs",
+    "consumer-prices-core/src/adapters/search.test.ts",
+    "consumer-prices-core/src/adapters/validator.test.ts",
+    "consumer-prices-core/tests",
+    "consumer-prices-core/tests/unit",
+    "consumer-prices-core/tests/unit/matcher.test.ts",
+    "consumer-prices-core/tests/unit/pinning.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-desktop.yml",
+    ".github/workflows/contributor-trust.yml",
+    ".github/workflows/convex-deploy.yml",
+    ".github/workflows/deploy-gate.yml",
+    ".github/workflows/docker-publish.yml",
+    ".github/workflows/lint-code.yml",
+    ".github/workflows/lint.yml",
+    ".github/workflows/pro-bundle-freshness.yml",
+    ".github/workflows/proto-check.yml",
+    ".github/workflows/test-linux-app.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/ISSUE_TEMPLATE/new_data_source.yml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

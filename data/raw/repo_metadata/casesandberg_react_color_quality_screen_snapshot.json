@@ -1,0 +1,19 @@
+{
+  "repository_full_name": "casesandberg/react-color",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:43.582465+00:00",
+  "tree_sha": "bc9a0e1dc5d11b06c511a8e02a95bd85c7129f4b",
+  "tree_truncated": false,
+  "tree_path_count": 269,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    "CODE_OF_CONDUCT.md"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "repository_full_name": "request/request",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:49.604961+00:00",
+  "tree_sha": "3c0cddc7c8eb60b470e9519da85896ed7ee0081e",
+  "tree_truncated": false,
+  "tree_path_count": 131,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/browser",
+    "tests/browser/karma.conf.js",
+    "tests/browser/ssl",
+    "tests/browser/ssl/ca.crt",
+    "tests/browser/ssl/server.crt",
+    "tests/browser/ssl/server.key",
+    "tests/browser/start.js",
+    "tests/browser/test.js",
+    "tests/fixtures"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md"
+  ]
+}

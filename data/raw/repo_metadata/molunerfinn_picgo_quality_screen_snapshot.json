@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "Molunerfinn/PicGo",
+  "default_branch": "dev",
+  "fetched_at_utc": "2026-04-28T19:18:52.300565+00:00",
+  "tree_sha": "d3dcd2362b5afcfe825e30f961333b13ab860884",
+  "tree_truncated": false,
+  "tree_path_count": 338,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/__tests__",
+    "src/__tests__/main",
+    "src/__tests__/main/cloud-config-sync.spec.ts",
+    "src/__tests__/main/getLatestVersion.spec.ts",
+    "src/__tests__/main/server.spec.ts",
+    "src/__tests__/renderer",
+    "src/__tests__/renderer/store",
+    "src/__tests__/renderer/store/appConfig.spec.ts",
+    "src/__tests__/renderer/utils",
+    "src/__tests__/renderer/utils/bridge.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/issue-duplicate-detection.yml",
+    ".github/workflows/main.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    "CONTRIBUTING.md"
+  ]
+}

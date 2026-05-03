@@ -1,0 +1,35 @@
+{
+  "repository_full_name": "react-dnd/react-dnd",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:12.588946+00:00",
+  "tree_sha": "1de654eb466b9563fa50df070c244d6f3ab43ca7",
+  "tree_truncated": false,
+  "tree_path_count": 663,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/backend-html5/src/__tests__",
+    "packages/backend-html5/src/__tests__/BrowserDetector.spec.ts",
+    "packages/backend-html5/src/__tests__/EnterLeaveCounter.spec.ts",
+    "packages/backend-html5/src/__tests__/HTML5Backend.spec.ts",
+    "packages/backend-html5/src/__tests__/MonotonicInterpolant.spec.ts",
+    "packages/backend-html5/src/__tests__/OffsetUtils.spec.ts",
+    "packages/backend-html5/src/__tests__/OptionsReader.spec.ts",
+    "packages/backend-html5/src/__tests__/getEmptyImage.spec.ts",
+    "packages/backend-html5/src/__tests__/index.spec.ts",
+    "packages/backend-html5/src/__tests__/matchesType.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/docsite.yml",
+    ".github/workflows/fix-dependabot.yml",
+    ".github/workflows/version-check.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

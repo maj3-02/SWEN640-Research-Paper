@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "diegomura/react-pdf",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:41.877329+00:00",
+  "tree_sha": "d41a8207fb06a56e60fcb53ac0e18ce27e7d32d6",
+  "tree_truncated": false,
+  "tree_path_count": 1287,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/fns/tests",
+    "packages/fns/tests/adjust.test.ts",
+    "packages/fns/tests/asyncCompose.test.ts",
+    "packages/fns/tests/capitalize.test.ts",
+    "packages/fns/tests/castArray.test.ts",
+    "packages/fns/tests/compose.test.ts",
+    "packages/fns/tests/dropLast.test.ts",
+    "packages/fns/tests/evolve.test.ts",
+    "packages/fns/tests/get.test.ts",
+    "packages/fns/tests/isNil.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/main.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md"
+  ]
+}

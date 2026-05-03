@@ -1,0 +1,30 @@
+{
+  "repository_full_name": "graphql/graphql-spec",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:23.076261+00:00",
+  "tree_sha": "1fe9b61b3151251d4a09a8061fa55e1c5e929168",
+  "tree_truncated": false,
+  "tree_path_count": 41,
+  "has_tests": true,
+  "matched_test_paths": [
+    "spec",
+    "spec/Appendix A -- Conformance.md",
+    "spec/Appendix B -- Notation Conventions.md",
+    "spec/Appendix C -- Grammar Summary.md",
+    "spec/Appendix D -- Specified Definitions.md",
+    "spec/GraphQL.md",
+    "spec/Section 1 -- Overview.md",
+    "spec/Section 2 -- Language.md",
+    "spec/Section 3 -- Type System.md",
+    "spec/Section 4 -- Introspection.md"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md"
+  ]
+}

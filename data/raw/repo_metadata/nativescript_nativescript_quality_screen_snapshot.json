@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "NativeScript/NativeScript",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:56.588224+00:00",
+  "tree_sha": "850eafda841170dfce04a876c4236a3ed95f8222",
+  "tree_truncated": false,
+  "tree_path_count": 3257,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/ui/e2e",
+    "apps/ui/e2e/helpers",
+    "apps/ui/e2e/helpers/image-helper.ts",
+    "apps/ui/e2e/helpers/navigation-helper.ts",
+    "apps/ui/e2e/page-object-base-model.ts",
+    "apps/ui/e2e/scripts",
+    "apps/ui/e2e/scripts/sparse-checkout.sh",
+    "apps/ui/e2e/setup.ts",
+    "apps/ui/e2e/suites",
+    "apps/ui/e2e/suites/action-bar"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/apps_automated_android.yml",
+    ".github/workflows/apps_automated_ios.yml",
+    ".github/workflows/dependency-review.yml",
+    ".github/workflows/npm_release_tns_core.yml",
+    ".github/workflows/npm_release_types.yml",
+    ".github/workflows/npm_release_webpack.yml",
+    ".github/workflows/ossf-scorecard.yml",
+    ".github/workflows/secure_nx_release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yaml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yaml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "tools/notes/CODE_OF_CONDUCT.md",
+    "tools/notes/CONTRIBUTING.md"
+  ]
+}

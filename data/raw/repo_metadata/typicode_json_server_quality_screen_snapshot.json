@@ -1,0 +1,24 @@
+{
+  "repository_full_name": "typicode/json-server",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:17.931801+00:00",
+  "tree_sha": "89a34a44b7a6a5311dc84f3b8a1b8b45c0905aea",
+  "tree_truncated": false,
+  "tree_path_count": 41,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/adapters/normalized-adapter.test.ts",
+    "src/app.test.ts",
+    "src/matches-where.test.ts",
+    "src/paginate.test.ts",
+    "src/parse-where.test.ts",
+    "src/service.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/node.js.yml",
+    ".github/workflows/publish.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

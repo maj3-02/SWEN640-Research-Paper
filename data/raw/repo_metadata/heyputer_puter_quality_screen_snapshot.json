@@ -1,0 +1,37 @@
+{
+  "repository_full_name": "HeyPuter/puter",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:29.641932+00:00",
+  "tree_sha": "ce39c7f734faae3445a0d79f4f21bbc1ec3c148d",
+  "tree_truncated": false,
+  "tree_path_count": 2299,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/backend/src/clients/redis/redisSingleton.test.ts",
+    "src/backend/src/clients/s3/s3ClientProvider.test.ts",
+    "src/backend/src/modules/apps/AppIconService.test.js",
+    "src/backend/src/modules/broadcast/BroadcastService.redisPubSub.test.js",
+    "src/backend/src/modules/data-access/AppService.comp.test.js",
+    "src/backend/src/modules/data-access/AppService.test.js",
+    "src/backend/src/om/definitions/PropType.test.js",
+    "src/backend/src/om/proptypes/__all__.test.js",
+    "src/backend/src/om/query/query.test.js",
+    "src/backend/src/routers/get-launch-apps.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/docker-image.yaml",
+    ".github/workflows/main.yml",
+    ".github/workflows/notify-prod.yaml",
+    ".github/workflows/release-please.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "doc/self-hosters/support.md",
+    "src/backend/CONTRIBUTING.md",
+    "src/docs/src/security.md"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "nwjs/nw.js",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:29.417035+00:00",
+  "tree_sha": "6f9cb0297118dc07346b4b4ab50af263f5cb0ea2",
+  "tree_truncated": false,
+  "tree_path_count": 2031,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/resources/api_nw_test.js",
+    "test",
+    "test/auto",
+    "test/auto/common.js",
+    "test/auto/empty-app-exit-with-0",
+    "test/auto/empty-app-exit-with-0/index.html",
+    "test/auto/empty-app-exit-with-0/package.json",
+    "test/auto/fixtures",
+    "test/auto/fixtures/readdir",
+    "test/auto/fixtures/readdir/are"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    "test/node_modules/colors/.travis.yml",
+    "test/node_modules/corser/.travis.yml",
+    "test/node_modules/debug/.travis.yml",
+    "test/node_modules/ecstatic/.travis.yml",
+    "test/node_modules/http-server/.travis.yml",
+    "test/node_modules/minimist/.travis.yml",
+    "test/node_modules/mkdirp/.travis.yml",
+    "test/node_modules/mkdirp/node_modules/minimist/.travis.yml",
+    "test/node_modules/optimist/.travis.yml",
+    "test/node_modules/optimist/node_modules/minimist/.travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "test/node_modules/ecstatic/CONTRIBUTING.md",
+    "test/node_modules/qs/CONTRIBUTING.md"
+  ]
+}

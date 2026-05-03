@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "hoppscotch/hoppscotch",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:58.599436+00:00",
+  "tree_sha": "6fc63d07929805331b1bd78d2237a50fceaafa79",
+  "tree_truncated": false,
+  "tree_path_count": 2814,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/hoppscotch-backend/src/access-token/access-token.service.spec.ts",
+    "packages/hoppscotch-backend/src/admin/admin.service.spec.ts",
+    "packages/hoppscotch-backend/src/auth/auth.service.spec.ts",
+    "packages/hoppscotch-backend/src/auth/redirect-uri.validator.spec.ts",
+    "packages/hoppscotch-backend/src/infra-config/infra-config.service.spec.ts",
+    "packages/hoppscotch-backend/src/mock-server/mock-server.service.spec.ts",
+    "packages/hoppscotch-backend/src/orchestration/sort/sort.service.spec.ts",
+    "packages/hoppscotch-backend/src/published-docs/published-docs.service.spec.ts",
+    "packages/hoppscotch-backend/src/shortcode/shortcode.service.spec.ts",
+    "packages/hoppscotch-backend/src/team-collection/team-collection.service.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-hoppscotch-agent.yml",
+    ".github/workflows/build-hoppscotch-desktop.yml",
+    ".github/workflows/release-push-docker.yml",
+    ".github/workflows/tests.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/--bug-report.yaml",
+    ".github/ISSUE_TEMPLATE/--feature-request.yaml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "packages/hoppscotch-cli/CONTRIBUTING.md"
+  ]
+}

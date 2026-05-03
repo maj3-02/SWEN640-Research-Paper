@@ -1,0 +1,32 @@
+{
+  "repository_full_name": "claude-code-best/claude-code",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:38.860314+00:00",
+  "tree_sha": "a2cfaf9111d2376b1fe5940f07d997ea0f972c25",
+  "tree_truncated": false,
+  "tree_path_count": 3823,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/@ant/model-provider/src/providers/gemini/__tests__",
+    "packages/@ant/model-provider/src/providers/gemini/__tests__/convertMessages.test.ts",
+    "packages/@ant/model-provider/src/providers/gemini/__tests__/convertTools.test.ts",
+    "packages/@ant/model-provider/src/providers/gemini/__tests__/modelMapping.test.ts",
+    "packages/@ant/model-provider/src/providers/gemini/__tests__/streamAdapter.test.ts",
+    "packages/@ant/model-provider/src/providers/grok/__tests__",
+    "packages/@ant/model-provider/src/providers/grok/__tests__/modelMapping.test.ts",
+    "packages/@ant/model-provider/src/providers/openai/__tests__",
+    "packages/@ant/model-provider/src/providers/openai/__tests__/modelMapping.test.ts",
+    "packages/@ant/model-provider/src/shared/__tests__"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/publish-npm.yml",
+    ".github/workflows/release-rcs.yml",
+    ".github/workflows/update-contributors.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "SECURITY.md"
+  ]
+}

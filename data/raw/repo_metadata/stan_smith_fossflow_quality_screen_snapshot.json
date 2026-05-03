@@ -1,0 +1,40 @@
+{
+  "repository_full_name": "stan-smith/FossFLOW",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:22.058904+00:00",
+  "tree_sha": "2b11f5100227730c8635e2ff0cd051036a108bab",
+  "tree_truncated": false,
+  "tree_path_count": 500,
+  "has_tests": true,
+  "matched_test_paths": [
+    "e2e-tests/tests",
+    "e2e-tests/tests/test_base_path_routing.py",
+    "e2e-tests/tests/test_basic_load.py",
+    "e2e-tests/tests/test_connector_undo.py",
+    "e2e-tests/tests/test_export_svg.py",
+    "e2e-tests/tests/test_import_diagram.py",
+    "e2e-tests/tests/test_multi_node_undo.py",
+    "e2e-tests/tests/test_node_placement.py",
+    "e2e-tests/tests/test_rect_text_undo.py",
+    "e2e-tests/tests/test_store_debug.py"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/dependabot-automerge.yml",
+    ".github/workflows/docker.yml",
+    ".github/workflows/e2e-tests.yml",
+    ".github/workflows/e2e-tests.yml.backup",
+    ".github/workflows/ethicalcheck.yml",
+    ".github/workflows/pages.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md"
+  ]
+}

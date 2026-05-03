@@ -1,0 +1,46 @@
+{
+  "repository_full_name": "louislam/uptime-kuma",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:16.933767+00:00",
+  "tree_sha": "27ac191f5aa6d8034a61be864f01955abfd12317",
+  "tree_truncated": false,
+  "tree_path_count": 803,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/backend-test",
+    "test/backend-test/README.md",
+    "test/backend-test/check-translations.test.js",
+    "test/backend-test/monitor-conditions",
+    "test/backend-test/monitor-conditions/test-evaluator.js",
+    "test/backend-test/monitor-conditions/test-expressions.js",
+    "test/backend-test/monitor-conditions/test-operators.js",
+    "test/backend-test/monitors",
+    "test/backend-test/monitors/test-gamedig.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/auto-test.yml",
+    ".github/workflows/autofix.yml",
+    ".github/workflows/build-docker-base.yml",
+    ".github/workflows/build-docker-push.yml",
+    ".github/workflows/close-incorrect-issue.yml",
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/conflict-labeler.yml",
+    ".github/workflows/mark-as-draft-on-requesting-changes.yml",
+    ".github/workflows/new-contributor-pr.yml",
+    ".github/workflows/npm-update.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/ask_for_help.yml",
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/ISSUE_TEMPLATE/security_issue.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "twentyhq/twenty",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:16.921476+00:00",
+  "tree_sha": "d2dda6759619a24ef77cb5679912cbc58e530de3",
+  "tree_truncated": false,
+  "tree_path_count": 27769,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/create-twenty-app/src/constants/template/src/__tests__",
+    "packages/create-twenty-app/src/constants/template/src/__tests__/global-setup.ts",
+    "packages/create-twenty-app/src/constants/template/src/__tests__/schema.integration-test.ts",
+    "packages/create-twenty-app/src/constants/template/tsconfig.spec.json",
+    "packages/create-twenty-app/src/utils/__tests__",
+    "packages/create-twenty-app/src/utils/__tests__/app-template.spec.ts",
+    "packages/create-twenty-app/src/utils/__tests__/convert-to-label.spec.ts",
+    "packages/twenty-apps/community/github-connector/src/__tests__",
+    "packages/twenty-apps/community/github-connector/src/__tests__/global-setup.ts",
+    "packages/twenty-apps/community/github-connector/src/__tests__/helpers"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/cd-deploy-main.yaml",
+    ".github/workflows/cd-deploy-tag.yaml",
+    ".github/workflows/changed-files.yaml",
+    ".github/workflows/ci-ai-catalog-sync.yaml",
+    ".github/workflows/ci-breaking-changes.yaml",
+    ".github/workflows/ci-create-app-e2e-hello-world.yaml",
+    ".github/workflows/ci-create-app-e2e-minimal.yaml",
+    ".github/workflows/ci-create-app-e2e-postcard.yaml",
+    ".github/workflows/ci-create-app.yaml",
+    ".github/workflows/ci-docs.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/add-new-feature---behavior.md",
+    ".github/ISSUE_TEMPLATE/report-bug.md",
+    ".github/ISSUE_TEMPLATE/request-technical-work.md",
+    ".github/SECURITY.md"
+  ]
+}

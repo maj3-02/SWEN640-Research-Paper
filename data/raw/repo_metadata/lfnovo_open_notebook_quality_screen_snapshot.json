@@ -1,0 +1,41 @@
+{
+  "repository_full_name": "lfnovo/open-notebook",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:05.916765+00:00",
+  "tree_sha": "ec41ef8f2fc210cdf56e1428f87943c66dd56893",
+  "tree_truncated": false,
+  "tree_path_count": 552,
+  "has_tests": true,
+  "matched_test_paths": [
+    "frontend/src/app/(dashboard)/notebooks/components/ChatColumn.test.tsx",
+    "frontend/src/components/common/ConfirmDialog.test.tsx",
+    "frontend/src/components/layout/AppSidebar.test.tsx",
+    "frontend/src/lib/config.test.ts",
+    "frontend/src/lib/hooks/use-modal-manager.test.ts",
+    "frontend/src/lib/hooks/use-translation.test.ts",
+    "frontend/src/lib/locales/index.test.ts",
+    "frontend/src/test",
+    "frontend/src/test/jest-dom.d.ts",
+    "frontend/src/test/setup.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-and-release.yml",
+    ".github/workflows/build-dev.yml",
+    ".github/workflows/claude-code-review.yml",
+    ".github/workflows/claude.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/ISSUE_TEMPLATE/installation_issue.yml",
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md",
+    "docs/5-CONFIGURATION/security.md",
+    "docs/7-DEVELOPMENT/contributing.md",
+    "docs/7-DEVELOPMENT/security.md"
+  ]
+}

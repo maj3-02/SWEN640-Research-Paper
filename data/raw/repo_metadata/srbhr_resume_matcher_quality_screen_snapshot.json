@@ -1,0 +1,36 @@
+{
+  "repository_full_name": "srbhr/Resume-Matcher",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:51.510827+00:00",
+  "tree_sha": "554227822eafc74bb6905837ac276c23e290a459",
+  "tree_truncated": false,
+  "tree_path_count": 369,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/backend/tests",
+    "apps/backend/tests/__init__.py",
+    "apps/backend/tests/conftest.py",
+    "apps/backend/tests/integration",
+    "apps/backend/tests/integration/__init__.py",
+    "apps/backend/tests/integration/test_config_api.py",
+    "apps/backend/tests/integration/test_health_api.py",
+    "apps/backend/tests/integration/test_jobs_api.py",
+    "apps/backend/tests/integration/test_regenerate_endpoints.py",
+    "apps/backend/tests/integration/test_resume_api.py"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/docker-publish.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/custom.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    ".github/SECURITY.md"
+  ]
+}

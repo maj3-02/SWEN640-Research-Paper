@@ -1,0 +1,26 @@
+{
+  "repository_full_name": "electron-react-boilerplate/electron-react-boilerplate",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:00.821452+00:00",
+  "tree_sha": "484a66bda78ea3ead4b693ab9dca3e96baf4fdcc",
+  "tree_truncated": false,
+  "tree_path_count": 93,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/__tests__",
+    "src/__tests__/App.test.tsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/publish.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1-Bug_report.md",
+    ".github/ISSUE_TEMPLATE/2-Question.md",
+    ".github/ISSUE_TEMPLATE/3-Feature_request.md",
+    "CODE_OF_CONDUCT.md"
+  ]
+}

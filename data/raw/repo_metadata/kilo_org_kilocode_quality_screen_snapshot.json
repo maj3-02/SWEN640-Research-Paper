@@ -1,0 +1,45 @@
+{
+  "repository_full_name": "Kilo-Org/kilocode",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:29.758997+00:00",
+  "tree_sha": "6916bf42ed88e83ef9b49905e7a8740c79db7a66",
+  "tree_truncated": false,
+  "tree_path_count": 6644,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/app/e2e",
+    "packages/app/e2e/prompt",
+    "packages/app/e2e/prompt/prompt-history.spec.ts",
+    "packages/app/e2e/prompt/prompt-shell.spec.ts",
+    "packages/app/e2e/prompt/prompt-slash-share.spec.ts",
+    "packages/app/e2e/session",
+    "packages/app/e2e/session/session.spec.ts",
+    "packages/app/e2e/todo.spec.ts",
+    "packages/app/e2e/tsconfig.json",
+    "packages/app/src/addons/serialize.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/auto-docs.yml",
+    ".github/workflows/beta.yml",
+    ".github/workflows/check-md-table-padding.yml",
+    ".github/workflows/check-opencode-annotations.yml",
+    ".github/workflows/check-org-member.yml",
+    ".github/workflows/close-issues.yml",
+    ".github/workflows/close-stale-prs.yml",
+    ".github/workflows/compliance-close.yml",
+    ".github/workflows/containers.yml",
+    ".github/workflows/daily-issues-recap.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug-report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature-request.yml",
+    ".github/ISSUE_TEMPLATE/question.yml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

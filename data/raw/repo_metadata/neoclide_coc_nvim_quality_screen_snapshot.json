@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "neoclide/coc.nvim",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:57.984391+00:00",
+  "tree_sha": "454309a8b992b8102410cbb127b4108899b5f8aa",
+  "tree_truncated": false,
+  "tree_path_count": 569,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/__tests__",
+    "src/__tests__/autoload",
+    "src/__tests__/autoload/coc",
+    "src/__tests__/autoload/coc/source",
+    "src/__tests__/autoload/coc/source/email.vim",
+    "src/__tests__/autoload/coc/source/vim9.vim",
+    "src/__tests__/autoload/legacy.vim",
+    "src/__tests__/autoload/vim9.vim",
+    "src/__tests__/client",
+    "src/__tests__/client/configuration.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/lint.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    "CONTRIBUTING.md"
+  ]
+}

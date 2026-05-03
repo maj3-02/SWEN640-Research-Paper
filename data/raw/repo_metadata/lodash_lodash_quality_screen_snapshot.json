@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "lodash/lodash",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:19.987911+00:00",
+  "tree_sha": "3a546c4fe6c1224c601c6b61fde12bbae1e30182",
+  "tree_truncated": false,
+  "tree_path_count": 187,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/asset",
+    "test/asset/test-ui.js",
+    "test/asset/worker.js",
+    "test/backbone.html",
+    "test/fp.html",
+    "test/index.html",
+    "test/playwright-runner.spec.js",
+    "test/remove.js",
+    "test/test-fp.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/browser-testing.yml",
+    ".github/workflows/ci-bun.yml",
+    ".github/workflows/ci-dist-sync.yml",
+    ".github/workflows/ci-docs.yml",
+    ".github/workflows/ci-node.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/renovate.yml",
+    ".github/workflows/scorecards.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    "GOVERNANCE.md",
+    "SECURITY.md"
+  ]
+}

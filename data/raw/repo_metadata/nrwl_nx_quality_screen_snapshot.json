@@ -1,0 +1,46 @@
+{
+  "repository_full_name": "nrwl/nx",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:46.328036+00:00",
+  "tree_sha": "d1e9a4349ab6cdb70087a25ca1ebae8f59791a5f",
+  "tree_truncated": false,
+  "tree_path_count": 13371,
+  "has_tests": true,
+  "matched_test_paths": [
+    "astro-docs/e2e",
+    "astro-docs/e2e/cli-subcommand-formatting.spec.ts",
+    "astro-docs/e2e/devkit-urls-fragments.spec.ts",
+    "astro-docs/e2e/theme-switching.spec.ts",
+    "astro-docs/src/content/docs/knowledge-base/cypress",
+    "astro-docs/src/content/docs/knowledge-base/cypress/index.mdoc",
+    "astro-docs/src/content/docs/reference/cypress",
+    "astro-docs/src/content/docs/reference/cypress/index.mdoc",
+    "astro-docs/src/content/docs/technologies/test-tools/cypress",
+    "astro-docs/src/content/docs/technologies/test-tools/cypress/Guides"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/config.yml",
+    ".github/workflows/banner-monitor.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/codeql-master.yml",
+    ".github/workflows/codeql-pr.yml",
+    ".github/workflows/do-not-merge.yml",
+    ".github/workflows/e2e-matrix.yml",
+    ".github/workflows/generate-embeddings.yml",
+    ".github/workflows/issue-notifier.yml",
+    ".github/workflows/lock-threads.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1-bug.yml",
+    ".github/ISSUE_TEMPLATE/2-documentation.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    ".github/PULL_REQUEST_TEMPLATE",
+    ".github/PULL_REQUEST_TEMPLATE/COMMUNITY_PLUGIN.MD",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

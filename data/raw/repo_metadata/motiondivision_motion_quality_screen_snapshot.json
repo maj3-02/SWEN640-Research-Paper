@@ -1,0 +1,32 @@
+{
+  "repository_full_name": "motiondivision/motion",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:39.247046+00:00",
+  "tree_sha": "e84202434978a0648ff9728f817f10e887edcb85",
+  "tree_truncated": false,
+  "tree_path_count": 3185,
+  "has_tests": true,
+  "matched_test_paths": [
+    "dev/react/src/tests",
+    "dev/react/src/tests/animate-autoplay-false.tsx",
+    "dev/react/src/tests/animate-cancel.tsx",
+    "dev/react/src/tests/animate-custom-mix.tsx",
+    "dev/react/src/tests/animate-filter-blur.tsx",
+    "dev/react/src/tests/animate-height-border-box.tsx",
+    "dev/react/src/tests/animate-height.tsx",
+    "dev/react/src/tests/animate-layout-timing.tsx",
+    "dev/react/src/tests/animate-presence-exit-complete-multiple.tsx",
+    "dev/react/src/tests/animate-presence-exit-height.tsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/config.yml",
+    ".github/workflows/claude.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    "CONTRIBUTING.md"
+  ]
+}

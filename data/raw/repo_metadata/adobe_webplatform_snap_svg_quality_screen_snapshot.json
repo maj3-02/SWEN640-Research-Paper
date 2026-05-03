@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "adobe-webplatform/Snap.svg",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:27.276422+00:00",
+  "tree_sha": "c8e483c9694517e24b282f8f59f985629f4994ce",
+  "tree_truncated": false,
+  "tree_path_count": 203,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/attradd.js",
+    "test/attrs.js",
+    "test/class.js",
+    "test/colors.js",
+    "test/element.js",
+    "test/filter.js",
+    "test/gradients.js",
+    "test/matrix.js",
+    "test/mina.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

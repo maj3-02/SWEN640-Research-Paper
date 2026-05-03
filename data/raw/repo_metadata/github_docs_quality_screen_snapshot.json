@@ -1,0 +1,46 @@
+{
+  "repository_full_name": "github/docs",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:25.738001+00:00",
+  "tree_sha": "fc0a8e9d0b2fa66093c483f0586c0b6c54addee2",
+  "tree_truncated": false,
+  "tree_path_count": 13876,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/archives/tests",
+    "src/archives/tests/deprecated-enterprise-versions.ts",
+    "src/article-api/tests",
+    "src/article-api/tests/article-body.ts",
+    "src/article-api/tests/audit-logs-transformer.ts",
+    "src/article-api/tests/bespoke-landing-transformer.ts",
+    "src/article-api/tests/category-landing-transformer.ts",
+    "src/article-api/tests/codeql-cli-transformer.ts",
+    "src/article-api/tests/discovery-landing-transformer.ts",
+    "src/article-api/tests/get-link-data.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/all-documents.yml",
+    ".github/workflows/article-api-docs.yml",
+    ".github/workflows/auto-add-ready-for-doc-review.yml",
+    ".github/workflows/auto-close-dependencies.yml",
+    ".github/workflows/benchmark-pages.yml",
+    ".github/workflows/changelog-prompt.yml",
+    ".github/workflows/check-for-spammy-issues.yml",
+    ".github/workflows/close-bad-repo-sync-prs.yml",
+    ".github/workflows/close-on-invalid-label.yaml",
+    ".github/workflows/codeql.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/improve-existing-docs.yaml",
+    ".github/ISSUE_TEMPLATE/improve-the-site.yml",
+    ".github/ISSUE_TEMPLATE/partner-contributed-documentation.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "data/reusables/organizations/security.md",
+    "data/reusables/user-settings/security.md"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "jaredhanson/passport",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:54.358874+00:00",
+  "tree_sha": "217018dbc46dcd4118dd6f2c60c8d97010c587f8",
+  "tree_truncated": false,
+  "tree_path_count": 76,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/authenticator.framework.test.js",
+    "test/authenticator.middleware.test.js",
+    "test/authenticator.test.js",
+    "test/bootstrap",
+    "test/bootstrap/node.js",
+    "test/http",
+    "test/http/request.test.js",
+    "test/middleware",
+    "test/middleware/authenticate.error.callback.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/node.yml",
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md"
+  ]
+}

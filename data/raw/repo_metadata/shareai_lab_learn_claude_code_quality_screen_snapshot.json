@@ -1,0 +1,21 @@
+{
+  "repository_full_name": "shareAI-lab/learn-claude-code",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:05.271798+00:00",
+  "tree_sha": "4b95969a03f780e8aa17340a10ff0a6d9512a2c9",
+  "tree_truncated": false,
+  "tree_path_count": 213,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/test_agents_smoke.py",
+    "tests/test_s_full_background.py"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

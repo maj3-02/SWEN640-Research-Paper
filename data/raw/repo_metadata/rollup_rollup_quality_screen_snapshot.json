@@ -1,0 +1,40 @@
+{
+  "repository_full_name": "rollup/rollup",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:47.446645+00:00",
+  "tree_sha": "a6be82b8abd747458afdc7484319f7b5deb92535",
+  "tree_truncated": false,
+  "tree_path_count": 17808,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/browser",
+    "test/browser/define.d.ts",
+    "test/browser/index.js",
+    "test/browser/samples",
+    "test/browser/samples/basic",
+    "test/browser/samples/basic/_config.js",
+    "test/browser/samples/basic/_expected",
+    "test/browser/samples/basic/_expected/main.js",
+    "test/browser/samples/error-file-name-absolute-path"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-and-tests.yml",
+    ".github/workflows/clean-cache.yml",
+    ".github/workflows/performance-report.yml",
+    ".github/workflows/repl-artefacts.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/SUPPORT.md",
+    ".github/ISSUE_TEMPLATE/bug.yaml",
+    ".github/ISSUE_TEMPLATE/docs.yaml",
+    ".github/ISSUE_TEMPLATE/feature.yaml",
+    ".github/ISSUE_TEMPLATE/modification.yaml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

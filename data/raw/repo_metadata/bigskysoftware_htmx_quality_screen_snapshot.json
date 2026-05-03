@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "bigskysoftware/htmx",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:25.067103+00:00",
+  "tree_sha": "dbf77dd5207d2f7b2d6db4757452fea51bba24ee",
+  "tree_truncated": false,
+  "tree_path_count": 765,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/htmx.test.ts",
+    "test",
+    "test/attributes",
+    "test/attributes/hx-boost.js",
+    "test/attributes/hx-confirm.js",
+    "test/attributes/hx-delete.js",
+    "test/attributes/hx-disabled-elt.js",
+    "test/attributes/hx-disinherit.js",
+    "test/attributes/hx-ext.js",
+    "test/attributes/hx-get.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

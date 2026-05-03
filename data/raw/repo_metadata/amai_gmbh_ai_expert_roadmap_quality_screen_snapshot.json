@@ -1,0 +1,18 @@
+{
+  "repository_full_name": "AMAI-GmbH/AI-Expert-Roadmap",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:37.591468+00:00",
+  "tree_sha": "a4c66c2670d9004385ed0faa4fb2a729aa6b18d4",
+  "tree_truncated": false,
+  "tree_path_count": 49,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/main.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "contributing.md"
+  ]
+}

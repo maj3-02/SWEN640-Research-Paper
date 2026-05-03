@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "streetwriters/notesnook",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:20:02.859166+00:00",
+  "tree_sha": "b8fca5cd98a1eb9f276d7e05e786f90b69c8b5d8",
+  "tree_truncated": false,
+  "tree_path_count": 3259,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".github/workflows/nscurl.test.yml",
+    "apps/desktop/__tests__",
+    "apps/desktop/__tests__/auto-updates.test.ts",
+    "apps/desktop/__tests__/global-setup.ts",
+    "apps/desktop/__tests__/launch.test.ts",
+    "apps/desktop/__tests__/test-override.ts",
+    "apps/desktop/__tests__/utils.ts",
+    "apps/mobile/__tests__",
+    "apps/mobile/__tests__/App-test.js",
+    "apps/mobile/e2e"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/android.e2e.yml",
+    ".github/workflows/android.preview.firebase.yml",
+    ".github/workflows/android.publish.internal.yml",
+    ".github/workflows/android.publish.yml",
+    ".github/workflows/core.tests.yml",
+    ".github/workflows/desktop.preview.yml",
+    ".github/workflows/desktop.publish.yml",
+    ".github/workflows/desktop.tests.yml",
+    ".github/workflows/editor.tests.yml",
+    ".github/workflows/help.publish.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

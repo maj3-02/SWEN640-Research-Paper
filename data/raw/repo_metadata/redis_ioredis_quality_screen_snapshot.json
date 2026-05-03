@@ -1,0 +1,35 @@
+{
+  "repository_full_name": "redis/ioredis",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:51.045740+00:00",
+  "tree_sha": "0d510bbc1cfc8b01d862b76c408f6687f6e77809",
+  "tree_truncated": false,
+  "tree_path_count": 274,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/cluster",
+    "test/cluster/basic.ts",
+    "test/cluster/cluster_subscriber_group.ts",
+    "test/cluster/docker",
+    "test/cluster/docker/Dockerfile",
+    "test/cluster/docker/main.sh",
+    "test/docker-compose.yml",
+    "test/functional",
+    "test/functional/auth.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/manual.yml",
+    ".github/workflows/push-requests.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/stale-issues.yml",
+    ".github/workflows/test.yml",
+    ".github/workflows/test_with_cov.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    "CODE_OF_CONDUCT.md"
+  ]
+}

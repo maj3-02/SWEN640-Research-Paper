@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "sahat/hackathon-starter",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:34.015109+00:00",
+  "tree_sha": "299cf7db109367cce0c8ceeafc09c4cb8675cb3f",
+  "tree_truncated": false,
+  "tree_path_count": 173,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/.env.test",
+    "test/TESTING.md",
+    "test/app-links.test.js",
+    "test/app.test.js",
+    "test/contact.test.js",
+    "test/docs-links.test.js",
+    "test/e2e-nokey",
+    "test/e2e-nokey/github-api.e2e.test.js",
+    "test/e2e-nokey/lastfm.e2e.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build.yml",
+    ".github/workflows/dependabot-automerge.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "SECURITY.md"
+  ]
+}

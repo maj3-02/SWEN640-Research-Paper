@@ -1,0 +1,22 @@
+{
+  "repository_full_name": "whyour/qinglong",
+  "default_branch": "develop",
+  "fetched_at_utc": "2026-04-28T19:19:24.650628+00:00",
+  "tree_sha": "66700ebe1a02e675542538737f97ccf874a6b4d5",
+  "tree_truncated": false,
+  "tree_path_count": 277,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-docker-image.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "SECURITY.md"
+  ]
+}

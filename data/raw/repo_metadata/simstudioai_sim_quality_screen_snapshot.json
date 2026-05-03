@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "simstudioai/sim",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:48.875359+00:00",
+  "tree_sha": "489f2d3bd0f5bc27a7e698be6b03fe3e12937518",
+  "tree_truncated": false,
+  "tree_path_count": 11425,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/realtime/src/handlers/workflow.test.ts",
+    "apps/realtime/src/index.test.ts",
+    "apps/realtime/src/middleware/permissions.test.ts",
+    "apps/realtime/src/tests",
+    "apps/realtime/src/tests/socket-server.test.ts",
+    "apps/sim/app/(landing)/models/utils.test.ts",
+    "apps/sim/app/(landing)/seo.test.ts",
+    "apps/sim/app/api/auth/[...all]/route.test.ts",
+    "apps/sim/app/api/auth/forget-password/route.test.ts",
+    "apps/sim/app/api/auth/oauth/connections/route.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/docs-embeddings.yml",
+    ".github/workflows/i18n.yml",
+    ".github/workflows/images.yml",
+    ".github/workflows/migrations.yml",
+    ".github/workflows/publish-cli.yml",
+    ".github/workflows/publish-python-sdk.yml",
+    ".github/workflows/publish-ts-sdk.yml",
+    ".github/workflows/test-build.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    ".github/SECURITY.md"
+  ]
+}

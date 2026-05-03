@@ -1,0 +1,46 @@
+{
+  "repository_full_name": "super-productivity/super-productivity",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:27.578351+00:00",
+  "tree_sha": "077bed154bc9be4746f928f1abc2ca432b56fcb7",
+  "tree_truncated": false,
+  "tree_path_count": 4513,
+  "has_tests": true,
+  "matched_test_paths": [
+    "android/app/src/test",
+    "android/app/src/test/java",
+    "android/app/src/test/java/com",
+    "android/app/src/test/java/com/superproductivity",
+    "android/app/src/test/java/com/superproductivity/superproductivity",
+    "android/app/src/test/java/com/superproductivity/superproductivity/ExampleUnitTest.java",
+    "e2e",
+    "e2e/.gitignore",
+    "e2e/CLAUDE.md",
+    "e2e/README.md"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/auto-publish-google-play-on-release.yml",
+    ".github/workflows/build-android.yml",
+    ".github/workflows/build-create-windows-store-on-release.yml",
+    ".github/workflows/build-ios.yml",
+    ".github/workflows/build-publish-to-aur-on-release.yml",
+    ".github/workflows/build-publish-to-mac-store-on-release.yml",
+    ".github/workflows/build-publish-to-snap-on-release.yml",
+    ".github/workflows/build-update-web-app-on-release.yml",
+    ".github/workflows/build.yml",
+    ".github/workflows/ci.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/ISSUE_TEMPLATE/internal_error_report.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

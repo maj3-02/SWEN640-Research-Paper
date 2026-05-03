@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "grafana/grafana",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:00.516243+00:00",
+  "tree_sha": "3727e122ed2d74b364562bd841db20611ce29ea0",
+  "tree_truncated": false,
+  "tree_path_count": 25906,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/alerting/historian/plugin/src/generated/dummy/v0alpha1/types.spec.gen.ts",
+    "apps/alerting/rules/plugin/src/generated/alertrule/v0alpha1/types.spec.gen.ts",
+    "apps/alerting/rules/plugin/src/generated/recordingrule/v0alpha1/types.spec.gen.ts",
+    "apps/annotation/plugin/src/generated/annotation/v0alpha1/types.spec.gen.ts",
+    "apps/correlations/plugin/src/generated/correlation/v0alpha1/types.spec.gen.ts",
+    "apps/dashvalidator/plugin/src/generated/dashboardcompatibilityscore/v1alpha1/types.spec.gen.ts",
+    "apps/example/plugin/src/generated/example/v0alpha1/types.spec.gen.ts",
+    "apps/example/plugin/src/generated/example/v1alpha1/types.spec.gen.ts",
+    "apps/example/plugin/src/generated/examplekind/v1alpha1/types.spec.gen.ts",
+    "apps/logsdrilldown/plugin/src/generated/logsdrilldown/v1alpha1/types.spec.gen.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/actionlint-format.txt",
+    ".github/workflows/actionlint.yml",
+    ".github/workflows/add-to-whats-new.yml",
+    ".github/workflows/alerting-swagger-gen.yml",
+    ".github/workflows/alerting-update-module.yml",
+    ".github/workflows/analytics-events-report.yml",
+    ".github/workflows/auto-milestone.yml",
+    ".github/workflows/auto-triager",
+    ".github/workflows/auto-triager/labels.txt",
+    ".github/workflows/auto-triager/prompt.txt"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/0-bug-report.yaml",
+    ".github/ISSUE_TEMPLATE/1-feature_requests.md",
+    ".github/ISSUE_TEMPLATE/2-accessibility.md",
+    ".github/ISSUE_TEMPLATE/3-data_source_request.yaml",
+    ".github/ISSUE_TEMPLATE/4-staff_issues.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "GOVERNANCE.md"
+  ]
+}

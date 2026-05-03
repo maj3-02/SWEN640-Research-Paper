@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "adonisjs/core",
+  "default_branch": "7.x",
+  "fetched_at_utc": "2026-04-28T19:19:27.799553+00:00",
+  "tree_sha": "b00e84f132f55b081dbafb3a2ba7537d0d40c58f",
+  "tree_truncated": false,
+  "tree_path_count": 286,
+  "has_tests": true,
+  "matched_test_paths": [
+    "stubs/make/test",
+    "stubs/make/test/main.stub",
+    "tests",
+    "tests/ace",
+    "tests/ace/base_command.spec.ts",
+    "tests/ace/codemods.spec.ts",
+    "tests/ace/kernel.spec.ts",
+    "tests/bindings",
+    "tests/bindings/edge.spec.ts",
+    "tests/bindings/repl.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/checks.yml",
+    ".github/workflows/labels.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/stale.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

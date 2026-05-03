@@ -1,0 +1,20 @@
+{
+  "repository_full_name": "chenglou/pretext",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:15.943549+00:00",
+  "tree_sha": "bb224e08d08995cbad2c773ae22e0a00cb9616b1",
+  "tree_truncated": false,
+  "tree_path_count": 144,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/layout.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/pages.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "SECURITY.md"
+  ]
+}

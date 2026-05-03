@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "sveltejs/kit",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-26T23:03:27.742169+00:00",
+  "tree_sha": "c1d363390532d6b5d3c1aa607876daf79631d5b2",
+  "tree_truncated": false,
+  "tree_path_count": 4066,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/adapter-auto/test",
+    "packages/adapter-auto/test/adapters.spec.js",
+    "packages/adapter-cloudflare/test",
+    "packages/adapter-cloudflare/test/apps",
+    "packages/adapter-cloudflare/test/apps/pages",
+    "packages/adapter-cloudflare/test/apps/pages/.gitignore",
+    "packages/adapter-cloudflare/test/apps/pages/package.json",
+    "packages/adapter-cloudflare/test/apps/pages/playwright.config.js",
+    "packages/adapter-cloudflare/test/apps/pages/server-side-dep",
+    "packages/adapter-cloudflare/test/apps/pages/server-side-dep/index.d.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/audit.yml",
+    ".github/workflows/autofix-lint.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/platform-tests-all.yml",
+    ".github/workflows/platform-tests-vercel.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "repository_full_name": "OI-wiki/OI-wiki",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:54.731459+00:00",
+  "tree_sha": "00b2cc3d607ba15aa74f6e2f766fff43f724b0ae",
+  "tree_truncated": false,
+  "tree_path_count": 3201,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/__init__.py",
+    "test/linter",
+    "test/linter/__init__.py",
+    "test/linter/test_decorators.py",
+    "test/linter/test_postprocess.py",
+    "test/linter/test_preprocess.py",
+    "test/linter/test_skipblocks.py",
+    "test/linter/test_utils.py",
+    "test/test_linter_patch.py"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/Gitee.yml",
+    ".github/workflows/build-authors-cache.yml",
+    ".github/workflows/build-pdf-typst.yml",
+    ".github/workflows/build-pdf.yml",
+    ".github/workflows/build.yml",
+    ".github/workflows/celebration.yml",
+    ".github/workflows/check-characters.yml",
+    ".github/workflows/check-format.yml",
+    ".github/workflows/check-scripts.yml",
+    ".github/workflows/incrementally-build-pdf.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/content-bug.yml",
+    ".github/ISSUE_TEMPLATE/content-request.yml",
+    ".github/ISSUE_TEMPLATE/feature-request.yml",
+    ".github/ISSUE_TEMPLATE/request-for-comment.yml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md"
+  ]
+}

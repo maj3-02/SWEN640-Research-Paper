@@ -1,0 +1,17 @@
+{
+  "repository_full_name": "xifangczy/cat-catch",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:00.221625+00:00",
+  "tree_sha": "a154ceaa41fc7c0a29e53144d22457ce317fac62",
+  "tree_truncated": false,
+  "tree_path_count": 126,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug.yaml",
+    ".github/ISSUE_TEMPLATE/功能-添加-修改-增强-请求.md"
+  ]
+}

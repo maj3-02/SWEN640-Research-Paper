@@ -1,0 +1,40 @@
+{
+  "repository_full_name": "refined-github/refined-github",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:41.088995+00:00",
+  "tree_sha": "7414a085ce727498ebba2b1b01e6b645fb9e1093",
+  "tree_truncated": false,
+  "tree_path_count": 538,
+  "has_tests": true,
+  "matched_test_paths": [
+    "build/features.test.ts",
+    "build/readme-parser.test.ts",
+    "source/feature-renames.test.ts",
+    "source/github-helpers/bugs-label.test.ts",
+    "source/github-helpers/get-current-git-ref.test.ts",
+    "source/github-helpers/github-file-url.test.ts",
+    "source/github-helpers/hotkeys.test.ts",
+    "source/github-helpers/index.test.ts",
+    "source/github-helpers/parse-backticks.test.ts",
+    "source/github-helpers/parse-compare-url.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/actionlint.yml",
+    ".github/workflows/conversation.yml",
+    ".github/workflows/hotfixes.yml",
+    ".github/workflows/pr-etiquette.yml",
+    ".github/workflows/pr.yml",
+    ".github/workflows/relative-ci.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1_bug_report.yml",
+    ".github/ISSUE_TEMPLATE/2_feature_request.yml",
+    ".github/ISSUE_TEMPLATE/3_discussion.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/pull_request_template.md"
+  ]
+}

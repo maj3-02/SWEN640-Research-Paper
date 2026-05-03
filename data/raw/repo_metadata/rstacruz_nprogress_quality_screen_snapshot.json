@@ -1,0 +1,21 @@
+{
+  "repository_full_name": "rstacruz/nprogress",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:46.985063+00:00",
+  "tree_sha": "e1a8b7fb6e059085df5f83c45d3c2308a147ca18",
+  "tree_truncated": false,
+  "tree_path_count": 20,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/component.html",
+    "test/index.html",
+    "test/test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

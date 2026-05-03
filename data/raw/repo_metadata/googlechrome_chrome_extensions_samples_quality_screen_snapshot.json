@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "GoogleChrome/chrome-extensions-samples",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:06.983533+00:00",
+  "tree_sha": "c4393862e164d74d1b6112ced19f2a2bbe26506c",
+  "tree_truncated": false,
+  "tree_path_count": 4162,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".repo/sample-list-generator/test",
+    ".repo/sample-list-generator/test/api-detector",
+    ".repo/sample-list-generator/test/api-detector/api-detector.test.ts",
+    "_archive/apps/samples/calculator/tests",
+    "_archive/apps/samples/calculator/tests/calculator_test.html",
+    "_archive/apps/samples/calculator/tests/calculator_test.js",
+    "_archive/apps/samples/clock/tests",
+    "_archive/apps/samples/clock/tests/clock_test.html",
+    "_archive/apps/samples/clock/tests/clock_test.js",
+    "_archive/apps/samples/clock/tests/lib"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/lint.yml",
+    ".github/workflows/sample-list-generator.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    "CONTRIBUTING.md"
+  ]
+}

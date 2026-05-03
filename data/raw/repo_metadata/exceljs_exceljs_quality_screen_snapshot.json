@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "exceljs/exceljs",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:19.369329+00:00",
+  "tree_sha": "5bed18b45e824f409b08456b59b87430ded023ab",
+  "tree_truncated": false,
+  "tree_path_count": 620,
+  "has_tests": true,
+  "matched_test_paths": [
+    "spec",
+    "spec/.eslintrc",
+    "spec/.jshintrc",
+    "spec/browser",
+    "spec/browser/exceljs.spec.js",
+    "spec/config",
+    "spec/config/setup-unit.js",
+    "spec/config/setup.js",
+    "spec/dist",
+    "spec/dist/exceljs-dist.spec.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/asset-size.yml",
+    ".github/workflows/tests.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature.md",
+    ".github/ISSUE_TEMPLATE/question.md",
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "elastic/kibana",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:17.049487+00:00",
+  "tree_sha": "a44d705b4c2ba8925c48cedea88d05fec4b08925",
+  "tree_truncated": true,
+  "tree_path_count": 53013,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".buildkite/pipeline-utils/affected-packages/module_lookup.test.ts",
+    ".buildkite/pipeline-utils/agent_images.test.ts",
+    ".buildkite/pipeline-utils/buildkite/client.test.ts",
+    ".buildkite/pipeline-utils/buildkite/parse_link_header.test.ts",
+    ".buildkite/pipeline-utils/buildkite/utils.test.ts",
+    ".buildkite/pipeline-utils/ci-stats/get_tests_from_config.test.ts",
+    ".buildkite/pipeline-utils/github/github.test.ts",
+    ".buildkite/pipeline-utils/scout/test_distribution_strategies.test.ts",
+    ".buildkite/pipeline-utils/scout/test_tracks.test.ts",
+    ".buildkite/pipeline-utils/test-failures/annotate.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".buildkite/.npmrc",
+    ".buildkite/README.md",
+    ".buildkite/disabled_jest_configs.json",
+    ".buildkite/ftr_base_serverless_configs.yml",
+    ".buildkite/ftr_configs_manifests.json",
+    ".buildkite/ftr_oblt_serverless_configs.yml",
+    ".buildkite/ftr_oblt_stateful_configs.yml",
+    ".buildkite/ftr_platform_stateful_configs.yml",
+    ".buildkite/ftr_search_serverless_configs.yml",
+    ".buildkite/ftr_search_stateful_configs.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/Accessibility.md",
+    ".github/ISSUE_TEMPLATE/Bug_report.md",
+    ".github/ISSUE_TEMPLATE/Bug_report_security_solution.md",
+    ".github/ISSUE_TEMPLATE/Feature_request.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "docs/extend/contributing.md"
+  ]
+}

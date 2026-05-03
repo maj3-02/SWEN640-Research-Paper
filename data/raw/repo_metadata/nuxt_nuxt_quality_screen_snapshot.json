@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "nuxt/nuxt",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:04.270649+00:00",
+  "tree_sha": "fa68efdd784ed2591602018de849efeb042ea4c8",
+  "tree_truncated": false,
+  "tree_path_count": 1737,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/kit/src/ignore.test.ts",
+    "packages/kit/src/logger.test.ts",
+    "packages/kit/src/module/compatibility.test.ts",
+    "packages/kit/src/module/install.test.ts",
+    "packages/kit/src/resolve.test.ts",
+    "packages/kit/src/runtime-config.test.ts",
+    "packages/kit/test",
+    "packages/kit/test/async-nuxt-storage.spec.ts",
+    "packages/kit/test/components-fixture",
+    "packages/kit/test/components-fixture/Named.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/agent-scan.yml",
+    ".github/workflows/autofix-docs.yml",
+    ".github/workflows/autofix.yml",
+    ".github/workflows/cache-cleanup.yml",
+    ".github/workflows/changelog.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/dependency-review.yml",
+    ".github/workflows/detect-bot-opt-in.yml",
+    ".github/workflows/docs-check-links.yml",
+    ".github/workflows/docs-deploy.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug-report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature-request.yml",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

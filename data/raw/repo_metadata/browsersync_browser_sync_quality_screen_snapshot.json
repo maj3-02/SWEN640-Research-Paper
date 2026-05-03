@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "BrowserSync/browser-sync",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:44.032289+00:00",
+  "tree_sha": "dc74bc0a6bcbe70eea5f2f94b524b2902436efb1",
+  "tree_truncated": false,
+  "tree_path_count": 901,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/browser-sync-client/test",
+    "packages/browser-sync-client/test/.jshintrc",
+    "packages/browser-sync-client/test/client-new",
+    "packages/browser-sync-client/test/client-new/bs.options.js",
+    "packages/browser-sync-client/test/client-new/code-sync.js",
+    "packages/browser-sync-client/test/client-new/emitter.js",
+    "packages/browser-sync-client/test/client-new/ghostmode.click.js",
+    "packages/browser-sync-client/test/client-new/ghostmode.forms.inputs.js",
+    "packages/browser-sync-client/test/client-new/ghostmode.forms.js",
+    "packages/browser-sync-client/test/client-new/ghostmode.forms.submit.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/main.yml",
+    ".travis.yml",
+    "packages/browser-sync-client/.travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md"
+  ]
+}

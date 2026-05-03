@@ -1,0 +1,16 @@
+{
+  "repository_full_name": "snarktank/ralph",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:33.390302+00:00",
+  "tree_sha": "6c53cb0b831ebe8739c6a003e22af14902d8b0b5",
+  "tree_truncated": false,
+  "tree_path_count": 41,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/deploy.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

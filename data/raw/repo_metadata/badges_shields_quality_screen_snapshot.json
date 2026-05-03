@@ -1,0 +1,46 @@
+{
+  "repository_full_name": "badges/shields",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:46.534028+00:00",
+  "tree_sha": "7dcac623696509bfc2bb8b365aa2cc486913a848",
+  "tree_truncated": false,
+  "tree_path_count": 1742,
+  "has_tests": true,
+  "matched_test_paths": [
+    "__snapshots__/make-badge.spec.js",
+    "badge-maker/lib/badge-cli.spec.js",
+    "badge-maker/lib/color.spec.js",
+    "badge-maker/lib/index.spec.js",
+    "badge-maker/lib/make-badge.spec.js",
+    "badge-maker/lib/xml.spec.js",
+    "core/badge-urls/path-helpers.spec.js",
+    "core/base-service/auth-helper.spec.js",
+    "core/base-service/base-graphql.spec.js",
+    "core/base-service/base-json.spec.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-docker-image.yml",
+    ".github/workflows/cleanup-review-apps.yml",
+    ".github/workflows/coveralls-code-coverage.yml",
+    ".github/workflows/create-release.yml",
+    ".github/workflows/daily-tests.yml",
+    ".github/workflows/danger.yml",
+    ".github/workflows/deploy-docs.yml",
+    ".github/workflows/deploy-review-app.yml",
+    ".github/workflows/docusaurus-swizzled-warning.yml",
+    ".github/workflows/draft-release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1_Bug_report.yml",
+    ".github/ISSUE_TEMPLATE/2_Failing_service_test.md",
+    ".github/ISSUE_TEMPLATE/3_Badge_request.yml",
+    ".github/ISSUE_TEMPLATE/4_Feature_request.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

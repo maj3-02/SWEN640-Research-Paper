@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "karakeep-app/karakeep",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:59.482080+00:00",
+  "tree_sha": "d83e50c8c6cc3834ff36f2c8f37b0c0325872a8f",
+  "tree_truncated": false,
+  "tree_path_count": 2083,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/workers/workers/utils/feedParser.test.ts",
+    "packages/api/middlewares/rateLimit.test.ts",
+    "packages/e2e_tests/tests",
+    "packages/e2e_tests/tests/api",
+    "packages/e2e_tests/tests/api/assets.test.ts",
+    "packages/e2e_tests/tests/api/backups.test.ts",
+    "packages/e2e_tests/tests/api/bookmarks.test.ts",
+    "packages/e2e_tests/tests/api/feeds.test.ts",
+    "packages/e2e_tests/tests/api/highlights.test.ts",
+    "packages/e2e_tests/tests/api/lists.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/android.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/claude.yml",
+    ".github/workflows/cli.yml",
+    ".github/workflows/docker.yml",
+    ".github/workflows/extension.yml",
+    ".github/workflows/ios.yml",
+    ".github/workflows/mcp.yml",
+    ".github/workflows/sdk.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/ISSUE_TEMPLATE/question.yml",
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

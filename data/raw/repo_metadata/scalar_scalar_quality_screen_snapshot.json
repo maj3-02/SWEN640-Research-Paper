@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "scalar/scalar",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:54.712459+00:00",
+  "tree_sha": "693f932d15e5de6ede2eeee851d6fea12bae41f7",
+  "tree_truncated": false,
+  "tree_path_count": 7366,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".agents/skills/tests",
+    ".agents/skills/tests/SKILL.md",
+    "examples/nestjs/nestjs-api-reference-express/test",
+    "examples/nestjs/nestjs-api-reference-express/test/app.e2e-spec.ts",
+    "examples/nestjs/nestjs-api-reference-express/test/jest-e2e.json",
+    "examples/nestjs/nestjs-api-reference-fastify/test",
+    "examples/nestjs/nestjs-api-reference-fastify/test/app.e2e-spec.ts",
+    "examples/nestjs/nestjs-api-reference-fastify/test/jest-e2e.json",
+    "integrations/django-ninja/tests",
+    "integrations/django-ninja/tests/README.md"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/blacksmith-cleanup.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/dependency-review.yml",
+    ".github/workflows/lint-pr.yml",
+    ".github/workflows/renovate-config-validation.yml",
+    ".github/workflows/scalar-registry-preview-delete.yml",
+    ".github/workflows/update-contributors.yml",
+    ".github/workflows/update-scalar-cli-documentation.yml",
+    ".github/workflows/validate-scalar-configuration.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/BUG-REPORT.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

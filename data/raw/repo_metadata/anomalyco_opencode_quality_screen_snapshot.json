@@ -1,0 +1,44 @@
+{
+  "repository_full_name": "anomalyco/opencode",
+  "default_branch": "dev",
+  "fetched_at_utc": "2026-04-28T19:17:50.309729+00:00",
+  "tree_sha": "276d1620448ae502275dafe012efd8ca693a5abd",
+  "tree_truncated": false,
+  "tree_path_count": 5198,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/app/e2e",
+    "packages/app/e2e/todo.spec.ts",
+    "packages/app/e2e/tsconfig.json",
+    "packages/app/src/addons/serialize.test.ts",
+    "packages/app/src/components/dialog-custom-provider.test.ts",
+    "packages/app/src/components/file-tree.test.ts",
+    "packages/app/src/components/prompt-input/attachments.test.ts",
+    "packages/app/src/components/prompt-input/build-request-parts.test.ts",
+    "packages/app/src/components/prompt-input/editor-dom.test.ts",
+    "packages/app/src/components/prompt-input/history.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/beta.yml",
+    ".github/workflows/close-issues.yml",
+    ".github/workflows/close-stale-prs.yml",
+    ".github/workflows/compliance-close.yml",
+    ".github/workflows/containers.yml",
+    ".github/workflows/daily-issues-recap.yml",
+    ".github/workflows/daily-pr-recap.yml",
+    ".github/workflows/deploy.yml",
+    ".github/workflows/docs-locale-sync.yml",
+    ".github/workflows/docs-update.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug-report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature-request.yml",
+    ".github/ISSUE_TEMPLATE/question.yml",
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

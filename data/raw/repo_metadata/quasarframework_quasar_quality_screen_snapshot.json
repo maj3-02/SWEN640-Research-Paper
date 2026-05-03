@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "quasarframework/quasar",
+  "default_branch": "dev",
+  "fetched_at_utc": "2026-04-28T19:16:44.956091+00:00",
+  "tree_sha": "5e2b062f5fa6386b8f5a3977d3d9379b2df48670",
+  "tree_truncated": false,
+  "tree_path_count": 5130,
+  "has_tests": true,
+  "matched_test_paths": [
+    "ui/src/components/avatar/QAvatar.test.js",
+    "ui/src/components/badge/QBadge.test.js",
+    "ui/src/components/banner/QBanner.test.js",
+    "ui/src/components/bar/QBar.test.js",
+    "ui/src/components/breadcrumbs/QBreadcrumbs.test.js",
+    "ui/src/components/breadcrumbs/QBreadcrumbsEl.test.js",
+    "ui/src/components/breadcrumbs/test",
+    "ui/src/components/breadcrumbs/test/BasicBreadcrumbs.vue",
+    "ui/src/components/breadcrumbs/test/BreadcrumbWithSeparatorSlot.vue",
+    "ui/src/components/btn/QBtn.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-types.yml",
+    ".github/workflows/comment-build-results.yml",
+    ".github/workflows/process-created-issue.yml",
+    ".github/workflows/project-creation-tests.yml",
+    ".github/workflows/release-notes.yml",
+    ".github/workflows/tests-on-pr-report.yml",
+    ".github/workflows/tests-on-pr.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug-report--quasar-v2.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/docs-report--quasar-v2.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

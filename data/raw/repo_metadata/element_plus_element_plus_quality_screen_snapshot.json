@@ -1,0 +1,41 @@
+{
+  "repository_full_name": "element-plus/element-plus",
+  "default_branch": "dev",
+  "fetched_at_utc": "2026-04-28T19:18:49.954374+00:00",
+  "tree_sha": "87fb0ab045ca1ecd6c50ba305616ca9bf10bba64",
+  "tree_truncated": false,
+  "tree_path_count": 3371,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/components/affix/__tests__",
+    "packages/components/affix/__tests__/affix.test.tsx",
+    "packages/components/alert/__tests__",
+    "packages/components/alert/__tests__/alert.test.tsx",
+    "packages/components/anchor/__tests__",
+    "packages/components/anchor/__tests__/__snapshots__",
+    "packages/components/anchor/__tests__/__snapshots__/anchor.test.tsx.snap",
+    "packages/components/anchor/__tests__/anchor.test.tsx",
+    "packages/components/autocomplete/__tests__",
+    "packages/components/autocomplete/__tests__/autocomplete.test.tsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/issue-duplicate.yml",
+    ".github/workflows/issue-inactive.yml",
+    ".github/workflows/issue-labeled.yml",
+    ".github/workflows/issue-open-check.yml",
+    ".github/workflows/issue-remove-inactive.yml",
+    ".github/workflows/lint-commit-message-post.yml",
+    ".github/workflows/lint-commit-message.yml",
+    ".github/workflows/lint-typecheck.yml",
+    ".github/workflows/pr-comment.yml",
+    ".github/workflows/pr-conflict.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "repository_full_name": "immerjs/immer",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:40.262468+00:00",
+  "tree_sha": "cdccf1a6d0d349ad587a736f0eb8a3da43fc7747",
+  "tree_truncated": false,
+  "tree_path_count": 199,
+  "has_tests": true,
+  "matched_test_paths": [
+    "__tests__",
+    "__tests__/__prod_snapshots__",
+    "__tests__/__prod_snapshots__/base.js.snap",
+    "__tests__/__prod_snapshots__/curry.js.snap",
+    "__tests__/__prod_snapshots__/frozen.js.snap",
+    "__tests__/__prod_snapshots__/manual.js.snap",
+    "__tests__/__prod_snapshots__/patch.js.snap",
+    "__tests__/__prod_snapshots__/plugins.js.snap",
+    "__tests__/__prod_snapshots__/readme.js.snap",
+    "__tests__/__snapshots__"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/docs-public.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug.md",
+    ".github/ISSUE_TEMPLATE/feature.md",
+    ".github/ISSUE_TEMPLATE/question.md",
+    "SECURITY.md",
+    "website/docs/support.md",
+    "website/i18n/zh-CN/docusaurus-plugin-content-docs/current/support.md"
+  ]
+}

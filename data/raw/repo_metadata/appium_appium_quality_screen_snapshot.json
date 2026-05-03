@@ -1,0 +1,45 @@
+{
+  "repository_full_name": "appium/appium",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:14.060274+00:00",
+  "tree_sha": "79370cd3076b0e0d630b839a5f616414077aa8dd",
+  "tree_truncated": false,
+  "tree_path_count": 1118,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/appium/test",
+    "packages/appium/test/e2e",
+    "packages/appium/test/e2e/args.e2e.spec.ts",
+    "packages/appium/test/e2e/cli-driver.e2e.spec.ts",
+    "packages/appium/test/e2e/cli-plugin.e2e.spec.ts",
+    "packages/appium/test/e2e/config-file.e2e.spec.ts",
+    "packages/appium/test/e2e/config.e2e.spec.ts",
+    "packages/appium/test/e2e/driver.e2e.spec.ts",
+    "packages/appium/test/e2e/e2e-helpers.ts",
+    "packages/appium/test/e2e/local.e2e.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/auto-labeler.yml",
+    ".github/workflows/build.yml",
+    ".github/workflows/clean-cache.yml",
+    ".github/workflows/crowdin-stats.yml",
+    ".github/workflows/crowdin-sync-docs-translations.yml",
+    ".github/workflows/crowdin-update-docs-resources.yml",
+    ".github/workflows/deploy.yml",
+    ".github/workflows/docs.yml",
+    ".github/workflows/fossa.yml",
+    ".github/workflows/github-contrib-stats.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "GOVERNANCE.md",
+    "packages/appium/docs/en/guides/security.md",
+    "packages/appium/docs/ja/guides/security.md",
+    "packages/appium/docs/zh/guides/security.md"
+  ]
+}

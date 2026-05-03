@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "microsoft/vscode",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:50.026655+00:00",
+  "tree_sha": "48784ebe96ab1bea5edad042fcdcc19b63d44905",
+  "tree_truncated": false,
+  "tree_path_count": 18335,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".eslint-plugin-local/tests",
+    ".eslint-plugin-local/tests/code-no-observable-get-in-reactive-context-test.ts",
+    ".eslint-plugin-local/tests/code-no-reader-after-await-test.ts",
+    ".vscode/extensions/vscode-selfhost-test-provider/src/v8CoverageWrangling.test.ts",
+    "build/lib/test",
+    "build/lib/test/booleanPolicy.test.ts",
+    "build/lib/test/checkCyclicDependencies.test.ts",
+    "build/lib/test/fixtures",
+    "build/lib/test/fixtures/policies",
+    "build/lib/test/fixtures/policies/darwin"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/api-proposal-version-check.yml",
+    ".github/workflows/chat-lib-package.yml",
+    ".github/workflows/chat-perf.yml",
+    ".github/workflows/check-clean-git-state.sh",
+    ".github/workflows/component-fixture-tests.yml",
+    ".github/workflows/copilot-setup-steps.yml",
+    ".github/workflows/monaco-editor.yml",
+    ".github/workflows/no-engineering-system-changes.yml",
+    ".github/workflows/pr-darwin-test.yml",
+    ".github/workflows/pr-linux-cli-test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/copilot_bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "cli/CONTRIBUTING.md",
+    "extensions/CONTRIBUTING.md",
+    "extensions/copilot/CODE_OF_CONDUCT.md"
+  ]
+}

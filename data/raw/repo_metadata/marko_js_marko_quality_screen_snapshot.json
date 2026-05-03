@@ -1,0 +1,35 @@
+{
+  "repository_full_name": "marko-js/marko",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:24.705951+00:00",
+  "tree_sha": "b60f29fbad7e64d890e0f1baedfea4c8047c34e5",
+  "tree_truncated": false,
+  "tree_path_count": 15964,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/runtime-class/test",
+    "packages/runtime-class/test/.gitignore",
+    "packages/runtime-class/test/__util__",
+    "packages/runtime-class/test/__util__/BrowserHelpers.js",
+    "packages/runtime-class/test/__util__/async-helpers.js",
+    "packages/runtime-class/test/__util__/async-test-suite.js",
+    "packages/runtime-class/test/__util__/components-from-meta.js",
+    "packages/runtime-class/test/__util__/create-marko-jsdom-module.js",
+    "packages/runtime-class/test/__util__/domToHTML.js",
+    "packages/runtime-class/test/__util__/domToString.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/Bug_report.md",
+    ".github/ISSUE_TEMPLATE/Feature_request.md",
+    ".github/ISSUE_TEMPLATE/Support_question.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "SECURITY.md"
+  ]
+}

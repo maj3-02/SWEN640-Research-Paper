@@ -1,0 +1,41 @@
+{
+  "repository_full_name": "makeplane/plane",
+  "default_branch": "preview",
+  "fetched_at_utc": "2026-04-28T19:18:14.054003+00:00",
+  "tree_sha": "a40e064448e5d5e185b01f87b44300ea14553735",
+  "tree_truncated": false,
+  "tree_path_count": 6096,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/api/plane/db/models/integration",
+    "apps/api/plane/db/models/integration/__init__.py",
+    "apps/api/plane/db/models/integration/base.py",
+    "apps/api/plane/db/models/integration/github.py",
+    "apps/api/plane/db/models/integration/slack.py",
+    "apps/api/plane/tests",
+    "apps/api/plane/tests/README.md",
+    "apps/api/plane/tests/TESTING_GUIDE.md",
+    "apps/api/plane/tests/__init__.py",
+    "apps/api/plane/tests/apps.py"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-branch.yml",
+    ".github/workflows/check-version.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/copyright-check.yml",
+    ".github/workflows/feature-deployment.yml",
+    ".github/workflows/pull-request-build-lint-api.yml",
+    ".github/workflows/pull-request-build-lint-web-apps.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/--bug-report.yaml",
+    ".github/ISSUE_TEMPLATE/--feature-request.yaml",
+    ".github/ISSUE_TEMPLATE/config.yaml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

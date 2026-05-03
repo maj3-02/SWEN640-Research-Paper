@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "mattermost-community/focalboard",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:54.255717+00:00",
+  "tree_sha": "a84bbb65e32edf972856b329417096ac413518e9",
+  "tree_truncated": false,
+  "tree_path_count": 2007,
+  "has_tests": true,
+  "matched_test_paths": [
+    "import/jira/jiraImporter.test.ts",
+    "import/jira/test",
+    "import/jira/test/jira-export.xml",
+    "webapp/cypress",
+    "webapp/cypress/config.json",
+    "webapp/cypress/global.d.ts",
+    "webapp/cypress/integration",
+    "webapp/cypress/integration/cardBadges.ts",
+    "webapp/cypress/integration/cardURLProperty.ts",
+    "webapp/cypress/integration/createBoard.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/dev-release.yml",
+    ".github/workflows/lint-server.yml",
+    ".github/workflows/prod-release.yml",
+    ".github/workflows/scorecards-analysis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/doc_improvement.md",
+    ".github/ISSUE_TEMPLATE/enhancement.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

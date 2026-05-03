@@ -1,0 +1,16 @@
+{
+  "repository_full_name": "Tencent/vConsole",
+  "default_branch": "dev",
+  "fetched_at_utc": "2026-04-28T19:19:37.317841+00:00",
+  "tree_sha": "de7026df97148799c3efcd29577e3eda0788362f",
+  "tree_truncated": false,
+  "tree_path_count": 166,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md"
+  ]
+}

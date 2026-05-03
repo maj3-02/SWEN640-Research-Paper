@@ -1,0 +1,16 @@
+{
+  "repository_full_name": "dzhng/deep-research",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:28.469139+00:00",
+  "tree_sha": "1f8f3e285bbc23e80b98a66a64effab9069f3ad4",
+  "tree_truncated": false,
+  "tree_path_count": 23,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/ai/text-splitter.test.ts"
+  ],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

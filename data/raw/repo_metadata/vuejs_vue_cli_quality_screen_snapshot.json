@@ -1,0 +1,32 @@
+{
+  "repository_full_name": "vuejs/vue-cli",
+  "default_branch": "dev",
+  "fetched_at_utc": "2026-04-28T19:16:39.132824+00:00",
+  "tree_sha": "7eb93c169c7520935252e2473387f923ef80d856",
+  "tree_truncated": false,
+  "tree_path_count": 1298,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/@vue/babel-preset-app/__tests__",
+    "packages/@vue/babel-preset-app/__tests__/babel-preset.spec.js",
+    "packages/@vue/cli-plugin-babel/__tests__",
+    "packages/@vue/cli-plugin-babel/__tests__/babelMigrator.spec.js",
+    "packages/@vue/cli-plugin-babel/__tests__/babelRuntime.spec.js",
+    "packages/@vue/cli-plugin-babel/__tests__/transpileDependencies.spec.js",
+    "packages/@vue/cli-plugin-babel/codemods/__tests__",
+    "packages/@vue/cli-plugin-babel/codemods/__tests__/usePluginPreset.spec.js",
+    "packages/@vue/cli-plugin-e2e-cypress/__tests__",
+    "packages/@vue/cli-plugin-e2e-cypress/__tests__/cypressPlugin.spec.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/config.yml",
+    "appveyor.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

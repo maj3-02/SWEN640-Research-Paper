@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "jarrodwatts/claude-hud",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-26T23:03:26.414488+00:00",
+  "tree_sha": "64a80990ca39cb35cc1a23e2d6bd69183d2f88c4",
+  "tree_truncated": false,
+  "tree_path_count": 279,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/config.test.js",
+    "tests/context-cache.test.js",
+    "tests/core.test.js",
+    "tests/effort.test.js",
+    "tests/external-usage.test.js",
+    "tests/extra-cmd.test.js",
+    "tests/fixtures",
+    "tests/fixtures/expected",
+    "tests/fixtures/expected/render-basic.txt"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-dist.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/claude.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "SUPPORT.md"
+  ]
+}

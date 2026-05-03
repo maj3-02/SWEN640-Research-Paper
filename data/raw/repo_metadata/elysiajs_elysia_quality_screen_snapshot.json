@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "elysiajs/elysia",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:32.970056+00:00",
+  "tree_sha": "56310be9617b826f862c985eae95ae823d95f097",
+  "tree_truncated": false,
+  "tree_path_count": 333,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/adapter",
+    "test/adapter/bun",
+    "test/adapter/bun/index.test.ts",
+    "test/adapter/web-standard",
+    "test/adapter/web-standard/cookie-to-header.test.ts",
+    "test/adapter/web-standard/map-compact-response.test.ts",
+    "test/adapter/web-standard/map-early-response.test.ts",
+    "test/adapter/web-standard/map-response.test.ts",
+    "test/adapter/web-standard/set-cookie.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/publish.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/2-bug-report.yml",
+    ".github/ISSUE_TEMPLATE/3-feature-request.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

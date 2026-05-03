@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "phaserjs/phaser",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:30.577127+00:00",
+  "tree_sha": "f3385c16dc1fab289ba32b9ee00f15ade345b468",
+  "tree_truncated": false,
+  "tree_path_count": 4093,
+  "has_tests": true,
+  "matched_test_paths": [
+    "scripts/tsgen/test",
+    "scripts/tsgen/test/bin",
+    "scripts/tsgen/test/bin/game.js",
+    "scripts/tsgen/test/bin/game.js.map",
+    "scripts/tsgen/test/output.txt",
+    "scripts/tsgen/test/src",
+    "scripts/tsgen/test/src/game.ts",
+    "scripts/tsgen/test/tsconfig.json",
+    "tests",
+    "tests/TESTING.md"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/lock-comments.yml",
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

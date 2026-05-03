@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "pugjs/pug",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-26T23:03:23.425920+00:00",
+  "tree_sha": "c323ed3e630b931bc04790efb509d34ac5927040",
+  "tree_truncated": false,
+  "tree_path_count": 1007,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/pug-attrs/test",
+    "packages/pug-attrs/test/index.test.js",
+    "packages/pug-error/test",
+    "packages/pug-error/test/index.test.js",
+    "packages/pug-filters/test",
+    "packages/pug-filters/test/__snapshots__",
+    "packages/pug-filters/test/__snapshots__/filter-aliases.test.js.snap",
+    "packages/pug-filters/test/__snapshots__/index.test.js.snap",
+    "packages/pug-filters/test/__snapshots__/per-filter-options-applied-to-nested-filters.test.js.snap",
+    "packages/pug-filters/test/cases"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/rollingversions.yml",
+    ".github/workflows/test.yml",
+    "packages/pug-walk/.travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "SECURITY.md"
+  ]
+}

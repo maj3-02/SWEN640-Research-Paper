@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "welldone-software/why-did-you-render",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:41.761172+00:00",
+  "tree_sha": "3ec3512d750c49448fe2241e26d05db9e42f0c21",
+  "tree_truncated": false,
+  "tree_path_count": 173,
+  "has_tests": true,
+  "matched_test_paths": [
+    "cypress",
+    "cypress/.eslintrc",
+    "cypress/babel.config.js",
+    "cypress/e2e",
+    "cypress/e2e/big_list.js",
+    "cypress/e2e/child-of-pure-component.js",
+    "cypress/e2e/clone-element.js",
+    "cypress/e2e/create-factory.js",
+    "cypress/e2e/hooks-use-context.js",
+    "cypress/e2e/hooks-use-memo-and-callback-child.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/main.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

@@ -1,0 +1,45 @@
+{
+  "repository_full_name": "facebook/docusaurus",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:03.070880+00:00",
+  "tree_sha": "8c05ce7e9bb632d5a50e79f6a4bc7dc30473b8d6",
+  "tree_truncated": false,
+  "tree_path_count": 5503,
+  "has_tests": true,
+  "matched_test_paths": [
+    "__tests__",
+    "__tests__/validate-package-json.test.ts",
+    "__tests__/validate-tsconfig.test.ts",
+    "argos/tests",
+    "argos/tests/screenshot.css",
+    "argos/tests/screenshot.spec.ts",
+    "packages/create-docusaurus/src/__tests__",
+    "packages/create-docusaurus/src/__tests__/utils.test.ts",
+    "packages/docusaurus-babel/src/__tests__",
+    "packages/docusaurus-babel/src/__tests__/babelTranslationsExtractor.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/argos.yml",
+    ".github/workflows/build-blog-only.yml",
+    ".github/workflows/build-hash-router.yml",
+    ".github/workflows/build-perf.yml",
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/continuous-releases.yml",
+    ".github/workflows/cspell-problem-matcher.json",
+    ".github/workflows/dependency-review.yml",
+    ".github/workflows/lighthouse-report.yml",
+    ".github/workflows/lighthouserc.json"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/documentation.yml",
+    ".github/ISSUE_TEMPLATE/feature.yml",
+    ".github/ISSUE_TEMPLATE/proposal.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

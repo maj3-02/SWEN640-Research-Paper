@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "BrainJS/brain.js",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:54.919163+00:00",
+  "tree_sha": "7c9db32d9c3894ae494e6497eb7b7a9ff28a6999",
+  "tree_truncated": false,
+  "tree_path_count": 235,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/activation/index.test.ts",
+    "src/activation/leaky-relu.test.ts",
+    "src/activation/relu.test.ts",
+    "src/activation/sigmoid.test.ts",
+    "src/activation/tanh.test.ts",
+    "src/autoencoder.test.ts",
+    "src/cross-validate.test.ts",
+    "src/feed-forward.end-to-end.test.ts",
+    "src/feed-forward.unit.test.ts",
+    "src/layer/activation.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/nodejs.yml",
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

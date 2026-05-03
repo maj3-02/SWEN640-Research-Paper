@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "blitz-js/blitz",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:20:01.146966+00:00",
+  "tree_sha": "b18f81873e641934043f791fec06e22f5fe5a86e",
+  "tree_truncated": false,
+  "tree_path_count": 1301,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/next13/src/auth/mutations/forgotPassword.test.ts",
+    "apps/next13/src/auth/mutations/resetPassword.test.ts",
+    "apps/toolkit-app-passportjs/test",
+    "apps/toolkit-app-passportjs/test/setup.ts",
+    "apps/toolkit-app/src/auth/mutations/forgotPassword.test.ts",
+    "apps/toolkit-app/src/auth/mutations/resetPassword.test.ts",
+    "apps/web/test",
+    "apps/web/test/hello.unit.test.ts",
+    "apps/web/test/setup.ts",
+    "integration-tests/auth-with-rpc/test"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/changeset_check.yml",
+    ".github/workflows/main.yml",
+    ".github/workflows/pr-release.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "repository_full_name": "anomalyco/sst",
+  "default_branch": "dev",
+  "fetched_at_utc": "2026-04-28T19:18:54.994306+00:00",
+  "tree_sha": "d0e3b73869f79704ae2fb065545f3d608d37625a",
+  "tree_truncated": false,
+  "tree_path_count": 3472,
+  "has_tests": true,
+  "matched_test_paths": [
+    "cmd/sst/mosaic/multiplexer/tcell-term/tests",
+    "cmd/sst/mosaic/multiplexer/tcell-term/tests/README",
+    "cmd/sst/mosaic/multiplexer/tcell-term/tests/alt_reset",
+    "cmd/sst/mosaic/multiplexer/tcell-term/tests/clear_undlerine",
+    "cmd/sst/mosaic/multiplexer/tcell-term/tests/colored_reset",
+    "cmd/sst/mosaic/multiplexer/tcell-term/tests/colored_underline",
+    "cmd/sst/mosaic/multiplexer/tcell-term/tests/csi_rep",
+    "cmd/sst/mosaic/multiplexer/tcell-term/tests/deccolm_reset",
+    "cmd/sst/mosaic/multiplexer/tcell-term/tests/delete_chars_reset",
+    "cmd/sst/mosaic/multiplexer/tcell-term/tests/delete_lines"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/check.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

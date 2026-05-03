@@ -1,0 +1,36 @@
+{
+  "repository_full_name": "Yeachan-Heo/oh-my-codex",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:52.761051+00:00",
+  "tree_sha": "0fdbb7ac272731f2e585333b48b1bccf551e9b72",
+  "tree_truncated": false,
+  "tree_path_count": 1149,
+  "has_tests": true,
+  "matched_test_paths": [
+    "crates/omx-runtime/tests",
+    "crates/omx-runtime/tests/execution.rs",
+    "crates/omx-sparkshell/tests",
+    "crates/omx-sparkshell/tests/execution.rs",
+    "crates/omx-sparkshell/tests/registry.rs",
+    "src/adapt/__tests__",
+    "src/adapt/__tests__/foundation.test.ts",
+    "src/adapt/__tests__/hermes.test.ts",
+    "src/agents/__tests__",
+    "src/agents/__tests__/definitions.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/dev-merge-issue-close.yml",
+    ".github/workflows/pr-check.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md"
+  ]
+}

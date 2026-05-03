@@ -1,0 +1,16 @@
+{
+  "repository_full_name": "gabrielecirulli/2048",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:34.868885+00:00",
+  "tree_sha": "478b6ec346e3787f589e4af751378d06ded4cbbc",
+  "tree_truncated": false,
+  "tree_path_count": 38,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md"
+  ]
+}

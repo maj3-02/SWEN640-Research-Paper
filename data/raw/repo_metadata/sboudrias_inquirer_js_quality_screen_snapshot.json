@@ -1,0 +1,32 @@
+{
+  "repository_full_name": "SBoudrias/Inquirer.js",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:13.307481+00:00",
+  "tree_sha": "4472e41159dc0b34fb6fb9486966b916847d4882",
+  "tree_truncated": false,
+  "tree_path_count": 302,
+  "has_tests": true,
+  "matched_test_paths": [
+    "integration",
+    "integration/cjs",
+    "integration/cjs/fixturePrompt.cjs",
+    "integration/cjs/integration.test.cjs",
+    "integration/cjs/package.json",
+    "integration/esm",
+    "integration/esm/fixturePrompt.mjs",
+    "integration/esm/integration.test.mjs",
+    "integration/esm/package.json",
+    "packages/checkbox/checkbox.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/dependabot-automerge.yml",
+    ".github/workflows/main.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

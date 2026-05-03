@@ -1,0 +1,46 @@
+{
+  "repository_full_name": "refinedev/refine",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:32.296203+00:00",
+  "tree_sha": "6d227f3aeeb4ed48e90cff21d6114484b9dacc34",
+  "tree_truncated": false,
+  "tree_path_count": 16106,
+  "has_tests": true,
+  "matched_test_paths": [
+    "cypress",
+    "cypress/cypress.config.ts",
+    "cypress/e2e",
+    "cypress/e2e/auth-antd",
+    "cypress/e2e/auth-antd/all.cy.ts",
+    "cypress/e2e/auth-auth0",
+    "cypress/e2e/auth-auth0/all.cy.ts",
+    "cypress/e2e/auth-chakra-ui",
+    "cypress/e2e/auth-chakra-ui/all.cy.ts",
+    "cypress/e2e/auth-google-login"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-examples.yml",
+    ".github/workflows/calibreapp-image-actions-dispatch.yml",
+    ".github/workflows/calibreapp-image-actions.yml",
+    ".github/workflows/documentation.yml",
+    ".github/workflows/example-previews-dispatch.yml",
+    ".github/workflows/pull-request.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/scripts",
+    ".github/workflows/scripts/build-example-chunks.js",
+    ".github/workflows/scripts/check-existing-doc-links.js"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/documentation.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "documentation/versioned_docs/version-3.xx.xx/contributing.md"
+  ]
+}

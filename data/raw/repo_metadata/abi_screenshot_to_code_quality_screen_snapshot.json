@@ -1,0 +1,29 @@
+{
+  "repository_full_name": "abi/screenshot-to-code",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:01.100313+00:00",
+  "tree_sha": "aaaa838548c3b545dc59ac501b7081365c613c92",
+  "tree_truncated": false,
+  "tree_path_count": 291,
+  "has_tests": true,
+  "matched_test_paths": [
+    "backend/tests",
+    "backend/tests/__init__.py",
+    "backend/tests/test_agent_tool_runtime.py",
+    "backend/tests/test_agent_tools.py",
+    "backend/tests/test_batching.py",
+    "backend/tests/test_codegen_utils.py",
+    "backend/tests/test_evals_openai_input_compare.py",
+    "backend/tests/test_image_generation_replicate.py",
+    "backend/tests/test_model_selection.py",
+    "backend/tests/test_openai_input_compare.py"
+  ],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/custom.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md"
+  ]
+}

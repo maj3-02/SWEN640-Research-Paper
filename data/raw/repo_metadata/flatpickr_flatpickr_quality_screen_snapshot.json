@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "flatpickr/flatpickr",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:42.762075+00:00",
+  "tree_sha": "548330e6e18871d6ca1ca78746c0e89cb12a0303",
+  "tree_truncated": false,
+  "tree_path_count": 141,
+  "has_tests": true,
+  "matched_test_paths": [
+    "__tests__",
+    "__tests__/build.spec.ts",
+    "__tests__/src",
+    "__tests__/src/index.spec.ts",
+    "__tests__/src/plugins",
+    "__tests__/src/plugins/monthSelect",
+    "__tests__/src/plugins/monthSelect/index.spec.ts",
+    "__tests__/src/plugins/rangePlugin.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/main.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md"
+  ]
+}

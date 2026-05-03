@@ -1,0 +1,41 @@
+{
+  "repository_full_name": "parcel-bundler/parcel",
+  "default_branch": "v2",
+  "fetched_at_utc": "2026-04-28T19:16:27.668829+00:00",
+  "tree_sha": "59484858a1a0bcbb71f74088956bb437a2db6505",
+  "tree_truncated": false,
+  "tree_path_count": 7440,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/configs/default/test",
+    "packages/configs/default/test/.babelrc",
+    "packages/configs/default/test/config.test.js",
+    "packages/core/codeframe/test",
+    "packages/core/codeframe/test/codeframe.test.js",
+    "packages/core/codeframe/test/fixtures",
+    "packages/core/codeframe/test/fixtures/a.js",
+    "packages/core/core/test",
+    "packages/core/core/test/AssetGraph.test.js",
+    "packages/core/core/test/BundleGraph.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/canary-release.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/dev-release.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/stale.yml",
+    ".github/workflows/tag-release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/Bug_Report.md",
+    ".github/ISSUE_TEMPLATE/Feature_Request.md",
+    ".github/ISSUE_TEMPLATE/RFC.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "packages/utils/parcelforvscode/CONTRIBUTING.md"
+  ]
+}

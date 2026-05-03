@@ -1,0 +1,20 @@
+{
+  "repository_full_name": "qeeqbox/social-analyzer",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-26T23:03:19.622555+00:00",
+  "tree_sha": "1ba0905e00d054aab833eb3693739c354db09e0f",
+  "tree_truncated": false,
+  "tree_path_count": 71,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/requirements.txt",
+    "test/test.sh"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/main.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

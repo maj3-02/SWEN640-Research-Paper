@@ -1,0 +1,17 @@
+{
+  "repository_full_name": "gildas-lormeau/SingleFile",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-26T23:03:25.403892+00:00",
+  "tree_sha": "7d556e71fa3a700d833116f77d31a8b9c3669643",
+  "tree_truncated": false,
+  "tree_path_count": 240,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md"
+  ]
+}

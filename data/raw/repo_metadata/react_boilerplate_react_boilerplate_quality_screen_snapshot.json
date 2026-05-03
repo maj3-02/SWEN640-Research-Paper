@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "react-boilerplate/react-boilerplate",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:39.583850+00:00",
+  "tree_sha": "d19099afeff64ecfb09133c06c1cb18c0d40887e",
+  "tree_truncated": false,
+  "tree_path_count": 433,
+  "has_tests": true,
+  "matched_test_paths": [
+    "app/components/A/tests",
+    "app/components/A/tests/index.test.js",
+    "app/components/Button/tests",
+    "app/components/Button/tests/A.test.js",
+    "app/components/Button/tests/StyledButton.test.js",
+    "app/components/Button/tests/Wrapper.test.js",
+    "app/components/Button/tests/index.test.js",
+    "app/components/Footer/tests",
+    "app/components/Footer/tests/Wrapper.test.js",
+    "app/components/Footer/tests/__snapshots__"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml",
+    "appveyor.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

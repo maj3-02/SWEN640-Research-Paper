@@ -1,0 +1,30 @@
+{
+  "repository_full_name": "Crosstalk-Solutions/project-nomad",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:58.499571+00:00",
+  "tree_sha": "9cbf8c2135d2d9533ef6cc65426ff09920f439ae",
+  "tree_truncated": false,
+  "tree_path_count": 390,
+  "has_tests": true,
+  "matched_test_paths": [
+    "admin/tests",
+    "admin/tests/bootstrap.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-admin-on-pr.yml",
+    ".github/workflows/build-disk-collector.yml",
+    ".github/workflows/build-primary-image.yml",
+    ".github/workflows/build-sidecar-updater.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/validate-collection-urls.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

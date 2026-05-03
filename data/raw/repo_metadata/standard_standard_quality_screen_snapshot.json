@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "standard/standard",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:39.985170+00:00",
+  "tree_sha": "753309b21bfd7c98e208e3fb45910ffd1bb95409",
+  "tree_truncated": false,
+  "tree_path_count": 120,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/api.js",
+    "test/cmd.js",
+    "test/external",
+    "test/external/clone.js",
+    "test/external/test.json",
+    "test/validate-config.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/add-to-project.yaml",
+    ".github/workflows/old-test.yml",
+    ".github/workflows/test-external.yml",
+    ".github/workflows/test-internal.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

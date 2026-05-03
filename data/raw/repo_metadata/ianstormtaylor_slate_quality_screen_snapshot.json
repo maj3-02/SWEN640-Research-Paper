@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "ianstormtaylor/slate",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:39.903976+00:00",
+  "tree_sha": "49510625a816635d5f1ea3e1469daaaa5e3e6084",
+  "tree_truncated": false,
+  "tree_path_count": 1872,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/slate-history/test",
+    "packages/slate-history/test/index.js",
+    "packages/slate-history/test/isHistory",
+    "packages/slate-history/test/isHistory/after-edit.js",
+    "packages/slate-history/test/isHistory/after-redo.js",
+    "packages/slate-history/test/isHistory/after-undo.js",
+    "packages/slate-history/test/isHistory/before-edit.js",
+    "packages/slate-history/test/jsx.d.ts",
+    "packages/slate-history/test/undo",
+    "packages/slate-history/test/undo/cursor"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/comment.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug-core.md",
+    ".github/ISSUE_TEMPLATE/bug-platform.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/request-feature.md",
+    ".github/ISSUE_TEMPLATE/request-improvement.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "docs/general/contributing.md"
+  ]
+}

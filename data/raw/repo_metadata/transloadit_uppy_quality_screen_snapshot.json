@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "transloadit/uppy",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:41.890572+00:00",
+  "tree_sha": "588e1c0f889a2131960c9f8493b96edb153221aa",
+  "tree_truncated": false,
+  "tree_path_count": 1467,
+  "has_tests": true,
+  "matched_test_paths": [
+    "examples/angular/src/app/app.component.spec.ts",
+    "examples/angular/tsconfig.spec.json",
+    "examples/react/test",
+    "examples/react/test/index.test.tsx",
+    "examples/sveltekit/src/components/test",
+    "examples/sveltekit/src/components/test/props-reactivity.svelte",
+    "examples/sveltekit/test",
+    "examples/sveltekit/test/index.test.ts",
+    "examples/vue/test",
+    "examples/vue/test/__screenshots__"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/bundlers.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/companion-deploy.yml",
+    ".github/workflows/lockfile_check.yml",
+    ".github/workflows/manual-cdn.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/1-bug.yml",
+    ".github/ISSUE_TEMPLATE/2-feature.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    "SECURITY.md"
+  ]
+}

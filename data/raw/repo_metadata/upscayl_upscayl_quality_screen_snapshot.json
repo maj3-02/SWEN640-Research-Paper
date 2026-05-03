@@ -1,0 +1,23 @@
+{
+  "repository_full_name": "upscayl/upscayl",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:18.055145+00:00",
+  "tree_sha": "a00d55fee90e0f9435d5eaa86e76700df8199af8",
+  "tree_truncated": false,
+  "tree_path_count": 346,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-windows.yml",
+    ".github/workflows/main.yml",
+    ".github/workflows/stale.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/doc_issue.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml"
+  ]
+}

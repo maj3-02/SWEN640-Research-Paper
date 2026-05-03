@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "vuejs/vue",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:48.836038+00:00",
+  "tree_sha": "9e88707940088cb1f4cd7dd210c9168a50dc347c",
+  "tree_truncated": false,
+  "tree_path_count": 612,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/compiler-sfc/test",
+    "packages/compiler-sfc/test/__snapshots__",
+    "packages/compiler-sfc/test/__snapshots__/compileScript.spec.ts.snap",
+    "packages/compiler-sfc/test/__snapshots__/cssVars.spec.ts.snap",
+    "packages/compiler-sfc/test/compileScript.spec.ts",
+    "packages/compiler-sfc/test/compileStyle.spec.ts",
+    "packages/compiler-sfc/test/compileTemplate.spec.ts",
+    "packages/compiler-sfc/test/cssVars.spec.ts",
+    "packages/compiler-sfc/test/parseComponent.spec.ts",
+    "packages/compiler-sfc/test/prefixIdentifiers.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/release-tag.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

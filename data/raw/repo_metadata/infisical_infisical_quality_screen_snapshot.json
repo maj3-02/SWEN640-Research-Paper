@@ -1,0 +1,45 @@
+{
+  "repository_full_name": "Infisical/infisical",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:53.419270+00:00",
+  "tree_sha": "6eeda08cee8c265bb70ad779ef88d8117a115d0b",
+  "tree_truncated": false,
+  "tree_path_count": 13166,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".env.test.example",
+    "backend/e2e-test/routes/v1/auth-invite.spec.ts",
+    "backend/e2e-test/routes/v1/auth-token.spec.ts",
+    "backend/e2e-test/routes/v1/identity.spec.ts",
+    "backend/e2e-test/routes/v1/login.spec.ts",
+    "backend/e2e-test/routes/v1/org.spec.ts",
+    "backend/e2e-test/routes/v1/project-env.spec.ts",
+    "backend/e2e-test/routes/v1/secret-approval-policy.spec.ts",
+    "backend/e2e-test/routes/v1/secret-folder.spec.ts",
+    "backend/e2e-test/routes/v1/secret-import.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/be-test-report.yml",
+    ".github/workflows/build-binaries.yml",
+    ".github/workflows/build-patroni-docker-img.yml",
+    ".github/workflows/check-api-for-breaking-changes.yml",
+    ".github/workflows/check-be-ts-and-lint.yml",
+    ".github/workflows/check-fe-ts-and-lint.yml",
+    ".github/workflows/check-migration-file-edited.yml",
+    ".github/workflows/check-non-re2-regex.yml",
+    ".github/workflows/generate-release-changelog.yml",
+    ".github/workflows/helm-release-infisical-core.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1.bug_report.md",
+    ".github/ISSUE_TEMPLATE/2.doc_bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "docs/CONTRIBUTING.MD"
+  ]
+}

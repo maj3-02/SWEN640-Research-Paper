@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "plouc/nivo",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:20:02.143126+00:00",
+  "tree_sha": "0d574c82a00246913990119dc9cde3a07f0b784a",
+  "tree_truncated": false,
+  "tree_path_count": 2092,
+  "has_tests": true,
+  "matched_test_paths": [
+    "cypress",
+    "cypress/cypress.config.ts",
+    "cypress/cypress.d.ts",
+    "cypress/cypress",
+    "cypress/cypress/support",
+    "cypress/cypress/support/commands.js",
+    "cypress/cypress/support/component-index.html",
+    "cypress/cypress/support/component.js",
+    "cypress/package.json",
+    "cypress/src"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    "CONTRIBUTING.md"
+  ]
+}

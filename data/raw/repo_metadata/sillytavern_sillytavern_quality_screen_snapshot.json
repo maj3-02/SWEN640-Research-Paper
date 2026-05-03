@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "SillyTavern/SillyTavern",
+  "default_branch": "release",
+  "fetched_at_utc": "2026-04-28T19:16:46.277773+00:00",
+  "tree_sha": "aa50edcf4561301ec5ef916b247f0ec34d3ac4b9",
+  "tree_truncated": false,
+  "tree_path_count": 1057,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/.eslintrc.cjs",
+    "tests/frontend",
+    "tests/frontend/MacroEngine.e2e.js",
+    "tests/frontend/MacroEnvBuilder.e2e.js",
+    "tests/frontend/MacroLexer.e2e.js",
+    "tests/frontend/MacroParser.e2e.js",
+    "tests/frontend/MacroRegistry.e2e.js",
+    "tests/frontend/MacroSlashCommands.e2e.js",
+    "tests/frontend/MacroStoryString.e2e.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/docker-publish.yml",
+    ".github/workflows/issues-auto-manager.yml",
+    ".github/workflows/issues-updates-on-merge.yml",
+    ".github/workflows/job-close-stale.yml",
+    ".github/workflows/npm-publish.yml",
+    ".github/workflows/on-close-handler.yml",
+    ".github/workflows/on-open-handler.yml",
+    ".github/workflows/pr-auto-manager.yml",
+    ".github/workflows/pr-check-merge-conflicts.yaml",
+    ".github/workflows/pr-checks.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug-report.yml",
+    ".github/ISSUE_TEMPLATE/feature-request.yml",
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

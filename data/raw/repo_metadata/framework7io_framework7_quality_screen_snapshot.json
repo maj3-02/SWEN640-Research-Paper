@@ -1,0 +1,29 @@
+{
+  "repository_full_name": "framework7io/framework7",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:02.119441+00:00",
+  "tree_sha": "301df420cfccfe1337624f7145e2837c34ad3bd5",
+  "tree_truncated": false,
+  "tree_path_count": 1722,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/issue-close-require.yml",
+    ".github/workflows/issue-labeled.yml",
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/ISSUE_TEMPLATE/framewor7-core-issue.md",
+    ".github/ISSUE_TEMPLATE/framewor7-react-issue.md",
+    ".github/ISSUE_TEMPLATE/framewor7-svelte-issue.md",
+    ".github/ISSUE_TEMPLATE/framewor7-vue-issue.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

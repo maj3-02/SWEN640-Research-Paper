@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "serverless/serverless",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:25.550444+00:00",
+  "tree_sha": "37f6e75403e179d8fc097752e5be54c851a94a04",
+  "tree_truncated": false,
+  "tree_path_count": 2647,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/engine/integration",
+    "packages/engine/integration/e2e",
+    "packages/engine/integration/e2e/e2e.test.js",
+    "packages/engine/integration/e2e/fixture",
+    "packages/engine/integration/e2e/fixture/serverless.containers.yml",
+    "packages/engine/integration/e2e/fixture/service",
+    "packages/engine/integration/e2e/fixture/service/package.json",
+    "packages/engine/integration/e2e/fixture/service/src",
+    "packages/engine/integration/e2e/fixture/service/src/index.js",
+    "packages/engine/test"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/check-cla.yml",
+    ".github/workflows/ci-binary-installer.yml",
+    ".github/workflows/ci-engine.yml",
+    ".github/workflows/ci-framework.yml",
+    ".github/workflows/ci-python.yml",
+    ".github/workflows/release-binary-installer.yml",
+    ".github/workflows/release-framework.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug-report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature-request.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "docs/sf/providers/aws/cli-reference/support.md"
+  ]
+}

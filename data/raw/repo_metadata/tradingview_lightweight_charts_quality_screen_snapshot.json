@@ -1,0 +1,37 @@
+{
+  "repository_full_name": "tradingview/lightweight-charts",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:48.646290+00:00",
+  "tree_sha": "868cae27bd1acafa0128d8d868ea740a59ae42ce",
+  "tree_truncated": false,
+  "tree_path_count": 1779,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/README.md",
+    "tests/e2e",
+    "tests/e2e/.eslintrc.cjs",
+    "tests/e2e/coverage",
+    "tests/e2e/coverage/coverage-config.ts",
+    "tests/e2e/coverage/coverage-test-cases.ts",
+    "tests/e2e/coverage/helpers",
+    "tests/e2e/coverage/helpers/get-coverage-test-cases.ts",
+    "tests/e2e/coverage/helpers/test-page-dummy.html"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/config.yml",
+    ".github/workflows/deploy.yml",
+    ".github/workflows/pkg-pr-new.yml",
+    ".github/workflows/size-limit.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/ISSUE_TEMPLATE/other.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md"
+  ]
+}

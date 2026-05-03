@@ -1,0 +1,36 @@
+{
+  "repository_full_name": "http-party/http-server",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:25.597051+00:00",
+  "tree_sha": "0d3b7bb5b6e8a59fd450ae2dca65870009cfcd8b",
+  "tree_truncated": false,
+  "tree_path_count": 168,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/304.test.js",
+    "test/accept-encoding.test.js",
+    "test/allowed-hosts.test.js",
+    "test/cache.test.js",
+    "test/check-headers.js",
+    "test/cli.test.js",
+    "test/compression.test.js",
+    "test/content-type.test.js",
+    "test/coop.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/node.js.yml",
+    ".github/workflows/release-drafter.yml",
+    ".github/workflows/stale.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug-report.md",
+    ".github/ISSUE_TEMPLATE/feature-request.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "SECURITY.md"
+  ]
+}

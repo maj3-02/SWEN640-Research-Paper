@@ -1,0 +1,44 @@
+{
+  "repository_full_name": "compiler-explorer/compiler-explorer",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:29.447943+00:00",
+  "tree_sha": "d845d7e9939a9dd3c4bd174f005847ba01376345",
+  "tree_truncated": false,
+  "tree_path_count": 2832,
+  "has_tests": true,
+  "matched_test_paths": [
+    "cypress",
+    "cypress/.gitignore",
+    "cypress/README.md",
+    "cypress/e2e",
+    "cypress/e2e/claude-explain.cy.ts",
+    "cypress/e2e/compile.cy.ts",
+    "cypress/e2e/conformance.cy.ts",
+    "cypress/e2e/diff.cy.ts",
+    "cypress/e2e/execute.cy.ts",
+    "cypress/e2e/frontend.cy.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/browserslist.yml",
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/deploy-win.yml",
+    ".github/workflows/duplicate-detection.yml",
+    ".github/workflows/label.yml",
+    ".github/workflows/test-and-deploy.yml",
+    ".github/workflows/test-frontend.yml",
+    ".github/workflows/test-win.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/compiler_request.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/ISSUE_TEMPLATE/language_request.yml",
+    ".github/ISSUE_TEMPLATE/library_request.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

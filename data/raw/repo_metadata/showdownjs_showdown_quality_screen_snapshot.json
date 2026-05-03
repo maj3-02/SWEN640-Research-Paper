@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "showdownjs/showdown",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:21.381001+00:00",
+  "tree_sha": "2a8a64eb3dd137dc456fd016322a78cde66136d7",
+  "tree_truncated": false,
+  "tree_path_count": 951,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/bootstrap.js",
+    "test/cli",
+    "test/cli/basic.html",
+    "test/cli/basic.md",
+    "test/functional",
+    "test/functional/makehtml",
+    "test/functional/makehtml/cases",
+    "test/functional/makehtml/cases/commonmark.testsuite.json",
+    "test/functional/makehtml/cases/features"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/browserstack.yml",
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/docs.yml",
+    ".github/workflows/node.linux.yml",
+    ".github/workflows/node.win.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

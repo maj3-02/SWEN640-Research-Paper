@@ -1,0 +1,37 @@
+{
+  "repository_full_name": "facebook/create-react-app",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:14.665364+00:00",
+  "tree_sha": "6254386531d263688ccfa542d0e628fbc0de0b28",
+  "tree_truncated": false,
+  "tree_path_count": 624,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/babel-plugin-named-asset-import/index.test.js",
+    "packages/cra-template-typescript/template/src/App.test.tsx",
+    "packages/cra-template/template/src/App.test.js",
+    "packages/create-react-app/__tests__",
+    "packages/create-react-app/__tests__/.eslintrc",
+    "packages/create-react-app/__tests__/getTemplateInstallPackage.test.js",
+    "packages/react-dev-utils/__tests__",
+    "packages/react-dev-utils/__tests__/.eslintrc",
+    "packages/react-dev-utils/__tests__/getCSSModuleLocalIdent.test.js",
+    "packages/react-dev-utils/__tests__/getPublicUrlOrPath.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-and-test.yml",
+    ".github/workflows/e2e-base.yml",
+    ".github/workflows/lint.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/proposal.md",
+    ".github/ISSUE_TEMPLATE/question.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

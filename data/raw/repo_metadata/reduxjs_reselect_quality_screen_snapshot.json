@@ -1,0 +1,28 @@
+{
+  "repository_full_name": "reduxjs/reselect",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:26.447968+00:00",
+  "tree_sha": "7d7b33610e5f2ba7c46f89cb7bc0358e365cc070",
+  "tree_truncated": false,
+  "tree_path_count": 189,
+  "has_tests": true,
+  "matched_test_paths": [
+    "docs/examples/FAQ/howToTest.test.ts",
+    "test",
+    "test/autotrackMemoize.spec.ts",
+    "test/benchmarks",
+    "test/benchmarks/orderOfExecution.bench.ts",
+    "test/benchmarks/reselect.bench.ts",
+    "test/benchmarks/resultEqualityCheck.bench.ts",
+    "test/benchmarks/weakMapMemoize.bench.ts",
+    "test/computationComparisons.spec.tsx",
+    "test/createSelector.withTypes.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-and-test-types.yml",
+    ".github/workflows/publish.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

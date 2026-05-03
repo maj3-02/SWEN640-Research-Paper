@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "ruvnet/ruflo",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:33.558886+00:00",
+  "tree_sha": "ccb062f9bcca80c6a39cfca22d49806661a1d293",
+  "tree_truncated": false,
+  "tree_path_count": 11735,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".claude/agents/testing/unit",
+    ".claude/agents/testing/unit/tdd-london-swarm.md",
+    "ruflo/src/ruvocal/src/lib/components/chat/MarkdownRenderer.svelte.test.ts",
+    "ruflo/src/ruvocal/src/lib/migrations/migrations.spec.ts",
+    "ruflo/src/ruvocal/src/lib/migrations/routines/09-delete-empty-conversations.spec.ts",
+    "ruflo/src/ruvocal/src/lib/server/__tests__",
+    "ruflo/src/ruvocal/src/lib/server/__tests__/conversation-stop-generating.spec.ts",
+    "ruflo/src/ruvocal/src/lib/server/api/__tests__",
+    "ruflo/src/ruvocal/src/lib/server/api/__tests__/conversations-id.spec.ts",
+    "ruflo/src/ruvocal/src/lib/server/api/__tests__/conversations-message.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/integration-tests.yml",
+    ".github/workflows/pages.yml",
+    ".github/workflows/rollback-manager.yml",
+    ".github/workflows/status-badges.yml",
+    ".github/workflows/v3-ci.yml",
+    ".github/workflows/validate-marketplace.yml",
+    ".github/workflows/verification-pipeline.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/rollback-incident.md",
+    "SECURITY.md",
+    "v3/@claude-flow/cli/src/plugins/SECURITY.md"
+  ]
+}

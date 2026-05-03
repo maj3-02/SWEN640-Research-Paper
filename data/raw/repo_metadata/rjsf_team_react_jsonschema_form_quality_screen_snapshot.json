@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "rjsf-team/react-jsonschema-form",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:46.802143+00:00",
+  "tree_sha": "ede2f1376ecb8cb7a60bc683f2c64af2298b800b",
+  "tree_truncated": false,
+  "tree_path_count": 1877,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/antd/test",
+    "packages/antd/test/Array.test.tsx",
+    "packages/antd/test/Form.test.tsx",
+    "packages/antd/test/Grid.test.tsx",
+    "packages/antd/test/Object.test.tsx",
+    "packages/antd/test/__snapshots__",
+    "packages/antd/test/__snapshots__/Array.test.tsx.snap",
+    "packages/antd/test/__snapshots__/Form.test.tsx.snap",
+    "packages/antd/test/__snapshots__/Grid.test.tsx.snap",
+    "packages/antd/test/__snapshots__/Object.test.tsx.snap"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/change-tag-name.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/issue-triage-automation.yml",
+    ".github/workflows/issue-triage-removal-automation.yml",
+    ".github/workflows/release-docs.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/ISSUE_TEMPLATE/question_issue.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "packages/docs/docs/contributing.md",
+    "packages/docs/versioned_docs/version-5.24.10/contributing.md"
+  ]
+}

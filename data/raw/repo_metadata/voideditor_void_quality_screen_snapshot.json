@@ -1,0 +1,36 @@
+{
+  "repository_full_name": "voideditor/void",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:45.925960+00:00",
+  "tree_sha": "17e7a5b1524345b19ab4ee38ec4f9b1b75a1bd00",
+  "tree_truncated": false,
+  "tree_path_count": 10739,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".vscode/extensions/vscode-selfhost-test-provider/src/v8CoverageWrangling.test.ts",
+    "build/lib/test",
+    "build/lib/test/i18n.test.js",
+    "build/lib/test/i18n.test.ts",
+    "extensions/configuration-editing/src/test",
+    "extensions/configuration-editing/src/test/completion.test.ts",
+    "extensions/configuration-editing/src/test/index.ts",
+    "extensions/css-language-features/server/src/test",
+    "extensions/css-language-features/server/src/test/completion.test.ts",
+    "extensions/css-language-features/server/src/test/links.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/triage.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/issue_template.md",
+    "cli/CONTRIBUTING.md",
+    "extensions/css-language-features/CONTRIBUTING.md",
+    "extensions/emmet/CONTRIBUTING.md",
+    "extensions/html-language-features/CONTRIBUTING.md",
+    "extensions/json-language-features/CONTRIBUTING.md",
+    "extensions/theme-seti/CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "verdaccio/verdaccio",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:35.987770+00:00",
+  "tree_sha": "5e64d64df21a01aa90bc907a7a6b1f3c0e7fe99c",
+  "tree_truncated": false,
+  "tree_path_count": 2294,
+  "has_tests": true,
+  "matched_test_paths": [
+    "cypress",
+    "cypress/e2e",
+    "cypress/e2e/01-home.cy.ts",
+    "cypress/e2e/02-signin.cy.ts",
+    "cypress/e2e/03-layout.cy.ts",
+    "cypress/e2e/04-search.cy.ts",
+    "cypress/e2e/05-settings.cy.ts",
+    "cypress/e2e/06-publish.cy.ts",
+    "cypress/support",
+    "cypress/support/e2e.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/changesets-pr.yml",
+    ".github/workflows/changesets.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/docker-proxy-apache-e2e.yml",
+    ".github/workflows/docker-proxy-nginx-e2e.yml",
+    ".github/workflows/docker-publish.yml",
+    ".github/workflows/smok-test-local-build.yml",
+    ".github/workflows/x-e2e-angular-cli-workflow.yml",
+    ".github/workflows/x-e2e-audit-workflow.yml",
+    ".github/workflows/x-e2e-gatsbyjs-cli-workflow.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

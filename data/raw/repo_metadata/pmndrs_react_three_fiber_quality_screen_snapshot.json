@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "pmndrs/react-three-fiber",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:42.099013+00:00",
+  "tree_sha": "943a37e66415d9a0e4bf4252b6fbb977e566788a",
+  "tree_truncated": false,
+  "tree_path_count": 232,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/eslint-plugin/tests",
+    "packages/eslint-plugin/tests/rules",
+    "packages/eslint-plugin/tests/rules/no-clone-in-loop.test.ts",
+    "packages/eslint-plugin/tests/rules/no-new-in-loop.test.ts",
+    "packages/fiber/tests",
+    "packages/fiber/tests/__snapshots__",
+    "packages/fiber/tests/__snapshots__/canvas.native.test.tsx.snap",
+    "packages/fiber/tests/__snapshots__/canvas.test.tsx.snap",
+    "packages/fiber/tests/__snapshots__/index.test.tsx.snap",
+    "packages/fiber/tests/__snapshots__/utils.test.ts.snap"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/canary.yml",
+    ".github/workflows/docs.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    "CONTRIBUTING.md"
+  ]
+}

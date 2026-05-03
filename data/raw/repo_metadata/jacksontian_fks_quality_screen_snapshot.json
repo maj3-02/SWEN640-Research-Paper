@@ -1,0 +1,29 @@
+{
+  "repository_full_name": "JacksonTian/fks",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:05.234746+00:00",
+  "tree_sha": "54722627d64b3b8918f4f4cf73752d3675dae99e",
+  "tree_truncated": false,
+  "tree_path_count": 391,
+  "has_tests": true,
+  "matched_test_paths": [
+    "fks_chart/bower_components/marked/test",
+    "fks_chart/bower_components/marked/test/README",
+    "fks_chart/bower_components/marked/test/browser",
+    "fks_chart/bower_components/marked/test/browser/index.html",
+    "fks_chart/bower_components/marked/test/browser/index.js",
+    "fks_chart/bower_components/marked/test/browser/test.js",
+    "fks_chart/bower_components/marked/test/index.js",
+    "fks_chart/bower_components/marked/test/new",
+    "fks_chart/bower_components/marked/test/new/autolink_lines.html",
+    "fks_chart/bower_components/marked/test/new/autolink_lines.text"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    "fks_chart/bower_components/marked/.travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "fks_chart/bower_components/d3/CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "repository_full_name": "cure53/DOMPurify",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:09.287753+00:00",
+  "tree_sha": "d1c67b5ffbbaede43816e22dc124d16030bb1d30",
+  "tree_truncated": false,
+  "tree_path_count": 128,
+  "has_tests": true,
+  "matched_test_paths": [
+    "browser.spec.js",
+    "test",
+    "test/bootstrap-test-suite.js",
+    "test/browser.spec.js",
+    "test/browser",
+    "test/browser/entry.js",
+    "test/browser/index.html",
+    "test/browser/index.min.html",
+    "test/browser/server.js",
+    "test/config"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-and-test-skip.yml",
+    ".github/workflows/build-and-test.yml",
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/dependency-review.yml",
+    ".github/workflows/fuzz.yml",
+    ".github/workflows/scorecard.yml",
+    ".github/workflows/sign-release.yml",
+    ".github/workflows/slsa-provenance.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "SECURITY.md"
+  ]
+}

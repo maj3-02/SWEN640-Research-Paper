@@ -1,0 +1,46 @@
+{
+  "repository_full_name": "tastejs/todomvc",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:40.567864+00:00",
+  "tree_sha": "c8aedce5f512e47991a62b37b9ee3ef38df1a4b6",
+  "tree_truncated": false,
+  "tree_path_count": 5923,
+  "has_tests": true,
+  "matched_test_paths": [
+    "bower_components/iron-a11y-keys-behavior/test",
+    "bower_components/iron-a11y-keys-behavior/test/basic-test.html",
+    "bower_components/iron-a11y-keys-behavior/test/index.html",
+    "bower_components/iron-behaviors/test",
+    "bower_components/iron-behaviors/test/active-state.html",
+    "bower_components/iron-behaviors/test/disabled-state.html",
+    "bower_components/iron-behaviors/test/focused-state.html",
+    "bower_components/iron-behaviors/test/index.html",
+    "bower_components/iron-behaviors/test/test-elements.html",
+    "bower_components/iron-checked-element-behavior/test"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml",
+    "bower_components/iron-behaviors/.travis.yml",
+    "bower_components/iron-flex-layout/.travis.yml",
+    "bower_components/iron-iconset-svg/.travis.yml",
+    "bower_components/iron-meta/.travis.yml",
+    "bower_components/iron-selector/.travis.yml",
+    "bower_components/paper-tabs/.travis.yml",
+    "examples/typescript-react/node_modules/JSONStream/.travis.yml",
+    "examples/typescript-react/node_modules/acorn-node/.travis.yml",
+    "examples/typescript-react/node_modules/array-filter/.travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "bower_components/iron-behaviors/CONTRIBUTING.md",
+    "bower_components/iron-flex-layout/CONTRIBUTING.md",
+    "bower_components/iron-iconset-svg/CONTRIBUTING.md",
+    "bower_components/iron-meta/CONTRIBUTING.md",
+    "bower_components/paper-tabs/CONTRIBUTING.md",
+    "contributing.md",
+    "examples/polymer/CONTRIBUTING.md",
+    "examples/typescript-react/node_modules/readable-stream/CONTRIBUTING.md",
+    "examples/typescript-react/node_modules/readable-stream/GOVERNANCE.md"
+  ]
+}

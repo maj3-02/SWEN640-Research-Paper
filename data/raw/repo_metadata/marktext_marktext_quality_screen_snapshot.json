@@ -1,0 +1,35 @@
+{
+  "repository_full_name": "marktext/marktext",
+  "default_branch": "develop",
+  "fetched_at_utc": "2026-04-28T19:16:22.249147+00:00",
+  "tree_sha": "be81e3aa57ed9ab9401cdaebeffacb056cd9272b",
+  "tree_truncated": false,
+  "tree_path_count": 1017,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/.eslintrc",
+    "test/e2e",
+    "test/e2e/data",
+    "test/e2e/data/xss.md",
+    "test/e2e/helpers.js",
+    "test/e2e/launch.spec.js",
+    "test/e2e/playwright.config.js",
+    "test/e2e/xss.spec.js",
+    "test/specs"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/ISSUE_TEMPLATE/question.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md"
+  ]
+}

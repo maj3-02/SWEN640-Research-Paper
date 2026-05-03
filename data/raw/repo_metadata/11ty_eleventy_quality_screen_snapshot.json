@@ -1,0 +1,35 @@
+{
+  "repository_full_name": "11ty/eleventy",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:59.422012+00:00",
+  "tree_sha": "7b7c5521041347c5700d444448a3d5bc507660de",
+  "tree_truncated": false,
+  "tree_path_count": 1337,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/client/test",
+    "packages/client/test/client-core.test.js",
+    "packages/client/test/client-eleventy.test.js",
+    "packages/client/test/shared-tests.js",
+    "test",
+    "test/ArrayUtilTest.js",
+    "test/BenchmarkTest.js",
+    "test/BundlePluginTest.js",
+    "test/CompatibilityTest.js",
+    "test/ComputedDataProxyTest.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/scorecard.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/possible-bug.yml",
+    "CODE_OF_CONDUCT.md",
+    "SECURITY.md"
+  ]
+}

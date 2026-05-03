@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "google/zx",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:26.598544+00:00",
+  "tree_sha": "707b43adef5df1ce30d6fbe6f79cd5e6f03f4a33",
+  "tree_truncated": false,
+  "tree_path_count": 205,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/all.test.js",
+    "test/bench",
+    "test/bench/buf-join.mjs",
+    "test/cli.test.js",
+    "test/core.test.js",
+    "test/deps.test.js",
+    "test/error.test.ts",
+    "test/export.test.js",
+    "test/extra.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/codeql.yml",
+    ".github/workflows/dev-publish.yml",
+    ".github/workflows/docs.yml",
+    ".github/workflows/jsr-publish.yml",
+    ".github/workflows/osv.yml",
+    ".github/workflows/publish.yml",
+    ".github/workflows/test.yml",
+    ".github/workflows/zizmor.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug.yml",
+    ".github/ISSUE_TEMPLATE/idea.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    ".github/SECURITY.md"
+  ]
+}

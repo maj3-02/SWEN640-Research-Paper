@@ -1,0 +1,44 @@
+{
+  "repository_full_name": "wekan/wekan",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-26T23:03:25.820230+00:00",
+  "tree_sha": "1a08003834b1fcb94df876c5eb09fa494d5bd878",
+  "tree_truncated": false,
+  "tree_path_count": 3083,
+  "has_tests": true,
+  "matched_test_paths": [
+    "client/lib/tests",
+    "client/lib/tests/Utils.tests.js",
+    "client/lib/tests/index.js",
+    "docs/wekan/templates/tests",
+    "docs/wekan/templates/tests/test-http.yaml",
+    "imports/i18n/i18n.test.js",
+    "npm-packages/meteor-jade-loader/lib/vendor/jade/test",
+    "npm-packages/meteor-jade-loader/lib/vendor/jade/test/README.md",
+    "npm-packages/meteor-jade-loader/lib/vendor/jade/test/anti-cases",
+    "npm-packages/meteor-jade-loader/lib/vendor/jade/test/anti-cases/attrs.unescaped.jade"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/depsreview.yaml",
+    ".github/workflows/docker-publish.yml",
+    ".github/workflows/dockerimage.yml",
+    ".github/workflows/release-all.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/test_suite.yml",
+    ".travis.yml",
+    "npm-packages/meteor-jade-loader/lib/vendor/jade/.travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/ISSUE_TEMPLATE/security-report.yml",
+    ".github/ISSUE_TEMPLATE/ucs-issue.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "GOVERNANCE.md",
+    "SECURITY.md",
+    "packages/wekan-accounts-lockout/CONTRIBUTING.md"
+  ]
+}

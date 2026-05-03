@@ -1,0 +1,45 @@
+{
+  "repository_full_name": "immich-app/immich",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:55.754522+00:00",
+  "tree_sha": "96b6165bd38032bf8201404ccdd30611455e6a11",
+  "tree_truncated": false,
+  "tree_path_count": 4230,
+  "has_tests": true,
+  "matched_test_paths": [
+    "cli/src/commands/asset.spec.ts",
+    "cli/src/utils.spec.ts",
+    "e2e",
+    "e2e/.gitignore",
+    "e2e/.nvmrc",
+    "e2e/.prettierignore",
+    "e2e/.prettierrc",
+    "e2e/docker-compose.dev.yml",
+    "e2e/docker-compose.yml",
+    "e2e/eslint.config.mjs"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/auto-close.yml",
+    ".github/workflows/build-mobile.yml",
+    ".github/workflows/cache-cleanup.yml",
+    ".github/workflows/check-openapi.yml",
+    ".github/workflows/cli.yml",
+    ".github/workflows/close-duplicates.yml",
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/docker.yml",
+    ".github/workflows/docs-build.yml",
+    ".github/workflows/docs-deploy.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yaml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE",
+    ".github/PULL_REQUEST_TEMPLATE/config.yml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

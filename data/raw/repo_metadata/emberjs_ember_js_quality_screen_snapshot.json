@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "emberjs/ember.js",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:07.167422+00:00",
+  "tree_sha": "2ff1260eee4065ddbdc6101bf542d77ab82dfb27",
+  "tree_truncated": false,
+  "tree_path_count": 2474,
+  "has_tests": true,
+  "matched_test_paths": [
+    "babel.test.config.mjs",
+    "blueprints/acceptance-test/files/tests",
+    "blueprints/acceptance-test/files/tests/acceptance",
+    "blueprints/acceptance-test/files/tests/acceptance/__name__-test.ts",
+    "packages/@ember/-internals/container/tests",
+    "packages/@ember/-internals/container/tests/container_test.js",
+    "packages/@ember/-internals/container/tests/owner_test.js",
+    "packages/@ember/-internals/container/tests/registry_test.js",
+    "packages/@ember/-internals/deprecations/tests",
+    "packages/@ember/-internals/deprecations/tests/index-test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/alpha-releases.yml",
+    ".github/workflows/ci-jobs.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/cron.yml",
+    ".github/workflows/docs.yml",
+    ".github/workflows/glimmer-syntax-prettier-smoke-test.yml",
+    ".github/workflows/night-ts.yml",
+    ".github/workflows/package-size.yml",
+    ".github/workflows/pr-title-lint.yml",
+    ".github/workflows/publish-to-npm.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1-bug-report.md",
+    ".github/ISSUE_TEMPLATE/2-documentation-issue-report.md",
+    ".github/ISSUE_TEMPLATE/3-feature-request.md",
+    ".github/ISSUE_TEMPLATE/4-other.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

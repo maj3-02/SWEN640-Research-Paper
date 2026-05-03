@@ -1,8 +1,8 @@
 {
   "collection_type": "commits",
-  "sample_file": "data\\interim\\final_sample\\final_sample.csv",
+  "sample_file": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\final_sample.csv",
   "sample_run_type": "final_study",
-  "output_dir": "data\\interim\\final_sample\\raw_commits",
+  "output_dir": "C:\\Users\\micha\\Desktop\\Spring-2026\\SWEN-640\\research-study\\data\\interim\\final_sample\\raw_commits",
   "generated_at_utc": "2026-04-28T23:05:25.067642+00:00",
   "failure_count": 0,
   "failures": []

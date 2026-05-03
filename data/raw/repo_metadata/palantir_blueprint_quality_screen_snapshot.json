@@ -1,0 +1,35 @@
+{
+  "repository_full_name": "palantir/blueprint",
+  "default_branch": "develop",
+  "fetched_at_utc": "2026-04-28T19:19:12.387745+00:00",
+  "tree_sha": "6b682e7f50082183bd7da684411e0b1005e2d662",
+  "tree_truncated": false,
+  "tree_path_count": 3294,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/core/src/common/props.test.ts",
+    "packages/core/src/common/utils.test.tsx",
+    "packages/core/src/common/utils/compareUtils.test.ts",
+    "packages/core/src/components/alert/alert.test.tsx",
+    "packages/core/src/components/breadcrumbs/breadcrumb.test.tsx",
+    "packages/core/src/components/breadcrumbs/breadcrumbs.test.tsx",
+    "packages/core/src/components/button/button.test.tsx",
+    "packages/core/src/components/callout/callout.test.tsx",
+    "packages/core/src/components/card-list/cardList.test.tsx",
+    "packages/core/src/components/card/card.test.tsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/config-gh-pages.yml",
+    ".circleci/config.yml",
+    ".circleci/stale.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/Bug_report.md",
+    ".github/ISSUE_TEMPLATE/Feature_request.md",
+    ".github/ISSUE_TEMPLATE/Support_question.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md"
+  ]
+}

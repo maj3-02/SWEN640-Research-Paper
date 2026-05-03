@@ -1,0 +1,37 @@
+{
+  "repository_full_name": "teambit/bit",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:31.256004+00:00",
+  "tree_sha": "99ba2c18bc0cb6d700cb401131e5ea6caec55c18",
+  "tree_truncated": false,
+  "tree_path_count": 4319,
+  "has_tests": true,
+  "matched_test_paths": [
+    "components/legacy/bit-map/bit-map.spec.ts",
+    "components/legacy/component-list/components-list.spec.ts",
+    "components/legacy/consumer-component/consumer-component.spec.ts",
+    "components/legacy/consumer-component/dependencies/dependencies.spec.ts",
+    "components/legacy/consumer/consumer.spec.ts",
+    "components/legacy/e2e-helper/excluded-fixtures/components/custom-dev-files/custom-dev-files.registered-test.spec.js",
+    "components/legacy/e2e-helper/excluded-fixtures/components/custom-dev-files/custom-dev-files.spec.js",
+    "components/legacy/extension-data/extension-data.spec.ts",
+    "components/legacy/scope/component-ops/model-components-merger.spec.ts",
+    "components/legacy/scope/removed-components.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/config.yml",
+    ".circleci/config.yml.bak",
+    "Jenkinsfile"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1-bug-report.md",
+    ".github/ISSUE_TEMPLATE/2-support-request.md",
+    ".github/ISSUE_TEMPLATE/3-feature_request.md",
+    ".github/ISSUE_TEMPLATE/4-docs-issue.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

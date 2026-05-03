@@ -1,0 +1,45 @@
+{
+  "repository_full_name": "bytedance/UI-TARS-desktop",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:43.919616+00:00",
+  "tree_sha": "7986f5aea500c4535c0e55dc5c5d0cda73767c45",
+  "tree_truncated": false,
+  "tree_path_count": 3174,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/ui-tars/e2e",
+    "apps/ui-tars/e2e/app.test.ts",
+    "apps/ui-tars/e2e/execBack.ts",
+    "apps/ui-tars/e2e/vitest.config.mts",
+    "apps/ui-tars/src/main/agent/operator.test.ts",
+    "apps/ui-tars/src/main/ipcRoutes/permission.test.ts",
+    "apps/ui-tars/src/main/ipcRoutes/screen.test.ts",
+    "apps/ui-tars/src/main/ipcRoutes/window.test.ts",
+    "apps/ui-tars/src/main/shared/setOfMarks.test.ts",
+    "apps/ui-tars/src/main/store/types.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/agent_tars_test.yml",
+    ".github/workflows/benchmark.yml",
+    ".github/workflows/e2e-ui-tars.yml",
+    ".github/workflows/release-ui-tars.yml",
+    ".github/workflows/scorecard.yml",
+    ".github/workflows/secret-scan.yml",
+    ".github/workflows/secretlint.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report_agent_tars.yml",
+    ".github/ISSUE_TEMPLATE/bug_report_ui_tars_desktop.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_requrest.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "multimodal/CONTRIBUTING.md",
+    "multimodal/websites/tarko/CONTRIBUTING.md"
+  ]
+}

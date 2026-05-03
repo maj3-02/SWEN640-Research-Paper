@@ -1,0 +1,32 @@
+{
+  "repository_full_name": "microsoft/Web-Dev-For-Beginners",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:16.088818+00:00",
+  "tree_sha": "5f220217d35499881cfff61a5b4c2dab033ab228",
+  "tree_truncated": false,
+  "tree_path_count": 17360,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/azure-static-web-apps-ashy-river-0debb7803.yml",
+    ".github/workflows/daily-repo-status.lock.yml",
+    ".github/workflows/daily-repo-status.md",
+    ".github/workflows/links.yml",
+    ".github/workflows/lock.yml",
+    ".github/workflows/stale.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "SUPPORT.md",
+    "translations/ar/CODE_OF_CONDUCT.md",
+    "translations/ar/CONTRIBUTING.md",
+    "translations/ar/SECURITY.md"
+  ]
+}

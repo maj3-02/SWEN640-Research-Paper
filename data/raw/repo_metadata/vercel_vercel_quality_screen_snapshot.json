@@ -1,0 +1,41 @@
+{
+  "repository_full_name": "vercel/vercel",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:49.110430+00:00",
+  "tree_sha": "8d6cfde9fe9002847522764bc65f963ebc46e58d",
+  "tree_truncated": false,
+  "tree_path_count": 16801,
+  "has_tests": true,
+  "matched_test_paths": [
+    "examples/__tests__",
+    "examples/__tests__/integration",
+    "examples/__tests__/integration/actix-web.test.ts",
+    "examples/__tests__/integration/angular.test.ts",
+    "examples/__tests__/integration/astro.test.ts",
+    "examples/__tests__/integration/axum.test.ts",
+    "examples/__tests__/integration/blitzjs.test.ts",
+    "examples/__tests__/integration/brunch.test.ts",
+    "examples/__tests__/integration/create-react-app.test.ts",
+    "examples/__tests__/integration/django.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/agentics-maintenance.yml",
+    ".github/workflows/ci-doctor.lock.yml",
+    ".github/workflows/ci-doctor.md",
+    ".github/workflows/cli-evals.yml",
+    ".github/workflows/comment-cli-tarball.yml",
+    ".github/workflows/cron-update-gatsby-fixtures.yml",
+    ".github/workflows/cron-update-next-canary.yml",
+    ".github/workflows/cron-update-next-latest.yml",
+    ".github/workflows/cron-update-turbo.yml",
+    ".github/workflows/discussions-auto-close.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/cli_bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml"
+  ]
+}

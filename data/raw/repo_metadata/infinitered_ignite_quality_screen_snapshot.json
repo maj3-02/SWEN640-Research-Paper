@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "infinitered/ignite",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:23.558994+00:00",
+  "tree_sha": "a0464bf1337099eb3bb7cbdef54fbcd0ccf94859",
+  "tree_truncated": false,
+  "tree_path_count": 453,
+  "has_tests": true,
+  "matched_test_paths": [
+    "boilerplate/app/components/Text.test.tsx",
+    "boilerplate/app/services/api/apiProblem.test.ts",
+    "boilerplate/app/utils/storage/storage.test.ts",
+    "boilerplate/test",
+    "boilerplate/test/i18n.test.ts",
+    "boilerplate/test/mockFile.ts",
+    "boilerplate/test/setup.ts",
+    "boilerplate/test/test-tsconfig.json",
+    "docs/boilerplate/test",
+    "docs/boilerplate/test/Test.md"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/config.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/enhancement.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md"
+  ]
+}

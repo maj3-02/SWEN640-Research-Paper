@@ -1,0 +1,36 @@
+{
+  "repository_full_name": "pubkey/rxdb",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:05.221119+00:00",
+  "tree_sha": "9150a41b95b6a70f8a21aa54d7194ca60ba20783",
+  "tree_truncated": false,
+  "tree_path_count": 2816,
+  "has_tests": true,
+  "matched_test_paths": [
+    "examples/angular/android/app/src/test",
+    "examples/angular/android/app/src/test/java",
+    "examples/angular/android/app/src/test/java/com",
+    "examples/angular/android/app/src/test/java/com/getcapacitor",
+    "examples/angular/android/app/src/test/java/com/getcapacitor/myapp",
+    "examples/angular/android/app/src/test/java/com/getcapacitor/myapp/ExampleUnitTest.java",
+    "examples/angular/test",
+    "examples/angular/test/e2e.test.js",
+    "examples/angular/test/multitab.html",
+    "examples/angular/test/ssr.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build.yml",
+    ".github/workflows/cloudflare-pages.yml",
+    ".github/workflows/copilot-setup-steps.yml",
+    ".github/workflows/main.yml",
+    ".github/workflows/notify-rxdb-server.yml",
+    ".github/workflows/prevent-commit-to-generated.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/test-without-fix.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

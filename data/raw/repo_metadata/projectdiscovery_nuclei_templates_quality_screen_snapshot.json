@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "projectdiscovery/nuclei-templates",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:44.698637+00:00",
+  "tree_sha": "98fbc023a67de7a42397b0a3e1819f14c2ebf1e8",
+  "tree_truncated": false,
+  "tree_path_count": 14313,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/autoassign.yml",
+    ".github/workflows/cve-enhancement.yml",
+    ".github/workflows/cve2json.yml",
+    ".github/workflows/epss-update.yml",
+    ".github/workflows/kev-update.yml",
+    ".github/workflows/new-templates.yml",
+    ".github/workflows/readme-update.yml",
+    ".github/workflows/template-checksum.yml",
+    ".github/workflows/template-sign.yml",
+    ".github/workflows/templateman.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/enhancement.yml",
+    ".github/ISSUE_TEMPLATE/false-negative.yml",
+    ".github/ISSUE_TEMPLATE/false-positive.yml",
+    ".github/ISSUE_TEMPLATE/template-contribution.yml",
+    ".github/ISSUE_TEMPLATE/template-requests.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

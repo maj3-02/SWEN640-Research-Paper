@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "swagger-api/swagger-ui",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:40.768914+00:00",
+  "tree_sha": "dcb493cdbf58fa885047513bd176a644f92c4955",
+  "tree_truncated": false,
+  "tree_path_count": 1225,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/core/plugins/spec",
+    "src/core/plugins/spec/actions.js",
+    "src/core/plugins/spec/index.js",
+    "src/core/plugins/spec/reducers.js",
+    "src/core/plugins/spec/selectors.js",
+    "src/core/plugins/spec/wrap-actions.js",
+    "test",
+    "test/.eslintrc",
+    "test/build-artifacts",
+    "test/build-artifacts/.eslintrc"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/codeql.yml",
+    ".github/workflows/dependabot-merge.yml",
+    ".github/workflows/docker-build-push-unstable.yml",
+    ".github/workflows/docker-build-push.yml",
+    ".github/workflows/docker-image-check.yml",
+    ".github/workflows/nodejs.yml",
+    ".github/workflows/release-swagger-ui-dist.yml",
+    ".github/workflows/release-swagger-ui-packagist.yml",
+    ".github/workflows/release-swagger-ui-react.yml",
+    ".github/workflows/release-swagger-ui.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/Bug_report.md",
+    ".github/ISSUE_TEMPLATE/Feature_request.md",
+    ".github/ISSUE_TEMPLATE/Support.md",
+    ".github/pull_request_template.md",
+    "SECURITY.md"
+  ]
+}

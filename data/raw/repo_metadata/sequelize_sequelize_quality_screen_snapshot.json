@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "sequelize/sequelize",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:42.774878+00:00",
+  "tree_sha": "ab2c9ad02cd90eb47cab47050845d16045ccfade",
+  "tree_truncated": false,
+  "tree_path_count": 1101,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/cli/src/_commands/migration/generate.test.ts",
+    "packages/cli/src/_commands/migration/run.test.ts",
+    "packages/cli/src/_commands/migration/status.test.ts",
+    "packages/cli/src/_commands/migration/undo.test.ts",
+    "packages/cli/src/_commands/seed/generate.test.ts",
+    "packages/core/test",
+    "packages/core/test/chai-extensions.d.ts",
+    "packages/core/test/config",
+    "packages/core/test/config/.docker.env",
+    "packages/core/test/config/config.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/authors.yml",
+    ".github/workflows/auto-add-pending-approval.yml",
+    ".github/workflows/auto-remove-awaiting-response-label.yml",
+    ".github/workflows/autoupdate.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/notify.yml",
+    ".github/workflows/pr-title.yml",
+    ".github/workflows/semgrep.yml",
+    ".github/workflows/stale.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

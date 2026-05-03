@@ -1,0 +1,29 @@
+{
+  "repository_full_name": "pqina/filepond",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:12.044391+00:00",
+  "tree_sha": "3107602c21555108d5c60def540cd58617c84192",
+  "tree_truncated": false,
+  "tree_path_count": 322,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/js/__tests__",
+    "src/js/__tests__/addFile.test.js",
+    "src/js/__tests__/callbacks.test.js",
+    "src/js/__tests__/contentDisposition.test.js",
+    "src/js/__tests__/createInstance.test.js",
+    "src/js/__tests__/removeFile.test.js",
+    "src/js/__tests__/revertUploadOnRemove.test.js",
+    "src/js/__tests__/server.test.js",
+    "src/js/__tests__/setFiles.test.js",
+    "src/js/__tests__/windowMatchMedia.mock"
+  ],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml"
+  ]
+}

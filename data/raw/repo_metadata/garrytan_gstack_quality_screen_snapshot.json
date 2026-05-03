@@ -1,0 +1,37 @@
+{
+  "repository_full_name": "garrytan/gstack",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:57.675275+00:00",
+  "tree_sha": "675717e3200d8f54b7e179a3425a21bdae33414b",
+  "tree_truncated": false,
+  "tree_path_count": 751,
+  "has_tests": true,
+  "matched_test_paths": [
+    "browse/test",
+    "browse/test/activity.test.ts",
+    "browse/test/adversarial-security.test.ts",
+    "browse/test/batch.test.ts",
+    "browse/test/browser-manager-unit.test.ts",
+    "browse/test/build.test.ts",
+    "browse/test/bun-polyfill.test.ts",
+    "browse/test/commands.test.ts",
+    "browse/test/compare-board.test.ts",
+    "browse/test/config.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/actionlint.yml",
+    ".github/workflows/ci-image.yml",
+    ".github/workflows/evals-periodic.yml",
+    ".github/workflows/evals.yml",
+    ".github/workflows/make-pdf-gate.yml",
+    ".github/workflows/pr-title-sync.yml",
+    ".github/workflows/skill-docs.yml",
+    ".github/workflows/version-gate.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md",
+    "review/specialists/security.md"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "repository_full_name": "fastapi/full-stack-fastapi-template",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:21.450294+00:00",
+  "tree_sha": "13652b51ea0acca7dfe243ac25e2bbdc066f3c4f",
+  "tree_truncated": false,
+  "tree_path_count": 280,
+  "has_tests": true,
+  "matched_test_paths": [
+    "backend/tests",
+    "backend/tests/__init__.py",
+    "backend/tests/api",
+    "backend/tests/api/__init__.py",
+    "backend/tests/api/routes",
+    "backend/tests/api/routes/__init__.py",
+    "backend/tests/api/routes/test_items.py",
+    "backend/tests/api/routes/test_login.py",
+    "backend/tests/api/routes/test_private.py",
+    "backend/tests/api/routes/test_users.py"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/add-to-project.yml",
+    ".github/workflows/deploy-production.yml",
+    ".github/workflows/deploy-staging.yml",
+    ".github/workflows/detect-conflicts.yml",
+    ".github/workflows/issue-manager.yml",
+    ".github/workflows/labeler.yml",
+    ".github/workflows/latest-changes.yml",
+    ".github/workflows/playwright.yml",
+    ".github/workflows/pre-commit.yml",
+    ".github/workflows/smokeshow.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/privileged.yml",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "repository_full_name": "tobi/qmd",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:03.200431+00:00",
+  "tree_sha": "e8de7cab0284c5d64bd64f5928b49d3a2d9a01f3",
+  "tree_truncated": false,
+  "tree_path_count": 172,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/Containerfile",
+    "test/ast-chunking.test.ts",
+    "test/ast.test.ts",
+    "test/bench-score.test.ts",
+    "test/cli.test.ts",
+    "test/collections-config.test.ts",
+    "test/eval-bm25.test.ts",
+    "test/eval-deep-research.jsonl",
+    "test/eval-deep-research.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/nix.yml",
+    ".github/workflows/publish.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

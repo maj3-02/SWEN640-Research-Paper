@@ -1,0 +1,45 @@
+{
+  "repository_full_name": "moeru-ai/airi",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:25.962599+00:00",
+  "tree_sha": "c9fbbfd783be705d672773000ccd1b93e8bc51ff",
+  "tree_truncated": false,
+  "tree_path_count": 5190,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/server/src/app.test.ts",
+    "apps/server/src/libs/auth.test.ts",
+    "apps/server/src/libs/env.test.ts",
+    "apps/server/src/libs/mq/tests",
+    "apps/server/src/libs/mq/tests/worker.test.ts",
+    "apps/server/src/libs/request-auth.test.ts",
+    "apps/server/src/libs/tests",
+    "apps/server/src/libs/tests/eventa-hono-adapter.test.ts",
+    "apps/server/src/routes/characters/route.test.ts",
+    "apps/server/src/routes/flux/route.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/autofix.yaml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/copilot-setup-steps.yml",
+    ".github/workflows/crowdin-cron-sync.yml",
+    ".github/workflows/crowdin-manual-upload.yml",
+    ".github/workflows/deploy-cloudflare-workers-dev-server.yml",
+    ".github/workflows/deploy-cloudflare-workers-preview-deploy.yml",
+    ".github/workflows/deploy-cloudflare-workers-preview-prepare.yml",
+    ".github/workflows/deploy-cloudflare-workers.yml",
+    ".github/workflows/deploy-huggingface-spaces.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/ai-task.md",
+    ".github/ISSUE_TEMPLATE/bug_report.yaml",
+    ".github/ISSUE_TEMPLATE/feature_request.yaml",
+    ".github/ISSUE_TEMPLATE/typo.yaml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    ".github/SECURITY.md"
+  ]
+}

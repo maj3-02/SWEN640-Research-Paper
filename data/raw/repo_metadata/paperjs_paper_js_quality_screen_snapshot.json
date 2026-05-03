@@ -1,0 +1,29 @@
+{
+  "repository_full_name": "paperjs/paper.js",
+  "default_branch": "develop",
+  "fetched_at_utc": "2026-04-28T19:17:19.821064+00:00",
+  "tree_sha": "92775f5279c05fb7f0a743e9e7fa02cd40ec1e70",
+  "tree_truncated": false,
+  "tree_path_count": 1051,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/assets",
+    "test/assets/arcs.svg",
+    "test/assets/blendModes.svg",
+    "test/assets/butterfly.svg",
+    "test/assets/clipping.svg",
+    "test/assets/gradients-1.svg",
+    "test/assets/gradients-2-.svg",
+    "test/assets/gradients-2.svg",
+    "test/assets/gradients-3.svg"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

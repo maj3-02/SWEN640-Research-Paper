@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "pmndrs/react-spring",
+  "default_branch": "next",
+  "fetched_at_utc": "2026-04-28T19:18:44.645303+00:00",
+  "tree_sha": "e0c2004a9b2f380234a1455230bf06f5d96316e3",
+  "tree_truncated": false,
+  "tree_path_count": 1101,
+  "has_tests": true,
+  "matched_test_paths": [
+    "cypress",
+    "cypress/e2e",
+    "cypress/e2e/parallax.cy.ts",
+    "cypress/snapshots",
+    "cypress/snapshots/parallax.cy.ts",
+    "cypress/snapshots/parallax.cy.ts/horizontal #1.snap.png",
+    "cypress/snapshots/parallax.cy.ts/horizontal #2.snap.png",
+    "cypress/snapshots/parallax.cy.ts/horizontal #3.snap.png",
+    "cypress/snapshots/parallax.cy.ts/vertical #1.snap.png",
+    "cypress/snapshots/parallax.cy.ts/vertical #2.snap.png"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/bundle-size.yml",
+    ".github/workflows/checks.yml",
+    ".github/workflows/experimental.yml",
+    ".github/workflows/nightly.yml",
+    ".github/workflows/tests.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md",
+    "demo/CONTRIBUTING.md"
+  ]
+}

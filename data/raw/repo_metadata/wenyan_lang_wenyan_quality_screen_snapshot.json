@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "wenyan-lang/wenyan",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:20.696760+00:00",
+  "tree_sha": "97f0a4b8c5a815467c5c2cac08215d722efde208",
+  "tree_truncated": false,
+  "tree_path_count": 191,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/__snapshots__",
+    "test/__snapshots__/examples.test.ts.snap",
+    "test/examples.test.ts",
+    "test/fixture",
+    "test/fixture/nested-import",
+    "test/fixture/nested-import/四庫全書",
+    "test/fixture/nested-import/四庫全書/序.wy",
+    "test/fixture/nested-import/四庫全書/本草綱目",
+    "test/fixture/nested-import/四庫全書/本草綱目/序.wy"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/cdn.yml",
+    ".github/workflows/publish.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/issue.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

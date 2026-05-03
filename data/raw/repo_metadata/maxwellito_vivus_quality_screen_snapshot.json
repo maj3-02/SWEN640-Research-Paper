@@ -1,0 +1,29 @@
+{
+  "repository_full_name": "maxwellito/vivus",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:14.951239+00:00",
+  "tree_sha": "06b7adb5d543b6b1d0d93fa83dea137b1f8644a5",
+  "tree_truncated": false,
+  "tree_path_count": 40,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/karma.conf.js",
+    "test/manual",
+    "test/manual/hi-there.svg",
+    "test/manual/index.html",
+    "test/manual/obturateur.svg",
+    "test/manual/polaroid.svg",
+    "test/manual/synth.svg",
+    "test/unit.setup.js",
+    "test/unit"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md"
+  ]
+}

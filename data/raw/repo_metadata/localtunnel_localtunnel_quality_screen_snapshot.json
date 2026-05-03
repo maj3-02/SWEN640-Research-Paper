@@ -1,0 +1,18 @@
+{
+  "repository_full_name": "localtunnel/localtunnel",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-26T23:03:21.477608+00:00",
+  "tree_sha": "decafd5c0fce195e7901b159d22e3e4a447958c7",
+  "tree_truncated": false,
+  "tree_path_count": 16,
+  "has_tests": true,
+  "matched_test_paths": [
+    "localtunnel.spec.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

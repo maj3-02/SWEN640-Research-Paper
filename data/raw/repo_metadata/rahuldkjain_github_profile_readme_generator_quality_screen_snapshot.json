@@ -1,0 +1,29 @@
+{
+  "repository_full_name": "rahuldkjain/github-profile-readme-generator",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:01.012962+00:00",
+  "tree_sha": "5ae90bfcbd7ab2f69809b094601f7975c32ae077",
+  "tree_truncated": false,
+  "tree_path_count": 341,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/components/forms/__tests__",
+    "src/components/forms/__tests__/form-input.test.tsx",
+    "src/test",
+    "src/test/setup.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/deploy.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature-enhancement-request.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "src/markdown-pages/support.md"
+  ]
+}

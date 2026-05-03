@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "CopilotKit/CopilotKit",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:42.547200+00:00",
+  "tree_sha": "39b3ea9c8adf324a4b354ca7092f0ad088bed85e",
+  "tree_truncated": false,
+  "tree_path_count": 13970,
+  "has_tests": true,
+  "matched_test_paths": [
+    "codemods/__tests__",
+    "codemods/__tests__/migrate-attachments.test.ts",
+    "docs/content/docs/learn/generative-ui/specs",
+    "docs/content/docs/learn/generative-ui/specs/a2ui.mdx",
+    "docs/content/docs/learn/generative-ui/specs/index.mdx",
+    "docs/content/docs/learn/generative-ui/specs/mcp-apps.mdx",
+    "docs/content/docs/learn/generative-ui/specs/meta.json",
+    "docs/content/docs/learn/generative-ui/specs/open-json-ui.mdx",
+    "examples/e2e",
+    "examples/e2e/.gitignore"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/auto_merge_showcases.yml",
+    ".github/workflows/cleanup_pr-caches.yml",
+    ".github/workflows/ghcr_unlinked_packages.yml",
+    ".github/workflows/prerelease.yml",
+    ".github/workflows/publish-commit.yml",
+    ".github/workflows/publish-release.yml",
+    ".github/workflows/showcase_capture-previews.yml",
+    ".github/workflows/showcase_deploy.yml",
+    ".github/workflows/showcase_docs-sync.yml",
+    ".github/workflows/showcase_keep-alive.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1-bug-report.yml",
+    ".github/ISSUE_TEMPLATE/2-feature-request.yml",
+    ".github/ISSUE_TEMPLATE/3-documentation.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/issue_template.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "community/content/CONTRIBUTING.md"
+  ]
+}

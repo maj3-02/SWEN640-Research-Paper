@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "jupyterlab/jupyterlab",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:51.991385+00:00",
+  "tree_sha": "ecd299b4926beeb4fe188555564255ee8348c770",
+  "tree_truncated": false,
+  "tree_path_count": 3660,
+  "has_tests": true,
+  "matched_test_paths": [
+    "buildutils/template/tsconfig.test.json",
+    "examples/app/example.spec.ts-snapshots",
+    "examples/cell/example.spec.ts-snapshots",
+    "examples/console/example.spec.ts-snapshots",
+    "examples/example.spec.ts",
+    "examples/federated/example.spec.ts-snapshots",
+    "examples/filebrowser/example.spec.ts-snapshots",
+    "examples/notebook/example.spec.ts-snapshots",
+    "examples/terminal/example.spec.ts-snapshots",
+    "galata/test"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/answered.yml",
+    ".github/workflows/auto_author_assign.yml",
+    ".github/workflows/benchmark-report.yml",
+    ".github/workflows/benchmark.yml",
+    ".github/workflows/check-i18n.yml",
+    ".github/workflows/check-release.yml",
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/docker-test.yml",
+    ".github/workflows/enforce-label.yml",
+    ".github/workflows/galata-update-v2.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md",
+    "docs/source/developer/contributing.md",
+    "docs/source/developer/security.md",
+    "packages/ui-components/CONTRIBUTING.md"
+  ]
+}

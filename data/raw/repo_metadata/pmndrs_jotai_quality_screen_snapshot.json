@@ -1,0 +1,41 @@
+{
+  "repository_full_name": "pmndrs/jotai",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:15.655011+00:00",
+  "tree_sha": "1fae77247ae72ab5f2f002dc82a876e61ce26f56",
+  "tree_truncated": false,
+  "tree_path_count": 415,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/babel",
+    "tests/babel/plugin-debug-label.test.ts",
+    "tests/babel/plugin-react-refresh.test.ts",
+    "tests/babel/preset.test.ts",
+    "tests/react",
+    "tests/react/abortable.test.tsx",
+    "tests/react/async.test.tsx",
+    "tests/react/async2.test.tsx",
+    "tests/react/basic.test.tsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/compressed-size.yml",
+    ".github/workflows/ecosystem-ci.yml",
+    ".github/workflows/livecodes-post-comment.yml",
+    ".github/workflows/livecodes-preview.yml",
+    ".github/workflows/preview-release.yml",
+    ".github/workflows/publish.yml",
+    ".github/workflows/stale-discussions.yml",
+    ".github/workflows/test-multiple-builds.yml",
+    ".github/workflows/test-multiple-versions.yml",
+    ".github/workflows/test-old-typescript.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md"
+  ]
+}

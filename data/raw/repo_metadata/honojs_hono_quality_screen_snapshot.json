@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "honojs/hono",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:43.209564+00:00",
+  "tree_sha": "027e3dfca9d58bbd6b2e11adef724d26bb4f4123",
+  "tree_truncated": false,
+  "tree_path_count": 620,
+  "has_tests": true,
+  "matched_test_paths": [
+    "build/remove-private-fields.test.ts",
+    "build/validate-exports.test.ts",
+    "runtime-tests/bun/color.test.ts",
+    "runtime-tests/bun/index.test.tsx",
+    "runtime-tests/deno-jsx/jsx.test.tsx",
+    "runtime-tests/deno/hono.test.ts",
+    "runtime-tests/deno/middleware.test.tsx",
+    "runtime-tests/deno/ssg.test.tsx",
+    "runtime-tests/deno/stream.test.ts",
+    "runtime-tests/fastly/index.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/autofix.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/cr.yml",
+    ".github/workflows/no-response.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1-bug-report.yml",
+    ".github/ISSUE_TEMPLATE/2-feature-request.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/pull_request_template.md",
+    "docs/CODE_OF_CONDUCT.md",
+    "docs/CONTRIBUTING.md"
+  ]
+}

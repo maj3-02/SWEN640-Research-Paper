@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "agalwood/Motrix",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:23.555003+00:00",
+  "tree_sha": "7012040fec926e16fe8f6c403cf038527f5c18b9",
+  "tree_truncated": false,
+  "tree_path_count": 659,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/release.yml",
+    ".travis.yml",
+    "appveyor.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1_bug_report.yml",
+    ".github/ISSUE_TEMPLATE/2_bug_report_cn.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/ISSUE_TEMPLATE/feature_request_cn.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

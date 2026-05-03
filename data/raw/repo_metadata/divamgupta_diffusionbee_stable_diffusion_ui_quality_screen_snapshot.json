@@ -1,0 +1,14 @@
+{
+  "repository_full_name": "divamgupta/diffusionbee-stable-diffusion-ui",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:31.485685+00:00",
+  "tree_sha": "daf82f80e37b5a8c3e7b6caccedae09a3bf16dc5",
+  "tree_truncated": false,
+  "tree_path_count": 211,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

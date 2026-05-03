@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "preactjs/preact",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:31.291375+00:00",
+  "tree_sha": "21dd6d04c1a9a43e5b60976bb5eb7d856253195b",
+  "tree_truncated": false,
+  "tree_path_count": 348,
+  "has_tests": true,
+  "matched_test_paths": [
+    "compat/test",
+    "compat/test/browser",
+    "compat/test/browser/Children.test.jsx",
+    "compat/test/browser/PureComponent.test.jsx",
+    "compat/test/browser/cloneElement.test.jsx",
+    "compat/test/browser/compat.options.test.jsx",
+    "compat/test/browser/component.test.jsx",
+    "compat/test/browser/componentDidCatch.test.jsx",
+    "compat/test/browser/context.test.jsx",
+    "compat/test/browser/createElement.test.jsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/benchmarks.yml",
+    ".github/workflows/build-test.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/pr-reporter.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/run-bench.yml",
+    ".github/workflows/single-bench.yml",
+    ".github/workflows/size.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    "CONTRIBUTING.md"
+  ]
+}

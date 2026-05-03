@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "apexcharts/apexcharts.js",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:16.859106+00:00",
+  "tree_sha": "3bd63084a1adf5d33231ea78328484ba20f2ed3e",
+  "tree_truncated": false,
+  "tree_path_count": 1499,
+  "has_tests": true,
+  "matched_test_paths": [
+    "samples/react/tests",
+    "samples/react/tests/position-bottom-text-anchor-end-series-mixed.html",
+    "samples/react/tests/position-bottom-text-anchor-end-series-neg.html",
+    "samples/react/tests/position-bottom-text-anchor-end-series-pos.html",
+    "samples/react/tests/position-bottom-text-anchor-middle-series-mixed.html",
+    "samples/react/tests/position-bottom-text-anchor-middle-series-neg.html",
+    "samples/react/tests/position-bottom-text-anchor-middle-series-pos.html",
+    "samples/react/tests/position-bottom-text-anchor-start-series-mixed.html",
+    "samples/react/tests/position-bottom-text-anchor-start-series-neg.html",
+    "samples/react/tests/position-bottom-text-anchor-start-series-pos.html"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/health-check.yml",
+    ".github/workflows/lint.yml",
+    ".github/workflows/publish.yml",
+    ".github/workflows/stale.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug-report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature-request.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

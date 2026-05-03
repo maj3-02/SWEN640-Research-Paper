@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "cheeriojs/cheerio",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:43.003607+00:00",
+  "tree_sha": "6391ca60b289a7a9141e32a75558481676c7c8b3",
+  "tree_truncated": false,
+  "tree_path_count": 147,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/__tests__",
+    "src/__tests__/deprecated.spec.ts",
+    "src/__tests__/xml.spec.ts",
+    "src/api/attributes.spec.ts",
+    "src/api/css.spec.ts",
+    "src/api/extract.spec.ts",
+    "src/api/forms.spec.ts",
+    "src/api/manipulation.spec.ts",
+    "src/api/traversing.spec.ts",
+    "src/cheerio.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/benchmark.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/dependabot-automerge.yml",
+    ".github/workflows/lint.yml",
+    ".github/workflows/scorecard.yml",
+    ".github/workflows/site.yml",
+    ".github/workflows/sponsors.yml",
+    ".github/workflows/zizmor.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

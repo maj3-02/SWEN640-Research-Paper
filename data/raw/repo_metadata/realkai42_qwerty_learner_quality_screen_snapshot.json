@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "RealKai42/qwerty-learner",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:11.929068+00:00",
+  "tree_sha": "2498f753aaf955645f466664d3972c2c7d29dd55",
+  "tree_truncated": false,
+  "tree_path_count": 787,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/e2e",
+    "tests/e2e/dictionary.spec.ts",
+    "tests/e2e/main.spec.ts",
+    "tests/e2e/practice-list.spec.ts",
+    "tests/e2e/practice.spec.ts",
+    "tests/e2e/theme.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/deploy-pages.yml",
+    ".github/workflows/e2e.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "docs/CONTRIBUTING.md"
+  ]
+}

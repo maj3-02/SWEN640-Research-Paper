@@ -1,0 +1,30 @@
+{
+  "repository_full_name": "commitizen/cz-cli",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:07.370439+00:00",
+  "tree_sha": "3c08866d9a8788c25798035f2dee7feaa6c03287",
+  "tree_truncated": false,
+  "tree_path_count": 93,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/config.js",
+    "test/fixtures",
+    "test/fixtures/invalid-charset.json",
+    "test/fixtures/invalid-json-rc",
+    "test/fixtures/invalid-json.json",
+    "test/fixtures/valid-json-rc",
+    "test/mochareporters.json",
+    "test/tester.js",
+    "test/tests"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/release.yml",
+    "azure-pipelines.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md"
+  ]
+}

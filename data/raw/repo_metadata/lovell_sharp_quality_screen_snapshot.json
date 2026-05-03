@@ -1,0 +1,36 @@
+{
+  "repository_full_name": "lovell/sharp",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:36.318731+00:00",
+  "tree_sha": "7b4c4762432b14c62676e860c8034b5cd326f464",
+  "tree_truncated": false,
+  "tree_path_count": 806,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/bench",
+    "test/bench/Dockerfile",
+    "test/bench/package.json",
+    "test/bench/parallel.js",
+    "test/bench/perf.js",
+    "test/bench/random.js",
+    "test/bench/run-with-docker.sh",
+    "test/fixtures",
+    "test/fixtures/16-bit-grey-alpha.png"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/npm.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/ISSUE_TEMPLATE/installation.md",
+    ".github/ISSUE_TEMPLATE/possible-bug.md",
+    ".github/ISSUE_TEMPLATE/question.md",
+    ".github/SECURITY.md"
+  ]
+}

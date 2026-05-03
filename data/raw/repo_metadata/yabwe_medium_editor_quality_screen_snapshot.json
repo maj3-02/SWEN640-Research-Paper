@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "yabwe/medium-editor",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:12.872690+00:00",
+  "tree_sha": "d113a74437fda6f1cbd5f146b0f2c46288b118ea",
+  "tree_truncated": false,
+  "tree_path_count": 164,
+  "has_tests": true,
+  "matched_test_paths": [
+    "spec",
+    "spec/anchor-preview.spec.js",
+    "spec/anchor.spec.js",
+    "spec/auto-link.spec.js",
+    "spec/buttons.spec.js",
+    "spec/content.spec.js",
+    "spec/core-api.spec.js",
+    "spec/delay.spec.js",
+    "spec/drag-and-drop.spec.js",
+    "spec/dyn-elements.spec.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

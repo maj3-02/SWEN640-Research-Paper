@@ -1,0 +1,29 @@
+{
+  "repository_full_name": "jlmakes/scrollreveal",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-26T23:03:20.368951+00:00",
+  "tree_sha": "b5f4e01a655812e06b377fff497fc629c02002f3",
+  "tree_truncated": false,
+  "tree_path_count": 69,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/instance",
+    "test/instance/constructor.spec.js",
+    "test/karma.conf.js",
+    "test/polyfills",
+    "test/polyfills/math-sign.spec.js",
+    "test/sauce.conf.js",
+    "test/timeout.spec.js",
+    "test/utils",
+    "test/utils/deep-assign.spec.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

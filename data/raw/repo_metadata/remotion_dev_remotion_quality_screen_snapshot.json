@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "remotion-dev/remotion",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:17.843504+00:00",
+  "tree_sha": "d2113a11eb3678ab1a0ed31d593122f190b619fb",
+  "tree_truncated": false,
+  "tree_path_count": 11639,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/animation-utils/src/test",
+    "packages/animation-utils/src/test/interpolate-styles.test.ts",
+    "packages/animation-utils/src/test/make-transform.test.ts",
+    "packages/bundler/src/test",
+    "packages/bundler/src/test/validate-bundle.test.ts",
+    "packages/bundler/src/test/validate-public-dir.test.ts",
+    "packages/bundler/src/test/warrant-underscore-a-hack.test.ts",
+    "packages/captions/src/test",
+    "packages/captions/src/test/ensure-max-characters.test.ts",
+    "packages/captions/src/test/srt.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/changelog.yml",
+    ".github/workflows/claude.yml",
+    ".github/workflows/copilot-setup-steps.yml",
+    ".github/workflows/discord.yml",
+    ".github/workflows/pullfrog.yml",
+    ".github/workflows/push.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/custom_issue.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md",
+    "packages/google-fonts/CONTRIBUTING.md"
+  ]
+}

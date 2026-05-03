@@ -1,0 +1,35 @@
+{
+  "repository_full_name": "testing-library/react-testing-library",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:59.629189+00:00",
+  "tree_sha": "be9d81d91314c9f0bafaa363f70b409b4b31989c",
+  "tree_truncated": false,
+  "tree_path_count": 79,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/__tests__",
+    "src/__tests__/__snapshots__",
+    "src/__tests__/__snapshots__/render.js.snap",
+    "src/__tests__/act.js",
+    "src/__tests__/auto-cleanup-skip.js",
+    "src/__tests__/auto-cleanup.js",
+    "src/__tests__/cleanup.js",
+    "src/__tests__/config.js",
+    "src/__tests__/debug.js",
+    "src/__tests__/end-to-end.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/release.yml",
+    ".github/workflows/validate.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/Bug_Report.md",
+    ".github/ISSUE_TEMPLATE/Feature_Request.md",
+    ".github/ISSUE_TEMPLATE/Question.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

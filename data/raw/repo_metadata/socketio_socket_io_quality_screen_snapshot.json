@@ -1,0 +1,37 @@
+{
+  "repository_full_name": "socketio/socket.io",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:03.320940+00:00",
+  "tree_sha": "439a8f669c6788b512dd76011c4476830d67515b",
+  "tree_truncated": false,
+  "tree_path_count": 1070,
+  "has_tests": true,
+  "matched_test_paths": [
+    "examples/ReactNativeExample/__tests__",
+    "examples/ReactNativeExample/__tests__/App.test.tsx",
+    "examples/angular-todomvc/e2e",
+    "examples/angular-todomvc/e2e/protractor.conf.js",
+    "examples/angular-todomvc/e2e/src",
+    "examples/angular-todomvc/e2e/src/app.e2e-spec.ts",
+    "examples/angular-todomvc/e2e/src/app.po.ts",
+    "examples/angular-todomvc/e2e/tsconfig.json",
+    "examples/angular-todomvc/src/app/app.component.spec.ts",
+    "examples/angular-todomvc/tsconfig.spec.json"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-examples.yml",
+    ".github/workflows/ci-browser.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/publish.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

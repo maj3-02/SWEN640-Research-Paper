@@ -1,0 +1,29 @@
+{
+  "repository_full_name": "overleaf/overleaf",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-26T23:03:38.242623+00:00",
+  "tree_sha": "713a0c15efdea5ec3bd17c888547eef14ba898fd",
+  "tree_truncated": false,
+  "tree_path_count": 8046,
+  "has_tests": true,
+  "matched_test_paths": [
+    "dockerfiles/cypress",
+    "dockerfiles/cypress/Dockerfile",
+    "libraries/access-token-encryptor/test",
+    "libraries/access-token-encryptor/test/mocha-multi-reporters.cjs",
+    "libraries/access-token-encryptor/test/setup.js",
+    "libraries/access-token-encryptor/test/unit",
+    "libraries/access-token-encryptor/test/unit/js",
+    "libraries/access-token-encryptor/test/unit/js/AccessTokenEncryptorTests.js",
+    "libraries/eslint-plugin/rules.test.js",
+    "libraries/fetch-utils/test"
+  ],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md"
+  ]
+}

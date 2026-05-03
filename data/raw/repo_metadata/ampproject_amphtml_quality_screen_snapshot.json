@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "ampproject/amphtml",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:20.963793+00:00",
+  "tree_sha": "4eeab9b5e1a1022492118f5444c25a9c8db6d4bc",
+  "tree_truncated": false,
+  "tree_path_count": 9409,
+  "has_tests": true,
+  "matched_test_paths": [
+    "ads/google/a4a/shared/test",
+    "ads/google/a4a/shared/test/test-content-recommendation.js",
+    "ads/google/a4a/shared/test/test-url-builder.js",
+    "ads/google/a4a/test",
+    "ads/google/a4a/test/test-cookie-utils.js",
+    "ads/google/a4a/test/test-line-delimited-response-handler.js",
+    "ads/google/a4a/test/test-traffic-experiments.js",
+    "ads/google/a4a/test/test-utils.js",
+    "ads/google/test",
+    "ads/google/test/test-utils.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/OWNERS",
+    ".circleci/check_config.sh",
+    ".circleci/config.yml",
+    ".circleci/fetch_merge_commit.sh",
+    ".circleci/get_pinned_chrome_version.sh",
+    ".circleci/get_pr_number.sh",
+    ".circleci/initialize_repo.sh",
+    ".circleci/install_microsoft_edge.sh",
+    ".circleci/install_validator_dependencies.sh",
+    ".circleci/maybe_gracefully_halt.sh"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug-report.yml",
+    ".github/ISSUE_TEMPLATE/cherry-pick-request.yml",
+    ".github/ISSUE_TEMPLATE/feature-request.yml",
+    ".github/ISSUE_TEMPLATE/ga4-bug-report.yml",
+    ".github/ISSUE_TEMPLATE/intent-to-deprecate.yml",
+    ".github/ISSUE_TEMPLATE/intent-to-implement.yml",
+    ".github/ISSUE_TEMPLATE/intent-to-remove.yml",
+    ".github/ISSUE_TEMPLATE/intent-to-ship.yml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md"
+  ]
+}

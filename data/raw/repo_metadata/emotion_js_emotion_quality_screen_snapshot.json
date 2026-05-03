@@ -1,0 +1,37 @@
+{
+  "repository_full_name": "emotion-js/emotion",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:04.758148+00:00",
+  "tree_sha": "b882bcba85132554992e4bd49e94c95939bbf810",
+  "tree_truncated": false,
+  "tree_path_count": 1034,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/babel-plugin-jsx-pragmatic/__tests__",
+    "packages/babel-plugin-jsx-pragmatic/__tests__/__fixtures__",
+    "packages/babel-plugin-jsx-pragmatic/__tests__/__fixtures__/existing-imports.js",
+    "packages/babel-plugin-jsx-pragmatic/__tests__/__fixtures__/fragment-only.js",
+    "packages/babel-plugin-jsx-pragmatic/__tests__/__fixtures__/minimal.js",
+    "packages/babel-plugin-jsx-pragmatic/__tests__/__snapshots__",
+    "packages/babel-plugin-jsx-pragmatic/__tests__/__snapshots__/index.js.snap",
+    "packages/babel-plugin-jsx-pragmatic/__tests__/index.js",
+    "packages/babel-plugin/__tests__",
+    "packages/babel-plugin/__tests__/__fixtures__"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/main.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/--bug-report.md",
+    ".github/ISSUE_TEMPLATE/--documentation-issue.md",
+    ".github/ISSUE_TEMPLATE/--feature-request.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

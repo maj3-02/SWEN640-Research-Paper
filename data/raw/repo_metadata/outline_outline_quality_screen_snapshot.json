@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "outline/outline",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:26.480512+00:00",
+  "tree_sha": "816a474a46c6ff4df354b638b7d4d262d38a836d",
+  "tree_truncated": false,
+  "tree_path_count": 2766,
+  "has_tests": true,
+  "matched_test_paths": [
+    "app/models/Collection.test.ts",
+    "app/models/User.test.ts",
+    "app/test",
+    "app/test/setup.ts",
+    "app/utils/emoji.test.ts",
+    "app/utils/files.test.ts",
+    "app/utils/i18n.test.ts",
+    "app/utils/routeHelpers.test.ts",
+    "app/utils/urls.test.ts",
+    "plugins/email/server/auth/email.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/auto-close-prs.yml",
+    ".github/workflows/calibreapp-image-actions.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/docker-build-check.yml",
+    ".github/workflows/docker.yml",
+    ".github/workflows/stale.yml",
+    ".github/workflows/update-node.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    "docs/CODE_OF_CONDUCT.md",
+    "docs/SECURITY.md"
+  ]
+}

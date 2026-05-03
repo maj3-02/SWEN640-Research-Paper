@@ -1,0 +1,36 @@
+{
+  "repository_full_name": "VSCodeVim/Vim",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:51.702201+00:00",
+  "tree_sha": "e4b1b47a4318ec84d37e124f69fff715b1b859c8",
+  "tree_truncated": false,
+  "tree_path_count": 374,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/actions",
+    "test/actions/baseAction.test.ts",
+    "test/actions/insertLine.test.ts",
+    "test/actions/languages",
+    "test/actions/languages/python",
+    "test/actions/languages/python/motion.test.ts",
+    "test/actions/markMovement.test.ts",
+    "test/cmd_line",
+    "test/cmd_line/bang.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build.yml",
+    ".github/workflows/pull_request.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "SECURITY.md"
+  ]
+}

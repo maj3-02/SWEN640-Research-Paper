@@ -1,0 +1,36 @@
+{
+  "repository_full_name": "xtermjs/xterm.js",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:19.609446+00:00",
+  "tree_sha": "3a84bcb7ae5a3471a1810db621010a46dba2085f",
+  "tree_truncated": false,
+  "tree_path_count": 840,
+  "has_tests": true,
+  "matched_test_paths": [
+    "addons/addon-attach/test",
+    "addons/addon-attach/test/AttachAddon.test.ts",
+    "addons/addon-attach/test/playwright.config.ts",
+    "addons/addon-attach/test/tsconfig.json",
+    "addons/addon-clipboard/test",
+    "addons/addon-clipboard/test/ClipboardAddon.test.ts",
+    "addons/addon-clipboard/test/playwright.config.ts",
+    "addons/addon-clipboard/test/tsconfig.json",
+    "addons/addon-fit/test",
+    "addons/addon-fit/test/FitAddon.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/copilot-setup-steps.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

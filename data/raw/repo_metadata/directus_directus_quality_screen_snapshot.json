@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "directus/directus",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:31.292467+00:00",
+  "tree_sha": "0788b033295d50cc896ce54340159e26864da377",
+  "tree_truncated": false,
+  "tree_path_count": 4872,
+  "has_tests": true,
+  "matched_test_paths": [
+    "api/src/ai/chat/controllers/chat.post.test.ts",
+    "api/src/ai/chat/controllers/object.post.test.ts",
+    "api/src/ai/chat/lib/create-ui-stream.test.ts",
+    "api/src/ai/chat/lib/transform-file-parts.test.ts",
+    "api/src/ai/chat/middleware/load-settings.test.ts",
+    "api/src/ai/chat/utils/add-additional-properties-to-json-schema.test.ts",
+    "api/src/ai/chat/utils/chat-request-tool-to-ai-sdk-tool.test.ts",
+    "api/src/ai/chat/utils/fix-error-tool-calls.test.ts",
+    "api/src/ai/chat/utils/format-context.test.ts",
+    "api/src/ai/chat/utils/parse-json-schema-7.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/agent-scan.yml",
+    ".github/workflows/assign-next-release-milestone.yml",
+    ".github/workflows/blackbox-pr.yml",
+    ".github/workflows/blackbox.yml",
+    ".github/workflows/changeset-check.yml",
+    ".github/workflows/check.yml",
+    ".github/workflows/cla.yml",
+    ".github/workflows/claude-code-review.yml",
+    ".github/workflows/claude.yml",
+    ".github/workflows/close-changes-requested-prs.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/pull_request_template.md",
+    "code_of_conduct.md",
+    "contributing.md",
+    "security.md"
+  ]
+}

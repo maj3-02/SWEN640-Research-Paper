@@ -1,0 +1,45 @@
+{
+  "repository_full_name": "ag-grid/ag-grid",
+  "default_branch": "latest",
+  "fetched_at_utc": "2026-04-28T19:19:50.631387+00:00",
+  "tree_sha": "64d9669240d84bff248a020b3efda18bf59af4da",
+  "tree_truncated": false,
+  "tree_path_count": 14237,
+  "has_tests": true,
+  "matched_test_paths": [
+    "community-modules/locale/src/main.test.ts",
+    "community-modules/locale/tsconfig.spec.json",
+    "community-modules/locale/tsconfig.types.test.json",
+    "community-modules/styles/test",
+    "community-modules/styles/test/test.scss",
+    "documentation/ag-grid-docs/public/example-runner/systemjs.test.ts",
+    "documentation/ag-grid-docs/src/components/license-setup/utils/getDependencies.test.ts",
+    "documentation/ag-grid-docs/src/components/matrix-table/utils/createRowDataFilter.test.ts",
+    "documentation/ag-grid-docs/src/components/module-mappings/getModuleMappingsSnippet.test.ts",
+    "documentation/ag-grid-docs/src/components/snippet/__snapshots__/snippetTransformer.test.ts.snap"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/accessibility.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/csp.yml",
+    ".github/workflows/doc-tests.yml",
+    ".github/workflows/full-clean-build.yml",
+    ".github/workflows/gh-comment-hook.yml",
+    ".github/workflows/module-size-comparison.yml",
+    ".github/workflows/module-size-vs-release.yml",
+    ".github/workflows/performance.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/support.yml",
+    "SECURITY.md",
+    "packages/ag-grid-angular/CONTRIBUTING.md",
+    "packages/ag-grid-enterprise/CONTRIBUTING.md",
+    "packages/ag-grid-react/CONTRIBUTING.md",
+    "packages/ag-grid-vue3/CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "repository_full_name": "petkaantonov/bluebird",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-26T23:03:27.480384+00:00",
+  "tree_sha": "c220cfe480868e2f5c5de4fe8bb3b04b97588d7f",
+  "tree_truncated": false,
+  "tree_path_count": 395,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/browser",
+    "test/browser/es5-sham.js",
+    "test/browser/es5-shim.js",
+    "test/browser/have_getters.js",
+    "test/browser/index.html",
+    "test/browser/json.js",
+    "test/browser/main.js",
+    "test/browser/mocha.css",
+    "test/browser/mocha.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md",
+    "docs/docs/support.md"
+  ]
+}

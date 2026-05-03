@@ -1,0 +1,29 @@
+{
+  "repository_full_name": "philc/vimium",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:46.728718+00:00",
+  "tree_sha": "e5163eaa32d44f1181a51edaf3a201f8af743248",
+  "tree_truncated": false,
+  "tree_path_count": 149,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/dom_tests",
+    "tests/dom_tests/dom_test_setup.js",
+    "tests/dom_tests/dom_tests.html",
+    "tests/dom_tests/dom_tests.js",
+    "tests/dom_tests/dom_utils_test.js",
+    "tests/unit_tests",
+    "tests/unit_tests/bg_utils_test.js",
+    "tests/unit_tests/command_listing_test.js",
+    "tests/unit_tests/commands_test.js"
+  ],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md"
+  ]
+}

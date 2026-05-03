@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "juliangarnier/anime",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:18.536585+00:00",
+  "tree_sha": "3b369a4b1a98c90600502b1d94fad3c1bbfd7639",
+  "tree_truncated": false,
+  "tree_path_count": 581,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/assets",
+    "tests/assets/Altinn-DINExp.woff2",
+    "tests/assets/favicon.png",
+    "tests/assets/icon.png",
+    "tests/index.html",
+    "tests/playground",
+    "tests/playground/additive-animations-2.html",
+    "tests/playground/advanced-staggering-demos.html",
+    "tests/playground/animejs-mgs-logo-animation.html"
+  ],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/documentation-update.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    "CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "prettier/prettier",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:23.360055+00:00",
+  "tree_sha": "084046daf82100f735bae1e790d102d7686de34c",
+  "tree_truncated": false,
+  "tree_path_count": 12494,
+  "has_tests": true,
+  "matched_test_paths": [
+    "scripts/release/tests",
+    "scripts/release/tests/publish-to-npm.test.js",
+    "scripts/release/tests/validate-new-version.test.js",
+    "scripts/release/tests/version-check.test.js",
+    "tests",
+    "tests/config",
+    "tests/config/browser-prettier",
+    "tests/config/browser-prettier/browser-prettier.js",
+    "tests/config/browser-prettier/browser.js",
+    "tests/config/browser-prettier/index.html"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/_build.yml",
+    ".github/workflows/autofix.yml",
+    ".github/workflows/bundler-friendly.yml",
+    ".github/workflows/check-sizes.yml",
+    ".github/workflows/cleanup-cspell.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/dev-package-test.yml",
+    ".github/workflows/dev-test.yml",
+    ".github/workflows/eslint-rules.yml",
+    ".github/workflows/lint.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/formatting.md",
+    ".github/ISSUE_TEMPLATE/integration.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    ".github/SECURITY.md",
+    "CONTRIBUTING.md"
+  ]
+}

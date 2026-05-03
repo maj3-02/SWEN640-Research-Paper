@@ -1,0 +1,37 @@
+{
+  "repository_full_name": "conventional-changelog/commitlint",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:30.473023+00:00",
+  "tree_sha": "86dec4752c9839abc279b631ee7dfd813700f33a",
+  "tree_truncated": false,
+  "tree_path_count": 998,
+  "has_tests": true,
+  "matched_test_paths": [
+    "@alias/commitlint/cli.test.js",
+    "@commitlint/cli/fixtures/husky/integration",
+    "@commitlint/cli/fixtures/husky/integration/commitlint.config.js",
+    "@commitlint/cli/fixtures/husky/integration/package.json",
+    "@commitlint/cli/src/cli.test.ts",
+    "@commitlint/config-angular/index.test.js",
+    "@commitlint/config-conventional/src/index.test.ts",
+    "@commitlint/config-lerna-scopes/index.test.js",
+    "@commitlint/config-nx-scopes/index.test.js",
+    "@commitlint/config-pnpm-scopes/index.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/CI.yml",
+    ".github/workflows/commitlint.yml",
+    ".github/workflows/container-build.yml",
+    ".github/workflows/docs-deploy.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/BUG_REPORT.yml",
+    ".github/ISSUE_TEMPLATE/FEATURE_REQUEST.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

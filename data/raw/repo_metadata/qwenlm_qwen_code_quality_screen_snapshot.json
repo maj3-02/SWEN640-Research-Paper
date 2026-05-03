@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "QwenLM/qwen-code",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:01.850942+00:00",
+  "tree_sha": "8de1bcb2799e3c951968633c68aa56ec077fd128",
+  "tree_truncated": false,
+  "tree_path_count": 2874,
+  "has_tests": true,
+  "matched_test_paths": [
+    "integration-tests/channel-plugin.test.ts",
+    "integration-tests/cli/acp-cron.test.ts",
+    "integration-tests/cli/acp-integration.test.ts",
+    "integration-tests/cli/cron-tools.test.ts",
+    "integration-tests/cli/edit.test.ts",
+    "integration-tests/cli/extensions-install.test.ts",
+    "integration-tests/cli/file-system.test.ts",
+    "integration-tests/cli/json-output.test.ts",
+    "integration-tests/cli/list_directory.test.ts",
+    "integration-tests/cli/mcp_server_cyclic_schema.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-and-publish-image.yml",
+    ".github/workflows/check-issue-completeness.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/community-report.yml",
+    ".github/workflows/docs-page-action.yml",
+    ".github/workflows/e2e.yml",
+    ".github/workflows/eval.yml",
+    ".github/workflows/gemini-automated-issue-dedup.yml",
+    ".github/workflows/gemini-scheduled-issue-dedup.yml",
+    ".github/workflows/gemini-scheduled-pr-triage.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "docs/developers/contributing.md"
+  ]
+}

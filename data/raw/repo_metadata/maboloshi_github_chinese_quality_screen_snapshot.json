@@ -1,0 +1,23 @@
+{
+  "repository_full_name": "maboloshi/github-chinese",
+  "default_branch": "gh-pages",
+  "fetched_at_utc": "2026-04-28T19:16:52.945545+00:00",
+  "tree_sha": "8a8ad263685049662a0be449fefeeaa0ded8c083",
+  "tree_truncated": false,
+  "tree_path_count": 34,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/locals(greasyfork).js_update.yaml",
+    ".github/workflows/main.user.js_version_update_and_sync_zh-TW.yaml",
+    ".github/workflows/remove_dup.yml",
+    ".github/workflows/update_contributors_images.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug-提交-简体中文-.yml",
+    ".github/ISSUE_TEMPLATE/bug-提交-繁體中文-.yml",
+    ".github/ISSUE_TEMPLATE/config.yml"
+  ]
+}

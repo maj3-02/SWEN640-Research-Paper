@@ -1,0 +1,40 @@
+{
+  "repository_full_name": "cockpit-project/cockpit",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:27.909179+00:00",
+  "tree_sha": "160609c29ac1b826e08432e018239d80c26771af",
+  "tree_truncated": false,
+  "tree_path_count": 1495,
+  "has_tests": true,
+  "matched_test_paths": [
+    "containers/flatpak/test",
+    "containers/flatpak/test/ruff.toml",
+    "containers/flatpak/test/test-browser",
+    "containers/flatpak/test/test-browser-login-invalid.js",
+    "containers/flatpak/test/test-browser-login-recent.js",
+    "containers/flatpak/test/test-browser-login-remove.js",
+    "containers/flatpak/test/test-browser-login-ssh.js",
+    "containers/flatpak/test/test-browser-login.js",
+    "containers/flatpak/test/test-browser-logout.js",
+    "containers/flatpak/test/test-browser-overview.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-ws-container.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/dependabot.yml",
+    ".github/workflows/differential-shellcheck.yml",
+    ".github/workflows/flatpak-test.yml",
+    ".github/workflows/nightly.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/reposchutz.yml",
+    ".github/workflows/tasks-container-update.yml",
+    ".github/workflows/tox.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/enhancement.yml"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "typicode/husky",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:34.241458+00:00",
+  "tree_sha": "3f0023dc10d7003d70f2e31aa56300eab80e76d6",
+  "tree_truncated": false,
+  "tree_path_count": 70,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/10_init.sh",
+    "test/11_time.sh",
+    "test/12_deprecated.sh",
+    "test/1_default.sh",
+    "test/2_in-sub-dir.sh",
+    "test/3_from-sub-dir.sh",
+    "test/4_not-git-dir.sh",
+    "test/5_git_command_not_found.sh",
+    "test/6_command_not_found.sh"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/deploy.yml",
+    ".github/workflows/node.js.yml",
+    ".github/workflows/npm_publish.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/issue.md"
+  ]
+}

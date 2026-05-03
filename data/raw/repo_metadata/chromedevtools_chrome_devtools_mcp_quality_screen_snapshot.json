@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "ChromeDevTools/chrome-devtools-mcp",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:27.382025+00:00",
+  "tree_sha": "06b331f403056727850a633dd64b290d60bdb906",
+  "tree_truncated": false,
+  "tree_path_count": 305,
+  "has_tests": true,
+  "matched_test_paths": [
+    "scripts/eval_scenarios/console_test.ts",
+    "scripts/eval_scenarios/emulation_test.ts",
+    "scripts/eval_scenarios/emulation_userAgent_test.ts",
+    "scripts/eval_scenarios/emulation_viewport_test.ts",
+    "scripts/eval_scenarios/fill_select_and_checkboxes_test.ts",
+    "scripts/eval_scenarios/fix_webpage_issues_test.ts",
+    "scripts/eval_scenarios/frontend_snapshot_test.ts",
+    "scripts/eval_scenarios/input_parallel_test.ts",
+    "scripts/eval_scenarios/input_test.ts",
+    "scripts/eval_scenarios/isolated_context_test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/conventional-commit.yml",
+    ".github/workflows/pre-release.yml",
+    ".github/workflows/presubmit.yml",
+    ".github/workflows/publish-to-npm-on-tag.yml",
+    ".github/workflows/release-please.yml",
+    ".github/workflows/run-tests.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/01-bug.yml",
+    ".github/ISSUE_TEMPLATE/02-feature.yml",
+    ".github/ISSUE_TEMPLATE/03-task.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

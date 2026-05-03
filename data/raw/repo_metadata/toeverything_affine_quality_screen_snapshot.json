@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "toeverything/AFFiNE",
+  "default_branch": "canary",
+  "fetched_at_utc": "2026-04-28T19:18:02.528838+00:00",
+  "tree_sha": "bf6fc66943e8a3ec2fa3368d20b6c61a4979e46b",
+  "tree_truncated": false,
+  "tree_path_count": 12260,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".github/helm/affine/charts/front/templates/tests",
+    ".github/helm/affine/charts/front/templates/tests/test-connection.yaml",
+    ".github/helm/affine/charts/gcloud-sql-proxy/templates/tests",
+    ".github/helm/affine/charts/gcloud-sql-proxy/templates/tests/test-connection.yaml",
+    ".github/helm/affine/charts/graphql/templates/tests",
+    ".github/helm/affine/charts/graphql/templates/tests/test-connection.yaml",
+    "blocksuite/affine/all/src/__tests__",
+    "blocksuite/affine/all/src/__tests__/adapters",
+    "blocksuite/affine/all/src/__tests__/adapters/__snapshots__",
+    "blocksuite/affine/all/src/__tests__/adapters/__snapshots__/markdown.unit.spec.ts.snap"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/auto-labeler.yml",
+    ".github/workflows/build-images.yml",
+    ".github/workflows/build-test.yml",
+    ".github/workflows/copilot-test-automatically.yml",
+    ".github/workflows/copilot-test.yml",
+    ".github/workflows/pr-title-lint.yml",
+    ".github/workflows/release-cloud.yml",
+    ".github/workflows/release-desktop-platform.yml",
+    ".github/workflows/release-desktop.yml",
+    ".github/workflows/release-mobile.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/BUG-REPORT.yml",
+    ".github/ISSUE_TEMPLATE/FEATURE-REQUEST.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    "SECURITY.md",
+    "docs/CODE_OF_CONDUCT.md",
+    "docs/CONTRIBUTING.md"
+  ]
+}

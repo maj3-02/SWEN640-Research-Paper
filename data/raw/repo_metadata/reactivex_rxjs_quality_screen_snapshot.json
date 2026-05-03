@@ -1,0 +1,37 @@
+{
+  "repository_full_name": "ReactiveX/rxjs",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:39.690976+00:00",
+  "tree_sha": "c15b37f81ba5f5abea8c872b0189a70b150df4cb",
+  "tree_truncated": false,
+  "tree_path_count": 1361,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/rxjs.dev/scripts/deploy-to-firebase.test.sh",
+    "apps/rxjs.dev/src/app/custom-elements/announcement-bar/announcement-bar.component.spec.ts",
+    "apps/rxjs.dev/src/app/custom-elements/api/api-list.component.spec.ts",
+    "apps/rxjs.dev/src/app/custom-elements/api/api.service.spec.ts",
+    "apps/rxjs.dev/src/app/custom-elements/code/code-example.component.spec.ts",
+    "apps/rxjs.dev/src/app/custom-elements/code/code-tabs.component.spec.ts",
+    "apps/rxjs.dev/src/app/custom-elements/code/code.component.spec.ts",
+    "apps/rxjs.dev/src/app/custom-elements/contributor/contributor-list.component.spec.ts",
+    "apps/rxjs.dev/src/app/custom-elements/contributor/contributor.service.spec.ts",
+    "apps/rxjs.dev/src/app/custom-elements/current-location/current-location.component.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci_main.yml",
+    ".github/workflows/ci_ts_latest.yml",
+    ".github/workflows/publish.yml",
+    ".github/workflows/rebase.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

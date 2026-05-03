@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "NodeBB/NodeBB",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:17.447675+00:00",
+  "tree_sha": "0a56c3cedfa1f81578895da744f858ea2d9683c4",
+  "tree_truncated": false,
+  "tree_path_count": 6335,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/activitypub.js",
+    "test/activitypub",
+    "test/activitypub/actors.js",
+    "test/activitypub/analytics.js",
+    "test/activitypub/feps.js",
+    "test/activitypub/helpers.js",
+    "test/activitypub/inbox.js",
+    "test/activitypub/mocks.js",
+    "test/activitypub/notes.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/docker.yml",
+    ".github/workflows/test.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug-report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature-request.yml",
+    ".github/SECURITY.md"
+  ]
+}

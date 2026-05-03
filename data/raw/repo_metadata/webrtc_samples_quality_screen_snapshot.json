@@ -1,0 +1,30 @@
+{
+  "repository_full_name": "webrtc/samples",
+  "default_branch": "gh-pages",
+  "fetched_at_utc": "2026-04-28T19:17:23.318363+00:00",
+  "tree_sha": "5de7aadb4a48dd0433a5835cb357828ddfb451a1",
+  "tree_truncated": false,
+  "tree_path_count": 446,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/download-browsers.js",
+    "test/interop",
+    "test/interop/connection.test.js",
+    "test/steps.js",
+    "test/webdriver.js",
+    "test/webrtcclient.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/interop-tests.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "repository_full_name": "GoogleChromeLabs/squoosh",
+  "default_branch": "dev",
+  "fetched_at_utc": "2026-04-28T19:18:58.277250+00:00",
+  "tree_sha": "e8d35e0fb66eb16eff6fe8fc773eabcbb7128de3",
+  "tree_truncated": false,
+  "tree_path_count": 583,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/node.js.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    "CONTRIBUTING.md"
+  ]
+}

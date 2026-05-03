@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "simple-icons/simple-icons",
+  "default_branch": "develop",
+  "fetched_at_utc": "2026-04-28T19:16:51.127656+00:00",
+  "tree_sha": "8554df826b4aa83f58a2d7559993e1cd86b6036c",
+  "tree_truncated": false,
+  "tree_path_count": 3535,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/docs.test.js",
+    "tests/index.test.js",
+    "tests/min-reporter.cjs",
+    "tests/package.json",
+    "tests/test-icon.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/add-labels-priority.yml",
+    ".github/workflows/autoclose-issues.yml",
+    ".github/workflows/create-release.yml",
+    ".github/workflows/duplicate-issues.yml",
+    ".github/workflows/merge-release.yml",
+    ".github/workflows/publish.yml",
+    ".github/workflows/remove-labels.yml",
+    ".github/workflows/renovate.yml",
+    ".github/workflows/sync-labels.yml",
+    ".github/workflows/verify.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/documentation.yml",
+    ".github/ISSUE_TEMPLATE/icon_removal.yml",
+    ".github/ISSUE_TEMPLATE/icon_request.yml",
+    ".github/ISSUE_TEMPLATE/icon_update.yml",
+    ".github/ISSUE_TEMPLATE/package.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "Chalarangelo/30-seconds-of-code",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:12.562781+00:00",
+  "tree_sha": "9a12310b04f59a81af4034731165c86f1678b7dc",
+  "tree_truncated": false,
+  "tree_path_count": 3408,
+  "has_tests": true,
+  "matched_test_paths": [
+    "spec",
+    "spec/core",
+    "spec/core/model.test.js",
+    "spec/core/serializer.test.js",
+    "spec/factories",
+    "spec/factories/collectionFactory.js",
+    "spec/factories/collectionSnippetFactory.js",
+    "spec/factories/factories.js",
+    "spec/factories/languageFactory.js",
+    "spec/factories/snippetFactory.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/deploy-production.yml",
+    ".github/workflows/label.yml",
+    ".github/workflows/stale.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

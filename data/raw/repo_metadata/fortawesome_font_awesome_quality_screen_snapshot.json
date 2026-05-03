@@ -1,0 +1,21 @@
+{
+  "repository_full_name": "FortAwesome/Font-Awesome",
+  "default_branch": "7.x",
+  "fetched_at_utc": "2026-04-28T19:16:17.747636+00:00",
+  "tree_sha": "337dd2045d5621ce0f8567c33c256f3dedeed55d",
+  "tree_truncated": false,
+  "tree_path_count": 23117,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/100_web_bug_report.yml",
+    ".github/ISSUE_TEMPLATE/101_other_bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

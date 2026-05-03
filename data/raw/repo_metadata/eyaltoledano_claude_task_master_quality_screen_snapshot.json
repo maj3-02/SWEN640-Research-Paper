@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "eyaltoledano/claude-task-master",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:45.421446+00:00",
+  "tree_sha": "c0c98d367c55296bfe69e65680625b6db437af02",
+  "tree_truncated": false,
+  "tree_path_count": 1522,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/cli/src/commands/list.command.spec.ts",
+    "apps/cli/src/commands/loop.command.spec.ts",
+    "apps/cli/src/ui/components/dashboard.component.spec.ts",
+    "apps/cli/src/ui/formatters/status-formatters.spec.ts",
+    "apps/cli/src/ui/layout/helpers.spec.ts",
+    "apps/cli/src/utils/ui.spec.ts",
+    "apps/cli/tests",
+    "apps/cli/tests/helpers",
+    "apps/cli/tests/helpers/test-utils.ts",
+    "apps/cli/tests/integration"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/auto-close-duplicates.yml",
+    ".github/workflows/backfill-duplicate-comments.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/claude-dedupe-issues.yml",
+    ".github/workflows/claude-docs-trigger.yml",
+    ".github/workflows/claude-docs-updater.yml",
+    ".github/workflows/claude-issue-triage.yml",
+    ".github/workflows/claude.yml",
+    ".github/workflows/extension-ci.yml",
+    ".github/workflows/extension-release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/enhancements---feature-requests.md",
+    ".github/ISSUE_TEMPLATE/feedback.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    ".github/PULL_REQUEST_TEMPLATE",
+    ".github/PULL_REQUEST_TEMPLATE/bugfix.md",
+    ".github/PULL_REQUEST_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE/feature.md",
+    ".github/PULL_REQUEST_TEMPLATE/integration.md",
+    "CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "Canner/WrenAI",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:52.843838+00:00",
+  "tree_sha": "5dd32e71f794ec9624782f2d1e594e79e923db48",
+  "tree_truncated": false,
+  "tree_path_count": 989,
+  "has_tests": true,
+  "matched_test_paths": [
+    "wren-ai-service/tests",
+    "wren-ai-service/tests/__init__.py",
+    "wren-ai-service/tests/data",
+    "wren-ai-service/tests/data/book_2_mdl.json",
+    "wren-ai-service/tests/data/config.test.yaml",
+    "wren-ai-service/tests/data/mock_pyproject.toml",
+    "wren-ai-service/tests/data/pairs.json",
+    "wren-ai-service/tests/locust",
+    "wren-ai-service/tests/locust/__init__.py",
+    "wren-ai-service/tests/locust/config_users.json"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ai-service-release-image.yaml",
+    ".github/workflows/ai-service-release-nightly-image.yaml",
+    ".github/workflows/ai-service-release-stable-image.yaml",
+    ".github/workflows/ai-service-test.yaml",
+    ".github/workflows/create-rc-release-pr.yaml",
+    ".github/workflows/create-rc-release.yaml",
+    ".github/workflows/pr-tagger.yaml",
+    ".github/workflows/pull-request-title-validator.yaml",
+    ".github/workflows/ui-lint.yaml",
+    ".github/workflows/ui-release-image-stable.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "wren-ai-service/CONTRIBUTING.md"
+  ]
+}

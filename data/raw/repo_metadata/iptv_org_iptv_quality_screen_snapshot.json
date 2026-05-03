@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "iptv-org/iptv",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:51.404080+00:00",
+  "tree_sha": "a0e7604c42e0a1f1c9a59d038cb3d97623b23b91",
+  "tree_truncated": false,
+  "tree_path_count": 588,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/__data__",
+    "tests/__data__/.gitignore",
+    "tests/__data__/expected",
+    "tests/__data__/expected/playlist_export",
+    "tests/__data__/expected/playlist_export/.api",
+    "tests/__data__/expected/playlist_export/.api/streams.json",
+    "tests/__data__/expected/playlist_format",
+    "tests/__data__/expected/playlist_format/at.m3u",
+    "tests/__data__/expected/playlist_format/in.m3u"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/check.yml",
+    ".github/workflows/format.yml",
+    ".github/workflows/update.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/ISSUE_TEMPLATE/1_streams_add.yml",
+    ".github/ISSUE_TEMPLATE/2_streams_edit.yml",
+    ".github/ISSUE_TEMPLATE/3_streams_report.yml",
+    ".github/ISSUE_TEMPLATE/5_bug-report.yml",
+    ".github/ISSUE_TEMPLATE/6_copyright-claim.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    "CONTRIBUTING.md"
+  ]
+}

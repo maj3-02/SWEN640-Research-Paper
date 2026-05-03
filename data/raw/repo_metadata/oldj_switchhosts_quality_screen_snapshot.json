@@ -1,0 +1,25 @@
+{
+  "repository_full_name": "oldj/SwitchHosts",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:52.976221+00:00",
+  "tree_sha": "19b273ab24c3272d6cf1a6192a2c9c287ce75e14",
+  "tree_truncated": false,
+  "tree_path_count": 329,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/renderer/components/Editor/hosts_highlight.test.ts",
+    "test",
+    "test/_base.ts",
+    "test/common",
+    "test/common/hostsFn.test.ts",
+    "test/common/mock",
+    "test/common/mock/normalize.001.input.hosts",
+    "test/common/mock/normalize.001.output.hosts",
+    "test/common/newlines.test.ts",
+    "test/common/normalize.test.ts"
+  ],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

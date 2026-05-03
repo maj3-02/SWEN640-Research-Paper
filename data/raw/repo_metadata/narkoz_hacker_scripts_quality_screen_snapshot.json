@@ -1,0 +1,14 @@
+{
+  "repository_full_name": "NARKOZ/hacker-scripts",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:24.237919+00:00",
+  "tree_sha": "b14a0a89bdf743c63ca4cc9cbcd866e050d7b3b0",
+  "tree_truncated": false,
+  "tree_path_count": 74,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

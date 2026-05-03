@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "microsoft/playwright-mcp",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:40.112187+00:00",
+  "tree_sha": "aec213a06fc7d5cfb0f3db2eb9c28f88f0841378",
+  "tree_truncated": false,
+  "tree_path_count": 40,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/capabilities.spec.ts",
+    "tests/cli.spec.ts",
+    "tests/click.spec.ts",
+    "tests/core.spec.ts",
+    "tests/fixtures.ts",
+    "tests/library.spec.ts",
+    "tests/testserver",
+    "tests/testserver/cert.pem",
+    "tests/testserver/index.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/publish.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

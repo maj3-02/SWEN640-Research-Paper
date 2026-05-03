@@ -1,0 +1,35 @@
+{
+  "repository_full_name": "tailwindlabs/tailwindcss",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:56.282138+00:00",
+  "tree_sha": "b9449612baada9b086f6a36b527f811f80f25e58",
+  "tree_truncated": false,
+  "tree_path_count": 649,
+  "has_tests": true,
+  "matched_test_paths": [
+    "crates/ignore/tests",
+    "crates/ignore/tests/gitignore_matched_path_or_any_parents_tests.gitignore",
+    "crates/ignore/tests/gitignore_matched_path_or_any_parents_tests.rs",
+    "crates/ignore/tests/gitignore_skip_bom.gitignore",
+    "crates/ignore/tests/gitignore_skip_bom.rs",
+    "crates/oxide/tests",
+    "crates/oxide/tests/scanner.rs",
+    "integrations/cli/config.test.ts",
+    "integrations/cli/index.test.ts",
+    "integrations/cli/plugins.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/integration-tests.yml",
+    ".github/workflows/prepare-release.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug-report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

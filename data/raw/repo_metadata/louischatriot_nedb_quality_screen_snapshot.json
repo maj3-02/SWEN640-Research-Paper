@@ -1,0 +1,25 @@
+{
+  "repository_full_name": "louischatriot/nedb",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:31.674401+00:00",
+  "tree_sha": "35be491ca67dbd4c6f75335f5f486307b192f2dc",
+  "tree_truncated": false,
+  "tree_path_count": 67,
+  "has_tests": true,
+  "matched_test_paths": [
+    "browser-version/test",
+    "browser-version/test/async.js",
+    "browser-version/test/chai.js",
+    "browser-version/test/index.html",
+    "browser-version/test/jquery.min.js",
+    "browser-version/test/localforage.js",
+    "browser-version/test/mocha.css",
+    "browser-version/test/mocha.js",
+    "browser-version/test/nedb-browser.js",
+    "browser-version/test/playground.html"
+  ],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

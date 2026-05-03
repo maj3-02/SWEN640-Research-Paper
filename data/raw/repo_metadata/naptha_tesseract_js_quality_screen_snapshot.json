@@ -1,0 +1,32 @@
+{
+  "repository_full_name": "naptha/tesseract.js",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:31.692762+00:00",
+  "tree_sha": "42eae669e4b3a66429d8516f078912cc747a89df",
+  "tree_truncated": false,
+  "tree_path_count": 146,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/.eslintrc",
+    "tests/FS.test.mjs",
+    "tests/assets",
+    "tests/assets/images",
+    "tests/assets/images/bill.png",
+    "tests/assets/images/chinese.png",
+    "tests/assets/images/cosmic.png",
+    "tests/assets/images/escape_chars.png",
+    "tests/assets/images/simple-180.jpg"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/node.js.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/SECURITY.md"
+  ]
+}

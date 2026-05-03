@@ -1,0 +1,45 @@
+{
+  "repository_full_name": "AndyMik90/Aperant",
+  "default_branch": "develop",
+  "fetched_at_utc": "2026-04-28T19:20:01.719616+00:00",
+  "tree_sha": "cba7a0270ec794a14ac71615bc6c48085807ede6",
+  "tree_truncated": false,
+  "tree_path_count": 1613,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/desktop/e2e",
+    "apps/desktop/e2e/claude-accounts.e2e.ts",
+    "apps/desktop/e2e/electron-helper.ts",
+    "apps/desktop/e2e/flows.e2e.ts",
+    "apps/desktop/e2e/playwright.config.ts",
+    "apps/desktop/e2e/task-workflow.spec.ts",
+    "apps/desktop/e2e/terminal-copy-paste.e2e.ts",
+    "apps/desktop/src/__tests__",
+    "apps/desktop/src/__tests__/e2e",
+    "apps/desktop/src/__tests__/e2e/smoke.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/beta-release.yml",
+    ".github/workflows/build-prebuilds.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/discord-release.yml",
+    ".github/workflows/e2e.yml",
+    ".github/workflows/issue-auto-label.yml",
+    ".github/workflows/lint.yml",
+    ".github/workflows/pr-labeler.yml",
+    ".github/workflows/prepare-release.yml",
+    ".github/workflows/quality-security.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/docs.yml",
+    ".github/ISSUE_TEMPLATE/question.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md",
+    "apps/desktop/CONTRIBUTING.md",
+    "apps/desktop/src/main/claude-code-settings/SECURITY.md"
+  ]
+}

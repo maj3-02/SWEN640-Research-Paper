@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "sveltejs/svelte",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:16.667695+00:00",
+  "tree_sha": "b771df346444d486243882099d2a36f88e32dde0",
+  "tree_truncated": false,
+  "tree_path_count": 12391,
+  "has_tests": true,
+  "matched_test_paths": [
+    "benchmarking/benchmarks/reactivity/tests",
+    "benchmarking/benchmarks/reactivity/tests/clean_effects.bench.js",
+    "benchmarking/benchmarks/reactivity/tests/kairo_avoidable.bench.js",
+    "benchmarking/benchmarks/reactivity/tests/kairo_broad.bench.js",
+    "benchmarking/benchmarks/reactivity/tests/kairo_deep.bench.js",
+    "benchmarking/benchmarks/reactivity/tests/kairo_diamond.bench.js",
+    "benchmarking/benchmarks/reactivity/tests/kairo_mux.bench.js",
+    "benchmarking/benchmarks/reactivity/tests/kairo_repeated.bench.js",
+    "benchmarking/benchmarks/reactivity/tests/kairo_triangle.bench.js",
+    "benchmarking/benchmarks/reactivity/tests/kairo_unstable.bench.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/autofix.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/ecosystem-ci-trigger.yml",
+    ".github/workflows/pkg.pr.new.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

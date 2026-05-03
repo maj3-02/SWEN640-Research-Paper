@@ -1,0 +1,30 @@
+{
+  "repository_full_name": "leonardomso/33-js-concepts",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:18.991410+00:00",
+  "tree_sha": "60f9337d5e7a6dbc4f74dffc9c1a4c818652b4a7",
+  "tree_truncated": false,
+  "tree_path_count": 272,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/advanced-topics",
+    "tests/advanced-topics/algorithms-big-o",
+    "tests/advanced-topics/algorithms-big-o/algorithms-big-o.test.js",
+    "tests/advanced-topics/data-structures",
+    "tests/advanced-topics/data-structures/data-structures.test.js",
+    "tests/advanced-topics/design-patterns",
+    "tests/advanced-topics/design-patterns/design-patterns.test.js",
+    "tests/advanced-topics/error-handling",
+    "tests/advanced-topics/error-handling/error-handling.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/tests.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "repository_full_name": "visgl/deck.gl",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:20:01.456581+00:00",
+  "tree_sha": "7b47670b3694dffd9259881c73ecbd5b718224f6",
+  "tree_truncated": false,
+  "tree_path_count": 3308,
+  "has_tests": true,
+  "matched_test_paths": [
+    "bindings/pydeck-carto/tests",
+    "bindings/pydeck-carto/tests/__init__.py",
+    "bindings/pydeck-carto/tests/test_layer.py",
+    "bindings/pydeck-carto/tests/test_sources.py",
+    "bindings/pydeck-carto/tests/test_styles.py",
+    "bindings/pydeck/tests",
+    "bindings/pydeck/tests/__init__.py",
+    "bindings/pydeck/tests/bindings",
+    "bindings/pydeck/tests/bindings/__init__.py",
+    "bindings/pydeck/tests/bindings/data_utils"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/release.yml",
+    ".github/workflows/scorecard.yml",
+    ".github/workflows/test.yml",
+    ".github/workflows/website.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug-report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/docs-improvement.yml",
+    ".github/ISSUE_TEMPLATE/feature-request.yml",
+    ".github/SECURITY.md",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "docs/contributing.md"
+  ]
+}

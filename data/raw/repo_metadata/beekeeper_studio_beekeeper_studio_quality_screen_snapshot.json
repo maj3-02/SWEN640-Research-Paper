@@ -1,0 +1,45 @@
+{
+  "repository_full_name": "beekeeper-studio/beekeeper-studio",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:06.705572+00:00",
+  "tree_sha": "d86d26e7861b29a3454d261a61147f3ca48da41d",
+  "tree_truncated": false,
+  "tree_path_count": 1966,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/studio/e2e",
+    "apps/studio/e2e/README.md",
+    "apps/studio/e2e/helpers",
+    "apps/studio/e2e/helpers/launchElectron.ts",
+    "apps/studio/e2e/pageActions",
+    "apps/studio/e2e/pageActions/footerActions",
+    "apps/studio/e2e/pageActions/footerActions/clickOnCopyToClipboardOption.ts",
+    "apps/studio/e2e/pageActions/footerActions/clickOnDownloadMenu.ts",
+    "apps/studio/e2e/pageActions/footerActions/clickOnDownloadOption.ts",
+    "apps/studio/e2e/pageActions/footerActions/downloadFileAs.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/claude.yml",
+    ".github/workflows/create_tag.yml",
+    ".github/workflows/delete-draft-releases.yml",
+    ".github/workflows/docs-deploy.yml",
+    ".github/workflows/e2e-smoke-test.yml",
+    ".github/workflows/e2e-tests.yml",
+    ".github/workflows/studio-build-non-production.yml",
+    ".github/workflows/studio-publish.yml",
+    ".github/workflows/studio-test.yml",
+    ".github/workflows/ui-kit-publish.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/documentation.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/ISSUE_TEMPLATE/question.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "code_of_conduct.md",
+    "docs/user_guide/security.md"
+  ]
+}

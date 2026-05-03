@@ -1,0 +1,25 @@
+{
+  "repository_full_name": "Sairyss/domain-driven-hexagon",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:57.362803+00:00",
+  "tree_sha": "5c2d15a7e2d69e83dfddf28468ee9f30e02c30de",
+  "tree_truncated": false,
+  "tree_path_count": 175,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/setup",
+    "tests/setup/jestGlobalSetup.ts",
+    "tests/setup/jestSetupAfterEnv.ts",
+    "tests/shared",
+    "tests/shared/shared-steps.ts",
+    "tests/test-utils",
+    "tests/test-utils/ApiClient.ts",
+    "tests/test-utils/TestContext.ts",
+    "tests/test-utils/mocks"
+  ],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

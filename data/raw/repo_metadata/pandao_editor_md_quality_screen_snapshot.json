@@ -1,0 +1,25 @@
+{
+  "repository_full_name": "pandao/editor.md",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:25.167013+00:00",
+  "tree_sha": "63786e671e2c1a1fd2be25b54a8910cd3bbc7c0a",
+  "tree_truncated": false,
+  "tree_path_count": 666,
+  "has_tests": true,
+  "matched_test_paths": [
+    "lib/codemirror/addon/mode/multiplex_test.js",
+    "lib/codemirror/mode/css/less_test.js",
+    "lib/codemirror/mode/css/scss_test.js",
+    "tests",
+    "tests/bootstrap-test.html",
+    "tests/codemirror-searchbox-test.html",
+    "tests/codemirror-test.html",
+    "tests/css",
+    "tests/css/bootstrap-theme.min.css",
+    "tests/css/bootstrap.min.css"
+  ],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

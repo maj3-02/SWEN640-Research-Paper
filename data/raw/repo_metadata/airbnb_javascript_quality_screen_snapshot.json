@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "airbnb/javascript",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:11.195343+00:00",
+  "tree_sha": "8ed19247bef145e3cc41b24a02dd1fe6d9b5e681",
+  "tree_truncated": false,
+  "tree_path_count": 76,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/eslint-config-airbnb-base/test",
+    "packages/eslint-config-airbnb-base/test/.eslintrc",
+    "packages/eslint-config-airbnb-base/test/requires.js",
+    "packages/eslint-config-airbnb-base/test/test-base.js",
+    "packages/eslint-config-airbnb/test",
+    "packages/eslint-config-airbnb/test/.eslintrc",
+    "packages/eslint-config-airbnb/test/requires.js",
+    "packages/eslint-config-airbnb/test/test-base.js",
+    "packages/eslint-config-airbnb/test/test-react-order.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/node-pretest.yml",
+    ".github/workflows/node.yml",
+    ".github/workflows/rebase.yml",
+    ".github/workflows/require-allow-edits.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CODE_OF_CONDUCT.md"
+  ]
+}

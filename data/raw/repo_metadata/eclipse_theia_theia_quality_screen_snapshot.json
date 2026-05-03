@@ -1,0 +1,44 @@
+{
+  "repository_full_name": "eclipse-theia/theia",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:13.856517+00:00",
+  "tree_sha": "5f7caff6d4a136452787442612656962b5c5099e",
+  "tree_truncated": false,
+  "tree_path_count": 4612,
+  "has_tests": true,
+  "matched_test_paths": [
+    "dev-packages/application-manager/src/package.spec.ts",
+    "dev-packages/application-package/src/application-package.spec.ts",
+    "dev-packages/localization-manager/src/localization-extractor.spec.ts",
+    "dev-packages/localization-manager/src/localization-manager.spec.ts",
+    "dev-packages/native-webpack-plugin/src/package.spec.ts",
+    "dev-packages/ovsx-client/src/ovsx-router-client.spec.ts",
+    "dev-packages/ovsx-client/src/test",
+    "dev-packages/ovsx-client/src/test/ovsx-mock-client.ts",
+    "dev-packages/ovsx-client/src/test/ovsx-router-client.spec-data.ts",
+    "dev-packages/private-re-exports/src/utility.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/check-new-package.yml",
+    ".github/workflows/ci-cd.yml",
+    ".github/workflows/discussion-welcome.yml",
+    ".github/workflows/generate-sbom.yml",
+    ".github/workflows/license-check.yml",
+    ".github/workflows/native-dependencies.yml",
+    ".github/workflows/performance-tests.yml",
+    ".github/workflows/playwright.yml",
+    ".github/workflows/production-smoke-test.yml",
+    ".github/workflows/publish-api-doc-gh-pages.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

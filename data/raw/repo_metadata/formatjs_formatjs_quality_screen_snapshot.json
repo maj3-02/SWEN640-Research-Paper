@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "formatjs/formatjs",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:55.374964+00:00",
+  "tree_sha": "c281a36db86d4f8e3370010bc568dc9852b59e5e",
+  "tree_truncated": false,
+  "tree_path_count": 1828,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/babel-plugin-formatjs/integration-tests/vue/integration.test.ts",
+    "packages/babel-plugin-formatjs/tests",
+    "packages/babel-plugin-formatjs/tests/__snapshots__",
+    "packages/babel-plugin-formatjs/tests/__snapshots__/index.test.ts.snap",
+    "packages/babel-plugin-formatjs/tests/fixtures",
+    "packages/babel-plugin-formatjs/tests/fixtures/2663.js",
+    "packages/babel-plugin-formatjs/tests/fixtures/BUILD.bazel",
+    "packages/babel-plugin-formatjs/tests/fixtures/FormattedMessage.js",
+    "packages/babel-plugin-formatjs/tests/fixtures/additionalComponentNames.js",
+    "packages/babel-plugin-formatjs/tests/fixtures/additionalFunctionNames.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/claude.yml",
+    ".github/workflows/prerelease.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/rust-cli-release.yml",
+    ".github/workflows/stale.yml",
+    ".github/workflows/test.yml",
+    ".github/workflows/typesense-index.yml",
+    ".github/workflows/verify-hooks.yml",
+    ".github/workflows/website.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "repository_full_name": "josdejong/jsoneditor",
+  "default_branch": "develop",
+  "fetched_at_utc": "2026-04-28T19:17:45.318845+00:00",
+  "tree_sha": "eebd07cb8b8d89259dc9aeabd3174aa16fb415e3",
+  "tree_truncated": false,
+  "tree_path_count": 190,
+  "has_tests": true,
+  "matched_test_paths": [
+    "examples/react_advanced_demo/src/App.test.js",
+    "examples/react_demo/src/App.test.js",
+    "test",
+    "test/Node.test.js",
+    "test/SchemaTextCompleter.test.js",
+    "test/couchdbeditor.html",
+    "test/data",
+    "test/data/jsons.js",
+    "test/data/schemas.js",
+    "test/jsonUtils.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

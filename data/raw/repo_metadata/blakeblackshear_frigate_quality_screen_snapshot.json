@@ -1,0 +1,37 @@
+{
+  "repository_full_name": "blakeblackshear/frigate",
+  "default_branch": "dev",
+  "fetched_at_utc": "2026-04-28T19:18:40.351119+00:00",
+  "tree_sha": "011ad8eda7ebd536b4f932e20484f7c6b11c7365",
+  "tree_truncated": false,
+  "tree_path_count": 2890,
+  "has_tests": true,
+  "matched_test_paths": [
+    "frigate/test",
+    "frigate/test/__init__.py",
+    "frigate/test/const.py",
+    "frigate/test/http_api",
+    "frigate/test/http_api/__init__.py",
+    "frigate/test/http_api/base_http_test.py",
+    "frigate/test/http_api/test_http_app.py",
+    "frigate/test/http_api/test_http_camera_access.py",
+    "frigate/test/http_api/test_http_config_set.py",
+    "frigate/test/http_api/test_http_event.py"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/pr_template_check.yml",
+    ".github/workflows/pull_request.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/stale.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md",
+    "docs/docs/development/contributing.md"
+  ]
+}

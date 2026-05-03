@@ -1,0 +1,30 @@
+{
+  "repository_full_name": "zalmoxisus/redux-devtools-extension",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:32.292787+00:00",
+  "tree_sha": "955cfc4f9c2ed7b4212ad8ff50883ad322051678",
+  "tree_truncated": false,
+  "tree_path_count": 291,
+  "has_tests": true,
+  "matched_test_paths": [
+    "examples/counter/test",
+    "examples/counter/test/actions",
+    "examples/counter/test/actions/counter.spec.js",
+    "examples/counter/test/components",
+    "examples/counter/test/components/Counter.spec.js",
+    "examples/counter/test/containers",
+    "examples/counter/test/containers/App.spec.js",
+    "examples/counter/test/reducers",
+    "examples/counter/test/reducers/counter.spec.js",
+    "examples/counter/test/setup.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml",
+    "appveyor.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CODE_OF_CONDUCT.md"
+  ]
+}

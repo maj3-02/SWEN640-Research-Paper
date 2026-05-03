@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "nodejs/node",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:13.909377+00:00",
+  "tree_sha": "186995e81760874968c193fb793acd2edf2377b6",
+  "tree_truncated": false,
+  "tree_path_count": 52693,
+  "has_tests": true,
+  "matched_test_paths": [
+    "deps/crates/vendor/autocfg/tests",
+    "deps/crates/vendor/autocfg/tests/no_std.rs",
+    "deps/crates/vendor/autocfg/tests/rustflags.rs",
+    "deps/crates/vendor/autocfg/tests/support",
+    "deps/crates/vendor/autocfg/tests/support/mod.rs",
+    "deps/crates/vendor/autocfg/tests/tests.rs",
+    "deps/crates/vendor/autocfg/tests/wrap_ignored",
+    "deps/crates/vendor/autocfg/tests/wrappers.rs",
+    "deps/crates/vendor/displaydoc/tests",
+    "deps/crates/vendor/displaydoc/tests/compile_tests.rs"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/auto-start-ci.yml",
+    ".github/workflows/build-tarball.yml",
+    ".github/workflows/close-stalled.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/comment-labeled.yml",
+    ".github/workflows/commit-lint-problem-matcher.json",
+    ".github/workflows/commit-lint.yml",
+    ".github/workflows/commit-queue.yml",
+    ".github/workflows/coverage-linux-without-intl.yml",
+    ".github/workflows/coverage-linux.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1-bug-report.yml",
+    ".github/ISSUE_TEMPLATE/2-feature-request.yml",
+    ".github/ISSUE_TEMPLATE/3-api-ref-docs-problem.yml",
+    ".github/ISSUE_TEMPLATE/4-report-a-flaky-test.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    ".github/SUPPORT.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "GOVERNANCE.md"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "repository_full_name": "docsifyjs/docsify",
+  "default_branch": "develop",
+  "fetched_at_utc": "2026-04-28T19:16:36.950137+00:00",
+  "tree_sha": "f7418f41b45a8a9d9c6aebd3142b0276eda76927",
+  "tree_truncated": false,
+  "tree_path_count": 239,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/README.md",
+    "test/config",
+    "test/config/jest.setup-tests.js",
+    "test/config/jest.setup.js",
+    "test/config/jest.teardown.js",
+    "test/config/playwright.setup.js",
+    "test/config/playwright.teardown.js",
+    "test/config/server.js",
+    "test/consume-types"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/crowdin.yml",
+    ".github/workflows/emoji.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

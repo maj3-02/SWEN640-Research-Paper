@@ -1,0 +1,45 @@
+{
+  "repository_full_name": "Automattic/mongoose",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:43.350291+00:00",
+  "tree_sha": "96b7de2964061af8415b034ec1bf99b7b253e859",
+  "tree_truncated": false,
+  "tree_path_count": 744,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/aggregate.test.js",
+    "test/bigint.test.js",
+    "test/cast.number.test.js",
+    "test/cast.test.js",
+    "test/collection.capped.test.js",
+    "test/collection.test.js",
+    "test/common.js",
+    "test/connection.test.js",
+    "test/connection_server.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/benchmark.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/documentation.yml",
+    ".github/workflows/encryption-tests.yml",
+    ".github/workflows/publish.yml",
+    ".github/workflows/stale.yml",
+    ".github/workflows/test.yml",
+    ".github/workflows/tidelift-alignment.yml",
+    ".github/workflows/types.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature.yml",
+    ".github/ISSUE_TEMPLATE/help.yml",
+    ".github/ISSUE_TEMPLATE/other.yml",
+    ".github/ISSUE_TEMPLATE/performance.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

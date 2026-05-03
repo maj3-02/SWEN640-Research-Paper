@@ -1,0 +1,41 @@
+{
+  "repository_full_name": "ionic-team/capacitor",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:48.039770+00:00",
+  "tree_sha": "5b135a70217be560e7176c8d5b514cc92ed3e4e4",
+  "tree_truncated": false,
+  "tree_path_count": 648,
+  "has_tests": true,
+  "matched_test_paths": [
+    "android-template/app/src/test",
+    "android-template/app/src/test/java",
+    "android-template/app/src/test/java/com",
+    "android-template/app/src/test/java/com/getcapacitor",
+    "android-template/app/src/test/java/com/getcapacitor/myapp",
+    "android-template/app/src/test/java/com/getcapacitor/myapp/ExampleUnitTest.java",
+    "android/capacitor/src/test",
+    "android/capacitor/src/test/java",
+    "android/capacitor/src/test/java/android",
+    "android/capacitor/src/test/java/android/util"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/capacitor-bot.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/needs-reply.yml",
+    ".github/workflows/publish-android.yml",
+    ".github/workflows/publish-ios.yml",
+    ".github/workflows/publish-latest.yml",
+    ".github/workflows/publish-npm-alpha.yml",
+    ".github/workflows/publish-npm-beta.yml",
+    ".github/workflows/publish-npm-dev.yml",
+    ".github/workflows/publish-npm-latest-from-pre.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug-report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

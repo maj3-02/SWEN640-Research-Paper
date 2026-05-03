@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "styled-components/styled-components",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:23.462443+00:00",
+  "tree_sha": "37a0a5e0883f50ef59765f9491bb406e9fb3b877",
+  "tree_truncated": false,
+  "tree_path_count": 382,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/styled-components/src/bench/native.test.tsx",
+    "packages/styled-components/src/bench/preprocess.test.ts",
+    "packages/styled-components/src/bench/rsc.test.tsx",
+    "packages/styled-components/src/bench/web.test.js",
+    "packages/styled-components/src/constructors/test",
+    "packages/styled-components/src/constructors/test/createGlobalStyle.rsc.test.tsx",
+    "packages/styled-components/src/constructors/test/createGlobalStyle.ssr.test.tsx",
+    "packages/styled-components/src/constructors/test/createGlobalStyle.test.tsx",
+    "packages/styled-components/src/constructors/test/createTheme.rsc.test.tsx",
+    "packages/styled-components/src/constructors/test/createTheme.test.tsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "packages/styled-components/docs/security.md"
+  ]
+}

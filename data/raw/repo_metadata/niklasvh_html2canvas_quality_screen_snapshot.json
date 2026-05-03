@@ -1,0 +1,30 @@
+{
+  "repository_full_name": "niklasvh/html2canvas",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:38.717979+00:00",
+  "tree_sha": "6020386bbeed60ad68e675fdcaa6220e292fd35a",
+  "tree_truncated": false,
+  "tree_path_count": 374,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/__tests__",
+    "src/__tests__/index.ts",
+    "src/core/__tests__",
+    "src/core/__tests__/cache-storage.ts",
+    "src/core/__tests__/logger.ts",
+    "src/css/property-descriptors/__tests__",
+    "src/css/property-descriptors/__tests__/background-tests.ts",
+    "src/css/property-descriptors/__tests__/font-family.ts",
+    "src/css/property-descriptors/__tests__/paint-order.ts",
+    "src/css/property-descriptors/__tests__/text-shadow.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

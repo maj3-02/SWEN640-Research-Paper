@@ -1,0 +1,45 @@
+{
+  "repository_full_name": "danny-avila/LibreChat",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:30.283974+00:00",
+  "tree_sha": "738003b220a91ec724286dab0354080e22f8aac9",
+  "tree_truncated": false,
+  "tree_path_count": 3287,
+  "has_tests": true,
+  "matched_test_paths": [
+    "api/app/clients/prompts/formatAgentMessages.spec.js",
+    "api/app/clients/prompts/formatGoogleInputs.spec.js",
+    "api/app/clients/prompts/formatMessages.spec.js",
+    "api/app/clients/specs",
+    "api/app/clients/specs/BaseClient.test.js",
+    "api/app/clients/specs/FakeClient.js",
+    "api/app/clients/tools/structured/specs",
+    "api/app/clients/tools/structured/specs/DALLE3-proxy.spec.js",
+    "api/app/clients/tools/structured/specs/DALLE3.spec.js",
+    "api/app/clients/tools/structured/specs/GeminiImageGen-proxy.spec.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/a11y.yml",
+    ".github/workflows/backend-review.yml",
+    ".github/workflows/build.yml",
+    ".github/workflows/cache-integration-tests.yml",
+    ".github/workflows/client.yml",
+    ".github/workflows/data-provider.yml",
+    ".github/workflows/data-schemas.yml",
+    ".github/workflows/deploy-dev.yml",
+    ".github/workflows/deploy.yml",
+    ".github/workflows/dev-branch-images.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/BUG-REPORT.yml",
+    ".github/ISSUE_TEMPLATE/FEATURE-REQUEST.yml",
+    ".github/ISSUE_TEMPLATE/LOCIZE_TRANSLATION_ACCESS_REQUEST.yml",
+    ".github/ISSUE_TEMPLATE/NEW-LANGUAGE-REQUEST.yml",
+    ".github/SECURITY.md",
+    ".github/pull_request_template.md"
+  ]
+}

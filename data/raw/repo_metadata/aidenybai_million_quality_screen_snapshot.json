@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "aidenybai/million",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:36.706745+00:00",
+  "tree_sha": "1340626556600ae75c352aa6a30ac6c1f96fe97b",
+  "tree_truncated": false,
+  "tree_path_count": 516,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/alias.test.ts",
+    "test/block.test.ts",
+    "test/map-array.test.ts",
+    "test/prettier.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/auto-response.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/issue-needs-repro.yml",
+    ".github/workflows/publish.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/documentation.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/ISSUE_TEMPLATE/tooling.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

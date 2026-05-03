@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "alibaba/lowcode-engine",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:46.564356+00:00",
+  "tree_sha": "f6305c2284950d79b9729781f081f24f113de345",
+  "tree_truncated": false,
+  "tree_path_count": 3304,
+  "has_tests": true,
+  "matched_test_paths": [
+    "docs/docs/specs",
+    "docs/docs/specs/assets-spec.md",
+    "docs/docs/specs/lowcode-spec.md",
+    "docs/docs/specs/material-spec.md",
+    "modules/code-generator/tests",
+    "modules/code-generator/tests/bugfix",
+    "modules/code-generator/tests/bugfix/.gitignore",
+    "modules/code-generator/tests/bugfix/i18n-with-params.schema.json",
+    "modules/code-generator/tests/bugfix/i18n-with-params.test.ts",
+    "modules/code-generator/tests/bugfix/icejs-import-wrong-naming.schema.json"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/check base branch.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/cov packages.yml",
+    ".github/workflows/help wanted.yml",
+    ".github/workflows/insufficient information.yml",
+    ".github/workflows/pr comment by chatgpt.yml",
+    ".github/workflows/pre build.yml",
+    ".github/workflows/publish docs.yml",
+    ".github/workflows/publish engine beta.yml",
+    ".github/workflows/publish engine.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug-report.md",
+    "modules/code-generator/CONTRIBUTING.md"
+  ]
+}

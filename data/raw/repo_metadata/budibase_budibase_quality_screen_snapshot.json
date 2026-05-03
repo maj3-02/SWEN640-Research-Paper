@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "Budibase/budibase",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:49.179600+00:00",
+  "tree_sha": "623330a7f27785a26acdd8ef39ec79fe11d5da23",
+  "tree_truncated": false,
+  "tree_path_count": 5134,
+  "has_tests": true,
+  "matched_test_paths": [
+    "charts/budibase/templates/tests",
+    "charts/budibase/templates/tests/test-connection.yaml",
+    "charts/budibase/tests",
+    "charts/budibase/tests/app_service_deployment_test.yaml",
+    "charts/budibase/tests/automation_worker_deployment_test.yaml",
+    "charts/budibase/tests/pdb_test.yaml",
+    "charts/budibase/tests/proxy_service_deployment_test.yaml",
+    "charts/budibase/tests/redis_service_deployment_test.yaml",
+    "charts/budibase/tests/secrets_test.yaml",
+    "charts/budibase/tests/worker_service_deployment_test.yaml"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/README.md",
+    ".github/workflows/autoupdate-automerge.yml",
+    ".github/workflows/budibase_ci.yml",
+    ".github/workflows/build-experimental.yml",
+    ".github/workflows/cla.yml",
+    ".github/workflows/close-featurebranch.yml",
+    ".github/workflows/deploy-featurebranch.yml",
+    ".github/workflows/deploy-qa.yml",
+    ".github/workflows/force-release.yml",
+    ".github/workflows/helm-validate.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/documentation_issue.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/ISSUE_TEMPLATE/prd---pitch.md",
+    ".github/ISSUE_TEMPLATE/project.md",
+    "SECURITY.md",
+    "docs/CODE_OF_CONDUCT.md"
+  ]
+}

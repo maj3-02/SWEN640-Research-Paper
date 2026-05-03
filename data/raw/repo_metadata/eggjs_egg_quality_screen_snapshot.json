@@ -1,0 +1,41 @@
+{
+  "repository_full_name": "eggjs/egg",
+  "default_branch": "next",
+  "fetched_at_utc": "2026-04-28T19:19:27.296396+00:00",
+  "tree_sha": "57507ea1710d306a0d919732a71ce4f72bc424f9",
+  "tree_truncated": false,
+  "tree_path_count": 10091,
+  "has_tests": true,
+  "matched_test_paths": [
+    "examples/helloworld-tegg/test",
+    "examples/helloworld-tegg/test/ArgsController.test.ts",
+    "examples/helloworld-tegg/test/SimpleController.test.ts",
+    "examples/helloworld-tegg/test/setup.ts",
+    "examples/helloworld-typescript/test",
+    "examples/helloworld-typescript/test/hello.test.ts",
+    "examples/helloworld-typescript/test/setup.ts",
+    "packages/cluster/test",
+    "packages/cluster/test/agent_worker.test.ts",
+    "packages/cluster/test/app_worker.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/cleanup-cache.yml",
+    ".github/workflows/e2e-test.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug-report-cn.yml",
+    ".github/ISSUE_TEMPLATE/bug-report.yml",
+    ".github/ISSUE_TEMPLATE/feature-request-cn.yml",
+    ".github/ISSUE_TEMPLATE/feature-request.yml",
+    ".github/ISSUE_TEMPLATE/rfc-cn.yml",
+    ".github/ISSUE_TEMPLATE/rfc.yml",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "packages/koa/CODE_OF_CONDUCT.md",
+    "site/docs/community/CONTRIBUTING.md"
+  ]
+}

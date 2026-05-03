@@ -1,0 +1,40 @@
+{
+  "repository_full_name": "nocobase/nocobase",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:09.831113+00:00",
+  "tree_sha": "d815d7033a4b2fb99c7818dbbaeb2302c66a5a7e",
+  "tree_truncated": false,
+  "tree_path_count": 24329,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".env.test.example",
+    "docs/docs/cn/integration",
+    "docs/docs/cn/integration/_meta.json",
+    "docs/docs/cn/integration/api-doc",
+    "docs/docs/cn/integration/api-doc/index.md",
+    "docs/docs/cn/integration/api-keys",
+    "docs/docs/cn/integration/api-keys/index.md",
+    "docs/docs/cn/integration/api-keys/usage.md",
+    "docs/docs/cn/integration/block-iframe",
+    "docs/docs/cn/integration/block-iframe/index.md"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/auto-merge.yml",
+    ".github/workflows/build-docker.yml",
+    ".github/workflows/build-internal-image.yml",
+    ".github/workflows/build-pro-image.yml",
+    ".github/workflows/changelog-and-release.yml",
+    ".github/workflows/create-branch.yml",
+    ".github/workflows/deploy-client-docs.yml",
+    ".github/workflows/e2e.yml",
+    ".github/workflows/get-plugins.yml",
+    ".github/workflows/manual-build-pr-docker-image.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/pull_request_template.md",
+    "SECURITY.md"
+  ]
+}

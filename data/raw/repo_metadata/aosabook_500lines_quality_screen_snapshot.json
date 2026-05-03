@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "aosabook/500lines",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:39.364903+00:00",
+  "tree_sha": "fba689d101eb5600f5c8f4d7fd79912498e950e2",
+  "tree_truncated": false,
+  "tree_path_count": 987,
+  "has_tests": true,
+  "matched_test_paths": [
+    "ci/code/tests",
+    "ci/code/tests/test_fail.py",
+    "ci/code/tests/test_pass.py",
+    "cluster/code/test",
+    "cluster/code/test/__init__.py",
+    "cluster/code/test/fake_network.py",
+    "cluster/code/test/test_acceptor.py",
+    "cluster/code/test/test_bootstrap.py",
+    "cluster/code/test/test_commander.py",
+    "cluster/code/test/test_integration.py"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    "static-analysis/code/TypeCheck/.travis.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

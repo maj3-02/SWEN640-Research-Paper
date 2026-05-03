@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "NginxProxyManager/nginx-proxy-manager",
+  "default_branch": "develop",
+  "fetched_at_utc": "2026-04-28T19:18:37.299597+00:00",
+  "tree_sha": "34374cbe099580e62dfb17c436640e48d3f0b11f",
+  "tree_truncated": false,
+  "tree_path_count": 1018,
+  "has_tests": true,
+  "matched_test_paths": [
+    "frontend/src/locale/Utils.test.tsx",
+    "test",
+    "test/.eslintrc.json",
+    "test/.gitignore",
+    "test/.prettierrc",
+    "test/README.md",
+    "test/cypress",
+    "test/cypress/Dockerfile",
+    "test/cypress/config",
+    "test/cypress/config/ci.mjs"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/stale.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/dns_challenge_request.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md"
+  ]
+}

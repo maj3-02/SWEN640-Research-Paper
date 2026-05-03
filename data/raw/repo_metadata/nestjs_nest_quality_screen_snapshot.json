@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "nestjs/nest",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:59.833218+00:00",
+  "tree_sha": "21a2d0ae4c2a7390574c294986049345dfce0305",
+  "tree_truncated": false,
+  "tree_path_count": 2749,
+  "has_tests": true,
+  "matched_test_paths": [
+    "integration",
+    "integration/auto-mock",
+    "integration/auto-mock/src",
+    "integration/auto-mock/src/bar.service.ts",
+    "integration/auto-mock/src/foo.service.ts",
+    "integration/auto-mock/test",
+    "integration/auto-mock/test/bar.service.spec.ts",
+    "integration/auto-mock/tsconfig.json",
+    "integration/cors",
+    "integration/cors/e2e"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/config.yml",
+    ".github/workflows/codeql-analysis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/Bug_report.yml",
+    ".github/ISSUE_TEMPLATE/Feature_request.yml",
+    ".github/ISSUE_TEMPLATE/Regression.yml",
+    ".github/ISSUE_TEMPLATE/Suggestion_improve_performance.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

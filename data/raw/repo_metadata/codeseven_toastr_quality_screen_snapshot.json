@@ -1,0 +1,26 @@
+{
+  "repository_full_name": "CodeSeven/toastr",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:46.937345+00:00",
+  "tree_sha": "50092cc604850a16c985520b63df184d3e0b4086",
+  "tree_truncated": false,
+  "tree_path_count": 84,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/qunit",
+    "tests/qunit/qunit.css",
+    "tests/qunit/qunit.js",
+    "tests/toastr-tests.html",
+    "tests/unit",
+    "tests/unit/qunit-helper.js",
+    "tests/unit/toastr-tests.js",
+    "tests/unit/x.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

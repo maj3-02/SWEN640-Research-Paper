@@ -1,0 +1,45 @@
+{
+  "repository_full_name": "vitejs/vite",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:58.367125+00:00",
+  "tree_sha": "2151f701dc98270c905c540b209fb6d23d53d3ad",
+  "tree_truncated": false,
+  "tree_path_count": 3443,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/create-vite/__tests__",
+    "packages/create-vite/__tests__/cli.spec.ts",
+    "packages/plugin-legacy/src/__tests__",
+    "packages/plugin-legacy/src/__tests__/readme.spec.ts",
+    "packages/plugin-legacy/src/__tests__/snippets.spec.ts",
+    "packages/vite/src/node/__tests__",
+    "packages/vite/src/node/__tests__/__snapshots__",
+    "packages/vite/src/node/__tests__/__snapshots__/utils.spec.ts.snap",
+    "packages/vite/src/node/__tests__/assetSource.spec.ts",
+    "packages/vite/src/node/__tests__/build.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/copilot-setup-steps.yml",
+    ".github/workflows/ecosystem-ci-trigger.yml",
+    ".github/workflows/issue-close-require.yml",
+    ".github/workflows/issue-labeled.yml",
+    ".github/workflows/issue-template-check.yml",
+    ".github/workflows/lock-closed-issues.yml",
+    ".github/workflows/preview-release.yml",
+    ".github/workflows/publish.yml",
+    ".github/workflows/pull-request-template-check.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/docs.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    ".github/SECURITY.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

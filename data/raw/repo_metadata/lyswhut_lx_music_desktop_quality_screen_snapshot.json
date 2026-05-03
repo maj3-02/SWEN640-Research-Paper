@@ -1,0 +1,22 @@
+{
+  "repository_full_name": "lyswhut/lx-music-desktop",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:12.136719+00:00",
+  "tree_sha": "8d6b20783339cfb354ed7437771029e07646e06c",
+  "tree_truncated": false,
+  "tree_path_count": 1004,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/beta-pack.yml",
+    ".github/workflows/build-test.yml",
+    ".github/workflows/publish-version-info.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug.yml",
+    ".github/ISSUE_TEMPLATE/feature.yml"
+  ]
+}

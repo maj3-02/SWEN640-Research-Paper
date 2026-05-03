@@ -1,0 +1,23 @@
+{
+  "repository_full_name": "denysdovhan/wtfjs",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:32.353926+00:00",
+  "tree_sha": "e92b871953d04581d3e5b35e942a02c85031d662",
+  "tree_truncated": false,
+  "tree_path_count": 29,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/release.yml",
+    ".github/workflows/validate.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/new-example.md",
+    ".github/PULL_REQUEST_TEMPLATE",
+    ".github/PULL_REQUEST_TEMPLATE/new_example.md",
+    ".github/PULL_REQUEST_TEMPLATE/translation.md",
+    "CONTRIBUTING.md"
+  ]
+}

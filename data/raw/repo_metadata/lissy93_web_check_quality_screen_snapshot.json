@@ -1,0 +1,19 @@
+{
+  "repository_full_name": "Lissy93/web-check",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:35.726063+00:00",
+  "tree_sha": "55d86578c5dedcb862c42a249b8ba4a09ff1f544",
+  "tree_truncated": false,
+  "tree_path_count": 434,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/credits.yml",
+    ".github/workflows/deploy-aws.yml",
+    ".github/workflows/docker.yml",
+    ".github/workflows/mirror.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

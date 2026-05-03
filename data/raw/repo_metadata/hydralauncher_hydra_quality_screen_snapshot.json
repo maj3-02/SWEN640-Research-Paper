@@ -1,0 +1,24 @@
+{
+  "repository_full_name": "hydralauncher/hydra",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:47.608541+00:00",
+  "tree_sha": "e1de9e9086fcbe6de7b113f8c9d88716c700a60e",
+  "tree_truncated": false,
+  "tree_path_count": 1116,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-renderer.yml",
+    ".github/workflows/build.yml",
+    ".github/workflows/lint.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/text-integrity.yml",
+    ".github/workflows/trigger-lp.yml",
+    ".github/workflows/update-aur.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "SECURITY.md"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "repository_full_name": "motion-canvas/motion-canvas",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:30.694500+00:00",
+  "tree_sha": "00639cd4cca76d60275d48fa15211d1e17e78228",
+  "tree_truncated": false,
+  "tree_path_count": 1242,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/2d/src/lib/code/CodeRange.test.ts",
+    "packages/2d/src/lib/code/diff.test.ts",
+    "packages/2d/src/lib/components/Txt.test.tsx",
+    "packages/2d/src/lib/components/__tests__",
+    "packages/2d/src/lib/components/__tests__/children.test.tsx",
+    "packages/2d/src/lib/components/__tests__/clone.test.tsx",
+    "packages/2d/src/lib/components/__tests__/generatorTest.ts",
+    "packages/2d/src/lib/components/__tests__/mockScene2D.ts",
+    "packages/2d/src/lib/components/__tests__/query.test.tsx",
+    "packages/2d/src/lib/components/__tests__/state.test.tsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/docs.yml",
+    ".github/workflows/publish.yml",
+    ".github/workflows/verify.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/documentation.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

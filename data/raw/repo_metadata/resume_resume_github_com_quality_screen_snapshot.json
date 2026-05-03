@@ -1,0 +1,14 @@
+{
+  "repository_full_name": "resume/resume.github.com",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:19.773146+00:00",
+  "tree_sha": "f5990756495bfd6d86495733bfb238c96771cbbf",
+  "tree_truncated": false,
+  "tree_path_count": 27,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

@@ -1,0 +1,36 @@
+{
+  "repository_full_name": "tremorlabs/tremor-npm",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:42.555729+00:00",
+  "tree_sha": "7613bff631f713616b7b2ae52fb96dbc8e3dcc97",
+  "tree_truncated": false,
+  "tree_path_count": 424,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/tests",
+    "src/tests/chart-elements",
+    "src/tests/chart-elements/AreaChart.test.tsx",
+    "src/tests/chart-elements/BarChart.test.tsx",
+    "src/tests/icon-elements",
+    "src/tests/icon-elements/Badge.test.tsx",
+    "src/tests/icon-elements/BadgeDelta.test.tsx",
+    "src/tests/icon-elements/Icon.test.tsx",
+    "src/tests/input-elements",
+    "src/tests/input-elements/Button.test.tsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build.yaml",
+    ".github/workflows/lint.yaml",
+    ".github/workflows/release.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug-report.yaml",
+    ".github/ISSUE_TEMPLATE/config.yaml",
+    ".github/ISSUE_TEMPLATE/feature-request.yaml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "repository_full_name": "ZuodaoTech/everyone-can-use-english",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:33.199914+00:00",
+  "tree_sha": "333f8821d125d6c2dbb53c80acdf752a867422b1",
+  "tree_truncated": false,
+  "tree_path_count": 3645,
+  "has_tests": true,
+  "matched_test_paths": [
+    "enjoy/e2e",
+    "enjoy/e2e/main.spec.ts",
+    "enjoy/e2e/renderer.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-enjoy-app-linux.yml",
+    ".github/workflows/build-enjoy-app-macos-arm64.yml",
+    ".github/workflows/build-enjoy-app-macos-x64.yml",
+    ".github/workflows/build-enjoy-app-windows.yml",
+    ".github/workflows/deploy-1000h-aliyun.yml",
+    ".github/workflows/deploy-1000h-entry.yml",
+    ".github/workflows/deploy-1000h-portal-aliyun.yml",
+    ".github/workflows/deploy-1000h-portal.yml",
+    ".github/workflows/deploy-1000h.yml",
+    ".github/workflows/release-enjoy-app.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

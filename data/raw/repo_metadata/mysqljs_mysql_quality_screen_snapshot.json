@@ -1,0 +1,28 @@
+{
+  "repository_full_name": "mysqljs/mysql",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-26T23:03:33.459109+00:00",
+  "tree_sha": "dc9c152a87ec51a1f647447268917243d2eab1fd",
+  "tree_truncated": false,
+  "tree_path_count": 300,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/FakeServer.js",
+    "test/common.js",
+    "test/fixtures",
+    "test/fixtures/data.csv",
+    "test/fixtures/server.crt",
+    "test/fixtures/server.key",
+    "test/integration",
+    "test/integration/connection",
+    "test/integration/connection/test-bad-credentials.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    "appveyor.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

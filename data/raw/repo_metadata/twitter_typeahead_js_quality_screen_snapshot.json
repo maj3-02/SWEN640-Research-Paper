@@ -1,0 +1,29 @@
+{
+  "repository_full_name": "twitter/typeahead.js",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:11.125037+00:00",
+  "tree_sha": "588440f66559714280628a4f9799f0c4eb880a4a",
+  "tree_truncated": false,
+  "tree_path_count": 82,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/bloodhound",
+    "test/bloodhound/bloodhound_spec.js",
+    "test/bloodhound/lru_cache_spec.js",
+    "test/bloodhound/options_parser_spec.js",
+    "test/bloodhound/persistent_storage_spec.js",
+    "test/bloodhound/prefetch_spec.js",
+    "test/bloodhound/remote_spec.js",
+    "test/bloodhound/search_index_spec.js",
+    "test/bloodhound/tokenizers_spec.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md"
+  ]
+}

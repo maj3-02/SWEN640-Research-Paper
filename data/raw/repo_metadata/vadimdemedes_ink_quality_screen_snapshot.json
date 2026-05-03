@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "vadimdemedes/ink",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:27.159930+00:00",
+  "tree_sha": "dc48987348a39554902da79dc17d59fdb34a6ea0",
+  "tree_truncated": false,
+  "tree_path_count": 288,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/alternate-screen-example.tsx",
+    "test/ansi-tokenizer.ts",
+    "test/background.tsx",
+    "test/border-backgrounds.tsx",
+    "test/borders.tsx",
+    "test/build-output.ts",
+    "test/components.tsx",
+    "test/cursor-helpers.tsx",
+    "test/cursor.tsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

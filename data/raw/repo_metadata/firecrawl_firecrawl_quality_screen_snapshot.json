@@ -1,0 +1,41 @@
+{
+  "repository_full_name": "firecrawl/firecrawl",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:52.182983+00:00",
+  "tree_sha": "4e6cd03f4ec2c4857a08ea28774214fe5e110376",
+  "tree_truncated": false,
+  "tree_path_count": 1609,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/api/src/__tests__",
+    "apps/api/src/__tests__/deep-research",
+    "apps/api/src/__tests__/deep-research/unit",
+    "apps/api/src/__tests__/deep-research/unit/deep-research-redis.test.ts",
+    "apps/api/src/__tests__/e2e_extract",
+    "apps/api/src/__tests__/e2e_extract/index.test.ts",
+    "apps/api/src/__tests__/e2e_full_withAuth",
+    "apps/api/src/__tests__/e2e_full_withAuth/index.test.ts",
+    "apps/api/src/__tests__/e2e_map",
+    "apps/api/src/__tests__/e2e_map/index.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/deploy-go-service.yaml",
+    ".github/workflows/deploy-image-staging.yml",
+    ".github/workflows/deploy-image.yml",
+    ".github/workflows/deploy-nuq-postgres.yml",
+    ".github/workflows/deploy-playwright.yml",
+    ".github/workflows/deploy-redis.yml",
+    ".github/workflows/eval-prod.yml",
+    ".github/workflows/ghcr-clean.yml",
+    ".github/workflows/npm-audit.yml",
+    ".github/workflows/publish-dotnet-sdk.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/ISSUE_TEMPLATE/self_host_issue.md",
+    "CONTRIBUTING.md"
+  ]
+}

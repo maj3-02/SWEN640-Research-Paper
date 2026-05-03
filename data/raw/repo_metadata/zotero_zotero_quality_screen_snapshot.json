@@ -1,0 +1,29 @@
+{
+  "repository_full_name": "zotero/zotero",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:27.033347+00:00",
+  "tree_sha": "03d94060b49493edbd67fe1b0e29d30cef004079",
+  "tree_truncated": false,
+  "tree_path_count": 3842,
+  "has_tests": true,
+  "matched_test_paths": [
+    "chrome/content/zotero/integration",
+    "chrome/content/zotero/integration/citationDialog.js",
+    "chrome/content/zotero/integration/citationDialog.xhtml",
+    "chrome/content/zotero/integration/citationDialog",
+    "chrome/content/zotero/integration/citationDialog/helpers.mjs",
+    "chrome/content/zotero/integration/citationDialog/keyboardHandler.mjs",
+    "chrome/content/zotero/integration/citationDialog/popupHandler.mjs",
+    "chrome/content/zotero/integration/citationDialog/searchHandler.mjs",
+    "chrome/content/zotero/integration/citationExplorer.js",
+    "chrome/content/zotero/integration/citationExplorer.xhtml"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md"
+  ]
+}

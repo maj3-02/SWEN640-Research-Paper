@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "docmirror/dev-sidecar",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-26T23:03:22.653733+00:00",
+  "tree_sha": "688c31bad75d04de8eb0c5004e9e80d9d35304a4",
+  "tree_truncated": false,
+  "tree_path_count": 415,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/core/test",
+    "packages/core/test/configTest.js",
+    "packages/core/test/httpsVerifyTest.js",
+    "packages/core/test/macProxyTest.js",
+    "packages/core/test/mergeTest.js",
+    "packages/core/test/regex.test.js",
+    "packages/core/test/requestTest.js",
+    "packages/core/test/urlTest.js",
+    "packages/core/test/versionTest.js",
+    "packages/mitmproxy/test"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-and-release.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/defender-for-devops.yml",
+    ".github/workflows/npm-run-electron.yml",
+    ".github/workflows/publish-to-aur.yml",
+    ".github/workflows/test-and-upload.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1_BUG_REPORT.md",
+    ".github/ISSUE_TEMPLATE/2_STYLE_ISSUE.md",
+    ".github/ISSUE_TEMPLATE/3_CONFIG_ISSUES.md",
+    ".github/ISSUE_TEMPLATE/4_FEATURE_REQUEST.md",
+    ".github/ISSUE_TEMPLATE/5_OTHERS.md",
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

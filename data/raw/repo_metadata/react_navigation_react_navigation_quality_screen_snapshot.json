@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "react-navigation/react-navigation",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:00.373789+00:00",
+  "tree_sha": "d465f4e6b2996e5ed4648b23487e2027e83b263d",
+  "tree_truncated": false,
+  "tree_path_count": 963,
+  "has_tests": true,
+  "matched_test_paths": [
+    "example/e2e",
+    "example/e2e/dialog.mjs",
+    "example/e2e/launch.yml",
+    "example/e2e/maestro",
+    "example/e2e/maestro/auth-flow.yml",
+    "example/e2e/maestro/bottom-tabs-dynamic.yml",
+    "example/e2e/maestro/bottom-tabs-full-history.yml",
+    "example/e2e/maestro/bottom-tabs-preload-flow.yml",
+    "example/e2e/maestro/bottom-tabs.yml",
+    "example/e2e/maestro/components-link.yml"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/autofix.yml",
+    ".github/workflows/check-labels.yml",
+    ".github/workflows/check-repro.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/closed-issue.yml",
+    ".github/workflows/e2e-android.yml",
+    ".github/workflows/e2e-ios.yml",
+    ".github/workflows/e2e-web.yml",
+    ".github/workflows/first-pull-request.yml",
+    ".github/workflows/measure-typescript.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug-report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

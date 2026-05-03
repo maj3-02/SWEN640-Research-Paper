@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "shardeum/shardeum",
+  "default_branch": "dev",
+  "fetched_at_utc": "2026-04-28T19:18:40.621700+00:00",
+  "tree_sha": "0c454caf067f7b896569eabdd5f47cb8b61738b3",
+  "tree_truncated": false,
+  "tree_path_count": 492,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/tests",
+    "src/tests/cleanLogs.js",
+    "src/tests/getKeys.js",
+    "src/tests/prettyPrint.js",
+    "test",
+    "test/README.md",
+    "test/autoScaleNet.test.ts.disabled",
+    "test/dataSyncTest.ts.disabled",
+    "test/main.test.ts.disabled",
+    "test/mocks"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/docker-build.yml",
+    ".github/workflows/security-review.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

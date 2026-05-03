@@ -1,0 +1,41 @@
+{
+  "repository_full_name": "reactioncommerce/reaction",
+  "default_branch": "trunk",
+  "fetched_at_utc": "2026-04-28T19:17:42.949050+00:00",
+  "tree_sha": "b04166ddfb30d28bd96be31c10d612c4b3a84519",
+  "tree_truncated": false,
+  "tree_path_count": 3704,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/reaction/tests",
+    "apps/reaction/tests/.eslintrc.cjs",
+    "apps/reaction/tests/integration",
+    "apps/reaction/tests/integration/README.md",
+    "apps/reaction/tests/integration/api",
+    "apps/reaction/tests/integration/api/mutations1",
+    "apps/reaction/tests/integration/api/mutations1/addAccountAddressBookEntry",
+    "apps/reaction/tests/integration/api/mutations1/addAccountAddressBookEntry/AddAccountAddressBookEntryMutation.graphql",
+    "apps/reaction/tests/integration/api/mutations1/addAccountAddressBookEntry/addAccountAddressBookEntry.test.js",
+    "apps/reaction/tests/integration/api/mutations1/addAccountEmailRecord"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/config.yml",
+    ".github/workflows/docker-release.yml",
+    ".github/workflows/prerelease.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/tagging-and-release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/corework.md",
+    ".github/ISSUE_TEMPLATE/questions.md",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "packages/db-version-check/CODE_OF_CONDUCT.md"
+  ]
+}

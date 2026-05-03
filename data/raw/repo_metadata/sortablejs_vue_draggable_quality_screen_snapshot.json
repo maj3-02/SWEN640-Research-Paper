@@ -1,0 +1,29 @@
+{
+  "repository_full_name": "SortableJS/Vue.Draggable",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-26T23:03:27.295791+00:00",
+  "tree_sha": "431db153bfdfe09e31f622f01e9b3220b77e6b56",
+  "tree_truncated": false,
+  "tree_path_count": 108,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/unit",
+    "tests/unit/.eslintrc.js",
+    "tests/unit/helper",
+    "tests/unit/helper/DraggableWithList.vue",
+    "tests/unit/helper/DraggableWithModel.vue",
+    "tests/unit/helper/DraggableWithTransition.vue",
+    "tests/unit/helper/FakeComponent.js",
+    "tests/unit/helper/FakeFunctionalComponent.js",
+    "tests/unit/util"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/config.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md"
+  ]
+}

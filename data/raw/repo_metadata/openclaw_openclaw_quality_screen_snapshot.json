@@ -1,0 +1,45 @@
+{
+  "repository_full_name": "openclaw/openclaw",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:48.149732+00:00",
+  "tree_sha": "9f37ff0c6cdbac4cc1b5cd25bde9e8959f6c1d3f",
+  "tree_truncated": false,
+  "tree_path_count": 17673,
+  "has_tests": true,
+  "matched_test_paths": [
+    "Swabble/Tests",
+    "Swabble/Tests/SwabbleKitTests",
+    "Swabble/Tests/SwabbleKitTests/WakeWordGateTests.swift",
+    "Swabble/Tests/swabbleTests",
+    "Swabble/Tests/swabbleTests/ConfigTests.swift",
+    "apps/android/app/src/test",
+    "apps/android/app/src/test/java",
+    "apps/android/app/src/test/java/ai",
+    "apps/android/app/src/test/java/ai/openclaw",
+    "apps/android/app/src/test/java/ai/openclaw/app"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/auto-response.yml",
+    ".github/workflows/ci-build-artifacts-testbox.yml",
+    ".github/workflows/ci-check-testbox.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/clawsweeper-dispatch.yml",
+    ".github/workflows/codeql-android-critical-security.yml",
+    ".github/workflows/codeql-critical-quality.yml",
+    ".github/workflows/codeql-macos-critical-security.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/control-ui-locale-refresh.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "docs/cli/security.md",
+    "vendor/a2ui/CONTRIBUTING.md"
+  ]
+}

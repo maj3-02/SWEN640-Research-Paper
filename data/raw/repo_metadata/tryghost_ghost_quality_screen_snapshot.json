@@ -1,0 +1,44 @@
+{
+  "repository_full_name": "TryGhost/Ghost",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:22.948895+00:00",
+  "tree_sha": "4b62976de178ebd86eea943dd8f6ecb66e2cd9ce",
+  "tree_truncated": false,
+  "tree_path_count": 8284,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/activitypub/src/api/activitypub.test.ts",
+    "apps/activitypub/src/hooks/use-activity-pub-queries.test.ts",
+    "apps/activitypub/src/hooks/use-app-base-path.test.ts",
+    "apps/activitypub/src/hooks/use-current-page.test.ts",
+    "apps/activitypub/src/hooks/use-navigate-with-base-path.test.ts",
+    "apps/activitypub/test",
+    "apps/activitypub/test/.eslintrc.cjs",
+    "apps/activitypub/test/acceptance",
+    "apps/activitypub/test/acceptance/dom-validation.test.ts",
+    "apps/activitypub/test/acceptance/feed.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/cleanup-ghcr.yml",
+    ".github/workflows/copilot-setup-steps.yml",
+    ".github/workflows/create-release-branch.yml",
+    ".github/workflows/deploy-to-staging.yml",
+    ".github/workflows/devcontainer-build.yml",
+    ".github/workflows/label-actions.yml",
+    ".github/workflows/linear-triage.lock.yml",
+    ".github/workflows/linear-triage.md",
+    ".github/workflows/migration-review.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug-report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    ".github/SUPPORT.md",
+    "SECURITY.md"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "repository_full_name": "mdx-js/mdx",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:59.835682+00:00",
+  "tree_sha": "1b31316e2a60005fec14b2dec2219b59cd81f449",
+  "tree_truncated": false,
+  "tree_path_count": 227,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/esbuild/test",
+    "packages/esbuild/test/index.js",
+    "packages/loader/test",
+    "packages/loader/test/index.js",
+    "packages/mdx/test",
+    "packages/mdx/test/compile.js",
+    "packages/mdx/test/context",
+    "packages/mdx/test/context/components.js",
+    "packages/mdx/test/context/data.js",
+    "packages/mdx/test/context/run.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/bb.yml",
+    ".github/workflows/main.yml",
+    ".github/workflows/website.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

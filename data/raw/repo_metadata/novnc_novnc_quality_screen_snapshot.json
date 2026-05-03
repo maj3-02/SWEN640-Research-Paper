@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "novnc/noVNC",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:30.079044+00:00",
+  "tree_sha": "8e1ebdffba02e651c399dacef841f8941f6ad6e4",
+  "tree_truncated": false,
+  "tree_path_count": 248,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/assertions.js",
+    "tests/fake.websocket.js",
+    "tests/playback-ui.js",
+    "tests/playback.js",
+    "tests/test.base64.js",
+    "tests/test.browser.js",
+    "tests/test.clipboard.js",
+    "tests/test.copyrect.js",
+    "tests/test.deflator.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/deploy.yml",
+    ".github/workflows/lint.yml",
+    ".github/workflows/test.yml",
+    ".github/workflows/translate.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.md"
+  ]
+}

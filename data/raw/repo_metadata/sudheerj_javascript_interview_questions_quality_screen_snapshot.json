@@ -1,0 +1,16 @@
+{
+  "repository_full_name": "sudheerj/javascript-interview-questions",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:43.933652+00:00",
+  "tree_sha": "997037d44b45d5320626ade1d765eb4341b4ad3f",
+  "tree_truncated": false,
+  "tree_path_count": 64,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/gen-toc.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

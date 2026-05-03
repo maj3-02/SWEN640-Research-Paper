@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "dvajs/dva",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:12.483710+00:00",
+  "tree_sha": "b60e6c0baf59450ac9cba5a3100fd2c17a6851fa",
+  "tree_truncated": false,
+  "tree_path_count": 245,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/dva-core/test",
+    "packages/dva-core/test/checkModel.test.js",
+    "packages/dva-core/test/effects.test.js",
+    "packages/dva-core/test/handleActions.test.js",
+    "packages/dva-core/test/model.test.js",
+    "packages/dva-core/test/optsAndHooks.test.js",
+    "packages/dva-core/test/plugin.test.js",
+    "packages/dva-core/test/reducers.test.js",
+    "packages/dva-core/test/repalceModel.test.js",
+    "packages/dva-core/test/subscriptions.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".circleci/config.yml",
+    ".github/workflows/ci.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/bug_report_cn.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/ISSUE_TEMPLATE/rfc_cn.md",
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "repository_full_name": "EveryInc/compound-engineering-plugin",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:47.006714+00:00",
+  "tree_sha": "0c515c06fe7efc77baf29b5512a768c930d50ba0",
+  "tree_truncated": false,
+  "tree_path_count": 650,
+  "has_tests": true,
+  "matched_test_paths": [
+    "docs/specs",
+    "docs/specs/claude-code.md",
+    "docs/specs/codex.md",
+    "docs/specs/copilot.md",
+    "docs/specs/cursor.md",
+    "docs/specs/gemini.md",
+    "docs/specs/kiro.md",
+    "docs/specs/opencode.md",
+    "tests",
+    "tests/ce-demo-reel.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/deploy-docs.yml",
+    ".github/workflows/release-pr.yml",
+    ".github/workflows/release-preview.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "SECURITY.md"
+  ]
+}

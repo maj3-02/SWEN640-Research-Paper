@@ -1,0 +1,14 @@
+{
+  "repository_full_name": "kenwheeler/slick",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:41.197207+00:00",
+  "tree_sha": "49fed670b8917ab260ea5a74da28daaa5da4da9d",
+  "tree_truncated": false,
+  "tree_path_count": 28,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

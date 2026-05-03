@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "goldfire/howler.js",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:50.495267+00:00",
+  "tree_sha": "1d3053576a860e9854645493ad6c4a72c6cc6e45",
+  "tree_truncated": false,
+  "tree_path_count": 86,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/audio",
+    "tests/audio/sound1.mp3",
+    "tests/audio/sound1.wav",
+    "tests/audio/sound1.webm",
+    "tests/audio/sound2.mp3",
+    "tests/audio/sound2.wav",
+    "tests/audio/sound2.webm",
+    "tests/audio/sound3.wav",
+    "tests/core.html5audio.html"
+  ],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/docs.yml",
+    ".github/ISSUE_TEMPLATE/feature.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

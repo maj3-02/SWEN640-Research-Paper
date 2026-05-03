@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "abhigyanpatwari/GitNexus",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:37.784670+00:00",
+  "tree_sha": "dafda284bc0d46636dc5721673c65ca00d80b099",
+  "tree_truncated": false,
+  "tree_path_count": 3960,
+  "has_tests": true,
+  "matched_test_paths": [
+    "docker-server.test.mjs",
+    "docs/superpowers/specs",
+    "docs/superpowers/specs/2026-04-02-pr626-high-fixes-design.md",
+    "eval/tests",
+    "eval/tests/__init__.py",
+    "eval/tests/conftest.py",
+    "eval/tests/test_errors.py",
+    "eval/tests/test_mcp_bridge.py",
+    "eval/tests/test_parse_run_id.py",
+    "eval/tests/test_property_based.py"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci-e2e.yml",
+    ".github/workflows/ci-quality.yml",
+    ".github/workflows/ci-report.yml",
+    ".github/workflows/ci-scope-parity.yml",
+    ".github/workflows/ci-tests.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/claude-code-review.yml",
+    ".github/workflows/claude.yml",
+    ".github/workflows/docker.yml",
+    ".github/workflows/pr-description-check.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md"
+  ]
+}

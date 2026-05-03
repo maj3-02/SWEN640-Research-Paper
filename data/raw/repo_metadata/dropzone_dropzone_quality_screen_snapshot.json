@@ -1,0 +1,32 @@
+{
+  "repository_full_name": "dropzone/dropzone",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:02.749450+00:00",
+  "tree_sha": "f50d1828ab5df79a76be00d1306cc320e39a27f4",
+  "tree_truncated": false,
+  "tree_path_count": 65,
+  "has_tests": true,
+  "matched_test_paths": [
+    "cypress",
+    "cypress/fixtures",
+    "cypress/fixtures/example.json",
+    "cypress/fixtures/image.jpg",
+    "cypress/fixtures/image.tiff",
+    "cypress/integration",
+    "cypress/integration/1-basic",
+    "cypress/integration/1-basic/zero_configuration.spec.js",
+    "cypress/integration/2-integrations",
+    "cypress/integration/2-integrations/aws-s3-multipart.spec.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/test-and-release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

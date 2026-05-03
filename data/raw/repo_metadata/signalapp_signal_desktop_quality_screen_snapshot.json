@@ -1,0 +1,41 @@
+{
+  "repository_full_name": "signalapp/Signal-Desktop",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:43.644351+00:00",
+  "tree_sha": "9c246150585a65b6c3be324e2c214cb4f62c6102",
+  "tree_truncated": false,
+  "tree_path_count": 4344,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".oxlint/rules/enforceArrayBuffer.test.mjs",
+    ".oxlint/rules/enforceFileSuffix.test.mjs",
+    ".oxlint/rules/enforceTw.test.mjs",
+    ".oxlint/rules/enforceTypeAliasReadonlyDeep.test.mjs",
+    ".oxlint/rules/noDisabledTests.test.mjs",
+    ".oxlint/rules/noExtraneousDependencies.test.mjs",
+    ".oxlint/rules/noFocusedTests.test.mjs",
+    ".oxlint/rules/noForIn.test.mjs",
+    ".oxlint/rules/noRestrictedPaths.test.mjs",
+    "test"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/backport.yml",
+    ".github/workflows/benchmark.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/commits.yml",
+    ".github/workflows/danger.yml",
+    ".github/workflows/icu-book.yml",
+    ".github/workflows/notes.yml",
+    ".github/workflows/release-notes.yml",
+    ".github/workflows/reproducible-build-scheduler.yml",
+    ".github/workflows/reproducible-builds.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yaml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md"
+  ]
+}

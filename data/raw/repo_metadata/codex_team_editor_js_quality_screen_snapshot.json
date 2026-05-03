@@ -1,0 +1,36 @@
+{
+  "repository_full_name": "codex-team/editor.js",
+  "default_branch": "next",
+  "fetched_at_utc": "2026-04-28T19:18:39.467529+00:00",
+  "tree_sha": "4ea9eb389847181ceb757735f8bd45cc8c2f1673",
+  "tree_truncated": false,
+  "tree_path_count": 385,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/cypress",
+    "test/cypress/.eslintrc",
+    "test/cypress/fixtures",
+    "test/cypress/fixtures/test.html",
+    "test/cypress/fixtures/tools",
+    "test/cypress/fixtures/tools/ContentlessTool.ts",
+    "test/cypress/fixtures/tools/SimpleHeader.ts",
+    "test/cypress/fixtures/tools/ToolMock.ts",
+    "test/cypress/fixtures/tools/ToolWithoutConversionExport.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/bump-version-on-merge-next.yml",
+    ".github/workflows/create-a-release-draft.yml",
+    ".github/workflows/cypress.yml",
+    ".github/workflows/eslint.yml",
+    ".github/workflows/publish-package-to-npm.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/general_issue.md"
+  ]
+}

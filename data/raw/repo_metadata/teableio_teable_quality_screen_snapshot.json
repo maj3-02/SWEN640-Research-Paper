@@ -1,0 +1,41 @@
+{
+  "repository_full_name": "teableio/teable",
+  "default_branch": "develop",
+  "fetched_at_utc": "2026-04-28T19:19:15.446107+00:00",
+  "tree_sha": "ceba9a7b0f7fe9d18758e3394ab407581e480c68",
+  "tree_truncated": false,
+  "tree_path_count": 7986,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/nestjs-backend/src/configs/config.spec.ts",
+    "apps/nestjs-backend/src/db-provider/aggregation-query/postgres/__tests__",
+    "apps/nestjs-backend/src/db-provider/aggregation-query/postgres/__tests__/multiple-value-aggregation.adapter.spec.ts",
+    "apps/nestjs-backend/src/db-provider/filter-query/__tests__",
+    "apps/nestjs-backend/src/db-provider/filter-query/__tests__/field-reference.spec.ts",
+    "apps/nestjs-backend/src/db-provider/formula-default-unit.spec.ts",
+    "apps/nestjs-backend/src/db-provider/generated-column-query/generated-column-query-support-validator.spec.ts",
+    "apps/nestjs-backend/src/db-provider/generated-column-query/postgres/generated-column-query.postgres.spec.ts",
+    "apps/nestjs-backend/src/db-provider/search-query/search-index-builder.postgres.spec.ts",
+    "apps/nestjs-backend/src/db-provider/select-query/postgres/select-query.postgres.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/docker-push.yml",
+    ".github/workflows/integration-tests.yml",
+    ".github/workflows/linting.yml",
+    ".github/workflows/manual-preview.yml",
+    ".github/workflows/preview-cleanup.yml",
+    ".github/workflows/promote-latest.yml",
+    ".github/workflows/publish-release.yml",
+    ".github/workflows/templates",
+    ".github/workflows/templates/preview-template.yaml",
+    ".github/workflows/trigger-sync-to-ee.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

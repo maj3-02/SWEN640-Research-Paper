@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "better-auth/better-auth",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:47.565054+00:00",
+  "tree_sha": "8200d3c748877826c1c39665dba4e2ff59e9fc31",
+  "tree_truncated": false,
+  "tree_path_count": 2224,
+  "has_tests": true,
+  "matched_test_paths": [
+    "e2e",
+    "e2e/adapter",
+    "e2e/adapter/CHANGELOG.md",
+    "e2e/adapter/package.json",
+    "e2e/adapter/test",
+    "e2e/adapter/test/adapter-factory",
+    "e2e/adapter/test/adapter-factory/__snapshots__",
+    "e2e/adapter/test/adapter-factory/__snapshots__/adapter-factory.test.ts.snap",
+    "e2e/adapter/test/adapter-factory/adapter-factory.test.ts",
+    "e2e/adapter/test/adapter-factory/index.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/auto-changeset.yml",
+    ".github/workflows/auto-label.yml",
+    ".github/workflows/auto-retarget.yml",
+    ".github/workflows/backport.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/claude.yml",
+    ".github/workflows/demo.yml",
+    ".github/workflows/e2e.yml",
+    ".github/workflows/lock-threads.yml",
+    ".github/workflows/npm-dist-tag.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

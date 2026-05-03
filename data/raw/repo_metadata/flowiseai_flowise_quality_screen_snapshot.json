@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "FlowiseAI/Flowise",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:07.773775+00:00",
+  "tree_sha": "da8b251a9a4c59484ceaf6f71df7406aede7bef2",
+  "tree_truncated": false,
+  "tree_path_count": 3025,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/agentflow/src/Agentflow.test.tsx",
+    "packages/agentflow/src/atoms/ArrayInput.test.tsx",
+    "packages/agentflow/src/atoms/CodeInput.test.tsx",
+    "packages/agentflow/src/atoms/ConditionBuilder.test.tsx",
+    "packages/agentflow/src/atoms/CredentialTypeSelector.test.tsx",
+    "packages/agentflow/src/atoms/Dropdown.test.tsx",
+    "packages/agentflow/src/atoms/ExpandTextDialog.test.tsx",
+    "packages/agentflow/src/atoms/JsonInput.test.tsx",
+    "packages/agentflow/src/atoms/MessagesInput.test.tsx",
+    "packages/agentflow/src/atoms/NodeInputHandler.test.tsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/docker-image-dockerhub.yml",
+    ".github/workflows/docker-image-ecr.yml",
+    ".github/workflows/main.yml",
+    ".github/workflows/proprietary-path-guard.yml",
+    ".github/workflows/publish-agentflow.yml",
+    ".github/workflows/test_docker_build.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

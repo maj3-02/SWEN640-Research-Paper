@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "react-grid-layout/react-grid-layout",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:19:10.053743+00:00",
+  "tree_sha": "a2f3f7425b2f141b41525cefa84981a4c881de83",
+  "tree_truncated": false,
+  "tree_path_count": 151,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/dev-hook.jsx",
+    "test/examples",
+    "test/examples/00-showcase.jsx",
+    "test/examples/01-basic.jsx",
+    "test/examples/02-no-dragging.jsx",
+    "test/examples/03-messy.jsx",
+    "test/examples/04-grid-property.jsx",
+    "test/examples/05-static-elements.jsx",
+    "test/examples/06-dynamic-add-remove.jsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/audit.yml",
+    ".github/workflows/changelog.yml",
+    ".github/workflows/gh-pages.yml",
+    ".github/workflows/label.yml",
+    ".github/workflows/lint.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/stale.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md"
+  ]
+}

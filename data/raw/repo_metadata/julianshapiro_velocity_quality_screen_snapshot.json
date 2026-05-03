@@ -1,0 +1,29 @@
+{
+  "repository_full_name": "julianshapiro/velocity",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:08.167235+00:00",
+  "tree_sha": "767e35cac12120be526eef330e4d988b2c3cfc3c",
+  "tree_truncated": false,
+  "tree_path_count": 300,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/index.html",
+    "test/jquery-3.2.1.min.js",
+    "test/qunit-2.5.0.css",
+    "test/qunit-2.5.0.js",
+    "test/qunit-assert-close.js",
+    "test/src",
+    "test/src/1_Core",
+    "test/src/1_Core/Arguments.ts",
+    "test/src/1_Core/End Value Caching.ts"
+  ],
+  "has_ci": false,
+  "matched_ci_paths": [],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

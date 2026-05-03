@@ -1,0 +1,44 @@
+{
+  "repository_full_name": "n8n-io/n8n",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:49.432105+00:00",
+  "tree_sha": "ded94a5124cc5c0664d9d0590dcd86c2548f6f13",
+  "tree_truncated": false,
+  "tree_path_count": 22053,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".github/actions/ci-filter/__tests__",
+    ".github/actions/ci-filter/__tests__/ci-filter.test.ts",
+    ".github/scripts/cleanup-release-branch.test.mjs",
+    ".github/scripts/compute-backport-targets.test.mjs",
+    ".github/scripts/determine-release-version-changes.test.mjs",
+    ".github/scripts/determine-version-info.test.mjs",
+    ".github/scripts/ensure-release-candidate-branches.test.mjs",
+    ".github/scripts/quality/check-ownership-checkbox.test.mjs",
+    ".github/scripts/quality/check-pr-size.test.mjs",
+    "packages/@n8n/agents/src/__tests__"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/backport.yml",
+    ".github/workflows/build-base-image.yml",
+    ".github/workflows/build-benchmark-image.yml",
+    ".github/workflows/build-windows.yml",
+    ".github/workflows/ci-check-pr-title.yml",
+    ".github/workflows/ci-check-release-from-fork.yml",
+    ".github/workflows/ci-detect-new-packages.yml",
+    ".github/workflows/ci-master.yml",
+    ".github/workflows/ci-pr-quality.yml",
+    ".github/workflows/ci-pull-request-review.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/01-bug.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "packages/testing/playwright/CONTRIBUTING.md"
+  ]
+}

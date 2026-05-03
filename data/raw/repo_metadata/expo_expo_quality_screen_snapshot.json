@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "expo/expo",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:13.509595+00:00",
+  "tree_sha": "b1a90fa92fe037bfbe634793f3a04a0655a19929",
+  "tree_truncated": false,
+  "tree_path_count": 29630,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/bare-expo/e2e",
+    "apps/bare-expo/e2e/README.md",
+    "apps/bare-expo/e2e/TestSuite-test.native.js",
+    "apps/bare-expo/e2e/_nested-flows",
+    "apps/bare-expo/e2e/_nested-flows/compare-images-http.js",
+    "apps/bare-expo/e2e/_nested-flows/confirm-app-open.yaml",
+    "apps/bare-expo/e2e/_nested-flows/screenshot-comparison.yaml",
+    "apps/bare-expo/e2e/_nested-flows/viewshot-comparison.yaml",
+    "apps/bare-expo/e2e/expo-image",
+    "apps/bare-expo/e2e/expo-image/comparison-with-core-image.base.android.png"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/android-instrumentation-tests.yml",
+    ".github/workflows/android-unit-tests.yml",
+    ".github/workflows/bare-diffs.yml",
+    ".github/workflows/check-issues-nightly.yml",
+    ".github/workflows/cli.yml",
+    ".github/workflows/code-review.yml",
+    ".github/workflows/codemention.yaml",
+    ".github/workflows/commentator.yml",
+    ".github/workflows/create-expo-app.yml",
+    ".github/workflows/create-expo-module.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/0-bug_report.yml",
+    ".github/ISSUE_TEMPLATE/1-bug_report_cli.yml",
+    ".github/ISSUE_TEMPLATE/2-bug_report_router.yml",
+    ".github/ISSUE_TEMPLATE/3-documentation.yml",
+    ".github/ISSUE_TEMPLATE/4-feature_request.yml",
+    ".github/ISSUE_TEMPLATE/5-questions.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

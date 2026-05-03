@@ -1,0 +1,43 @@
+{
+  "repository_full_name": "ionic-team/ionicons",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:33.621903+00:00",
+  "tree_sha": "2a8e43aff06a344604af05fe8d4539dd39b7a5a3",
+  "tree_truncated": false,
+  "tree_path_count": 1469,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/components/icon/test",
+    "src/components/icon/test/icon.e2e.ts",
+    "src/components/icon/test/icon.e2e.ts-snapshots",
+    "src/components/icon/test/icon.e2e.ts-snapshots/icon-diff-Mobile-Chrome-linux.png",
+    "src/components/icon/test/icon.e2e.ts-snapshots/icon-diff-Mobile-Firefox-linux.png",
+    "src/components/icon/test/icon.e2e.ts-snapshots/icon-diff-Mobile-Safari-linux.png",
+    "src/components/icon/test/icon.e2e.ts-snapshots/icon-rtl-diff-Mobile-Chrome-linux.png",
+    "src/components/icon/test/icon.e2e.ts-snapshots/icon-rtl-diff-Mobile-Firefox-linux.png",
+    "src/components/icon/test/icon.e2e.ts-snapshots/icon-rtl-diff-Mobile-Safari-linux.png",
+    "src/components/icon/test/icon.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/actions",
+    ".github/workflows/actions/build-core",
+    ".github/workflows/actions/build-core/action.yml",
+    ".github/workflows/actions/download-archive",
+    ".github/workflows/actions/download-archive/action.yml",
+    ".github/workflows/actions/publish-npm",
+    ".github/workflows/actions/publish-npm/action.yml",
+    ".github/workflows/actions/test-e2e",
+    ".github/workflows/actions/test-e2e/action.yml",
+    ".github/workflows/actions/test-spec"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/ISSUE_TEMPLATE/icon_request.yml",
+    ".github/ISSUE_TEMPLATE/incorrect_icon.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

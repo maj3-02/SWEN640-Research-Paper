@@ -1,0 +1,36 @@
+{
+  "repository_full_name": "redux-saga/redux-saga",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-26T23:03:20.556209+00:00",
+  "tree_sha": "a4ace10dc3ff182828cd3ee7469f6667e08ceb62",
+  "tree_truncated": false,
+  "tree_path_count": 544,
+  "has_tests": true,
+  "matched_test_paths": [
+    "examples/async/test",
+    "examples/async/test/sagas.js",
+    "examples/cancellable-counter/test",
+    "examples/cancellable-counter/test/sagas.js",
+    "examples/counter/test",
+    "examples/counter/test/sagas.js",
+    "examples/error-demo/test",
+    "examples/error-demo/test/sagas.js",
+    "examples/shopping-cart/test",
+    "examples/shopping-cart/test/sagas.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/docs.yml",
+    ".github/workflows/nodejs.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/size.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/custom.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

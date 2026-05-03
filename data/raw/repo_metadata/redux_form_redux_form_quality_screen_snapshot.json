@@ -1,0 +1,35 @@
+{
+  "repository_full_name": "redux-form/redux-form",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:41.542545+00:00",
+  "tree_sha": "88866f08120c1297daf54a5b887b90708e7f35e9",
+  "tree_truncated": false,
+  "tree_path_count": 360,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/__tests__",
+    "src/__tests__/Field.spec.js",
+    "src/__tests__/FieldArray.spec.js",
+    "src/__tests__/Fields.spec.js",
+    "src/__tests__/Form.spec.js",
+    "src/__tests__/FormName.spec.js",
+    "src/__tests__/FormSection.spec.js",
+    "src/__tests__/SubmissionError.spec.js",
+    "src/__tests__/actions.spec.js",
+    "src/__tests__/asyncValidation.spec.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1-bug.md",
+    ".github/ISSUE_TEMPLATE/2-feature.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/security.md",
+    ".github/support.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

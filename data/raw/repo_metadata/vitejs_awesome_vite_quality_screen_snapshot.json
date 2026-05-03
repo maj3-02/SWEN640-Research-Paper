@@ -1,0 +1,19 @@
+{
+  "repository_full_name": "vitejs/awesome-vite",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:08.616534+00:00",
+  "tree_sha": "ec6b41d8295ed4a18a58778a1219aa430bb55963",
+  "tree_truncated": false,
+  "tree_path_count": 13,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/lint.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/contributing.md",
+    ".github/pull_request_template.md"
+  ]
+}

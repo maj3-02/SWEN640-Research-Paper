@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "backstage/backstage",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:34.921503+00:00",
+  "tree_sha": "151eb3f8ff2de84251874b723a80af93a5055ae5",
+  "tree_truncated": false,
+  "tree_path_count": 13750,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".cursor/rules/tests",
+    ".cursor/rules/tests/backend-test-utils.mdc",
+    ".cursor/rules/tests/test-utils.mdc",
+    "packages/app-defaults/src/createApp.test.tsx",
+    "packages/app-defaults/src/defaults/components.test.tsx",
+    "packages/app-legacy/src/App.test.tsx",
+    "packages/app-legacy/src/components/catalog/EntityPage.test.tsx",
+    "packages/app-legacy/src/test-reject-network.test.ts",
+    "packages/app/e2e-tests/HomePage.test.ts",
+    "packages/app/e2e-tests/SearchPage.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/api-breaking-changes-comment.yml",
+    ".github/workflows/api-breaking-changes.yml",
+    ".github/workflows/automate_area-labels.yml",
+    ".github/workflows/automate_changeset_feedback.yml",
+    ".github/workflows/automate_issue_labels.yml",
+    ".github/workflows/automate_merge_message.yml",
+    ".github/workflows/automate_stale.yml",
+    ".github/workflows/ci-noop.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/cron.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/.common.yaml",
+    ".github/ISSUE_TEMPLATE/01_bug.yaml",
+    ".github/ISSUE_TEMPLATE/02_documentation.yaml",
+    ".github/ISSUE_TEMPLATE/03_suggestion.yaml",
+    ".github/ISSUE_TEMPLATE/04_maintenance.yaml",
+    ".github/ISSUE_TEMPLATE/05_other.yaml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/sync.js",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md"
+  ]
+}

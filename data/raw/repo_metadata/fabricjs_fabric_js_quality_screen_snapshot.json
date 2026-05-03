@@ -1,0 +1,44 @@
+{
+  "repository_full_name": "fabricjs/fabric.js",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:41.329453+00:00",
+  "tree_sha": "e1b4b8e6ef977a1d866a7b415a7532ee90bc5188",
+  "tree_truncated": false,
+  "tree_path_count": 1458,
+  "has_tests": true,
+  "matched_test_paths": [
+    "e2e",
+    "e2e/env.d.ts",
+    "e2e/fixtures",
+    "e2e/fixtures/base.ts",
+    "e2e/imports.ts",
+    "e2e/setup",
+    "e2e/setup/setupApp.ts",
+    "e2e/setup/setupSelectors.ts",
+    "e2e/site",
+    "e2e/site/favicon.ico"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-stats.yml",
+    ".github/workflows/build.yml",
+    ".github/workflows/changelog_check_and_create.yml",
+    ".github/workflows/changelog_upate.yml",
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/comment_coverage.yml",
+    ".github/workflows/npmpublish.yml",
+    ".github/workflows/scorecard.yml",
+    ".github/workflows/sonarqube_analysis.yml",
+    ".github/workflows/tests.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

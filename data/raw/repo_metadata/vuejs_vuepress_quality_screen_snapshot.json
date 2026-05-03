@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "vuejs/vuepress",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:57.185141+00:00",
+  "tree_sha": "9fb4bb00925d9409e6732118e996411c6a82c85d",
+  "tree_truncated": false,
+  "tree_path_count": 679,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/@vuepress/core/lib/node/__tests__",
+    "packages/@vuepress/core/lib/node/__tests__/plugin-api",
+    "packages/@vuepress/core/lib/node/__tests__/plugin-api/AsyncOption.spec.js",
+    "packages/@vuepress/core/lib/node/__tests__/plugin-api/Option.spec.js",
+    "packages/@vuepress/core/lib/node/__tests__/plugin-api/PluginAPI.spec.js",
+    "packages/@vuepress/core/lib/node/__tests__/plugin-api/PluginUtil.spec.js",
+    "packages/@vuepress/core/lib/node/__tests__/prepare",
+    "packages/@vuepress/core/lib/node/__tests__/prepare/App.spec.js",
+    "packages/@vuepress/core/lib/node/__tests__/prepare/Page.spec.js",
+    "packages/@vuepress/core/lib/node/__tests__/prepare/__snapshots__"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/pull-request-ci.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md"
+  ]
+}

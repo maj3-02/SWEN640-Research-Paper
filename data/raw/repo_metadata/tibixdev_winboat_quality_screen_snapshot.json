@@ -1,0 +1,23 @@
+{
+  "repository_full_name": "TibixDev/winboat",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:20.461754+00:00",
+  "tree_sha": "0922800fafd2c1f4b1ffab25d24ce34fbe8cf09a",
+  "tree_truncated": false,
+  "tree_path_count": 150,
+  "has_tests": false,
+  "matched_test_paths": [],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1-bug-report.yml",
+    ".github/ISSUE_TEMPLATE/2-feature-request.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

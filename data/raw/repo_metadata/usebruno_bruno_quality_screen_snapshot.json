@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "usebruno/bruno",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:28.155816+00:00",
+  "tree_sha": "ff6ec4a6895127130d2ef89240aded9b1105567e",
+  "tree_truncated": false,
+  "tree_path_count": 3899,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".github/actions/tests",
+    ".github/actions/tests/run-cli-tests",
+    ".github/actions/tests/run-cli-tests/action.yml",
+    ".github/actions/tests/run-e2e-tests",
+    ".github/actions/tests/run-e2e-tests/action.yml",
+    ".github/actions/tests/run-unit-tests",
+    ".github/actions/tests/run-unit-tests/action.yml",
+    "packages/bruno-app/src/components/CodeEditor/index.spec.js",
+    "packages/bruno-app/src/components/CodeSnippet/index.spec.js",
+    "packages/bruno-app/src/components/CollectionSettings/Tests"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/auth-tests.yml",
+    ".github/workflows/flaky-test-detector.yml",
+    ".github/workflows/lint-checks.yml",
+    ".github/workflows/npm-bru-cli.yml",
+    ".github/workflows/ssl-tests.yml",
+    ".github/workflows/tests.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/BugReport.yaml",
+    ".github/ISSUE_TEMPLATE/FeatureRequest.yaml",
+    ".github/ISSUE_TEMPLATE/config.yaml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "contributing.md",
+    "security.md"
+  ]
+}

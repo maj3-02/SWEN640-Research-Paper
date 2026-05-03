@@ -1,0 +1,36 @@
+{
+  "repository_full_name": "PrismJS/prism",
+  "default_branch": "v2",
+  "fetched_at_utc": "2026-04-28T19:17:37.734487+00:00",
+  "tree_sha": "ded4a65b75a246b4dbc6c5a84e584db1078529aa",
+  "tree_truncated": false,
+  "tree_path_count": 3557,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/components-test.js",
+    "tests/core",
+    "tests/core/greedy.js",
+    "tests/core/registry.js",
+    "tests/coverage.js",
+    "tests/helper",
+    "tests/helper/args.js",
+    "tests/helper/prism-dom-util.js",
+    "tests/helper/prism-loader.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/danger.yml",
+    ".github/workflows/test.yml",
+    ".github/workflows/website-rebuild.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/ISSUE_TEMPLATE/highlighting-bug-report.md",
+    ".github/ISSUE_TEMPLATE/new-language-request.md",
+    "SECURITY.md"
+  ]
+}

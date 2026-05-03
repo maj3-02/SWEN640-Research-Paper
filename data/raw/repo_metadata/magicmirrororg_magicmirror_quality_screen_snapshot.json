@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "MagicMirrorOrg/MagicMirror",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:54.821886+00:00",
+  "tree_sha": "d05ea751d9b4dd106d02c7e1ed497bac3c77549e",
+  "tree_truncated": false,
+  "tree_path_count": 493,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/configs",
+    "tests/configs/config_variables.env",
+    "tests/configs/config_variables.js",
+    "tests/configs/customregions.js",
+    "tests/configs/default.js",
+    "tests/configs/empty_ipWhiteList.js",
+    "tests/configs/modules",
+    "tests/configs/modules/alert",
+    "tests/configs/modules/alert/welcome_false.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/automated-tests.yaml",
+    ".github/workflows/dep-review.yaml",
+    ".github/workflows/electron-rebuild.yaml",
+    ".github/workflows/enforce-pullrequest-rules.yaml",
+    ".github/workflows/release-notes.yaml",
+    ".github/workflows/spellcheck.yaml",
+    ".github/workflows/stale.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/change_request.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    ".github/SECURITY.md"
+  ]
+}

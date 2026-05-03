@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "validatorjs/validator.js",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:16:53.548561+00:00",
+  "tree_sha": "7fdc788ebd1ad79ca6d9edabb884eaaa1c51e36c",
+  "tree_truncated": false,
+  "tree_path_count": 156,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/clientSide.test.js",
+    "test/exports.test.js",
+    "test/sanitizers.test.js",
+    "test/testFunctions.js",
+    "test/util.test.js",
+    "test/validators.test.js",
+    "test/validators",
+    "test/validators/isAfter.test.js",
+    "test/validators/isBase64.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/codeql-analysis.yml",
+    ".github/workflows/npm-publish.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/pull_request_template.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}

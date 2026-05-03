@@ -1,0 +1,27 @@
+{
+  "repository_full_name": "openai/codex-plugin-cc",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:17.858197+00:00",
+  "tree_sha": "807e03ac9d5aa23bc395fdec8c3767500a86b3cf",
+  "tree_truncated": false,
+  "tree_path_count": 81,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/broker-endpoint.test.mjs",
+    "tests/bump-version.test.mjs",
+    "tests/commands.test.mjs",
+    "tests/fake-codex-fixture.mjs",
+    "tests/git.test.mjs",
+    "tests/helpers.mjs",
+    "tests/process.test.mjs",
+    "tests/render.test.mjs",
+    "tests/runtime.test.mjs"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/pull-request-ci.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

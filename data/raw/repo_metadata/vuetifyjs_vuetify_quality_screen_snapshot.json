@@ -1,0 +1,39 @@
+{
+  "repository_full_name": "vuetifyjs/vuetify",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:23.719570+00:00",
+  "tree_sha": "822505bb6ecce23839b6f8279554e0beb2bcaf81",
+  "tree_truncated": false,
+  "tree_path_count": 3400,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/vuetify/src/__tests__",
+    "packages/vuetify/src/__tests__/framework.spec.browser.tsx",
+    "packages/vuetify/src/components/VAlert/__tests__",
+    "packages/vuetify/src/components/VAlert/__tests__/VAlert.spec.browser.tsx",
+    "packages/vuetify/src/components/VAppBar/__tests__",
+    "packages/vuetify/src/components/VAppBar/__tests__/VAppBar.spec.browser.tsx",
+    "packages/vuetify/src/components/VAutocomplete/__tests__",
+    "packages/vuetify/src/components/VAutocomplete/__tests__/VAutocomplete.spec.browser.tsx",
+    "packages/vuetify/src/components/VBadge/__tests__",
+    "packages/vuetify/src/components/VBadge/__tests__/VBadge.spec.browser.tsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/close-issue.yml",
+    ".github/workflows/crowdin-uploads.yml",
+    ".github/workflows/nightly.yml",
+    ".github/workflows/stale.yml",
+    ".github/workflows/triage.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "SECURITY.md",
+    "packages/docs/src/pages/en/getting-started/contributing.md"
+  ]
+}

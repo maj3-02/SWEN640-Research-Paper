@@ -1,0 +1,41 @@
+{
+  "repository_full_name": "gethomepage/homepage",
+  "default_branch": "dev",
+  "fetched_at_utc": "2026-04-28T19:16:38.708834+00:00",
+  "tree_sha": "c3b4fc17c45f93069b5e460efd138a708cb66a37",
+  "tree_truncated": false,
+  "tree_path_count": 1720,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/__tests__",
+    "src/__tests__/pages",
+    "src/__tests__/pages/_app.test.jsx",
+    "src/__tests__/pages/_document.test.jsx",
+    "src/__tests__/pages/api",
+    "src/__tests__/pages/api/bookmarks.test.js",
+    "src/__tests__/pages/api/config",
+    "src/__tests__/pages/api/config/[path].test.js",
+    "src/__tests__/pages/api/docker",
+    "src/__tests__/pages/api/docker/stats"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/crowdin.yml",
+    ".github/workflows/docker-publish.yml",
+    ".github/workflows/docs-publish.yml",
+    ".github/workflows/lint.yml",
+    ".github/workflows/pr-quality.yml",
+    ".github/workflows/reaction-comments.yml",
+    ".github/workflows/release-drafter.yml",
+    ".github/workflows/repo-maintenance.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

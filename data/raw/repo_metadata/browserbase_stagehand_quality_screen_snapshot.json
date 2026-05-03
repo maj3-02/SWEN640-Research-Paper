@@ -1,0 +1,40 @@
+{
+  "repository_full_name": "browserbase/stagehand",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:07.965577+00:00",
+  "tree_sha": "98cdd20cc50f8b4ba2aa57a4ec3ac55b9250ef61",
+  "tree_truncated": false,
+  "tree_path_count": 1050,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/cli/tests",
+    "packages/cli/tests/cli.test.ts",
+    "packages/cli/tests/connect.test.ts",
+    "packages/cli/tests/local-cdp-discovery.test.ts",
+    "packages/cli/tests/local-strategy.test.ts",
+    "packages/cli/tests/mode.test.ts",
+    "packages/cli/tests/resolve-ws.test.ts",
+    "packages/core/tests",
+    "packages/core/tests/cache-variables.test.ts",
+    "packages/core/tests/integration"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/claude.yml",
+    ".github/workflows/external-contributor-pr-approval-handoff.yml",
+    ".github/workflows/external-contributor-pr.yml",
+    ".github/workflows/feature-parity.yml",
+    ".github/workflows/release-cli.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/stagehand-server-v3-release.yml",
+    ".github/workflows/stagehand-server-v3-sea-build.yml",
+    ".github/workflows/stagehand-server-v4-release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/pull_request_template"
+  ]
+}

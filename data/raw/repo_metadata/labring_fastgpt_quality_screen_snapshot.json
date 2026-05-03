@@ -1,0 +1,45 @@
+{
+  "repository_full_name": "labring/FastGPT",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:49.491869+00:00",
+  "tree_sha": "225cb7e62b94c6731edb16da84b311de51c31ce3",
+  "tree_truncated": false,
+  "tree_path_count": 6179,
+  "has_tests": true,
+  "matched_test_paths": [
+    "deploy/helm/fastgpt/templates/tests",
+    "deploy/helm/fastgpt/templates/tests/test-connection.yaml",
+    "packages/global/test",
+    "packages/global/test/common",
+    "packages/global/test/common/error",
+    "packages/global/test/common/error/s3.test.ts",
+    "packages/global/test/common/error/utils.test.ts",
+    "packages/global/test/common/file",
+    "packages/global/test/common/file/icon.test.ts",
+    "packages/global/test/common/file/tool.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/auto-close-issue.yml",
+    ".github/workflows/build-admin.yml",
+    ".github/workflows/build-agent-sandbox.yml",
+    ".github/workflows/build-code-sandbox.yml",
+    ".github/workflows/build-docs.yml",
+    ".github/workflows/build-fastgpt.yml",
+    ".github/workflows/build-marketplace.yml",
+    ".github/workflows/build-mcp-server.yml",
+    ".github/workflows/build-sso-service-image.yml",
+    ".github/workflows/helm-release.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".claude/skills/system-pr_review/backend-quality/security.md",
+    ".claude/skills/system-pr_review/frontend-quality/security.md",
+    ".codex/skills/system/pr-review/backend-quality/security.md",
+    ".codex/skills/system/pr-review/frontend-quality/security.md",
+    ".github/ISSUE_TEMPLATE/bugs.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/features.md",
+    "SECURITY.md"
+  ]
+}

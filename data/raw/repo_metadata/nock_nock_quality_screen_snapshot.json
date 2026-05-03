@@ -1,0 +1,35 @@
+{
+  "repository_full_name": "nock/nock",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:17:36.345812+00:00",
+  "tree_sha": "07fbfab489ca878fda0db9ad34b1cee6381bb21c",
+  "tree_truncated": false,
+  "tree_path_count": 136,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/assets",
+    "tests/assets/reply_file_1.txt",
+    "tests/assets/reply_file_2.txt.gz",
+    "tests/fixtures",
+    "tests/fixtures/good_request.json",
+    "tests/fixtures/wrong_uri.json",
+    "tests/got",
+    "tests/got/fixtures",
+    "tests/got/fixtures/logging.mjs"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/continuous-delivery.yaml",
+    ".github/workflows/continuous-integration.yaml",
+    ".github/workflows/fix-formatting.yaml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/01_bug_report.yml",
+    ".github/ISSUE_TEMPLATE/02_feature_request.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md"
+  ]
+}

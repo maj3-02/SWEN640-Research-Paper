@@ -1,0 +1,45 @@
+{
+  "repository_full_name": "ComposioHQ/composio",
+  "default_branch": "next",
+  "fetched_at_utc": "2026-04-28T19:18:48.221136+00:00",
+  "tree_sha": "6c6ac9fea184fbfe3a71757876b6993d2c209e5b",
+  "tree_truncated": false,
+  "tree_path_count": 2660,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".github/workflows/py.test.yml",
+    ".github/workflows/ts.test.yml",
+    "docs/tests",
+    "docs/tests/integration",
+    "docs/tests/integration/helpers.ts",
+    "docs/tests/integration/llm-endpoints.test.ts",
+    "docs/tests/integration/redirects.test.ts",
+    "docs/tests/integration/rendering.test.ts",
+    "docs/tests/integration/search.test.ts",
+    "docs/tests/static"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build-cli-binaries.yml",
+    ".github/workflows/claude-code-doc-review.yml",
+    ".github/workflows/claude.yml",
+    ".github/workflows/cli.install-health-check.yml",
+    ".github/workflows/cli.test-installation.yml",
+    ".github/workflows/docs-check-links.yml",
+    ".github/workflows/docs-tests.yml",
+    ".github/workflows/docs-typescript-check.yml",
+    ".github/workflows/docs-update-data.yml",
+    ".github/workflows/docs.changelog-notification.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/ISSUE_TEMPLATE/bug-report.yml",
+    ".github/ISSUE_TEMPLATE/feature-request.yml",
+    ".github/ISSUE_TEMPLATE/tool-request.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    ".github/SECURITY.md",
+    ".github/SUPPORT.md",
+    "CONTRIBUTING.md"
+  ]
+}

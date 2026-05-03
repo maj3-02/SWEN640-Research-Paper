@@ -1,0 +1,37 @@
+{
+  "repository_full_name": "Yeachan-Heo/oh-my-claudecode",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:38.977839+00:00",
+  "tree_sha": "1e9f197bcc85602da87ad35b18d908a0575b8583",
+  "tree_truncated": false,
+  "tree_path_count": 5853,
+  "has_tests": true,
+  "matched_test_paths": [
+    "benchmarks/harsh-critic/scoring/__tests__",
+    "benchmarks/harsh-critic/scoring/__tests__/parser.test.ts",
+    "benchmarks/harsh-critic/scoring/__tests__/scorer.test.ts",
+    "dist/__tests__",
+    "dist/__tests__/agent-boundary-guidance.test.d.ts",
+    "dist/__tests__/agent-boundary-guidance.test.d.ts.map",
+    "dist/__tests__/agent-boundary-guidance.test.js",
+    "dist/__tests__/agent-boundary-guidance.test.js.map",
+    "dist/__tests__/agent-registry.test.d.ts",
+    "dist/__tests__/agent-registry.test.d.ts.map"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/auto-label.yml",
+    ".github/workflows/ci.yml",
+    ".github/workflows/cleanup.yml",
+    ".github/workflows/pr-check.yml",
+    ".github/workflows/release.yml",
+    ".github/workflows/stale.yml",
+    ".github/workflows/upgrade-test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "templates/rules/security.md"
+  ]
+}

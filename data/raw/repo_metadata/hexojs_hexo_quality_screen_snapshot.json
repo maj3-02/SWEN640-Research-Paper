@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "hexojs/hexo",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:23.253808+00:00",
+  "tree_sha": "391c7d82ada79adeb404ab9a2d26747872ddc429",
+  "tree_truncated": false,
+  "tree_path_count": 348,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/benchmark.js",
+    "test/fixtures",
+    "test/fixtures/_config.json",
+    "test/fixtures/banner.jpg",
+    "test/fixtures/hello.njk",
+    "test/fixtures/post_render.ts",
+    "test/scripts",
+    "test/scripts/box",
+    "test/scripts/box/box.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/benchmark.yml",
+    ".github/workflows/commenter.yml",
+    ".github/workflows/dependencies-review.yml",
+    ".github/workflows/linter.yml",
+    ".github/workflows/tester.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature-request-improvement.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md"
+  ]
+}

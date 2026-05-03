@@ -1,0 +1,47 @@
+{
+  "repository_full_name": "RooCodeInc/Roo-Code",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:02.600938+00:00",
+  "tree_sha": "ad256349058d3f84fd97517aabce4a119a234bbf",
+  "tree_truncated": false,
+  "tree_path_count": 3091,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/cli/scripts/integration",
+    "apps/cli/scripts/integration/cases",
+    "apps/cli/scripts/integration/cases/cancel-active-task.ts",
+    "apps/cli/scripts/integration/cases/cancel-immediately-after-start-ack.ts",
+    "apps/cli/scripts/integration/cases/cancel-message-recovery-race.ts",
+    "apps/cli/scripts/integration/cases/cancel-without-active-task.ts",
+    "apps/cli/scripts/integration/cases/create-with-session-id-resume-loads-correct-session.ts",
+    "apps/cli/scripts/integration/cases/followup-after-completion.ts",
+    "apps/cli/scripts/integration/cases/followup-completion-ask-response-images.ts",
+    "apps/cli/scripts/integration/cases/followup-completion-ask-response.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/changeset-release.yml",
+    ".github/workflows/cli-release.yml",
+    ".github/workflows/code-qa.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/evals.yml",
+    ".github/workflows/marketplace-publish.yml",
+    ".github/workflows/nightly-publish.yml",
+    ".github/workflows/update-contributors.yml",
+    ".github/workflows/website-deploy.yml",
+    ".github/workflows/website-preview.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/ISSUE_TEMPLATE/marketplace.yml",
+    ".github/pull_request_template.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md",
+    "locales/ca/CODE_OF_CONDUCT.md",
+    "locales/ca/CONTRIBUTING.md"
+  ]
+}

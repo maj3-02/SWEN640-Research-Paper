@@ -1,0 +1,42 @@
+{
+  "repository_full_name": "TriliumNext/Trilium",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:18:30.813230+00:00",
+  "tree_sha": "8f4f94f953eaa01bd1619f592b1f25689ced51e4",
+  "tree_truncated": false,
+  "tree_path_count": 4766,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/client/src/services/attribute_parser.spec.ts",
+    "apps/client/src/services/attributes.spec.ts",
+    "apps/client/src/services/bundle.spec.ts",
+    "apps/client/src/services/content_renderer_text.spec.ts",
+    "apps/client/src/services/css_class_manager.spec.ts",
+    "apps/client/src/services/doc_renderer.spec.ts",
+    "apps/client/src/services/i18n.spec.ts",
+    "apps/client/src/services/in_app_help.spec.ts",
+    "apps/client/src/services/link.spec.ts",
+    "apps/client/src/services/mermaid.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/checks.yml",
+    ".github/workflows/codeql.yml",
+    ".github/workflows/deploy-docs.yml",
+    ".github/workflows/dev.yml",
+    ".github/workflows/i18n.yml",
+    ".github/workflows/main-docker.yml",
+    ".github/workflows/nightly.yml",
+    ".github/workflows/playwright.yml",
+    ".github/workflows/release-winget.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/ISSUE_TEMPLATE/task.yml",
+    "SECURITY.md",
+    "docs/Developer Guide/Developer Guide/Architecture/Security.md"
+  ]
+}

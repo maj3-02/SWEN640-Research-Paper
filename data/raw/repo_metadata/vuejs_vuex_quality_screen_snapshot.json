@@ -1,0 +1,30 @@
+{
+  "repository_full_name": "vuejs/vuex",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:16:41.412521+00:00",
+  "tree_sha": "bd907467b8392d6671bb115738285ff7f63d0cf6",
+  "tree_truncated": false,
+  "tree_path_count": 305,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/.eslintrc.json",
+    "test/e2e",
+    "test/e2e/cart.spec.js",
+    "test/e2e/chat.spec.js",
+    "test/e2e/counter.spec.js",
+    "test/e2e/todomvc.spec.js",
+    "test/esm",
+    "test/esm/esm-import.mjs",
+    "test/esm/esm-test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/contributing.md"
+  ]
+}

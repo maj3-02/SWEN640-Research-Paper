@@ -1,0 +1,33 @@
+{
+  "repository_full_name": "markdown-it/markdown-it",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-26T23:03:25.020446+00:00",
+  "tree_sha": "a6d1d484e521ec37a671ae4d07c09169f9a8f9af",
+  "tree_truncated": false,
+  "tree_path_count": 174,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/cjs.js",
+    "test/commonmark.mjs",
+    "test/fixtures",
+    "test/fixtures/commonmark",
+    "test/fixtures/commonmark/bad.txt",
+    "test/fixtures/commonmark/good.txt",
+    "test/fixtures/commonmark/spec.txt",
+    "test/fixtures/markdown-it",
+    "test/fixtures/markdown-it/commonmark_extras.txt"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/development-question.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/ISSUE_TEMPLATE/question.md",
+    "CONTRIBUTING.md"
+  ]
+}

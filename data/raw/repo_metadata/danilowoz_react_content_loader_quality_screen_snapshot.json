@@ -1,0 +1,31 @@
+{
+  "repository_full_name": "danilowoz/react-content-loader",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:20:02.551774+00:00",
+  "tree_sha": "c8a6b6c6669d7e663f9d7e1efecec08e876b0e5d",
+  "tree_truncated": false,
+  "tree_path_count": 96,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/native/__tests__",
+    "src/native/__tests__/ContentLoader.test.tsx",
+    "src/native/__tests__/Svg.test.tsx",
+    "src/native/__tests__/__snapshots__",
+    "src/native/__tests__/__snapshots__/snapshots.test.tsx.snap",
+    "src/native/__tests__/presets",
+    "src/native/__tests__/presets/BulletListStyle.test.tsx",
+    "src/native/__tests__/presets/CodeStyle.test.tsx",
+    "src/native/__tests__/presets/FacebookStyle.test.tsx",
+    "src/native/__tests__/presets/InstagramStyle.test.tsx"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CODE_OF_CONDUCT.md"
+  ]
+}

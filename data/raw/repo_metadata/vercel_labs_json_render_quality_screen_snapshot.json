@@ -1,0 +1,28 @@
+{
+  "repository_full_name": "vercel-labs/json-render",
+  "default_branch": "main",
+  "fetched_at_utc": "2026-04-28T19:19:58.186367+00:00",
+  "tree_sha": "dba70b3919d925f2a0c26f4d7736f3bbe8021f29",
+  "tree_truncated": false,
+  "tree_path_count": 1975,
+  "has_tests": true,
+  "matched_test_paths": [
+    "apps/web/app/(main)/docs/specs",
+    "apps/web/app/(main)/docs/specs/page.mdx",
+    "examples/next-website-builder/app/api/spec",
+    "examples/next-website-builder/app/api/spec/route.ts",
+    "examples/stripe-app/drawer-app/src/views/CustomerDetails.test.tsx",
+    "examples/stripe-app/drawer-app/src/views/Customers.test.tsx",
+    "examples/stripe-app/drawer-app/src/views/Home.test.tsx",
+    "packages/codegen/src/traverse.test.ts",
+    "packages/core/src/action-observer.test.ts",
+    "packages/core/src/actions.test.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/release.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

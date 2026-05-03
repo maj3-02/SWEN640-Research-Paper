@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "mifi/lossless-cut",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:24.628446+00:00",
+  "tree_sha": "260426e3d874236708ec9becf158fcdf4fd7449a",
+  "tree_truncated": false,
+  "tree_path_count": 384,
+  "has_tests": true,
+  "matched_test_paths": [
+    "src/main/ffmpegUtil.test.ts",
+    "src/main/pathToFileURL.test.ts",
+    "src/main/progress.test.ts",
+    "src/renderer/src/__snapshots__/edl.test.ts.snap",
+    "src/renderer/src/__snapshots__/edlFormats.test.ts.snap",
+    "src/renderer/src/__snapshots__/segments.test.ts.snap",
+    "src/renderer/src/edl.test.ts",
+    "src/renderer/src/edlFormats.test.ts",
+    "src/renderer/src/segments.test.ts",
+    "src/renderer/src/test"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/build.yml",
+    ".github/workflows/test.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/1-file-issue.yml",
+    ".github/ISSUE_TEMPLATE/2-bug.yml",
+    ".github/ISSUE_TEMPLATE/3-feature.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    "CONTRIBUTING.md"
+  ]
+}

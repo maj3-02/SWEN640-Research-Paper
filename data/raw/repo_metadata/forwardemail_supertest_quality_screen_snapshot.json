@@ -1,0 +1,26 @@
+{
+  "repository_full_name": "forwardemail/supertest",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:24.921209+00:00",
+  "tree_sha": "d7997513dcfb2f918e617f48ea4d56006aa0c3c3",
+  "tree_truncated": false,
+  "tree_path_count": 31,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/.eslintrc",
+    "test/cookies.js",
+    "test/fixtures",
+    "test/fixtures/test_cert.pem",
+    "test/fixtures/test_key.pem",
+    "test/issue-fixes.js",
+    "test/supertest.js",
+    "test/throwError.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml"
+  ],
+  "has_community_health_files": false,
+  "matched_community_health_paths": []
+}

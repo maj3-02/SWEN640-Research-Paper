@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "floating-ui/floating-ui",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:37.546359+00:00",
+  "tree_sha": "d8020ee98c702caa31fa9b4d929ca782c6b58c59",
+  "tree_truncated": false,
+  "tree_path_count": 1746,
+  "has_tests": true,
+  "matched_test_paths": [
+    ".github/actions/unit",
+    ".github/actions/unit/action.yml",
+    "packages/core/test",
+    "packages/core/test/computeCoordsFromPlacement.test.ts",
+    "packages/core/test/computePosition.test.ts",
+    "packages/core/test/middleware",
+    "packages/core/test/middleware/autoPlacement.test.ts",
+    "packages/core/test/middleware/inline.test.ts",
+    "packages/core/tsconfig.test.json",
+    "packages/dom/test"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/release-floating-ui.yml",
+    ".github/workflows/release-popper.yml",
+    ".github/workflows/update-snapshots.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    "CODE_OF_CONDUCT.md"
+  ]
+}

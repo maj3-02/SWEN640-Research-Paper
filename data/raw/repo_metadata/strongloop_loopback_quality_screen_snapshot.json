@@ -1,0 +1,34 @@
+{
+  "repository_full_name": "strongloop/loopback",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:17:35.739260+00:00",
+  "tree_sha": "13371fd2a138a6f39db77e5a455b3170e5d4a0f5",
+  "tree_truncated": false,
+  "tree_path_count": 345,
+  "has_tests": true,
+  "matched_test_paths": [
+    "test",
+    "test/access-control.integration.js",
+    "test/access-token.test.js",
+    "test/acl.test.js",
+    "test/app.test.js",
+    "test/authorization-scopes.test.js",
+    "test/change-stream.test.js",
+    "test/change.test.js",
+    "test/checkpoint.test.js",
+    "test/context-options.test.js"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/Bug_report.md",
+    ".github/ISSUE_TEMPLATE/Feature_request.md",
+    ".github/ISSUE_TEMPLATE/Question.md",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md"
+  ]
+}

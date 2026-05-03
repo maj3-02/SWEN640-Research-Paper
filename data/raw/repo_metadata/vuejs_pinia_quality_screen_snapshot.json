@@ -1,0 +1,38 @@
+{
+  "repository_full_name": "vuejs/pinia",
+  "default_branch": "v4",
+  "fetched_at_utc": "2026-04-28T19:19:57.556933+00:00",
+  "tree_sha": "c1adede95dc93c270df513958fd2b05cc0a90a43",
+  "tree_truncated": false,
+  "tree_path_count": 393,
+  "has_tests": true,
+  "matched_test_paths": [
+    "packages/nuxt/test",
+    "packages/nuxt/test/nuxt.spec.ts",
+    "packages/pinia/__tests__",
+    "packages/pinia/__tests__/actions.spec.ts",
+    "packages/pinia/__tests__/combinedStores.spec.ts",
+    "packages/pinia/__tests__/devtools.spec.ts",
+    "packages/pinia/__tests__/getters.spec.ts",
+    "packages/pinia/__tests__/hmr.spec.ts",
+    "packages/pinia/__tests__/lifespan.spec.ts",
+    "packages/pinia/__tests__/mapHelpers.spec.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/ci.yml",
+    ".github/workflows/pkg.pr.new.yml",
+    ".github/workflows/release-tag.yml",
+    ".github/workflows/update-sponsors.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/CODE_OF_CONDUCT.md",
+    ".github/CONTRIBUTING.md",
+    ".github/ISSUE_TEMPLATE/bug_report.yml",
+    ".github/ISSUE_TEMPLATE/config.yml",
+    ".github/ISSUE_TEMPLATE/feature_request.yml",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "SECURITY.md"
+  ]
+}

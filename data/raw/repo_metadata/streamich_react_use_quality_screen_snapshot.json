@@ -1,0 +1,36 @@
+{
+  "repository_full_name": "streamich/react-use",
+  "default_branch": "master",
+  "fetched_at_utc": "2026-04-28T19:18:19.017611+00:00",
+  "tree_sha": "9ef95352e459dd2920b0492c63c39863024ee852",
+  "tree_truncated": false,
+  "tree_path_count": 480,
+  "has_tests": true,
+  "matched_test_paths": [
+    "tests",
+    "tests/createBreakpoint.test.ts",
+    "tests/createGlobalState.test.ts",
+    "tests/createMemo.test.ts",
+    "tests/createReducer.test.ts",
+    "tests/createReducerContext.test.tsx",
+    "tests/createStateContext.test.tsx",
+    "tests/misc",
+    "tests/misc/hookState.test.ts",
+    "tests/setupTests.ts"
+  ],
+  "has_ci": true,
+  "matched_ci_paths": [
+    ".github/workflows/check-codebase.yml",
+    ".github/workflows/mirror.yml",
+    ".github/workflows/release.yml",
+    ".travis.yml"
+  ],
+  "has_community_health_files": true,
+  "matched_community_health_paths": [
+    ".github/ISSUE_TEMPLATE/bug_report.md",
+    ".github/ISSUE_TEMPLATE/feature_request.md",
+    ".github/PULL_REQUEST_TEMPLATE.md",
+    "CONTRIBUTING.md",
+    "SECURITY.md"
+  ]
+}
