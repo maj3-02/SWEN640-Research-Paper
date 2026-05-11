@@ -1,5 +1,7 @@
 ﻿# Bug-Related Outcomes in JavaScript and TypeScript GitHub Repositories
 
+**Read the full research paper:** [`results/final_sample/paper/Bug-Related Outcomes in JavaScript and TypeScript GitHub Repositories.pdf`](results/final_sample/paper/Bug-Related%20Outcomes%20in%20JavaScript%20and%20TypeScript%20GitHub%20Repositories.pdf)
+
 This repository contains the public code and curated artifacts for a repository-mining study comparing bug-related maintenance outcomes in JavaScript and TypeScript GitHub repositories.
 
 ## Repository Contents
@@ -11,7 +13,7 @@ This repository contains the public code and curated artifacts for a repository-
 - `results/final_sample/` - final tables, figures, and reporting summaries
 - `docs/` - runbook, reproducibility notes, data dictionary, and AI-assistance disclosure
 
-The repository includes the final-study data artifacts used to support the paper results, including raw final-sample commit and issue payloads, row-level classified commit and issue outputs, final sample manifests, processed repository metrics, and reporting outputs. Large final-study data files are tracked with Git LFS.
+The repository includes the final-study data artifacts used to support the paper results, including raw final-sample commit and issue payloads, row-level classified commit and issue outputs, final sample manifest, repository metrics, descriptive summaries, and generated figures.
 
 ## Key Final-Study Artifacts
 
@@ -73,7 +75,7 @@ Run the focused test suite with:
 python -m pytest
 ```
 
-Some end-to-end stages require live GitHub API access and can be affected by rate limits. The generated final-study artifacts included in this repository allow the main paper numbers to be inspected without recollecting raw GitHub data.
+Some end-to-end stages require live GitHub API access and can be affected by rate limits. The generated final-study artifacts included in this repository allow the main paper numbers to be inspected without rerunning the full collection workflow.
 
 ## Notes on AI Assistance
 
