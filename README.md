@@ -1,6 +1,6 @@
 ﻿# Bug-Related Outcomes in JavaScript and TypeScript GitHub Repositories
 
-**Read the full research paper:** [`results/Final-Draft.pdf`](results/Final-Draft.pdf)
+**Read the full research paper:** [`results/Final-draft.pdf`](results/Final-draft.pdf)
 
 This repository contains the public code and curated artifacts for a repository-mining study comparing bug-related maintenance outcomes in JavaScript and TypeScript GitHub repositories.
 
